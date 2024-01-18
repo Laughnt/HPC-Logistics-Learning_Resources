@@ -1,6 +1,6 @@
 #### Khái niệm.
 1. Sự phát triển của Logistics kinh doanh và chuỗi cung ứng.
-B & B: Business -> Business.
+B&B: Business -> Business.
 - Nội dung:
 	Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống xuất nhập khẩu.
 __
