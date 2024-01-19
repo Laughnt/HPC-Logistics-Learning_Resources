@@ -9,3 +9,6 @@ Vinap. Co
 Chương trình Intership hàng năm.
 __
 Một dấu đen khi đến muộn. Sếp biết nhiều mối quan hệ - bạn đi tham gia tuyển dụng bên khác, bạn toang. 
+__
+Nghề chọn người
+Có những công ty quy mô lớn, họ tự làm chuyên ngành trong công ty, họ có phòng ban chuyên môn.
