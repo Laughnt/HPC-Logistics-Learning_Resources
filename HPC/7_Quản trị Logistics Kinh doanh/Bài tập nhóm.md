@@ -24,3 +24,19 @@ Màu sắc nếu có thể. Cô chấm dịch vụ khách hàng.
 __
 Trắc nghiệm và câu hỏi trả lời tự luận - 60 phút. Sau Tết.
 Tính điểm vào điểm kt giữa kỳ.
+
+Tuần sau sẽ có câu hỏi để kiểm tra - 23
+
+### Giới thiệu.
+  Lịch sử của lĩnh vực vận tải trong DHL - cần chi tiết hơn. 
+  Nói rõ về dịch vụ hoạt động vận tải Logistics về DN đấy, 
+	Mình hiểu được hoạt động Logistics đó là gì.
+	Hỗ trợ quá trình phát triển của DHL đến đâu.
+- Không nói chung chung -> thực tế.
+	Những yếu tố quyết định trong lĩnh vực vận tải quyết định DHL đó lớn như thế nào?
+	DN này trong nội bộ của họ tự làm/vận tải như thế nào?
+Số liệu cụ thể về mảng vận tải của DHL.
+- Phân tích về vận tải, thì mức độ cung ứng của DHL trong lĩnh vực này so với những doanh nghiệp khác như thế nào?
+	  Chiếm bao nhiêu % và hỗ trợ đến đâu.
+- Phản ứng của KH sau khi sử dụng dịch vụ vận tải 
+Không giới hạn dung lượng của bài.
