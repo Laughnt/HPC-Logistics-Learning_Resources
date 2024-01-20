@@ -24,9 +24,9 @@ TKKT là bảng kê phân lại, hệ thống hoá các nghiệp vụ kinh tế 
 	Kết cấu của TK phản ánh tài sản sẽ ngược với kết cấu của TK phản ánh nguồn vốn.
 	Ngoài ra cố rất nhiều loại TK và các phân hệ TK khác nhau để phản ảnh các  nghiệp vụ kinh tế phát sinh.
 #### Kết cấu một số tài khoản cơ bản
-Tài khoản phản ánh TS
+- Tài khoản phản ánh TS
 
-| Tài khoản TS |  | TK tiền mặt |  | TK NVL |  |
+| Tài khoản tài sản | TKTS | TK tiền mặt | Ví dụ bảng | TK NVL | Ví dụ dưới |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | SDĐK:xxx <br>SPS tăng | <br>SPS giảm | Số dư đầu kỳ:200<br>2) 10<br>4) 8 | <br>1) 5<br>3) 15 | SDĐK: 100<br>50<br>40 | <br>30<br>20 |
 | Cộng SPS: xx <br>SDCK: xxx | xx | Cộng SPS: 18<br>SDCK: 198 | 20 | 140 |  |
@@ -42,3 +42,18 @@ Các NV phát sinh trong tháng:
 	Xuất kho VL để bán ra ngoài, giá thực tế xuất kho 20tr
 	Nhập góp vốn liên doanh bằng VL, giá thực tế nhập kho là 40tr
 Yêu cầu: Hãy mở TK NVL phản ảnh các biến động tăng giảm trên TL và tính số dư cuối kỳ của TK
+- Tài khoản phản ánh nguồn vốn
+
+| Tài khoản nguồn vốn | TKNV | TKTV |  |
+| ---- | ---- | ---- | ---- |
+| <br>SPS giảm | SDĐK:xxx <br>SPS tăng | 30 | 60<br>50<br>40 |
+| Cộng SPS: xx <br> | xx<br>SDCK: xxx | 30 | 150<br>SDCK: 120 |
+VD: Có các số liệu về tình hình nợ vay và thuê Tài chính ngắn hạn tại 1 DN trong T10/N
+Số nợ ngắn hạn chưa thanh toán lúc đầu tháng là 60tr.
+	Trong tháng có các nghiệp vụ PS là:
+		Số dư tiền gửi ngân hàng (TGNH) trả nợ vay ngắn hạn đầu tháng.
+		Mua NVL tổng giá thanh toán là 50tr thanh toán bằng vay ngắn hạn
+		Vay ngắn hạn 40tr để trả lương cho CNV
+		Số dư tiền mặt để thanh toán 30tr tiền vay ngắn hạn
+	Y/c: Mở và khoá TK tiền vay và nợ thuê TC ngắn hạn.
+
