@@ -46,12 +46,13 @@ Yêu cầu: Hãy mở TK NVL phản ảnh các biến động tăng giảm trên
 
 | Tài khoản nguồn vốn | TKNV | TKTV |  |
 | ---- | ---- | ---- | ---- |
-| <br>SPS giảm | SDĐK:xxx <br>SPS tăng | 30 | 60<br>50<br>40 |
-| Cộng SPS: xx <br> | xx<br>SDCK: xxx | 30 | 150<br>SDCK: 120 |
+| <br>SPS giảm | SDĐK:xxx <br>SPS tăng | <br>50<br>40 | SDĐK: 60<br>60<br>30<br> |
+| Cộng SPS: xx <br> | xx<br>SDCK: xxx | 90 | 90<br>SDCK: 60 |
 VD: Có các số liệu về tình hình nợ vay và thuê Tài chính ngắn hạn tại 1 DN trong T10/N
 Số nợ ngắn hạn chưa thanh toán lúc đầu tháng là 60tr.
 	Trong tháng có các nghiệp vụ PS là:
-		Số dư tiền gửi ngân hàng (TGNH) trả nợ vay ngắn hạn đầu tháng.
+		Số dư tiền gửi ngân hàng (TGNH) trả nợ vay ngắn hạn đầu tháng 
+			Vì là số tiền trả nợ khoản vay ngắn hạn đầu tháng là 60tr nên số dư cần có là 60tr.
 		Mua NVL tổng giá thanh toán là 50tr thanh toán bằng vay ngắn hạn
 		Vay ngắn hạn 40tr để trả lương cho CNV
 		Số dư tiền mặt để thanh toán 30tr tiền vay ngắn hạn
