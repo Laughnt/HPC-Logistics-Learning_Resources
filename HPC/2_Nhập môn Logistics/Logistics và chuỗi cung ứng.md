@@ -1,11 +1,16 @@
 #### Khái niệm.
+
+Logistics
+[[chuỗi cung ứng]]
 1. Sự phát triển của Logistics kinh doanh và chuỗi cung ứng.
 B&B: Business -> Business.
+	- Quân đội: Khoa học của sự di chuyển, cung ứng và duy trì các lực lượng quân đội ở chiến trường.
+	- Kinh doanh: Lập kế hoạch và thực hiện hoạt động phân phối vật chất.
+	- Quốc tế: Dòng lưu chuyển hàng hoá giữa các quốc gia.
+	- TMĐT: Tổ chức dòng vận động của các đối tượng vật chất để phục vụ cho các đơn hàng TMĐT
 - Nội dung:
 	Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống xuất nhập khẩu.
-__
-Shopee "Hệ thống xuất nhập kho"
-Amazon "Hệ thống đăng ký xuất nhập hàng tháng"
+//Shopee "Hệ thống xuất nhập kho"; Amazon "Hệ thống đăng ký xuất nhập hàng tháng"
 - Siêu thị:
 	Bắt tay với sàn siêu thị điện tử.
 	Thay đổi hệ thống bán hàng
