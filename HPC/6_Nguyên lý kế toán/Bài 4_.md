@@ -1,0 +1,87 @@
+- Nội dung tính giá
+
+a-     Tính giá của vật tư TS mua vào.
+
+Nguyên tắc:  
+Khi tính giá của vật tư TS mua vào phải tính theo giá thực tế hay giá gốc.
+
+Giá mua = giá ghi trên hoá đơn – chiết khấu TM, giảm giác + Thuế không được hoàn trả.
+
+// Đánh vào mặt hàng xa xỉ/cao cấp, không cấm nhưng không khuyến khích. VD: Oto, thuốc lá, rượu bia. Vàng mã (thuế tiêu thụ đặc biệt)
+
+Spa, Vũ trường, Club.
+
+_
+
+Chiết khấu thương mại: là số tiền người bán giảm trừ trong trường hợp mua với 1 số lượng lớn hàng hoá cùng 1 đợt hoặc có thể trong 1 khoảng thời gian ngắn mua 1 số lượng lớn hàng hoá.
+
+Giảm giá: Số tiền được người bán giảm trừ trong trường hợp hàng hoá bị lỗi, hàng kém phẩm chất hoặc thời hạn giao hàng không đúng hợp đồng. Nguyên nhân chủ yếu thuộc về người bán.
+
+Chi phí thu mua: Là toàn bộ các chi phí phát sinh có liên qua đến việc mua vật tư TS.  
+_
+
+Trong kỳ đơn vị nhập khẩu 1 lô hàng hoá, giá mua chưa thuế VAT là 100tr, thuế NK là 10%, thuế VAT của hàng NK là 10%. DN được hưởng chiết khấu TM 1%, chi phí vận chuyển là 5,5tr (VAT 10%). Tính giá thực tế mua vào của lô hàng?
+
+114.5
+
+Giá thực tế lô hàng = Giá mua + Chi phí thu mua.
+
+Trong đó: Giá mua = Giá mua trên hợp đồng – Chiết khấu + Thuế NK
+
+Giá mua = 100 – 100*1% + 100*10% = 109tr
+
+Chi phí thu mua = Giá thanh toán / (1 + Thuế suất VAT) = 5,5/ (1 +10%) = 5tr
+
+Giá thực tế lô hàng = 109 + 5 = 114tr  
+  
+
+_Môn học: Kế toán thương mại dịch vụ.
+
+b-     Tính giá của vật tư sản phẩm hàng hoá xuất dùng.
+
+//Lấy gỗ từ khối gỗ ra SX bàn, lấy giá = các phương pháp khác nhau.
+
+Lô nào cũ thì người ta tính giá một lần.
+
+-        Phương pháp giá đơn vị bình quân.
+
+Giá thực tế vật tư hoàn hoá xuất khoa = só lượng vật tư hàng hoá xuất kho x Giá đơn vị bình quân.
+
+-        Bình quân cả kỳ dự trữ.
+
+Giá đơn vị bình quân cả kỳ dự trữ = (giá trị thực tế vật tư hoà hoá tồn DK + Giá trị thực tế vật tư hàng nhập trong kỳ) / (Số lượng vật tư hàng hoá tồn DK + số lượng vật tư hàng hoá nhập trong kỳ)
+
+VD; Tại 1 DN sx trong T9/N có các TL sau (Đơn vị tính: 1000đ)
+
+Tồn đầu kỳ: 3000m vật liệu X, đơn giá 25đ/m = 75tr
+
+Trong kỳ:
+
+Ngày 3: Xuất 1600m để sx = 35tr
+
+Ngày 6: Xuất 1000m để sx = 10tr
+
+Giá trị tồn kho = 10tr, hàng tồn kho 400m
+
+Ngày 7: Nhập 1600m để sx. Tổng giá mua trên hoá đơn là 44000 (gồm 10% Vat)  
+Chi phí vận chuyển bốc dỡ bằng tiền mặt 760 -> 44.760tr
+
+(10+44.760)/(2000m)=27.38 đ/m
+
+Ngày 10: Mua 1000m để nhập kho. Giá mua chưa thuế 24.5đ/m. Chi phí thu mua 940
+
+26.950 + 940 = 27.890
+
+(54.760 + 27.890) / (2000 + 1000) = 25.55đ/m
+
+Ngày 28: Xuất 2800 m để sản xuất = 77.140tr
+
+Tồn kho 200m với giá trị tồn kho = 5.51tr
+
+Yêu cầu: Tính giá trị thực tế để lô VL X xuất kho trong tháng?
+
+262.65/11 = 25,877 đ/m
+
+_
+
+Không tính giá đã bao gồm thuế.
