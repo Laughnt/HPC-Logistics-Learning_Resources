@@ -1,5 +1,5 @@
 ## Sự phát triển của Logistics kinh doanh và SC.
-1. Sự phát triển của Logistics kinh doanh và chuỗi cung ứng.
+1. Sự phát triển.
 B&B: Business -> Business.
 	- Quân đội: Khoa học của sự di chuyển, cung ứng và duy trì các lực lượng quân đội ở chiến trường.
 	- Kinh doanh: Lập kế hoạch và thực hiện hoạt động phân phối vật chất.
