@@ -9,9 +9,10 @@ B&B: Business -> Business.
 ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=19]]
 - 1990 -> nay: Tích hợp toàn [[chuỗi cung ứng]].
   ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=26]]
-- Nội dung:
-	Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống xuất nhập khẩu.
-//Shopee "Hệ thống xuất nhập kho"; Amazon "Hệ thống đăng ký xuất nhập hàng tháng". Siêu thị:
+	Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống [[xuất nhập khẩu]].
+//[[Shopee - xử lý đơn hàng FBS]] [[Untitled]]
+#### Siêu thị: Co.op Mart
+Trung tâm các thành phố lớn là nơi tạo ra gần 80% giá trị thị trường với mật độ dân cư đông đúc và mức sống liên tục tăng.
 	Bắt tay với sàn siêu thị điện tử.
 	Thay đổi hệ thống bán hàng
 	Phải ghé qua khi đi mua hàng - thương mại điện tử.
@@ -20,10 +21,8 @@ B&B: Business -> Business.
 	Mọi người đều đúng ở trên quan điểm của họ.
 	Lập luận cảm tính "Phục vụ không có đồ uống là không có đồ ăn vặt" - [Chiến thuật Marketing của KFC](https://www.brandsvietnam.com/congdong/topic/324752-Chien-luoc-Marketing-cua-KFC-Dinh-vi-thuong-hieu-thanh-cong-tren-thi-truong)
 2. Phân định Logistics & CCỨ.
-- Truyền thống
-- Đồng nhất
-- Bao hàm
-- Liên ngành
+     ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=31]]
+  ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=32]]
 > Đan xen lẫn nhau.
 #### Nền kinh tế vận hành theo kinh tế thị trường.
 - Nhà cung cập -> Sản xuất -> Bán buôn -> Bán lẻ -> Khách hàng.

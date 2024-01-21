@@ -26,6 +26,5 @@ _việc hàng hoá được đưa vào lãnh thổ Việt Nam từ nước ngoà
 - Tạm nhập tái xuất
 - Buôn bán đối lưư
 Về mặt vật lý, hàng hóa xuất nhập khẩu thường được vận chuyển qua biên giới quốc gia, qua [các cửa khẩu](https://www.container-transportation.com/cua-khau-la-gi.html) nằm tại biên giới đường bộ, đường biển, hoặc đường hàng không. Tuy nhiên, vẫn có những trường hợp ngoại lệ, hàng hóa XNK được giao nhận ngay tại lãnh thổ Việt Nam:  
-
 - [Xuất khẩu tại chỗ](https://www.container-transportation.com/xuat-khau-tai-cho.html): hàng bán cho đối tác nước ngoài, nhưng lại giao hàng tại địa điểm nằm trong lãnh thổ Việt Nam, theo chỉ định của người mua hàng nước ngoài
 - Nhập khẩu tại chỗ: người nhập khẩu mua hàng của doanh nghiệp nước ngoài và được chỉ định nhận hàng tại Việt Nam từ người xuất khẩu tại chỗ.
