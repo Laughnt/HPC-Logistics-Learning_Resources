@@ -41,13 +41,11 @@ SỰ chuyên môn hoá sản xuất.
 			K: Hệ số vận tải
 			GDP: Tổng sản phẩm cung ứng
 		Phương pháp này cho độ tin cậy khá cao thông qua việc xác định các nhân tố ảnh hưởng -> tác động đến thế giới.
-	[[Phân tích hồi qui logistic.pdf]]
+	[[Phân tích hồi qui logistic.pdf]] (Xem thêm [Phân tích số liệu bằng biểu đồ R](http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch8-phantichsolieu.htm) )
 		Liệt kê các nhân tố ảnh hưởng - mùa vụ/giá xăng.
-		
 %%Đại học sẽ sử dụng phần mềm, không tính toán tay được.
 Thời tiết, dự báo của trời trong những ngày tiếp theo.
 Dữ kiện quá khứ -> tương lai%%
-
 ## Chỉ tiêu đánh giá chất lượng dự báo
 Dự báo là phỏng đoán sự việc nào đó trong tương lai. Dự báo nhu cầu vận chuyển nhằm nhận biết độ lớn của nhu cầu vận chuyển để đưa ra các quyết đinh đầu tư:
 	Tiền vốn
@@ -60,4 +58,4 @@ Dự báo là phỏng đoán sự việc nào đó trong tương lai. Dự báo 
 Dự báo nhu cầu vận tải của năm 2024 là 20 tỉ đô. Nhu cầu vận tải thực tế, 18 tỷ đô.
 #### Độ lệch tương đối
 	Độ lệch tương đối = độ lệch tuyệt đối / giá trị thực tế.
-
+// Nhu cần vận tải thực tế khác với nhu cầu vận chuyển 
