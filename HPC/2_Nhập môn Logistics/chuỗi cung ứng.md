@@ -15,4 +15,3 @@ tới nhà máy, trung tâm phân phối, nhà bán lẻ đến người tiêu d
 		Hàng hoá theo mùa hoặc lễ hội - gia tăng nhu cầu cao, sau đó ít/biến mất
 		Bắt đầu sản xuất lập tức và ngưng sản xuất khi nhu cầu giảm.
 
-Shopee "Hệ thống xuất nhập kho";

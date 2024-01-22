@@ -10,7 +10,7 @@ B&B: Business -> Business.
 - 1990 -> nay: Tích hợp toàn [[chuỗi cung ứng]].
   ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=26]]
 	Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống [[xuất nhập khẩu]].
-//[[Shopee - xử lý đơn hàng FBS]] [[Sẽ làm]]
+[[Shopee - xử lý đơn hàng FBS]] [Amazon - FBA](https://sell.amazon.vn/hoan-thien-don-hang-boi-amazon-fba)
 #### Siêu thị: Co.op Mart
 Trung tâm các thành phố lớn là nơi tạo ra gần 80% giá trị thị trường với mật độ dân cư đông đúc và mức sống liên tục tăng.
 	Bắt tay với sàn siêu thị điện tử.
@@ -25,17 +25,27 @@ Trung tâm các thành phố lớn là nơi tạo ra gần 80% giá trị thị 
   ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=32]]
 > Đan xen lẫn nhau.
 #### Nền kinh tế vận hành theo kinh tế thị trường.
-- Nhà cung cập -> Sản xuất -> Bán buôn -> Bán lẻ -> Khách hàng.
+- Nhà cung cấp -> Sản xuất -> Bán buôn -> Bán lẻ -> Khách hàng.
 	Dòng thông tin -> Dòng sản phẩm <- Dòng tiền.
-// DN làm việc với các loại sản phẩm tới người tiêu dùng -> phục vụ kiếm lợi nhuận.
+DN làm việc với các loại sản phẩm tới người tiêu dùng -> phục vụ kiếm lợi nhuận.
 Giá trị phụ được tạo ra nhiều hơn và cao hơn giá trị của một thứ nào đấy.
-- Tập trung vào các hoạt động nội bộ của công ty.
-- Thu được nguyên liệu thô -> dịch vụ sau bán hàng,
-- Nhấn mạnh sâu sắc vào giá trị tăng lên của từng quy trình.
+	Tập trung vào các hoạt động nội bộ của công ty.
+	Thu được nguyên liệu thô -> dịch vụ sau bán hàng,
+	Nhấn mạnh sâu sắc vào giá trị tăng lên của từng quy trình.
 #### Những trường phái trong Logistics
+
 - Nhận thức:
-	Nhấn mạnh dòng vận động nguyên liệu hàng hoá.
-	Quá trình gia tăng sản phẩm cho giá trị 1 chuỗi cung ứng.
+	Nhấn mạnh: dòng vận động ng.liệu & h.hoá 
+	Quá trình gia tăng giá trị cho SP là 1 chuỗi chức năng
+	SCM là chuỗi các nhiệm vụ tuần tự của các yếu tố mang tính tổ chức
 - Liên kết:
-- Thông tin:
+	Nhấn mạnh: sự liên kết giữa các chức năng trong chuỗi 
+	Quản trị tốt các liên kết → lợi thế cạnh tranh 
+	Logistics & vận tải là những biến số chính tạo ra liên kết
+
+- Thông triển 
+	Nhấn mạnh: thông tin giữa các thành viên có vai trò quan trọng đối với hiệu quả tổng thể của chuỗi 
+	Thông tin vận động cùng hoặc ngược hướng với dòng vật chất 
+	Hỗ trợ & cung cấp thông tin về tình trạng dòng vật chất
 - Tích hợp:
+  Nhấn mạnh: Sự tích hợp các quá trình KD xuyên suốt chuỗi ▪ Tăng giá trị KH và các bên liên quan ▪ Bao trùm tất cả các hoạt động trong chuỗi, không riêng logistics
