@@ -36,13 +36,28 @@ SỰ chuyên môn hoá sản xuất.
 		Dựa trên những dữ liệu từ quá khứ, chúng ta đưa ra mức dự báo trong tương lai. Phương pháp này thường được dự báo nhu cầu vận chuyển theo quý hàng năm.   Nhược điểm: Định tính được, nhưng số liệu sai.
 	[Hệ số vận tải](https://en.wikipedia.org/wiki/Transport_coefficient)
 		Cho biết hàm lượng, tỉ trọng của giá trị sản phẩm quốc dân phải trải qua quá trình vận tải. Giả sự hệ số vận tải của QG là 0,02 - ứng với 100 đơn vị GDP, sẽ có 2 đơn vị trải qua hoạt động vận tải -> nhu cầu vận chuyển GDP và hệ số vận tải.
-			Q = K . GDP
+				${\mathbf {Q}=\mathbf{k}. \mathbf{GDP}}$ hay ${\displaystyle \mathbf {J} _{k}=\gamma _{k}. \mathbf {X} _{k}}$
 			Q: Nhu cầu vận tải
 			K: Hệ số vận tải
 			GDP: Tổng sản phẩm cung ứng
-		430 tỉ đô.
-		
+		Phương pháp này cho độ tin cậy khá cao thông qua việc xác định các nhân tố ảnh hưởng -> tác động đến thế giới.
 	[[Phân tích hồi qui logistic.pdf]]
+		Liệt kê các nhân tố ảnh hưởng - mùa vụ/giá xăng.
+		
 %%Đại học sẽ sử dụng phần mềm, không tính toán tay được.
 Thời tiết, dự báo của trời trong những ngày tiếp theo.
 Dữ kiện quá khứ -> tương lai%%
+
+## Chỉ tiêu đánh giá chất lượng dự báo
+Dự báo là phỏng đoán sự việc nào đó trong tương lai. Dự báo nhu cầu vận chuyển nhằm nhận biết độ lớn của nhu cầu vận chuyển để đưa ra các quyết đinh đầu tư:
+	Tiền vốn
+	Phương tiện
+	Con người
+Để đánh giá độ chính xác của dự báo, chúng ta thông qua các chỉ tiêu sau:
+#### Độ lệch tuyệt đối
+	Độ lệch tuyệt đối = giá trị dự báo - giá trị thực tế.
+	//Thời tiết hôm nay 14 độ, lệch 4 độ với hôm nay
+Dự báo nhu cầu vận tải của năm 2024 là 20 tỉ đô. Nhu cầu vận tải thực tế, 18 tỷ đô.
+#### Độ lệch tương đối
+	Độ lệch tương đối = độ lệch tuyệt đối / giá trị thực tế.
+
