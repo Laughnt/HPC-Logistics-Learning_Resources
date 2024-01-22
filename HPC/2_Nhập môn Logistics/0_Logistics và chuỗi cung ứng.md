@@ -10,7 +10,7 @@ B&B: Business -> Business.
 - 1990 -> nay: Tích hợp toàn [[chuỗi cung ứng]].
   ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=26]]
 	Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống [[xuất nhập khẩu]].
-//[[Shopee - xử lý đơn hàng FBS]] [[Untitled]]
+//[[Shopee - xử lý đơn hàng FBS]] [[Sẽ làm]]
 #### Siêu thị: Co.op Mart
 Trung tâm các thành phố lớn là nơi tạo ra gần 80% giá trị thị trường với mật độ dân cư đông đúc và mức sống liên tục tăng.
 	Bắt tay với sàn siêu thị điện tử.
