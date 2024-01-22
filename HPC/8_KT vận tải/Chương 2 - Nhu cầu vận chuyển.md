@@ -25,5 +25,24 @@ SỰ chuyên môn hoá sản xuất.
 	- Những khoản thời gian mà nhu cầu vận chuyển giảm mạnh, DN chủ động cho thuê phương tiện - tránh dư thừa năng lực vận tải, ảnh hưởng xấu đến kết quả kinh doanh
 //Viettel thuê sẽ giảm đi chi phí thay vì mua, nó sẽ liên quan đến vận chuyển ít. DƯ THỪA phương tiện -> chi phí.
 - Không gian
-	- Biểu hiện trên cùng một tuyếtn vận tải.
-	- 
+	- Biểu hiện trên cùng một tuyến vận tải, quá trình nhập lại thì nhu cầu vận chuyển của hàng hoá đó lại giảm.
+	- 1 chặng/quá trình -> tăng/giảm (hàng nông sản VN [[xuất nhập khẩu]] sang Châu Âu, nhưng không ngược lại)
+	- Để nâng cao:
+	  Các nhà vận tải thường đa dạng mặt hàng bằng cách container hoá hàng hoá vận tải
+
+## Phương pháp dự báo nhu cầu vận chuyển
+//Viettel sẽ huy động thêm vài đội xe, dựa trên nhu cầu dự báo (3 phương pháp nhu cầu vận chuyển)
+	[Ngoại suy](https://vi.wikipedia.org/wiki/Ngoại_suy)
+		Dựa trên những dữ liệu từ quá khứ, chúng ta đưa ra mức dự báo trong tương lai. Phương pháp này thường được dự báo nhu cầu vận chuyển theo quý hàng năm.   Nhược điểm: Định tính được, nhưng số liệu sai.
+	[Hệ số vận tải](https://en.wikipedia.org/wiki/Transport_coefficient)
+		Cho biết hàm lượng, tỉ trọng của giá trị sản phẩm quốc dân phải trải qua quá trình vận tải. Giả sự hệ số vận tải của QG là 0,02 - ứng với 100 đơn vị GDP, sẽ có 2 đơn vị trải qua hoạt động vận tải -> nhu cầu vận chuyển GDP và hệ số vận tải.
+			Q = K . GDP
+			Q: Nhu cầu vận tải
+			K: Hệ số vận tải
+			GDP: Tổng sản phẩm cung ứng
+		430 tỉ đô.
+		
+	[[Phân tích hồi qui logistic.pdf]]
+%%Đại học sẽ sử dụng phần mềm, không tính toán tay được.
+Thời tiết, dự báo của trời trong những ngày tiếp theo.
+Dữ kiện quá khứ -> tương lai%%
