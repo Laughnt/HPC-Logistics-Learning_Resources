@@ -1,6 +1,5 @@
 Bất kỳ DN nào muốn nhắm được nhu cầu KD thì cần nhắm được nhu cầu của Thị trường - yêu cầu.
 	Là khối lượng hàng hoá hoặc số lượng hành khách mà khácch hàng yêu cầ nhà vận tải chuyên chở trong kỳ.
-	
 ## Nguồn gốc phát sinh
 SỰ phân bổ tài nguyên thiên nhiên không đều
 	Trên thế giới tài nguyên thiên nhiên rất đa dạng, và phân bố không đồng đều (dầu mỏ, quặng, khoáng sản), giới hạn nên vận chuyển tài nguyên thiên nhiên tới nơi sản xuất.
@@ -33,16 +32,17 @@ SỰ chuyên môn hoá sản xuất.
 ## Phương pháp dự báo nhu cầu vận chuyển
 //Viettel sẽ huy động thêm vài đội xe, dựa trên nhu cầu dự báo (3 phương pháp nhu cầu vận chuyển)
 	[Ngoại suy](https://vi.wikipedia.org/wiki/Ngoại_suy)
-		Dựa trên những dữ liệu từ quá khứ, chúng ta đưa ra mức dự báo trong tương lai. Phương pháp này thường được dự báo nhu cầu vận chuyển theo quý hàng năm.   Nhược điểm: Định tính được, nhưng số liệu sai.
+		Dựa trên những dữ liệu từ quá khứ, chúng ta đưa ra mức dự báo trong tương lai. Phương pháp này thường được dự báo nhu cầu vận chuyển theo quý hàng năm.   
+		**Nhược điểm:** Định tính được, nhưng số liệu sai.
 	[Hệ số vận tải](https://en.wikipedia.org/wiki/Transport_coefficient)
-		Cho biết hàm lượng, tỉ trọng của giá trị sản phẩm quốc dân phải trải qua quá trình vận tải. Giả sự hệ số vận tải của QG là 0,02 - ứng với 100 đơn vị GDP, sẽ có 2 đơn vị trải qua hoạt động vận tải -> nhu cầu vận chuyển GDP và hệ số vận tải.
+		Cho biết hàm lượng, tỉ trọng của giá trị sản phẩm quốc dân phải trải qua quá trình vận tải. Giả sử hệ số vận tải của QG là 0,02 - ứng với 100 đơn vị GDP, sẽ có 2 đơn vị trải qua hoạt động vận tải -> nhu cầu vận chuyển GDP và hệ số vận tải.
 				${\mathbf {Q}=\mathbf{k}. \mathbf{GDP}}$ hay ${\displaystyle \mathbf {J} _{k}=\gamma _{k}. \mathbf {X} _{k}}$
 			Q: Nhu cầu vận tải
 			K: Hệ số vận tải
 			GDP: Tổng sản phẩm cung ứng
 		Phương pháp này cho độ tin cậy khá cao thông qua việc xác định các nhân tố ảnh hưởng -> tác động đến thế giới.
 	[[Phân tích hồi qui logistic.pdf]] (Xem thêm [Phân tích số liệu bằng biểu đồ R](http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch8-phantichsolieu.htm) )
-		Liệt kê các nhân tố ảnh hưởng - mùa vụ/giá xăng.
+		Liên hệ các nhân tố ảnh hưởng - mùa vụ/giá xăng.
 %%Đại học sẽ sử dụng phần mềm, không tính toán tay được.
 Thời tiết, dự báo của trời trong những ngày tiếp theo.
 Dữ kiện quá khứ -> tương lai%%
@@ -58,4 +58,13 @@ Dự báo là phỏng đoán sự việc nào đó trong tương lai. Dự báo 
 Dự báo nhu cầu vận tải của năm 2024 là 20 tỉ đô. Nhu cầu vận tải thực tế, 18 tỷ đô.
 #### Độ lệch tương đối
 	Độ lệch tương đối = độ lệch tuyệt đối / giá trị thực tế.
-// Nhu cần vận tải thực tế khác với nhu cầu vận chuyển 
+// Nhu cần vận tải thực tế (giá trị thực tế) khác với nhu cầu vận chuyển.
+Ví dụ:
+1) 21.5 tỷ và 22.575 tỷ
+2) Độ lệch tuyệt đối = 902 - 930 = -68 -> Độ lệch tương đối = 0,07
+__
+1) KN nhu cầu vận chuyển 
+2) Biến động của nhu cầu vận chuyển.
+	1) Nguyên nhân, giải pháp nhằm hạn chế ảnh hưởng biến động
+3) Nêu các phương pháp dự báo nhu cầu vận chuyển.
+4) Các chỉ tiêu đánh giá nhu cầu dự báo.
