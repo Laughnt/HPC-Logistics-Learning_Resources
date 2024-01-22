@@ -33,7 +33,6 @@ Giá trị phụ được tạo ra nhiều hơn và cao hơn giá trị của m�
 	Thu được nguyên liệu thô -> dịch vụ sau bán hàng,
 	Nhấn mạnh sâu sắc vào giá trị tăng lên của từng quy trình.
 #### Những trường phái trong Logistics
-
 - Nhận thức:
 	Nhấn mạnh: dòng vận động ng.liệu & h.hoá 
 	Quá trình gia tăng giá trị cho SP là 1 chuỗi chức năng
@@ -47,5 +46,22 @@ Giá trị phụ được tạo ra nhiều hơn và cao hơn giá trị của m�
 	Nhấn mạnh: thông tin giữa các thành viên có vai trò quan trọng đối với hiệu quả tổng thể của chuỗi 
 	Thông tin vận động cùng hoặc ngược hướng với dòng vật chất 
 	Hỗ trợ & cung cấp thông tin về tình trạng dòng vật chất
+
 - Tích hợp:
-  Nhấn mạnh: Sự tích hợp các quá trình KD xuyên suốt chuỗi ▪ Tăng giá trị KH và các bên liên quan ▪ Bao trùm tất cả các hoạt động trong chuỗi, không riêng logistics
+	  Nhấn mạnh: Sự tích hợp các quá trình KD xuyên suốt chuỗi 
+	  Tăng giá trị KH và các bên liên quan 
+	  Bao trùm tất cả các hoạt động trong chuỗi, không riêng logistics
+> Sự tích hợp này không đầy đủ nhất các yếu tố quan trọng.
+	Hạt cà phê tích hợp môi trường buôn bán.
+	Thương lái tích hợp từ các nông dân.
+
+#### Liên kết chuỗi cung ứng giữa các DN 
+Tích hợp yếu tố công việc.
+![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=39]]
+- 4 yếu tố quan trọng:
+	Tài sản
+	Chia sẻ kiến thức
+	Nguồn lực bổ sung
+	Quản trị hiệu quả
+
+

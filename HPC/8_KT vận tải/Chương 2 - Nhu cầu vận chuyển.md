@@ -11,5 +11,14 @@ SỰ phân bổ lực lượng sản xuất không đều
 SỰ phân bố cơ sở văn hoá không đều
 	Cơ sở văn hoá bao gồm danh lam thắng cảnh, di tích lịch sử -> con người cần thoả mãn nhu cầu giải trí
 SỰ chuyên môn hoá sản xuất.
+	- Chuyên môn hoá là khả năng của riêng bên sản xuất.
+	//Công ty sản xuất nhiên liệu và bên chuyên về lắp ráp, phân phối -> chuyển công cụ sản xuất và nhiên liệu qua 2 bên - Thế giới di động.
+	1 sản phẩm bán ra trên thị trường có sự xuất hiện của nhiều DN tham gia, mỗi DN sản xuất 1 bộ phận theo năng lực chuyên môn của mình.
+		Mình đưa các chi tiết phụ tùng về nơi sản xuất chính -> SP cuối cùng.
+//Viettel để ý người dùng.
 
 
+#### Biến động của nhu cầu vận chuyển 
+- Thời gian
+- Không gian
+  
