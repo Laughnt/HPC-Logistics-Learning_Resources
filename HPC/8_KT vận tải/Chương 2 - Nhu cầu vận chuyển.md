@@ -20,5 +20,10 @@ SỰ chuyên môn hoá sản xuất.
 
 #### Biến động của nhu cầu vận chuyển 
 - Thời gian
+	- Có những tuần trong năm, nhu cầu vận chuyển tăng rất cao hoặc thấp. Biến động của nhu cầu vận chuyển thường có tính quy luật.
+	- Những ngày lễ Tết, DN nông lâm ngư nghiệp thay đổi/người dân có nhu cầu vận chuyển tăng cao. Những tuần có nhu cầu vận chuyển tăng, các DN vận tải tập trung toàn bộ phương tiện và nhân lực để đáp ứng nhu cầu thị trường. 
+	- Những khoản thời gian mà nhu cầu vận chuyển giảm mạnh, DN chủ động cho thuê phương tiện - tránh dư thừa năng lực vận tải, ảnh hưởng xấu đến kết quả kinh doanh
+//Viettel thuê sẽ giảm đi chi phí thay vì mua, nó sẽ liên quan đến vận chuyển ít. DƯ THỪA phương tiện -> chi phí.
 - Không gian
-  
+	- Biểu hiện trên cùng một tuyếtn vận tải.
+	- 
