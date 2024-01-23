@@ -35,7 +35,24 @@ VC là một đường có xu hướng tăng lên trên khi ta tăng quy mô s�
 TC = VC + FC
 Tổng chi phí là toàn bộ CP phải bỏ ra để tiến hàng sản xuất Kinh doanh.
 TC khi Q = 0 -> TC = VC
-### Chi phí bình quân và chi phí cận biên.
+### Chi phí bình quân
 - Chi phí bình quân ATC
 - Chi phí biến đổi bình quan AVC 
-- Chi phí cố định bình quân à
+- Chi phí cố định bình quân AFC
+  Để SX ra 1 SP cần bao nhiêu chi phí cố định
+  ## Chi phí cận biên - MC
+  - Lưu ý: 
+    - MC có dạng U và luôn đi qua các điểm cực tiểu của ATC và AVC
+    - MC dốc lên do quy luật năng suất cận biên giảm dần.
+  ![marginal cost](https://cdn.shopify.com/s/files/1/0070/7032/files/marginal-cost-curve_600x600.png?v=1689525746)
+  MC luôn đi qua điểm tiểu cực của ATC và AVC
+## MQH giữa các đường chi phí:
+FC là đường nằm ngang
+VC và TC dốc lên và cách đều với nhau 1 khoảng FC
+AFC luôn dốc xuống về phía phản
+AVC và ATC có dạng hình chữ U
+MC có dạng hình chữ U và đi qua 2 điểm cực tiểu  của AVC và ATC
+
+**Nhớ rõ:**
+3 chi phí chính.
+Chi phí cận biên, công thức tính chi phí cận biên
