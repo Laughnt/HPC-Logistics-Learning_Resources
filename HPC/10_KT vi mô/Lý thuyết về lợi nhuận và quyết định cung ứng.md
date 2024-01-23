@@ -15,7 +15,7 @@ TR = P x Q
 ## Tối đa hoá lợi nhuận Π 
 Vấn đề đặt ra: DN cần sản xuất và cung ứng tại một mức sản lượng nào để TC max
 Về mặt toán học: Điều kiện để TC max trước hết TC phải đạt cực trị tức là TC = 0 có nghiệm.
-	Π = TR - TC
+	Π = TR - TC  
 	-> MR = MC
 	Để tối đa hoá lợi nhuận doanh nghiệm sẽ sản xuất tại mức sản lượng mà tại đó **MR = MC** - tối đa hoá lợi nhuận của mọi DN trong mọi hình thái thị trường: DN cạnh tranh hoàn hảo, DN độc quyền.
 ## Tối đa hoá doanh thu.
@@ -30,7 +30,15 @@ FC = 5; VC = $0,6Q^2 + 4Q$
    AFC = 5/Q
    AVC = 0,6Q +4  TR = $12Q - 0,4Q^2$ 
    MC = (TC)' = 1,2Q + 4
-   MR = (TR)' = $12 - 0,8Q$
+   MR = (TR)' = 12 - 0,8Q
+   
 2. MR = MC -> Q -> P 
-3. Tính mức sản lượng mà tại đó DN tối đa hoá doanh thu? Xá định lợi nhuận đạt được.
+	Để tối đa hoá lợi nhuận: MC = MR -> Q
+	Để DN đó đạt tối đa hoá doanh thu: Π = TR - TC. Thay Q -> Π   
+
+3. Tính mức sản lượng Q mà tại đó DN tối đa hoá doanh thu? Xác định lợi nhuận đạt được.
+   Để tối đa hoá doanh thu thì: MR = 0 -> Q <=> Π = TR - TC
+   Trong thực tế không phải doanh thu nhiều là có lãi -> mục tiêu ta muốn hướng đến như thế nào.
+
 4. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt
+   
