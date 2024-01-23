@@ -12,7 +12,7 @@ TR = P x Q
 - Doanh thu cận biên MR  là mức thay đổi tổng doanh thu do tiêu thụ thêm một đơn vị sản lượng.
   Công thức: 
 	- TC = (P - ATC) x Q
-## Tối đa hoá lợi nhuận Π
+## Tối đa hoá lợi nhuận Π 
 Vấn đề đặt ra: DN cần sản xuất và cung ứng tại một mức sản lượng nào để TC max
 Về mặt toán học: Điều kiện để TC max trước hết TC phải đạt cực trị tức là TC = 0 có nghiệm.
 	Π = TR - TC
@@ -24,13 +24,13 @@ hay TR max khi **MR = 0**
 
 Ví dụ:
 P = 12 - 0,4Q
-FC = 5; VC = 0,6 Q^2 + 4Q
-
+FC = 5; VC = $0,6Q^2 + 4Q$
 1. TC = FC + VC = $0,6Q^2+4Q+5$ 
    ATC = 0,6Q + 4Q + 5/Q
    AFC = 5/Q
-   AVC = 0,6Q +4 
-   MC = 1,8Q + 4
-   MR = 
-   1. MR = MC -> Q -> P
-
+   AVC = 0,6Q +4  TR = $12Q - 0,4Q^2$ 
+   MC = (TC)' = 1,2Q + 4
+   MR = (TR)' = $12 - 0,8Q$
+2. MR = MC -> Q -> P 
+3. Tính mức sản lượng mà tại đó DN tối đa hoá doanh thu? Xá định lợi nhuận đạt được.
+4. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt
