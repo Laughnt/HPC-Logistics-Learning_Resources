@@ -10,4 +10,5 @@ TR = P x Q
 	P - Giá bán sản phẩm
 	Q - Khối lượng sản phẩm bán ra.
 - Doanh thu cận biên MR  là mức thay đổi tổng doanh thu do tiêu thụ thêm một đơn vị sản lượng.
-  
+  Công thức: 
+	- TC = (P - ATC) x Q
