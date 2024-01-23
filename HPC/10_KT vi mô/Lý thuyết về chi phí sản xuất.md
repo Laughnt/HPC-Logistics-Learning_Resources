@@ -41,17 +41,18 @@ TC khi Q = 0 -> TC = VC
 - Chi phí cố định bình quân AFC
   Để SX ra 1 SP cần bao nhiêu chi phí cố định
   ## Chi phí cận biên - MC
+
   - Lưu ý: 
     - MC có dạng U và luôn đi qua các điểm cực tiểu của ATC và AVC
     - MC dốc lên do quy luật năng suất cận biên giảm dần.
   ![marginal cost](https://cdn.shopify.com/s/files/1/0070/7032/files/marginal-cost-curve_600x600.png?v=1689525746)
-  MC luôn đi qua điểm tiểu cực của ATC và AVC
+ 
 ## MQH giữa các đường chi phí:
 FC là đường nằm ngang
 VC và TC dốc lên và cách đều với nhau 1 khoảng FC
 AFC luôn dốc xuống về phía phản
 AVC và ATC có dạng hình chữ U
-MC có dạng hình chữ U và đi qua 2 điểm cực tiểu  của AVC và ATC
+MC có dạng hình chữ U và đi qua 2 điểm cực tiểu của AVC và ATC
 
 **Nhớ rõ:**
 3 chi phí chính.
