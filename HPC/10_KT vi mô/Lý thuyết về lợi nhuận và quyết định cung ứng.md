@@ -1,6 +1,6 @@
-## Lý thuyết về lợi nhuận
 Sản xuất ở mức nào thì tối đa lợi nhuận, sản xuất ở mức nào tối đa doanh thu.
-Lợi nhuận là phần chênh lệch giữa tổng doanh thu TR và tổng chi phí sản xuất trong 1 khoảng thời gian nhất định,
+## Lợi nhuận
+Phần chênh lệch giữa tổng doanh thu TR và tổng chi phí sản xuất trong 1 khoảng thời gian nhất định,
 	Doanh thu là tiền ta thu được về.
 	Chi phí là tiền sản xuất/mua hàng hoá.
 Lợi nhuận = Tổng doanh thu - Tổng chi phí.
@@ -24,9 +24,9 @@ hay TR max khi **MR = 0**
 
 Ví dụ:
 P = 12 - 0,4Q
-FC = 5; VC = $0,6Q^2 + 4Q$
+FC = 5; VC = 0,6Q^2 + 4Q
 1. TC = FC + VC = $0,6Q^2+4Q+5$ 
-   ATC = 0,6Q + 4Q + 5/Q
+   ATC = 0,6Q + 4 + 5/Q
    AFC = 5/Q
    AVC = 0,6Q +4  TR = $12Q - 0,4Q^2$ 
    MC = (TC)' = 1,2Q + 4
@@ -39,6 +39,9 @@ FC = 5; VC = $0,6Q^2 + 4Q$
 3. Tính mức sản lượng Q mà tại đó DN tối đa hoá doanh thu? Xác định lợi nhuận đạt được.
    Để tối đa hoá doanh thu thì: MR = 0 -> Q <=> Π = TR - TC
    Trong thực tế không phải doanh thu nhiều là có lãi -> mục tiêu ta muốn hướng đến như thế nào.
+1. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt.
+   Ta có: Π = TR - TC
+Vậy chọn Q = và P = để lợi nhuận = 7 và doanh thu lớn nhất.
 
-4. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt
-   
+Vấn đề là chiều thứ 6 ra Tết quên mất -> khong thay đổi lịch nữa.
+Buối cuối để nhắc và ôn nhớ, về nhà làm hết bài tập Chương 3
