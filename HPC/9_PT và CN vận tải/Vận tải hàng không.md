@@ -1,4 +1,4 @@
-## **Vận tải hàng không với nền kinh tế** (không cần thiết)
+# **Vận tải hàng không với nền kinh tế** (không cần thiết)
 
 ![vận tải hàng không](https://img.icn.vn/Image.ashx?src=/uploads/logistics/world-airroute-map.jpg&width=670)
 
@@ -28,7 +28,7 @@
 - Chương trình nguyên cứu nhằm mục đích tiết kiệm nhiên liệu 50% và giảm thiểu 80% các khí oxit của nitơ đang được thực hiện trên thế hệ máy bay 20207.
 - Những cải tiến trong việc quản lí giao thông hàng không có khả năng làm giảm tiêu hao nhiên liệu 6-12%, đồng thời việc cải thiện hoạt động còn giảm thiểu nhiên liệu thêm 2-6%.
 
-## Vị trí
+# Vị trí
 ### Kim ngạch: 
 Vận tải hàng không chiếm khoảng 20% tổng kim ngạch của buôn bán quốc tế, nhưng chỉ chiếm 1% tổng khối lượng hàng hoá.
 //Điều này gợi cho bản thân những suy nghĩ nào? 
@@ -41,7 +41,7 @@ Hàng có giá trị.
 Phương tiện chính trong du lịch phát triển mạnh, kết nối văn hoá các quốc gia.
 ### Vận tải đa phương tiện
 Vận tải hàng không là mắt xích quan trọng trong quy trình tổ chức vận tải đa phương thức - kết hợp 2 phương tiện vận tải trở lên.
-## Đặc điểm:
+# Ưu điểm điểm:
 Thủ tục hải quan của bên hàng không rất đơn giản/trừ hàng nguy hiểm
 ### Tuyến đường 
 Hai tuyến đường, chia làm hai đoạn (tìm hiểu)
@@ -51,4 +51,53 @@ Tuyến đường <sắt, ôtô 20%
 Vận tải hàng không rất cao nên thời gian vận chuyển ngắn (1000km/h)
 //Quãng đường ngắn cũng tốn ngang thời gian vì tốn thời gian hạ cách, cất cánh.
 ### An toàn
-Tại soa nó lại là an toàn nhất.
+//Vẫn sợ - khi có sự cố, minh hẻo 100%. Thời gian đầu tiên, máy bay rơi rất nhiều- người ta chưa tính được khả năng. 
+- Công nghệ: Thay đổi kỹ thuật -> an toàn hơn.
+- Con người: Có nhiều phương thức đảm bảo sự an toàn -> hạ đường khí (xưa không có). Phi công đào tạo chuyên nghiệp (5 năm, người ta thực hành rất nhiều, nhiều cái thực tế/kinh nghiệp hơn)
+So với các phương tiện khác, thì trang thiết bị phục vụ của vận tải hàng không là hiện đại nhất. Do máy bay bay cao nên không bị tác động bởi các điều kiện thiên nhiên (sét không ảnh hưởng đến việc bay, bay trên tầng mây - mưa bão) - sương mù không hạ cách được - phi công không nhìn thấy đường băng.
+### Công nghệ
+Tránh sai sót dù là nhỏ nhất đối với các vụ tai nạn, vận tải hàng không đòi hỏi nhiều tiêu chuẩn rất khắt khe về công nghệ kỹ thuật.
+// Nhật Bản: Phi công không hạ hết được bánh xuống -> cất cánh tiếp và hạ cánh khi đã đủ.
+
+## Thủ tục (không cần thiết)
+Vận tải hàng không được đơn giản hoá về thủ tục so với các phương thức khác, do là máy bay bay thẳng, ít qua các trạm kiểm tra/kiểm soát (phát sinh nhiều giấy tờ)
+Máy bay có điểm đầu điểm cuối -> thủ tục đơn giản.
+
+Chúng ta mất công >< mất tiền. 
+
+# Nhược điểm:
+### Cước vận tải cao
+Cước cao nhất trong các loại vận tải 
+## Hàng hoá giới hạn
+Một số mặt hàng không thể chở được bằng đường không (hàng công kềnh, hàng khối lượng lớn, hàng nguy hiểm
+### Hàng hoá thông thường(Normal Goods)
+Hay General Cargo trong vận tải hàng không là những mặt hàng được chấp nhận vận chuyển đường hàng không một cách dễ dàng.
+Những hàng hóa này không vi phạm về các quy định của đơn vị vận chuyển hay an ninh sân bay như: nội dung, kích thước, bao bì…
+- Hàng hóa phải có kích thước đóng gói (dài x rộng x cao) không vượt quá khoang hàng của máy bay vận tải
+- Bao bì đóng gói chắc chắn, chịu được việc vận chuyển và xếp dỡ hàng hóa
+ Bao bì không đảm bảo (bị ẩm mốc, rò rỉ, rách nát…) -> quá trình vận chuyển có thể xảy ra nhưng rủi ro cho sự an toàn của hàng hóa -> không được chấp nhận.
+  Để những hàng hóa này được chấp nhận thì người gửi cần đóng gói lại hàng hóa hoặc cần chuyển hàng đó sang loại khác để được phục vụ theo một quy trình riêng.
+  `Ví dụ:`
+- Thư từ, [tài liệu](https://als.com.vn/kho-tai-lieu-luu-tru-ho-so-cho-doanh-nghiep), giấy tờ, hồ sơ, văn bản
+- Hàng hóa tiêu dùng hàng ngày
+- Đồ khô, thực phẩm (không yêu cầu đảm bảo nhiệt độ đặc thù bảo quản)
+- Các kiện hàng ghép…
+### Hàng hóa đặc biệt
+Đây là loại hàng hoá phải đòi hỏi xử lý đặc biệt trong quá trình lưu trữ và vận chuyển liên quan đến thuộc tính hay giá trị của hàng hoá.
+***Bao gồm các loại sau đây:**
+1. Động vật sống
+2. Hàng hóa giá trị cao
+3. Hành hóa ngoại giao
+4. Hài cốt
+5. Hàng dễ hỏng
+6. Hàng nguy hiểm
+7. Hàng hóa ướt
+8. Hàng có mùi mạnh
+9. Hàng hóa nặng
+	**_Mô tả ngắn về các loại hàng bên dưới:_**
+	**_Động vật sống : Mã avi_**
+		AvB = chim sống
+		AVF = cá sống nhiệt đới
+		Avx = gà sống
+## Đầu tư lớn
+Phương tiện máy bay, sân bay, đào tạo nhân lực.
