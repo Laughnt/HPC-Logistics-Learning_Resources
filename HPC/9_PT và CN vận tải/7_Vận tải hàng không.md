@@ -107,6 +107,13 @@ Hàng thời trang - quần áo mùa đông, vận chuyển từ VN sang Châu �
 		Avx = gà sống
 ### Đầu tư lớn
 Phương tiện máy bay, sân bay, đào tạo nhân lực.
-
-
 ## Cơ sở vật chất kỹ thuật của đường hàng không
+1. Cảng hàng không (Air port)
+Nơi đỗ cũng như cất hạ cánh của máy bay, là nơi cung cấp các điều kiện vật chất kỹ thuật và các dịch vụ cần thiết liên quan tới vận chuyển hàng hoá và hành khách.
+Có các khu vực làm hàng xuất, hàng nhập và hàng chuyển tải.
+2. Máy bay
+   Công cụ chuyên chở của vận tải hàng không. 
+	Loại chuyên chở hành khách cũng có thể nhận chuyên chở hàng dưới boong. 
+	Loại chuyên chở hàng và loại chở kết hợp cả khách cả hàng.
+3. Trang thiết bị xếp dỡ và làm hàng
+Xếp dỡ và vận chuyển hàng hoá /làm hàng theo đơn vị trong sân bay. Ngoài ra còn có các trang thiết bị riêng lẻ như pallet máy bay, container máy bay, container đa phương thức…

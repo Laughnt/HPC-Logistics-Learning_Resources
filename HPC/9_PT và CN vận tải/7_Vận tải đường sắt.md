@@ -1,3 +1,4 @@
+Chuyên chở hàng hoá [[xuất nhập khẩu]] bằng đường sắt.
 ## Vị trí vận tải của đường sắt
 Phương tiện chủ chốt của quốc gia về khả năng chuyên chở 
 Chiếm khoảng 50% vận tải nội địa
