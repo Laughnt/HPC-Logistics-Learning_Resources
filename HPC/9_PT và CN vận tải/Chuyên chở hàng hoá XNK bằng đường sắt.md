@@ -26,6 +26,7 @@ Mật độ vận chuyển (trọng tải)
 	Bình thường đến chuẩn giờ, một vụ tai nạn xảy ra -> công ty đường sắt xin cho bên nhân viên đến muộn -> **Trách nhiệm**
 ## Cơ sở vật chất kỹ thuật
 #### Tuyến đường sắt 
+Khổ đường sắt hẹp, khoảng cách giữa hai bánh xe: 1m, 1.5m. Nên hạn chế phạm vi phục vụ của vận tải đường sắt.
 Mạng lưới đường sắt quốc gia có tổng chiều dài 3.143 km và có 277 ga, trong đó 2.703 km đường chính tuyến, 612 km đường ga và đường nhánh, bao gồm **7 tuyến chính**:
 - 1. Tuyến đường sắt Hà Nội - TPHCM
 - 2. Tuyến đường sắt Hà Nội - Hải phòng
@@ -34,6 +35,15 @@ Mạng lưới đường sắt quốc gia có tổng chiều dài 3.143 km và c
 - 5. Tuyến đường sắt Hà Nội - Quán Triều tp Thái Nguyên
 - 6. Tuyến đường sắt kép Bắc GIang - Lưu Xá Thái Nguyên
 - 7. Tuyến đường sắt kép Bắc Giang - Uông Bí - Hạ Long Quảng Ninh
-Ga đường sắt
-Đầu máy 
-Toa xe
+#### Ga đường sắt
+Là nơi tiến hành các nghiệp vụ kỹ thuật, khai thác hàng hoá và được phân loại như sau:
+	Ga biên giới: làm thủ tục truyền tải và [[xuất nhập khẩu]] 
+	Ga đường sắt: để xác định chi phí 
+#### Đầu máy
+Là yếu tố quyết định đến sự ra đời và sự phát triển của vận tải đường sắt. Xu hướng phát triển của vận tải đường sắt trên thế giới hiện nay là thay bằng đầu máy điện.
+#### Toa xe
+Các chỉ tiêu kỹ thuật của toa xe bao gồm:
+	Trọng tải: Sức chở của toa xe
+	Dung tích: Khả năng chứa hàng của toa xe
+	Kích thước: Chiều dài, rộng, cao.
+Sử dụng hết trọng tải và dung tích của toa xe là biện pháp quan trọng để giảm cươc phí chuyên chở hàng hoá. Nâng cao hiệu quả sử dụng trọng tải và dung tích toa xe sẽ góp phần giảm bớt chi phí vận chuyển.
