@@ -41,7 +41,7 @@ Là nơi tiến hành các nghiệp vụ kỹ thuật, khai thác hàng hoá và
 	Ga đường sắt: để xác định chi phí 
 #### Đầu máy
 Là yếu tố quyết định đến sự ra đời và sự phát triển của vận tải đường sắt. Xu hướng phát triển của vận tải đường sắt trên thế giới hiện nay là thay bằng đầu máy điện.
-#### Toa xe
+### Toa xe
 Các chỉ tiêu kỹ thuật của toa xe bao gồm:
 	Trọng tải: Sức chở của toa xe
 	Dung tích: Khả năng chứa hàng của toa xe
