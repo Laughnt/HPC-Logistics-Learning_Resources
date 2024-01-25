@@ -10,29 +10,26 @@
 - 25% công ty bán hàng phụ thuộc vào vận tải hàng không. 70% doanh nghiệp báo cáo rằng, để phục vụ một thị trường lớn thì sử dụng dịch vụ hàng không là điều tất yếu.
 ### **Vận tải hàng không với việc sử dụng có hiệu quả cao các nguồn lực và cơ sở hạ tầng.**
 - Hàng không chiếm tỉ lệ cao (65% đến 70%) về hiệu quả sử dụng nguồn lực và cơ sở hạ tầng, gấp đôi đường bộ và đường sắt.
-- Máy bay hiện đại có hiệu quả nhiên liệu là 3,5 lít cho 100 hành khách/km hoặc 67 hành khách/dặm cho mỗi US gallon. Các máy bay thế hệ tiếp theo (A380 & B787) đang phấn đấu để đạt mục tiêu hiệu suất ít hơn 3 lít cho 100 hành khách/km hoặc 78 hành khách/dặm một US gallon, vượt qua hiệu quả của bất kỳ chiếc xe nhỏ gọn hiện đại trên thị trường.
+- Máy bay hiện đại có hiệu quả nhiên liệu là 3,5 lít cho 100 hành khách/km hoặc 67 hành khách/dặm cho mỗi US gallon. 
+	- Các máy bay thế hệ tiếp theo (A380 & B787) đang phấn đấu để đạt mục tiêu hiệu suất ít hơn 3 lít cho 100 hành khách/km hoặc 78 hành khách/dặm một US gallon, vượt qua hiệu quả của bất kỳ chiếc xe nhỏ gọn hiện đại trên thị trường.
 
-### **Vận tải hàng không với lợi ích xã hội**
-
-- Bằng cách mở rộng giải trí và trải nghiệm văn hoá cho người dân, vận tải hàng không giúp cải thiện chất lượng cuộc sống. Nó cung cấp một sự lựa chọn rộng rãi về địa điểm nghỉ ngơi khắp thế giới và là một phương tiện với giá cả phải chăng để thăm viếng bạn bè, người thân ở xa.
-- Vận tải hàng không giúp cải thiện mức sống và xoá đói giảm nghèo, chẳng hạn như thông qua dịch vụ du lịch.
-- Vận tải hàng không được xem như phương tiện duy nhất có thể cung cấp hàng hoá đến những vùng sâu vùng xa, từ đó thúc đẩy việc hoà nhập xã hội.
+### Vận tải hàng không với lợi ích xã hội
+- Bằng cách mở rộng giải trí và trải nghiệm văn hoá cho người dân, tạo thêm lựa chọn rộng rãi về địa điểm nghỉ ngơi khắp thế giới và là một phương tiện với giá cả phải chăng để thăm viếng bạn bè, người thân ở xa.
 - Vận tải hàng không góp phần vào sự phát triển bền vững. Nhờ điều kiện du lịch và thương mại, nó tạo ra tăng trưởng kinh tế, cung cấp công ăn việc làm, tăng thuế lợi tức, và thúc đẩy việc bảo tồn các khu vực cần được bảo vệ.
-- Mạng lưới vận tải hàng không tạo điều kiện cho việc cứu trợ khẩn cấp và phân phối nguồn viện trợ nhân đạo đến bất cứ nơi đâu trên hành tinh, đảm bảo mang đến các thiết bị y tế hay các bộ phận cấy ghép một cách nhanh chóng.
-
+	- Vận tải hàng không được xem như phương tiện duy nhất có thể cung cấp hàng hoá đến những vùng sâu vùng xa, từ đó thúc đẩy việc hoà nhập xã hội.
+	- Mạng lưới vận tải hàng không tạo điều kiện cho việc cứu trợ khẩn cấp và phân phối nguồn viện trợ nhân đạo đến bất cứ nơi đâu trên hành tinh, đảm bảo mang đến các thiết bị y tế hay các bộ phận cấy ghép một cách nhanh chóng.
 ### **Vận tải hàng không với môi trường**
 
 - Ngày nay, những hạm đội máy bay 20 deciben (dB) được đưa vào sử dụng, êm hơn so với những chiếc máy bay cách đây 40 năm. Điều này tương ứng với việc giảm thiểu tiếng ồn khó chịu đến 75%.
-- Máy bay thế hệ 20206 được kì vọng giảm thiểu hơn 50% tiếng ồn trong quá trình cất cánh và hạ cách (trừ 10dB).
+	- Máy bay thế hệ 20206 được kì vọng giảm thiểu hơn 50% tiếng ồn trong quá trình cất cánh và hạ cách (trừ 10dB).
 - Hạm đội máy bay ngày hôm nay sử dụng nguyên liệu hiệu quả hơn 70% so với 40 năm trước. Lượng khí thải carbon monoxide đã giảm đồng loạt 50%, trong khi hydrocarbon chưa cháy và khói đã được giảm tới 90%.
-- Chương trình nguyên cứu nhằm mục đích tiết kiệm nhiên liệu 50% và giảm thiểu 80% các khí oxit của nitơ đang được thực hiện trên thế hệ máy bay 20207.
-- Những cải tiến trong việc quản lí giao thông hàng không có khả năng làm giảm tiêu hao nhiên liệu 6-12%, đồng thời việc cải thiện hoạt động còn giảm thiểu nhiên liệu thêm 2-6%.
+	- Chương trình nguyên cứu nhằm mục đích tiết kiệm nhiên liệu 50% và giảm thiểu 80% các khí oxit của nitơ đang được thực hiện trên thế hệ máy bay 20207.
+	- Những cải tiến trong việc quản lí giao thông hàng không có khả năng làm giảm tiêu hao nhiên liệu 6-12%, đồng thời việc cải thiện hoạt động còn giảm thiểu nhiên liệu thêm 2-6%.
 
 # Vị trí
 ### Kim ngạch: 
 Vận tải hàng không chiếm khoảng 20% tổng kim ngạch của buôn bán quốc tế, nhưng chỉ chiếm 1% tổng khối lượng hàng hoá.
-//Điều này gợi cho bản thân những suy nghĩ nào? 
-Giá trị hàng hoá nó chiếm rất nhiều, trọng tải thấp.
+//Điều này gợi cho bản thân những suy nghĩ nào? Giá trị hàng hoá chiếm rất nhiều, trọng tải thấp.
 #### Các loại hàng hoá:
 Hàng cần giao khẩn cấp,
 Hàng mau hỏng,
@@ -58,20 +55,21 @@ So với các phương tiện khác, thì trang thiết bị phục vụ của v
 ### Công nghệ
 Tránh sai sót dù là nhỏ nhất đối với các vụ tai nạn, vận tải hàng không đòi hỏi nhiều tiêu chuẩn rất khắt khe về công nghệ kỹ thuật.
 // Nhật Bản: Phi công không hạ hết được bánh xuống -> cất cánh tiếp và hạ cánh khi đã đủ.
-
 ## Thủ tục (không cần thiết)
 Vận tải hàng không được đơn giản hoá về thủ tục so với các phương thức khác, do là máy bay bay thẳng, ít qua các trạm kiểm tra/kiểm soát (phát sinh nhiều giấy tờ)
 Máy bay có điểm đầu điểm cuối -> thủ tục đơn giản.
 
 Chúng ta mất công >< mất tiền. 
-
 # Nhược điểm:
 ### Cước vận tải cao
 Cước cao nhất trong các loại vận tải 
-## Hàng hoá giới hạn
+## Hàng hoá
+### Hàng hoá cứu trợ khẩn cấp
+
+### Hàng hoá giới hạn
 Một số mặt hàng không thể chở được bằng đường không (hàng công kềnh, hàng khối lượng lớn, hàng nguy hiểm
 ### Hàng hoá thông thường(Normal Goods)
-Hay General Cargo trong vận tải hàng không là những mặt hàng được chấp nhận vận chuyển đường hàng không một cách dễ dàng.
+Hay General Cargo trong vận tải hàng không là những mặt hàng được chấp nhận vận chuyển đường hàng không một cách dễ dàng, chiếm 80%
 Những hàng hóa này không vi phạm về các quy định của đơn vị vận chuyển hay an ninh sân bay như: nội dung, kích thước, bao bì…
 - Hàng hóa phải có kích thước đóng gói (dài x rộng x cao) không vượt quá khoang hàng của máy bay vận tải
 - Bao bì đóng gói chắc chắn, chịu được việc vận chuyển và xếp dỡ hàng hóa
@@ -82,10 +80,18 @@ Những hàng hóa này không vi phạm về các quy định của đơn vị 
 - Hàng hóa tiêu dùng hàng ngày
 - Đồ khô, thực phẩm (không yêu cầu đảm bảo nhiệt độ đặc thù bảo quản)
 - Các kiện hàng ghép…
+
+#### Hàng có giá trị cao
+Vàng bạc, kịm cương, đồ trang sức.
+#### Hàng hoá dễ hư hỏng:
+Hoa quả tươi, thực phẩm đông lạnh.
+#### Hàng hoá nhạy cảm với thị trường
+Hàng thời trang - quần áo mùa đông, vận chuyển từ VN sang Châu Âu, vận chuyển tàu thuỷ sang đấy là hết thời gian
 ### Hàng hóa đặc biệt
 Đây là loại hàng hoá phải đòi hỏi xử lý đặc biệt trong quá trình lưu trữ và vận chuyển liên quan đến thuộc tính hay giá trị của hàng hoá.
 ***Bao gồm các loại sau đây:**
 1. Động vật sống
+   Động vật sống khi vận chuyển đòi hỏi phải kiểm dịch và chăm sóc đặc biệt, phải vận chuyển nhanh đảm bảo chất lượng. 
 2. Hàng hóa giá trị cao
 3. Hành hóa ngoại giao
 4. Hài cốt
@@ -99,5 +105,8 @@ Những hàng hóa này không vi phạm về các quy định của đơn vị 
 		AvB = chim sống
 		AVF = cá sống nhiệt đới
 		Avx = gà sống
-## Đầu tư lớn
+### Đầu tư lớn
 Phương tiện máy bay, sân bay, đào tạo nhân lực.
+
+
+## Cơ sở vật chất kỹ thuật của đường hàng không
