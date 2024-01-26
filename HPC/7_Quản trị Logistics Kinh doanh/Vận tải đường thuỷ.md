@@ -6,6 +6,7 @@ Tuyến đường giao thông tự nhiên dễ dàng
 Tài chính 
  Cơ sở hạ tầng
  An ninh
+ [[Xung đột Biển Đỏ]]
 ### Thực trạng:
 Nâng cao cơ sở hạ tầng
 Môi trường và bảo vệ biển
