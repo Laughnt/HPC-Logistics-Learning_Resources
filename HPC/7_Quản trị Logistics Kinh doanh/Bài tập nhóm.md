@@ -39,3 +39,7 @@ Số liệu cụ thể về mảng vận tải của DHL.
 	  Chiếm bao nhiêu % và hỗ trợ đến đâu.
 - Phản ứng của KH sau khi sử dụng dịch vụ vận tải 
 Không giới hạn dung lượng của bài.
+
+__
+Phản ứng của khách hàng khi hết hàng trong kho.
+Tính phương pháp tính.
