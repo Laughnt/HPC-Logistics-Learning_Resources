@@ -32,7 +32,7 @@ Tuần sau sẽ có câu hỏi để kiểm tra - 23
 	Mình hiểu được hoạt động Logistics đó là gì.
 	Hỗ trợ quá trình phát triển của DHL đến đâu.
 - Không nói chung chung -> thực tế.
-	Những yếu tố quyết định trong lĩnh vực vận tải quyết định DHL đó lớn như thế nào? - 85 page 131; 126 page 126
+	Những yếu tố quyết định trong lĩnh vực vận tải quyết định DHL đó lớn như thế nào? 
 	DN này trong nội bộ của họ tự làm/vận tải như thế nào?
 Số liệu cụ thể về mảng vận tải của DHL.
 - Phân tích về vận tải, thì mức độ cung ứng của DHL trong lĩnh vực này so với những doanh nghiệp khác như thế nào?
