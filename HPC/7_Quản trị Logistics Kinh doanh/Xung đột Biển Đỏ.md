@@ -10,7 +10,7 @@ TUYẾN HÀNG HẢI QUAN TRỌNG TRONG THƯƠNG MẠI TOÀN CẦU
 
 ##### **1.2. GIÁ TRỊ KINH TẾ**
 - **Rút ngắn 6000 km** cho tàu thuyền (**Hình 1**) thay vì đi qua mũi Hảo Vọng (Nam Phi), tránh cướp biển, giảm nhiều chi phí.
-![Hình_1](https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/420821371_2124708371219612_7173168599482901679_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c42490&_nc_ohc=gW29-Wam6jEAX-HGotO&_nc_ht=scontent.fhan3-4.fna&oh=00_AfBzpgr5DojIvcicX5QtHNqeArHThvQk9WwDdAngXAUnIQ&oe=65B7F3D0)
+![[Pasted image 20240215002832.png]]
 - Theo GlobalSecurity.org, **thời gian di chuyển** qua con đường thủy này chỉ vào **tầm 13-15 giờ.**
 - **Khoảng 12% thương mại toàn cầu** đi qua kênh đào Suez, chiếm **30% tổng lưu lượng container toàn cầu** và hàng hóa trị giá hơn 1 nghìn tỷ USD mỗi năm. Năm 2022, có **23.851** tàu đi qua kênh Suez, trung bình **68 tàu/ngày**.
 - Tuyến đường quan trọng vận chuyển năng lượng, hàng hóa, hàng tiêu dùng và linh kiện từ châu Á và Trung Đông đến châu Âu.
@@ -61,7 +61,7 @@ Các cuộc tấn công của phiến quân Houthis ở Yemen nhắm vào các t
 - WCI: Rotterdam - New York
 
 Giá cước vận chuyển container trên tuyến thương mại Á - Âu bị ảnh hưởng nặng nề nhất (**Hình 2**) trước những căng thẳng ở Biển Đỏ. Đặc biệt, hành trình đi đến các cảng ở Địa Trung Hải sẽ dài hơn đáng kể.
-![Hình 2](https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/420763943_2124708444552938_5394622074661869845_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=c42490&_nc_ohc=byxEiX5EolQAX8TbV2k&_nc_ht=scontent.fhan3-4.fna&oh=00_AfBXtBkdtSIzwvOhmkuyGnh1Y3Pp8knhnwuk0svjoQczPQ&oe=65B69E58)
+![[Pasted image 20240215002848.png]]
 
 - Chỉ số tổng hợp trung bình trong năm 2023 là 3.173 USD/container 40ft, cao hơn 495 USD so với mức trung bình trong 10 năm là 2.678 USD.
 - Chỉ số tổng hợp mới nhất của Drewry WCI (18/1/2024) là 3.777 USD/container 40ft - cao nhất kể từ tháng 10/2022 và cao hơn 166% so với mức trung bình năm 2019 (trước đại dịch) là 1.420 USD.
@@ -72,16 +72,16 @@ Giá cước vận chuyển container trên tuyến thương mại Á - Âu bị
   
 **Hệ lụy**
 - Dựa trên **Chỉ số Nhà Quản trị Mua hàng (PMI)** của S&P Global: **Chi phí vận chuyển cao hơn đang dẫn đến giá thành sản xuất cao hơn.** 
-![Hình 3](https://scontent.fhan3-3.fna.fbcdn.net/v/t39.30808-6/420778265_2124708497886266_447423061093681152_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=c42490&_nc_ohc=R2t1x4KGL3MAX-btE1i&_nc_ht=scontent.fhan3-3.fna&oh=00_AfBUUj9eQGHXPzy40QqaS4C3N0bivDgZxTSGIfg73dSnJg&oe=65B6A08D)
+![[Pasted image 20240215002856.png]]
 - Theo phân tích của **JP. Morgan**, sự gia tăng của cước phí vận chuyển có thể **đẩy lạm phát tăng trở lại** trong vài tháng tới. Các chuyên gia tại **ECB (NHTW Châu Âu)**, **WB (Ngân hàng Thế giới**), **Steno Research** và **Macrobond** cũng có chung ý kiến như vậy.
-  ![Hình 4](https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/420838096_2124708541219595_1581477383442716183_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=c42490&_nc_ohc=CCOk8L8Uc7IAX-EvUpq&_nc_ht=scontent.fhan4-3.fna&oh=00_AfD94xdqZ8J_uyewp6CX9fLnGXUDj9VcwUBpb6HGLx9eIQ&oe=65B6EBF7)
+![[Pasted image 20240215002902.png]]
 
  ![📍](https://static.xx.fbcdn.net/images/emoji.php/v9/t2d/1/16/1f4cd.png) **Công suất khai thác đội tàu Container toàn cầu giảm mạnh**
 - Khủng hoảng Biển Đỏ đã làm giảm công suất khai thác đội tàu Container toàn cầu. Đây được xem là đợt giảm **lớn thứ 2 trong lịch sử thị trường container** (Chỉ xếp sau sự cố mắc kẹt tại kênh đào Suez của siêu tàu Ever Given) 
-  ![Hình 5](https://scontent.fhan3-5.fna.fbcdn.net/v/t39.30808-6/420887595_2124708601219589_1801327355572224546_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=c42490&_nc_ohc=_s7GnPMS9VUAX_7rwnP&_nc_ht=scontent.fhan3-5.fna&oh=00_AfBfSrMgFzmFIDhquw92nIag6FJX8-AfKZjoAJE2Ob64pw&oe=65B788A3)
+![[Pasted image 20240215002909.png]]
 - Theo Flexport, **90% tàu container** đi qua kênh Suez đang tạm dừng hoặc định tuyến lại. Bằng chứng là số lượng tàu quá cảnh (Ship Transits) qua kênh đào Suez chạm đáy. (**Hình 6**) (**Hình 7**) thể hiện **Mức độ sụt giảm lô hàng qua kênh đào Suez** (~1/3) và sự thúc đẩy các chuyến đi tới Mũi Hảo Vọng.
-  ![Hình_6](https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/420798894_2124708647886251_8913968126304934763_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=c42490&_nc_ohc=YrTIrPqZ_wAAX9E6MGk&_nc_ht=scontent.fhan4-3.fna&oh=00_AfD18-G7CTrQMKpTY6Mc3WAs9QPXabxCGQbmN9gIWTCCkQ&oe=65B7089A)
-  ![Hình_7](https://scontent.fhan3-4.fna.fbcdn.net/v/t39.30808-6/420778069_2124708707886245_6770442628966018730_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=c42490&_nc_ohc=wfz7ZDFIqpEAX8dLC9d&_nc_ht=scontent.fhan3-4.fna&oh=00_AfBn05KARS1m8oYL5Eo-wPL4rNWj1lUJMvurLSYRUhFTKg&oe=65B71776)
+![[Pasted image 20240215002915.png]]
+![[Pasted image 20240215002922.png]]
 
 Điều này có thể làm giảm khoảng **1/4 tổng công suất toàn cầu**, gây tăng giá và trì hoãn vận chuyển.
 
@@ -103,7 +103,7 @@ Giá cước vận chuyển container trên tuyến thương mại Á - Âu bị
 
 ##### **C. THỊ TRƯỜNG LƯƠNG THỰC**
 - Sự gián đoạn ở Biển Đỏ đang đe dọa hoạt động thương mại Âu-Á. Gần **70 tỷ Euro xuất nhập khẩu nông sản** của Liên Minh Châu Âu có thể bị ảnh hưởng (**Hình 8**).
-  ![Hình_8](https://scontent.fhan3-5.fna.fbcdn.net/v/t39.30808-6/420870322_2124708767886239_7486289793266134899_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c42490&_nc_ohc=Ig6asmoGtvcAX9Z6r8C&_nc_ht=scontent.fhan3-5.fna&oh=00_AfA1oNQh-i_1aN0WH6O8P9VhS3-b-hmChCg6d4tLa-puVg&oe=65B726DF)
+ ![[Pasted image 20240215002928.png]]
 ##### **D. THỊ TRƯỜNG CHỨNG KHOÁN**
 - Cổ phiếu của các công ty vận tải biển ở châu Á tăng do kỳ vọng rằng sự gián đoạn trên các tuyến đường Biển Đỏ do các cuộc tấn công của phiến quân Houthis sẽ dẫn đến giá cước vận chuyển cao hơn.
 
@@ -115,8 +115,7 @@ Giá cước vận chuyển container trên tuyến thương mại Á - Âu bị
 - **Maersk - một trong những hàng tàu container lớn nhất thế giới** đã tuyên bố tạm dừng hoạt động hàng hai ở Biển Đỏ và không có dấu hiệu nào cho thấy quyết định này sẽ được thay đổi trong tương lại gần.
 - Điều này góp phần mang lại lợi ích cho các công ty hậu cần của Trung Quốc khi lực lượng Houthi sẽ không tấn công tất cả các tàu của Trung Quốc khi đi qua Biển Đỏ theo **cam kết được công bố**. Từ đó, gia tăng ảnh hưởng của nền kinh tế lớn thứ 2 thế giới đối với hoạt động thương mại toàn cầu.
 - Trong khi các tàu phương Tây không thể đi qua eo biển Bab el-Mandeb thì các tàu của Trung Quốc (và Nga) được cho phép đi qua khu vực. Nhờ vậy đã có tác động lan tỏa, khối lượng vận tải đường bộ trong khuôn khổ dự án **Một vành đai - Một con đường** đã tăng lên đáng kể (**Hình 9**).
-  ![Hình_9](https://scontent.fhan3-5.fna.fbcdn.net/v/t39.30808-6/420777167_2124708827886233_5916800149777597560_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=c42490&_nc_ohc=MkYP3C7F8cYAX_G8zcY&_nc_oc=AQmyidxILjnE4bqcKXSWvQ3qjtc4Rx63j9JO2lTvHsUNorhzAFxlpc9HrOo3lTgRAzLY9sajTaDjAq1NbMgXLYaw&_nc_ht=scontent.fhan3-5.fna&oh=00_AfCFXZsN1cOVHdAC5lgLXLCOiAkzcqvALkGdxDfCTn67rA&oe=65B6618F)
-
+ ![[Pasted image 20240215002938.png]]
 **II. NGA**
 - Từ năm 2014 đến năm 2022, khối lượng thương mại trên tuyến đường biển phía Bắc do Nga kiểm soát đã tăng **755%**. Sự dịch chuyển trong lưu lượng vận chuyển khỏi kênh đào Suez được dự báo sẽ góp phần đẩy mạnh hoạt động **vận chuyển qua vùng nước Bắc Cực**.
 
@@ -140,6 +139,7 @@ Giá cước vận chuyển container trên tuyến thương mại Á - Âu bị
 - **ESPO (European Sea Ports Organization)** cho rằng cuộc tấn công của Houthis vào các tàu buôn khiến cuộc khủng hoảng này khó giải quyết hơn việc tàu Ever Given bị mắc cạn ở Kênh đào Suez năm 2021.
 - Khoảng thời gian gián đoạn hoạt động vận chuyển container ở Biển Đỏ là biến số quan trọng chưa được xác định. **Drewry Shipping Consultants** dự báo việc chuyển hướng ở Biển Đỏ có thể kéo dài khoảng vài tháng cho đến khi nguy cơ tấn công chấm dứt. Báo cáo thương mại toàn cầu trước các vấn đề tại Biển Đỏ của Hội nghị Liên hợp quốc về Thương mại và Phát triển nhấn mạnh triển vọng trong năm 2024 là "rất không chắc chắn và nhìn chung là bi quan".
 - Báo cáo từ Yemen cho rằng lực lượng Houthis đang có kế hoạch đóng cửa cả ba tuyến đường thủy ở Trung Đông, còn gọi là ''**Tam giác Al-Aqsa'**' bao gồm ba tuyến đường thủy chính: Bab Al-Mandab, Eo biển Hormuz và Kênh đào Suez (**Hình 10**).
+- ![[Pasted image 20240215002949.png]]
 - Sự gián đoạn càng kéo dài thì mối lo ngại về đà giảm **lạm phát** năm ngoái do căng thẳng địa chính trị ngày càng gia tăng![‼️](https://static.xx.fbcdn.net/images/emoji.php/v9/t77/1/16/203c.png)
   
   ## **Kết luận:** 

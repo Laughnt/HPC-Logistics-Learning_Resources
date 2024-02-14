@@ -4,7 +4,6 @@
 4. Cảng cạn.
 5. Trạm cont làm hàng lẻ.
 [Tóm tắt](https://www.academia.edu/36542993/_123doc_to_chuc_khai_thac_cang_bien)
-
 ## 1. Chất xếp cont trên tàu.
 ### 1.1 Nguyên tác chung khi chất xếp trên tàu.
 Những căn cứ:

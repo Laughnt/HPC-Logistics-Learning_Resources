@@ -51,7 +51,7 @@ Hành khách / Hàng hóa
 ### Tổ chức quá trình vận tải  
 – Vận tải đơn phương thức: 
 	bằng một phương thức vận tải duy nhất. 
-– Vận tải đa phương thức: 
+– Vận tải đa phương thức (_Unimodal Transport_): 
 	ít nhất là 2 phương thức vận tải, 
 	chỉ sử dụng một chứng từ duy nhất và chỉ một người chịu trách nhiệm 
 – Vận tải đứt đoạn: 
@@ -65,6 +65,25 @@ Vận chuyển hàng hoá và hành khách từ địa điểm này đến đị
 - 1 chặng 
 - nhiều chặng 
 - chở suốt
-- ![[1_Tổng quan#Tổ chức quá trình vận tải]]
+-  ![[1_Tổng quan#Tổ chức quá trình vận tải]] 
 - Lẻ hàng
 - Nguyên hàng
+  %%Viettel phụ trách toàn bộ hàng lẻ: chưa đủ khối lượng -> bổ sung thêm mặt hàng khác cho đủ%%
+### Mối quan hệ quốc tế
+Giữa 2 -> nhiều nước khác nhau.
+  - Vị trí thay đổi
+  - Hợp tác phát triển
+> Tác động -> buôn bán quốc tế
+
+%%Vị trí gần nhau -> chi phí vận tải giảm xuống => kích thích buôn bán.
+Lazada nguồn hàng gần TQ - Xây dựng cơ sở hạ tầng tốt%%
+
+- Tăng khối lượng hàng hóa, thay đổi cơ cấu hàng hóa và tỉ trọng quốc tế.
+	- Bảo vệ [[cán cân mậu dịch]] và [[cán cân thanh toán]]
+%%Bán nội tệ đi và mua ngoại tệ về%%
+
+
+
+
+
+
