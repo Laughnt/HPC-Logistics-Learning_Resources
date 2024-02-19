@@ -1,40 +1,23 @@
 - Nội dung tính giá
-
 a-     Tính giá của vật tư TS mua vào.
-
 Nguyên tắc:  
 Khi tính giá của vật tư TS mua vào phải tính theo giá thực tế hay giá gốc.
-
 Giá mua = giá ghi trên hoá đơn – chiết khấu TM, giảm giác + Thuế không được hoàn trả.
-
 // Đánh vào mặt hàng xa xỉ/cao cấp, không cấm nhưng không khuyến khích. VD: Oto, thuốc lá, rượu bia. Vàng mã (thuế tiêu thụ đặc biệt)
-
 Spa, Vũ trường, Club.
-
 _
-
 Chiết khấu thương mại: là số tiền người bán giảm trừ trong trường hợp mua với 1 số lượng lớn hàng hoá cùng 1 đợt hoặc có thể trong 1 khoảng thời gian ngắn mua 1 số lượng lớn hàng hoá.
-
 Giảm giá: Số tiền được người bán giảm trừ trong trường hợp hàng hoá bị lỗi, hàng kém phẩm chất hoặc thời hạn giao hàng không đúng hợp đồng. Nguyên nhân chủ yếu thuộc về người bán.
-
 Chi phí thu mua: Là toàn bộ các chi phí phát sinh có liên qua đến việc mua vật tư TS.  
 _
 
 Trong kỳ đơn vị nhập khẩu 1 lô hàng hoá, giá mua chưa thuế VAT là 100tr, thuế NK là 10%, thuế VAT của hàng NK là 10%. DN được hưởng chiết khấu TM 1%, chi phí vận chuyển là 5,5tr (VAT 10%). Tính giá thực tế mua vào của lô hàng?
-
 114.5
-
 Giá thực tế lô hàng = Giá mua + Chi phí thu mua.
-
 Trong đó: Giá mua = Giá mua trên hợp đồng – Chiết khấu + Thuế NK
-
 Giá mua = 100 – 100*1% + 100*10% = 109tr
-
 Chi phí thu mua = Giá thanh toán / (1 + Thuế suất VAT) = 5,5/ (1 +10%) = 5tr
-
 Giá thực tế lô hàng = 109 + 5 = 114tr  
-  
-
 _Môn học: Kế toán thương mại dịch vụ.
 
 b-     Tính giá của vật tư sản phẩm hàng hoá xuất dùng.
