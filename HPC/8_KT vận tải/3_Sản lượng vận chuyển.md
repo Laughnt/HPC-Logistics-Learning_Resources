@@ -39,6 +39,9 @@ Chúng ta - người sử dụng, là giá cước, giờ chạy / phí vận ch
   Hay còn gọi là tổng chi phí, là toàn bộ chi phí công ty vận chuyển phải chi ra, liên quan trực tiếp và gián tiếp đến việc chuyên chở một khối lượng hàng trong thời gian nhất định (quý hoặc năm)
 - Giá thành đơn vị
   Được xác định dựa trên tỉ lệ giữa giá thành sản lượng và sản lượng khai thác phương tiện trong kỳ. Doanh nghiệp vận tải kiểm soát giá thành đơn vị chặt chẽ để nâng cao hiệu quả kinh doanh vận tải.
-- Giá thành kế hoạch
-  Được xác định dựa va
+  ### Theo phương pháp xác định
+- Giá thành kế hoạch (dự báo)
+  Được xác định dựa vào các định mức dự kiến.
+  Ví dụ: Chi phí nhiên liệu, định mức tiêu hao của nhiên liệu...
 - Giá thành thực tế
+  Là tập hợp các chi phí thực tế phát sinh trong kỳ.
