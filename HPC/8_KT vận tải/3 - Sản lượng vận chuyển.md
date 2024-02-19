@@ -20,3 +20,8 @@ Các chỉ tiêu về thời gian trong thời gian trong cuộc đời phương
 - Thời gian chuyến đi.
   Là thời gian phương tiện thực hiện chuyến đi. Bao gồm thời gian chạy và xếp dỡ hàng hoá.
   
+#### Các hệ số thời gian khai thác phương tiện vận tải
+- Hệ số vận doanh
+Là hệ số sử dụng thời gian có của phương tiện. Phản ánh bình quân một ngày phương tiện có trong năm thì có bao nhiêu ngày phương tiện tham gia khai thác. 
+Công thức:
+	Hệ số vận doanh = Thời gian khai thác / Thời gian có.
