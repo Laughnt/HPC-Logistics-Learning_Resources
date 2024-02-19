@@ -43,9 +43,7 @@ SỰ chuyên môn hoá sản xuất.
 		Phương pháp này cho độ tin cậy khá cao thông qua việc xác định các nhân tố ảnh hưởng -> tác động đến thế giới.
 	[[Phân tích hồi qui logistic.pdf]] (Xem thêm [Phân tích số liệu bằng biểu đồ R](http://vietsciences.free.fr/khaocuu/nguyenvantuan/bieudoR/ch8-phantichsolieu.htm) )
 		Liên hệ các nhân tố ảnh hưởng - mùa vụ/giá xăng.
-%%Đại học sẽ sử dụng phần mềm, không tính toán tay được.
-Thời tiết, dự báo của trời trong những ngày tiếp theo.
-Dữ kiện quá khứ -> tương lai%%
+%%Đại học sẽ sử dụng phần mềm, không tính toán tay được. Thời tiết, dự báo của trời trong những ngày tiếp theo. Dữ kiện quá khứ -> tương lai%%
 ## Chỉ tiêu đánh giá chất lượng dự báo
 Dự báo là phỏng đoán sự việc nào đó trong tương lai. Dự báo nhu cầu vận chuyển nhằm nhận biết độ lớn của nhu cầu vận chuyển để đưa ra các quyết đinh đầu tư:
 	Tiền vốn
