@@ -1,4 +1,3 @@
-
 ### Ưu
 Tốc độ x40 lần bộ
 Có sự hiện diện toàn cầu
@@ -21,5 +20,5 @@ Tiếp nhận các tàu bay.
 Sân bay Long Thành - thay đổi hoàn toàn với thực trạng ở VN.
 2030, VN mình có 30 cảng hàng không và 14 quốc tế. 
 VN chưa có hàng hàng không vận chuyển chuyên biệt.
-% Trai Thien Air Cargo https://vi.wikipedia.org/wiki/Trai_Thien_Air_Cargo
+Trai Thien Air Cargo https://vi.wikipedia.org/wiki/Trai_Thien_Air_Cargo
  
