@@ -48,29 +48,52 @@ c) Chi phí biến đổi ở mức sản phẩm thứ 10 là bao nhiêu?
 	Chi phí biến đổi ở mức sản phẩm thứ 10 => VC = 150
 **_Bài 2:_** Số liệu về sản lượng và chi phí sản xuất biến đổi của một xí nghiệp được cho như sau :
 
-|Q|1|2|3|4|5|6|7|8|9|10|
-|---|---|---|---|---|---|---|---|---|---|---|
-|VC|100|160|200|220|240|270|320|400|560|860|
+| Q | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| VC | 100 | 160 | 200 | 220 | 240 | 270 | 320 | 400 | 560 | 860 |
+| FC | 600 | 540 | 500 | 480 | 460 | 430 | 380 | 300 | 140 | -160 |
 Chi phí cố định bình quân ở mức sản lượng thứ 10 là: AFC = FC / Q = 70 
 a) Xác định các khoản chi phí: AFC, AVC, ATC, MC?
-	FC: chi phí cố định, = AFC * Q = 70Q
-	VC: chi phí biến đổi, = TC - FC 
-	AVC: chi phí biến đổi trung bình, = VC/Q 
-	ATC: chi phí trung bình = AVC + AFC hay = TC/Q =
+Giải hệ ta được: 
+	FC: chi phí cố định, = VC - (chi phí biến đổi * số lượng sản phẩm) = AFC * Q = 700
+	VC: chi phí biến đổi, = TC - FC
+	AVC: chi phí biến đổi trung bình, = VC/Q
+	ATC: chi phí trung bình = AVC + AFC hay = TC/Q
 	MC: chi phí biên, = (TC)'
 b) Được biết MR = 300. Tìm mức sản lượng tối đa hóa lợi nhuận của xí nghiệp?
+Q max khi MR = MC = 300 = TC’
 
 **_Bài 3_**: Một hãng có đường cầu về sản phẩm của mình là P  = 40 – Q
+Hãng có chi phí bình quân không đổi ATC = 10 ở mọi mức sản lượng.
 
-Hãng có chi phí bình quân không đổi bằng 10 ở mọi mức sản lượng.
 a)  Chi phí cố định của hãng là bao nhiêu?
+	FC = 40
 b)  Tìm giá và sản lượng tối đa hóa lợi nhuận cho hãng?
+	Q tối đa khi MR = MC
+	=> 100 - 0,02Q = 50
+	=> Q = 50/0,02 = 2.500
+	=> P = 100 - 0,01Q = 100 - 25 = 75
+=> Qmax = TR – TC = P . Q – TC = 32.500
 c)  Độ co giãn của cầu ở mức giá tối đa hoá lợi nhuận bằng bao nhiêu?
-
+	P = 75 thì doanh thu là TR = 360.
+	Ta có: Q= 130-10P => (Q)`= -10
+	Độ co giãn của đường cầu = (Q)` x P\Q= -10x9\40= -2,25
 **_Bài 3_**': Có hàm cầu và hàm tổng chi phí của một hãng như sau:
                       P = 12 – 0,4Q          TC = 0,6Q2 + 4Q +5
-                      
+
 Hãy xác định sản lượng tối ưu (Q), giá (P), tổng lợi nhuận (Π) và tổng doanh thu (TR) khi:
 a)  Hãng theo đuổi mục tiêu tối đa hóa lợi nhuận?
+	sản lượng tối ưu (Q), 
+	giá (P), 
+	tổng lợi nhuận (Π) 
+	tổng doanh thu (TR)
 b)  Hãng theo đuổi mục tiêu tối đa hóa doanh thu?
+	sản lượng tối ưu (Q), 
+	giá (P), 
+	tổng lợi nhuận (Π) 
+	tổng doanh thu (TR)
 c)  Hãng theo đuổi mục tiêu đạt doanh thu càng nhiều càng tốt với điều kiện lợi nhuận phải đạt là 10?
+	sản lượng tối ưu (Q), 
+	giá (P), 
+	tổng lợi nhuận (Π) 
+	tổng doanh thu (TR)
