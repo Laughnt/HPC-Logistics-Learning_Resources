@@ -39,18 +39,25 @@ II. **BÀI TẬP VẬN DỤNG**
 **_Bài1_**: Cho hàm tổng chi phí của một xí nghiệp như sau: TC = Q^2  +  5Q  +  10
 
 a) Chi phí cố định ở mức sản lượng thứ 10 là bao nhiêu?
-- FC: chi phí cố định, là chi phí khi Q = 0, FC = 60
-
+	FC: chi phí cố định, là chi phí khi Q = 0, FC = 10
+	Chi phí cố định ở mức sản lượng thứ 10 => FC = 160
 b) Chi phí biên của xí nghiệp là bao nhiêu?
+	MC: chi phí biên, = (TC)’ = 2Q+5
 c) Chi phí biến đổi ở mức sản phẩm thứ 10 là bao nhiêu?
-
+	VC là chi phí biến đổi, = TC - FC =  Q^2  +  5Q
+	Chi phí biến đổi ở mức sản phẩm thứ 10 => VC = 150
 **_Bài 2:_** Số liệu về sản lượng và chi phí sản xuất biến đổi của một xí nghiệp được cho như sau :
 
 |Q|1|2|3|4|5|6|7|8|9|10|
 |---|---|---|---|---|---|---|---|---|---|---|
 |VC|100|160|200|220|240|270|320|400|560|860|
-Chi phí cố định bình quân ở mức sản lượng thứ 10 là: 70
+Chi phí cố định bình quân ở mức sản lượng thứ 10 là: AFC = FC / Q = 70 
 a) Xác định các khoản chi phí: AFC, AVC, ATC, MC?
+	FC: chi phí cố định, = AFC * Q = 70Q
+	VC: chi phí biến đổi, = TC - FC 
+	AVC: chi phí biến đổi trung bình, = VC/Q 
+	ATC: chi phí trung bình = AVC + AFC hay = TC/Q =
+	MC: chi phí biên, = (TC)'
 b) Được biết MR = 300. Tìm mức sản lượng tối đa hóa lợi nhuận của xí nghiệp?
 
 **_Bài 3_**: Một hãng có đường cầu về sản phẩm của mình là P  = 40 – Q
