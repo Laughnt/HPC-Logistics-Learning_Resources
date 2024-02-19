@@ -29,4 +29,4 @@ Là hệ số sử dụng thời gian có của phương tiện. Phản ánh bì
 	Hệ số thời gian vận hành = Thời gian chạy / Thời gian khai thác.
 - Hệ số thời gian đỗ
 Bình quân một ngày phương tiện tham gia khai thác có bao nhiêu ngày phương tiện đỗ tại bến cảng. Phụ thuộc vào thủ tục hành chính và năng suất xếp dỡ của cảng biển.
-Hệ số thời gian đỗ = Thời gian đỗ / Thời gian khai khác
+	Hệ số thời gian đỗ = Thời gian đỗ / Thời gian khai khác
