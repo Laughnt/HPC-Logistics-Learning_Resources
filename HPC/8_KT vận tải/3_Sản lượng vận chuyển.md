@@ -30,3 +30,15 @@ Là hệ số sử dụng thời gian có của phương tiện. Phản ánh bì
 - Hệ số thời gian đỗ
 Bình quân một ngày phương tiện tham gia khai thác có bao nhiêu ngày phương tiện đỗ tại bến cảng. Phụ thuộc vào thủ tục hành chính và năng suất xếp dỡ của cảng biển.
 	Hệ số thời gian đỗ = Thời gian đỗ / Thời gian khai khác
+### Giá thành vận chuyển
+Là toàn bộ chi phí mà **người khai thác phương tiện** chi ra liên quan trực tiếp hoặc gián tiếp liên quan đến việc chuyên chở hàng hoá.
+%%Người có phương tiện này họ quan tâm - Viettel.
+Chúng ta - người sử dụng, là giá cước, giờ chạy / phí vận chuyển...%%
+### Theo phạm vi xác định
+- Giá thành sản lượng
+  Hay còn gọi là tổng chi phí, là toàn bộ chi phí công ty vận chuyển phải chi ra, liên quan trực tiếp và gián tiếp đến việc chuyên chở một khối lượng hàng trong thời gian nhất định (quý hoặc năm)
+- Giá thành đơn vị
+  Được xác định dựa trên tỉ lệ giữa giá thành sản lượng và sản lượng khai thác phương tiện trong kỳ. Doanh nghiệp vận tải kiểm soát giá thành đơn vị chặt chẽ để nâng cao hiệu quả kinh doanh vận tải.
+- Giá thành kế hoạch
+  Được xác định dựa va
+- Giá thành thực tế
