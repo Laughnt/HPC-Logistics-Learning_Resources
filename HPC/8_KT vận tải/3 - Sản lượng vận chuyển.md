@@ -16,4 +16,7 @@ Các chỉ tiêu về thời gian trong thời gian trong cuộc đời phương
   VD: DN vận tải mua 1 chiếc oto, mua vào tháng 4, bán tháng 7 -> thời gian có là 3 tháng
 - Thời gian khai thác
   Là số ngày phương tiện tham gia khai thác, sản xuất vận tải trong năm. Được tính bằng chênh lệch giữa số ngày có và số ngày sửa chữa lớn.
-  Như sửa chữ
+  Như sửa chữa, ngừng vì thời tiết xấu.
+- Thời gian chuyến đi.
+  Là thời gian phương tiện thực hiện chuyến đi. Bao gồm thời gian chạy và xếp dỡ hàng hoá.
+  
