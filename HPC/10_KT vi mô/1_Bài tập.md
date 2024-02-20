@@ -26,11 +26,11 @@ TC = Q^2 + 6Q + 100
 ___
 MC = (TC)' = 2Q + 6
 TR = P.Q = Q.(60 - 5Q) = 60Q - 5Q^2
-Khi Q=0 thì FC = 100 => VC = TC - FC = Q^2 + 6Q
-LN = TR - TC 
-
+%%Khi Q=0 thì FC = 100 => VC = TC - FC = Q^2 + 6Q %%
 a, LN max => MR = MC = (TC)' = (TR)'
 -> 2Q + 6 = -10Q + 60 
 -> Q = 4.5 
+-> P = 37.5
 b, TR max => MR = (TR)' = (P.Q)' = 0
-Q = 6 
+-> Q = 6
+-> P = 30
