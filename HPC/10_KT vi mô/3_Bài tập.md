@@ -91,5 +91,5 @@ a)  Hãng theo đuổi mục tiêu tối đa hóa lợi nhuận?
 b)  Hãng theo đuổi mục tiêu tối đa hóa doanh thu
 c)  Hãng theo đuổi mục tiêu đạt doanh thu càng nhiều càng tốt với điều kiện lợi nhuận phải đạt là 10%?
 + LN max <=> MC=MR => 4=16-2Q => Q=6,P=14 => TR=84, TC=67, LN=17
-+ TR max <=> TR'=0 =>16-2Q=0 =>Q=8,P=11,TR=88,LN=13
++ TR max <=> MR=TR'=0 =>16-2Q=0 =>Q=8,P=11,TR=88,LN=13
 + LN=10% <=> 12Q-Q^2-19=16 => '+ Q=5=>P=15.8,TR=79
