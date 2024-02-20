@@ -79,21 +79,17 @@ c)  Độ co giãn của cầu ở mức giá tối đa hoá lợi nhuận bằ
 	Ta có: Q= 130-10P => (Q)`= -10
 	Độ co giãn của đường cầu = (Q)` x P\Q= -10x9\40= -2,25
 **_Bài 3_**': Có hàm cầu và hàm tổng chi phí của một hãng như sau:
-                      P = 12 – 0,4Q          TC = 0,6Q2 + 4Q +5
-
+                      P = 12 – 0,4Q          TC = 0,6Q^2 + 4Q +5
+                      
+MC = (TC)' = 1,2Q + 4
+TR = P.Q = Q.(12 – 0,4Q) = 12Q - 0,4.Q^2
+Khi Q=0 thì FC = TC = 5 => VC = TC - FC = 0,6Q^2 + 4Q
+LN = TR - TC =12Q - 0,4.Q^2 - (0,6Q^2 + 4Q +5) = -Q^2 + 8Q - 5
+___
 Hãy xác định sản lượng tối ưu (Q), giá (P), tổng lợi nhuận (Π) và tổng doanh thu (TR) khi:
 a)  Hãng theo đuổi mục tiêu tối đa hóa lợi nhuận?
-	sản lượng tối ưu (Q), 
-	giá (P), 
-	tổng lợi nhuận (Π) 
-	tổng doanh thu (TR)
-b)  Hãng theo đuổi mục tiêu tối đa hóa doanh thu?
-	sản lượng tối ưu (Q), 
-	giá (P), 
-	tổng lợi nhuận (Π) 
-	tổng doanh thu (TR)
-c)  Hãng theo đuổi mục tiêu đạt doanh thu càng nhiều càng tốt với điều kiện lợi nhuận phải đạt là 10?
-	sản lượng tối ưu (Q), 
-	giá (P), 
-	tổng lợi nhuận (Π) 
-	tổng doanh thu (TR)
+b)  Hãng theo đuổi mục tiêu tối đa hóa doanh thu
+c)  Hãng theo đuổi mục tiêu đạt doanh thu càng nhiều càng tốt với điều kiện lợi nhuận phải đạt là 10%?
++ LN max <=> MC=MR => 4=16-2Q => Q=6,P=14 => TR=84, TC=67, LN=17
++ TR max <=> TR'=0 =>16-2Q=0 =>Q=8,P=11,TR=88,LN=13
++ LN=10% <=> 12Q-Q^2-19=16 => '+ Q=5=>P=15.8,TR=79
