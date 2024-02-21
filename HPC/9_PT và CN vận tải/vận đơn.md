@@ -14,3 +14,4 @@
 – Thời gian và địa điểm cấp vận đơn,
 – Số bản gốc vận đơn,
 – Chữ ký của người vận tải (hoặc của thuyền trưởng hoặc người đại diện của thuyền trưởng, hoặc đại lý).
+![image](https://tuikhi.com/wp-content/uploads/2021/08/BL-072021-CHU-GIAI_page-0001-scaled.jpg)
