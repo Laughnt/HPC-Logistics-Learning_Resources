@@ -12,7 +12,8 @@ Rút ngắn thời gian chuyên chở, đảm bảo an toàn cho đối tượng
   > Gia tăng tốc độ sản xuất của CCVT sẽ không đạt được hiệu quả kinh tế nếu như không giảm được thời gian đỗ.
   > Vấn đề cơ bản là tăng cường hoạt động xếp dỡ.
 ## Container (Đơn vị hàng hóa)
-Kiện hàng phù hợp
+Kiện hàng phù hợp.
+![[container]]
 #### Lợi ích: 
 - Chủ hàng 
 	Bảo vệ hàng hóa, giảm tình trạng mất cắp
