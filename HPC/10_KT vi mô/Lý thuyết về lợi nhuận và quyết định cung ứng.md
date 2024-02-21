@@ -28,7 +28,8 @@ FC = 5; VC = 0,6Q^2 + 4Q
 1. TC = FC + VC = $0,6Q^2+4Q+5$ 
    ATC = 0,6Q + 4 + 5/Q
    AFC = 5/Q
-   AVC = 0,6Q +4  TR = $12Q - 0,4Q^2$ 
+   AVC = 0,6Q +4  
+   TR = $12Q - 0,4Q^2$ 
    MC = (TC)' = 1,2Q + 4
    MR = (TR)' = 12 - 0,8Q
    
@@ -39,6 +40,7 @@ FC = 5; VC = 0,6Q^2 + 4Q
 3. Tính mức sản lượng Q mà tại đó DN tối đa hoá doanh thu? Xác định lợi nhuận đạt được.
    Để tối đa hoá doanh thu thì: MR = 0 -> Q <=> Π = TR - TC
    Trong thực tế không phải doanh thu nhiều là có lãi -> mục tiêu ta muốn hướng đến như thế nào.
+   _____
 1. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt.
    Ta có: Π = TR - TC
 Vậy chọn Q = và P = để lợi nhuận = 7 và doanh thu lớn nhất.
