@@ -1,3 +1,4 @@
+[Giáo trình](https://www.studocu.com/vn/document/truong-dai-hoc-giao-thong-van-tai/quan-tri-van-hanh/quan-ly-khai-thac-cang-giao-trinh-quan-ly-va-khai-thac-cang/39437124)
 1. Chất xếp cont trên tàu.
 2. Tổ chức xếp dỡ cho tàu cont.
 3. Một số chỉ tiêu khai thác cảng cont
