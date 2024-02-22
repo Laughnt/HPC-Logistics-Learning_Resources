@@ -117,10 +117,14 @@ Hàng thời trang - quần áo mùa đông, vận chuyển từ VN sang Châu �
 ## Cơ sở vật chất kỹ thuật
 1. Cảng hàng không (Air port)
 Nơi đỗ cũng như cất hạ cánh của máy bay, là nơi cung cấp các điều kiện vật chất kỹ thuật và các dịch vụ cần thiết liên quan tới vận chuyển hàng hoá và hành khách.
-Có các khu vực làm hàng xuất, hàng nhập và hàng chuyển tải.
+Có các khu vực làm hàng hoá:
+	 hàng xuất, 
+	 hàng nhập,
+	 hàng chuyển tải. %%Cảng hàng không ở Hồng Kông, không nhập vào HK mà nhập vào VN%%
 2. Máy bay
    Công cụ chuyên chở của vận tải hàng không. 
 	Loại chuyên chở hành khách cũng có thể nhận chuyên chở hàng dưới boong. 
+	Loại chỉ chở hàng.
 	Loại chuyên chở hàng và loại chở kết hợp cả khách cả hàng.
 3. Trang thiết bị xếp dỡ và làm hàng
-Xếp dỡ và vận chuyển hàng hoá /làm hàng theo đơn vị trong sân bay. Ngoài ra còn có các trang thiết bị riêng lẻ như pallet máy bay, container máy bay, container đa phương thức…
+Xếp dỡ(nâng hàng) và vận chuyển hàng hoá /làm hàng theo đơn vị trong sân bay. Ngoài ra còn có các trang thiết bị riêng lẻ như pallet máy bay, container máy bay, container đa phương thức…

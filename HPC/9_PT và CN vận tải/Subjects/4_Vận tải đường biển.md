@@ -51,8 +51,8 @@ Kiện hàng phù hợp.
  Hiện tại trên thế giới có hàng trăm cảng biển phục vụ các loại tàu chở Container. Quan trọng CY và CFS. Chia làm 4 nhóm:
  Công cụ xếp dỡ lên tàu và ngược lại
  Công cụ xếp dỡ Container tại kho bãi
- Công cụ xếp dỡ lên các phương án vận tải khác như tàu hỏa, ô tô
- Công cụ xếp dỡ hàng hóa vào trong Container 
+ Công cụ xếp dỡ lên các phương án vận tải khác như tàu hỏa, ô tô.
+ Công cụ xếp dỡ hàng hóa vào trong Container.
 ## Tổ chức vận chuyển [[xuất nhập khẩu]] = Container 
 Đóng hàng vào Container
 - Người chuyên chở khi nhạn Container là hàng đã được niêm phong kẹp chì.
@@ -82,11 +82,11 @@ Chống hiện tượng hàng hoá bị nóng, hấp hơi
 - Các phương pháp gửi hàng bằng container 
   Nhận nguyên giao nguyên. Người chuyên chở chỉ nhận nguyên từ người gửi ở nơi đi và giao nguyên ở nơi nhận.
   %%Niêm phong kẹp chì%%
-  ## Trách nghiệm của người  gửi hàng
+  ## - Trách nghiệm của người gửi hàng
   Chủ hàng hoặc người được chủ hàng uỷ thác điền vào vận đơn và đưa cho đại diện hãng tàu để ký vào danh mục hàng hoá xuất khẩu.
   Sau khi ký. hãng tàu sẽ cấp giao vô container để chủ hàng mượn và giao Parking List + Seal
   Chủ hàng lấy container rỗng về địa điểm đóng hàng của mình
-  Chủ hàng mời đại diện hải quả, kiểm nghiệm, kiểm dịch, giám định đến kiểm tra và giám sát việc đóng hàng vào container.
+  Chủ hàng mời đại diện hải quan, kiểm nghiệm, kiểm dịch, giám định đến kiểm tra và giám sát việc đóng hàng vào container.
   Đóng xong -> niêm phong kẹp chì.
   Điều chỉnh: Parking List và Cargo List
   Vận chuyển và giao tại CY quy định hoặc hải quan cảng biển trước khi hết thời gian quy định (Closing Time) của từng chuyến tàu (trước 8h) và lấy Mate's Receipt
@@ -96,7 +96,7 @@ Chống hiện tượng hàng hoá bị nóng, hấp hơi
   - Công ty không có container, cần đi thuê
   - Đã thuê -> cần hải quan -> kẹp chì 
   - Vận chuyên đến CY (điền chứng từ, tự liên hệ)
-## Trách nhiệm của người chuyên chở
+## - Trách nhiệm của người chuyên chở
 Phát hành vận đơn
 Quản lý, chăm sóc [[container]] 
 Đưa contain ra cảng xếp tàu
@@ -105,7 +105,7 @@ Dỡ container tại CY
 Giao container cho người xuất trình B/L
 Thu hồi B/L
 Chịu các chi phí liên quan
-## Trách nhiệm của người nhận hàng
+## - Trách nhiệm của người nhận hàng
 Khi được thông báo hàng đến (Notice Of Arrvial) chủ hàng mang B/L gốc và giấy giới thiệu của cơ quan đến để nhận D/O
 Chủ hàng mang D/O đến hải quan làm thủ tục và đăng ký kiểm hàng, có thể đưa cả container về kho riêng hoặc ICD để kiểm tra hải quan
 %%cần phải trả container về đúng hạn%%
@@ -133,8 +133,33 @@ Thu theo hãng tàu và cảng. Shipper và Consignee đều phải đóng.
 - Cleaning Container: Vệ sinh Container
   ## Phí thu do lỗi của Khách hàng
   Đến chậm/sớm lấy hàng, chiếm dụng thời gian lưu kho.
-- Demurrage - DEM: Phí lưu container tại **bãi(cảng)** - Mình mượn container của bãi. Khách hàng đóng trực tiếp cho hãng tàu.
-  ![[[DEM]]]
-- **Detention** - DET: Phí lưu container tại **kho** - đem container ra khỏi cảng của khách hàng. Khách hàng đóng trực tiếp cho hãng tàu.
-- **Storage Charge**: Phí lưu container, chiếm dụng 1 vị trí tại cảng mà khách hàng đóng trực tiếp cho cảng 
-https://universelog.vn/dem-det-storage-la-gi-phi-luu-container-demurrage-detention/
+  - Demurrage - [[DEM]]: Phí lưu container tại **bãi(cảng)** - Mình mượn container của bãi. Khách hàng đóng trực tiếp cho hãng tàu
+    - **Storage Charge**: Phí lưu container do nhận trễ, chiếm dụng 1 vị trí tại cảng mà khách hàng đóng trực tiếp cho cảng 
+   - **Detention** - [[DET]]: Phí lưu container tại **kho** - đem container ra khỏi cảng của khách hàng. Khách hàng đóng trực tiếp cho hãng tàu.
+## Tổng quan về hoạt động của cảng
+%% Gần biển, nên kỹ thuật phát triển - Phí vận chuyển giảm
+Hỗ trợ công tác xếp dỡ - Mục đích%%
+### - Khái niệm
+Đất cảng và nước cảng.
+### - Vai trò
+Thực hiện các thủ tục pháp chế và quản lý nhà nước.
+Đầu mối giao thông đảm bảo cho thuyền tàu neo đậu.
+Xếp dỡ hàng hoá và vận chuyển hành khách.
+[Container vô chủ ở Hải Phòng](https://tuoitre.vn/se-thanh-ly-hon-3-000-container-hang-ngoai-vo-chu-o-cac-cang-20210116155559182.htm)
+> sự nhanh gọn trong việc xếp dỡ (xếp dỡ bằng thời gian đi biển)
+
+%%Ưu tiên đường quốc lộ/đường quy hoạch nhà nước -> đường vào cảng%%
+### - Chức năng
+Giảm giá thành vận tải của toàn bộ hệ thống
+Đảm bảo cho quá trình vận tải nhanh chóng.
+## Hoạt động của cảng biển 
+### - Dịch vụ:
+Xếp dỡ hàng hoá
+Lưu kho hàng hoá
+Sửa chữa tàu
+Tái chế, đóng gói
+Kiếm soát an toàn và môi trường gồm: Phòng chống cháy nổ và ô nhiễm
+An ninh cảng (HĐ hải quan)
+Sửa chữa thiết bị, máy móc của cảng.
+### - Cơ sở vật chất của cảng
+Đất
