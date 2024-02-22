@@ -1,6 +1,8 @@
 # **Vận tải hàng không với nền kinh tế** (không cần thiết)
 
 ![vận tải hàng không](https://img.icn.vn/Image.ashx?src=/uploads/logistics/world-airroute-map.jpg&width=670)
+Đường thông lệ quốc tế:
+	Đường từ HN -> SG hơi cong, trái đất quay.
 
 - Hàng không kết nối mạng lưới giao thông vận tải trên toàn thế giới.
 	Kinh doanh toàn cầu và du lịch. Thúc đẩy tăng trưởng kinh tế, đặc biệt là ở các nước đang phát triển.
@@ -27,6 +29,7 @@
 	- Những cải tiến trong việc quản lí giao thông hàng không có khả năng làm giảm tiêu hao nhiên liệu 6-12%, đồng thời việc cải thiện hoạt động còn giảm thiểu nhiên liệu thêm 2-6%.
 
 # Vị trí
+Cần vận chuyển nhanh khi là hàng mẫu, hoặc cần phải hoàn thành sớm.
 ### Kim ngạch: 
 Vận tải hàng không chiếm khoảng 20% tổng kim ngạch của buôn bán quốc tế, nhưng chỉ chiếm 1% tổng khối lượng hàng hoá.
 //Điều này gợi cho bản thân những suy nghĩ nào? Giá trị hàng hoá chiếm rất nhiều, trọng tải thấp.
@@ -38,8 +41,9 @@ Hàng có giá trị.
 Phương tiện chính trong du lịch phát triển mạnh, kết nối văn hoá các quốc gia.
 ### Vận tải đa phương tiện
 Vận tải hàng không là mắt xích quan trọng trong quy trình tổ chức vận tải đa phương thức - kết hợp 2 phương tiện vận tải trở lên.
-# Ưu điểm điểm:
+# Đặc điểm
 Thủ tục hải quan của bên hàng không rất đơn giản/trừ hàng nguy hiểm
+## Ưu điểm:
 ### Tuyến đường 
 Hai tuyến đường, chia làm hai đoạn (tìm hiểu)
 Đường thẳng, không phụ thuộc vào địa hình mặt đất, không phải đầu tư xây dựng.
@@ -59,12 +63,18 @@ Tránh sai sót dù là nhỏ nhất đối với các vụ tai nạn, vận t�
 Vận tải hàng không được đơn giản hoá về thủ tục so với các phương thức khác, do là máy bay bay thẳng, ít qua các trạm kiểm tra/kiểm soát (phát sinh nhiều giấy tờ)
 Máy bay có điểm đầu điểm cuối -> thủ tục đơn giản.
 Chúng ta mất công >< mất tiền.%%
-# Nhược điểm:
+## Nhược điểm:
 ### Cước vận tải cao
 Cước cao nhất trong các loại vận tải 
+### Hàng hoá
+Cần phân loại rất nhiều.
+### Đầu tư lớn
+Phương tiện máy bay, sân bay, đào tạo nhân lực.
+
+## Đặc điểm chuyên chở
 ## Hàng hoá
 ### Hàng hoá cứu trợ khẩn cấp
-
+Bắt buộc phải đến nhanh.
 ### Hàng hoá giới hạn
 Một số mặt hàng không thể chở được bằng đường không (hàng công kềnh, hàng khối lượng lớn, hàng nguy hiểm
 ### Hàng hoá thông thường(Normal Goods)
@@ -85,12 +95,12 @@ Vàng bạc, kịm cương, đồ trang sức.
 #### Hàng hoá dễ hư hỏng:
 Hoa quả tươi, thực phẩm đông lạnh.
 #### Hàng hoá nhạy cảm với thị trường
-Hàng thời trang - quần áo mùa đông, vận chuyển từ VN sang Châu Âu, vận chuyển tàu thuỷ sang đấy là hết thời gian
+Hàng thời trang - quần áo mùa đông, vận chuyển từ VN sang Châu Âu, vận chuyển tàu thuỷ sang đấy là hết thời gian.
 ### Hàng hóa đặc biệt
 Đây là loại hàng hoá phải đòi hỏi xử lý đặc biệt trong quá trình lưu trữ và vận chuyển liên quan đến thuộc tính hay giá trị của hàng hoá.
 ***Bao gồm các loại sau đây:**
 1. Động vật sống
-   Động vật sống khi vận chuyển đòi hỏi phải kiểm dịch và chăm sóc đặc biệt, phải vận chuyển nhanh đảm bảo chất lượng. 
+   Động vật sống khi vận chuyển đòi hỏi phải **kiểm dịch và chăm sóc đặc biệt**, phải **vận chuyển nhanh** đảm bảo chất lượng. 
 2. Hàng hóa giá trị cao
 3. Hành hóa ngoại giao
 4. Hài cốt
@@ -104,9 +114,7 @@ Hàng thời trang - quần áo mùa đông, vận chuyển từ VN sang Châu �
 		AvB = chim sống
 		AVF = cá sống nhiệt đới
 		Avx = gà sống
-### Đầu tư lớn
-Phương tiện máy bay, sân bay, đào tạo nhân lực.
-## Cơ sở vật chất kỹ thuật của đường hàng không
+## Cơ sở vật chất kỹ thuật
 1. Cảng hàng không (Air port)
 Nơi đỗ cũng như cất hạ cánh của máy bay, là nơi cung cấp các điều kiện vật chất kỹ thuật và các dịch vụ cần thiết liên quan tới vận chuyển hàng hoá và hành khách.
 Có các khu vực làm hàng xuất, hàng nhập và hàng chuyển tải.

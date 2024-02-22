@@ -118,9 +118,23 @@ Lấy phiếu xuất kho và nhận hàng
 Thu theo hãng tàu và cảng. Shipper và Consignee đều phải đóng.
 - Terminal Handing Charge - THC: Phụ phí xếp dỡ.
 - Hading Fee: Phụ phí do Forwarder đặt ra để thu từ Shipper và Consignee
+  Triển khai một số công việc như phát hành B/L, D/O, khai báo hải quan và làm một số chứng từ khác.
 - Delivery Order Fee: Phí lệnh giao hàng 
 - AMS: Phí bắt buộc khi nhập khẩu đến nước này
+  AMS là phí bắt buộc phải đóng do hải quan một số nước như Mỹ, Canada.. yêu cầu. Khi nhập khẩu vào các nước này bạn phải khai báo hàng hóa một cách chi tiết trước khi xếp dỡ lên tàu. Mức phí AMS sẽ giao động khoảng 30 USD/bill.
 - ANB: Tương tự AMS - Châu Á
 - Phí B/L chứng từ; Phí AWB, Phí chứng từ
 - Container Freight Station Fee - CFS Fee - : Phí kho CFS
-- 
+- Phí chỉnh sửa Bill of Lading - Amendment Fee:  Loại phí này chỉ áp dụng cho hàng hóa xuất khẩu ra nước ngoài - $50 -> $100
+- Bunker Adjustment Factor - BAF: Phụ phí biến động nhiên liệu theo từng thời kỳ.
+- Container Imbalance Charge - CIC: Phụ phí chuyển đổi vỏ Container (vận chuyển từ nơi thừa -> thiếu)
+- Peak Season Surcharge - PSS: Phụ phí cước vận chuyển (mùa cao điểm)
+- General Rate Increase - GRI - Phí chạy điện: Phí cho Container lạnh
+- Cleaning Container: Vệ sinh Container
+  ## Phí thu do lỗi của Khách hàng
+  Đến chậm/sớm lấy hàng, chiếm dụng thời gian lưu kho.
+- Demurrage - DEM: Phí lưu container tại **bãi(cảng)** - Mình mượn container của bãi. Khách hàng đóng trực tiếp cho hãng tàu.
+  ![[[DEM]]]
+- **Detention** - DET: Phí lưu container tại **kho** - đem container ra khỏi cảng của khách hàng. Khách hàng đóng trực tiếp cho hãng tàu.
+- **Storage Charge**: Phí lưu container, chiếm dụng 1 vị trí tại cảng mà khách hàng đóng trực tiếp cho cảng 
+https://universelog.vn/dem-det-storage-la-gi-phi-luu-container-demurrage-detention/
