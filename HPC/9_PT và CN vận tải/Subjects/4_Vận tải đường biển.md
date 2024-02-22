@@ -161,5 +161,40 @@ Tái chế, đóng gói
 Kiếm soát an toàn và môi trường gồm: Phòng chống cháy nổ và ô nhiễm
 An ninh cảng (HĐ hải quan)
 Sửa chữa thiết bị, máy móc của cảng.
+![Bản đồ tổng thể hệ thống cảng biển Việt Nam. (tháng 9/2021, tỷ lệ 1/5.000.000).](https://iotlink.com.vn/wp-content/uploads/2023/06/Ban-do-he-thong-cang-bien-Viet-Nam-1-1129x1536.png)
 ### - Cơ sở vật chất của cảng
-Đất
+#### Đất
+Vùng đất liền được giới hạn.
+- Cầu cảng
+  Tăng diện tích giải phóng hàng nhanh.
+  Kết cấu cố định hoặc kết cấu thuộc bến cảng.
+- Kho bãi
+  Thiết bị bốc dỡ hàng hoá
+  Thiết bị đường giao thông
+- Nhà xưởng
+- Trụ sở
+  Hệ thống thông tin liên lạc
+  - Thiết bị nổi.
+#### Nước
+Vùng nước biển được giới hạn để thiết lập vùng nước tại cầu cảng
+- Khu vực neo đậu
+- Khu vực chuyển tải
+- Khu tránh báo
+- Khu đón trả hoa tiêu
+  ### - Phân loại:
+  #### + Quy mô và mức độ quan trọng
+  Trong 34 cảng biển Việt Nam có 2 cảng biển loại đặc biệt là cảng biển Hải Phòng và cảng biển Bà Rịa – Vũng Tàu. Phân theo điểm:
+- 2 đặc biệt >90
+- 11 cảng biển loại I 70-90
+- 7 cảng biển loại II 50-70
+- 14 cảng biển loại II <50
+  #### + Mục đích:
+  Tổng hợp
+  Chuyên dụng
+  Trung chuyển quốc tế
+### - Đặc điểm hoạt động của cảng biển 
+- Phục vụ và sản xuất phi vật chất, không sản xuất ra để lưu trữ, nên cảng cần có 1 lượng dự trữ nhất định như tiềm năng kỹ thuật, cũng như tiềm lực về con người.
+- Luôn thay đổi theo thời gian.
+- Vị trí làm việc / Thiết bị, công cụ xếp dỡ.
+- Khí hậu -> Tính đa dạng của công việc.
+  Giao thương sản xuất không nhịp nhàng, do hàng hoá ở cảng vận chuyển theo chu kỳ nhưng không liên tục.
