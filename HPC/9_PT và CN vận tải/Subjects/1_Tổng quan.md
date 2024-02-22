@@ -57,7 +57,9 @@ Hành khách / Hàng hóa
 		Ưu điểm:
 			Mở rộng mạng lớn vận tải
 			Giảm giá thành 
-			
+			Tăng cường khả năng cạnh tranh và chất lượng hàng hoá
+			Giúp các DN tiếp cận nhanh đến với thị trường
+			Giảm thiểu những chứng từ không cần thiết cho quá trình vận chuyển hàng 
 – Vận tải đứt đoạn: 
 	việc vận chuyển được thực hiện bằng 2 hay nhiều phương thức vận tải, 
 	sử dụng 2 hay nhiều chứng từ 2 hay nhiều người chịu trách nhiệm
@@ -69,7 +71,7 @@ Vận chuyển hàng hoá và hành khách từ địa điểm này đến đị
 - 1 chặng 
 - nhiều chặng 
 - chở suốt
--  ![[1_Tổng quan#Tổ chức quá trình vận tải]] 
+-  ![[1_Tổng quan#Tổ chức quá trình vận tải]]  ^80d170
 - Lẻ hàng
 - Nguyên hàng
   %%Viettel phụ trách toàn bộ hàng lẻ: chưa đủ khối lượng -> bổ sung thêm mặt hàng khác cho đủ%%
