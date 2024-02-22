@@ -55,11 +55,10 @@ So với các phương tiện khác, thì trang thiết bị phục vụ của v
 ### Công nghệ
 Tránh sai sót dù là nhỏ nhất đối với các vụ tai nạn, vận tải hàng không đòi hỏi nhiều tiêu chuẩn rất khắt khe về công nghệ kỹ thuật.
 // Nhật Bản: Phi công không hạ hết được bánh xuống -> cất cánh tiếp và hạ cánh khi đã đủ.
-## Thủ tục (không cần thiết)
+%% Thủ tục:
 Vận tải hàng không được đơn giản hoá về thủ tục so với các phương thức khác, do là máy bay bay thẳng, ít qua các trạm kiểm tra/kiểm soát (phát sinh nhiều giấy tờ)
 Máy bay có điểm đầu điểm cuối -> thủ tục đơn giản.
-
-Chúng ta mất công >< mất tiền. 
+Chúng ta mất công >< mất tiền.%%
 # Nhược điểm:
 ### Cước vận tải cao
 Cước cao nhất trong các loại vận tải 

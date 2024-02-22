@@ -58,17 +58,69 @@ Kiện hàng phù hợp.
 - Người chuyên chở khi nhạn Container là hàng đã được niêm phong kẹp chì.
 Khi chuyền tải thì hàng hóa không được sap xếp lai.
 Những mat hàng phù hợp khi van chuyển:
-1. Hoan toan phù hợp (nhựa cao su, dụng cụ gỗ)
-2. Có điều kiện (than đa, quặng)
-3. Đac biệt
-4. Không phù hợp (phế thai)
+1. Hoàn toàn phù hợp (nhựa cao su, dụng cụ gỗ)
+2. Có điều kiện (than đá, quặng)
+3. Đặc biệt
+4. Không phù hợp (phế thải)
 - Điều kiện va cau trúc cac kiểu loai Container :
 Bên ngoài / bên trong: Chui vào bên trong kiểm tra ánh sang.
 Tình trang cửa: Không bóp méo, cửa có van đề; hàng có mùi (khử mùi)
 Tình trang vệ sinh
-1 số thông số kỹ thuat (Trọng lượng tối đa, trọng tai toan phan vỏ, thể tích Container)
+1 số thông số kỹ thuat (Trọng lượng tối đa, trọng tai toàn phần vỏ, thể tích Container)
 Tỉ trọng xếp hàng của Container: 
 $${\displaystyle R={\frac {W}{M}}}$$
 _W_(Weight) là trọng tải tối đa _của container_. 
 M(Measurement) là dung tích _của container_. 
 _R_(Ratio)là _tỷ trọng_ chất _xếp hàng của container_
+
+### Kỹ thuật chèn xếp, xếp lót hàng hoá trong container 
+Phân bổ đều hàng hoá trên mặt container 
+Chèn đêm, độn lót hàng hoá (khe hở sẽ được chèn lót)
+Gia cố hnagf hoá
+Hạn chế, giảm bớt chấn động
+Chống hiện tượng hàng hoá bị nóng, hấp hơi 
+- Các phương pháp gửi hàng bằng container 
+  Nhận nguyên giao nguyên. Người chuyên chở chỉ nhận nguyên từ người gửi ở nơi đi và giao nguyên ở nơi nhận.
+  %%Niêm phong kẹp chì%%
+  ## Trách nghiệm của người  gửi hàng
+  Chủ hàng hoặc người được chủ hàng uỷ thác điền vào vận đơn và đưa cho đại diện hãng tàu để ký vào danh mục hàng hoá xuất khẩu.
+  Sau khi ký. hãng tàu sẽ cấp giao vô container để chủ hàng mượn và giao Parking List + Seal
+  Chủ hàng lấy container rỗng về địa điểm đóng hàng của mình
+  Chủ hàng mời đại diện hải quả, kiểm nghiệm, kiểm dịch, giám định đến kiểm tra và giám sát việc đóng hàng vào container.
+  Đóng xong -> niêm phong kẹp chì.
+  Điều chỉnh: Parking List và Cargo List
+  Vận chuyển và giao tại CY quy định hoặc hải quan cảng biển trước khi hết thời gian quy định (Closing Time) của từng chuyến tàu (trước 8h) và lấy Mate's Receipt
+  Mang Mate's Receipt lấy vận đơn.
+  
+  **Nhớ:**
+  - Công ty không có container, cần đi thuê
+  - Đã thuê -> cần hải quan -> kẹp chì 
+  - Vận chuyên đến CY (điền chứng từ, tự liên hệ)
+## Trách nhiệm của người chuyên chở
+Phát hành vận đơn
+Quản lý, chăm sóc [[container]] 
+Đưa contain ra cảng xếp tàu
+Vận chuyển container 
+Dỡ container tại CY
+Giao container cho người xuất trình B/L
+Thu hồi B/L
+Chịu các chi phí liên quan
+## Trách nhiệm của người nhận hàng
+Khi được thông báo hàng đến (Notice Of Arrvial) chủ hàng mang B/L gốc và giấy giới thiệu của cơ quan đến để nhận D/O
+Chủ hàng mang D/O đến hải quan làm thủ tục và đăng ký kiểm hàng, có thể đưa cả container về kho riêng hoặc ICD để kiểm tra hải quan
+%%cần phải trả container về đúng hạn%%
+Mang toàn bộ chứng từ nhận hàng đến văn phòng quản lý tàu tại cảng để xác nhận D/O
+
+Lấy phiếu xuất kho và nhận hàng 
+%%Nhận thanh toán tiền biên lai, container sẽ lưu kho -> cần thanh toán trước. Chuyển vào ICD - cảng cạn + Phí liên quan (để xếp dỡ)%%
+
+## Phí địa phương (Local Charges)
+Thu theo hãng tàu và cảng. Shipper và Consignee đều phải đóng.
+- Terminal Handing Charge - THC: Phụ phí xếp dỡ.
+- Hading Fee: Phụ phí do Forwarder đặt ra để thu từ Shipper và Consignee
+- Delivery Order Fee: Phí lệnh giao hàng 
+- AMS: Phí bắt buộc khi nhập khẩu đến nước này
+- ANB: Tương tự AMS - Châu Á
+- Phí B/L chứng từ; Phí AWB, Phí chứng từ
+- Container Freight Station Fee - CFS Fee - : Phí kho CFS
+- 
