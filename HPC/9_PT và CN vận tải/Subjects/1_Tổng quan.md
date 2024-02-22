@@ -54,6 +54,10 @@ Hành khách / Hàng hóa
 – Vận tải đa phương thức (_Unimodal Transport_): 
 	ít nhất là 2 phương thức vận tải, 
 	chỉ sử dụng một chứng từ duy nhất và chỉ một người chịu trách nhiệm 
+		Ưu điểm:
+			Mở rộng mạng lớn vận tải
+			Giảm giá thành 
+			
 – Vận tải đứt đoạn: 
 	việc vận chuyển được thực hiện bằng 2 hay nhiều phương thức vận tải, 
 	sử dụng 2 hay nhiều chứng từ 2 hay nhiều người chịu trách nhiệm
