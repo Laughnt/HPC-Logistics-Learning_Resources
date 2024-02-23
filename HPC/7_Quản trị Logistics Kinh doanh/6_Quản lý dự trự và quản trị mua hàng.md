@@ -25,7 +25,7 @@ Sản xuất lúa đến t3 là xong, yêu cầu từ t6 mới mua -> cần dự
 Chống khủng hoảng. Trà thảo mộc - máy sấy, máy phối trộn các loại nguyên liệu, thảo mật tốn thời gian trồng, khô.
 ### Loại hình dự trữ của DN
 a. Theo vị trí của SP trên dây chuyền cung ứng 
-**Học thuộc**
+**Học thuộc** phần hình vẽ 5.1 và 5.2
 Sản xuất oto không thể hoàn thiện trong 1 ngày, vậy thì chúng ta cần phải hoàn thiện sản phẩm dở dang.
 b. Phân theo giới hạn dự trữ
 //Kho và bao bì.
@@ -34,3 +34,9 @@ Dụ trữ tối thiểu,
 Dự trữ bình quân
 Nếu vượt quá thì hàng bị ứ đọng, mất Chi phí - Thời gian - Lãi
 Không đủ NVL -> gián đoạn sản xuất -> chậm dl, KH đòi hỏi kêu gào. Mình cần dchuwnsg minh là thế nào là ổn.
+c. Dự trữ an toàn
+Làn sóng nhu cầu.
+d. Phân theo mục đích của dự trữ.
+Dự trữ thời vụ - Giá gạo, chất lương cao, cơ hội lớn.
+Dự trữ ứ đọng - kinh doanh CF, khách khong đủ, mà thời gian bảo quản những sản phẩm này không được lâu.
+Dự trữ đầu cơ tích trữ - Giá vàng 
