@@ -7,3 +7,5 @@ Chưa có sự kết nối phương thức vận tải khác.
 Chưa nói được % hàng hoá vận chuyển - 1,6%
 Quy hoạch của VN năm 2030 -> 7% khối lượng hàng hoá.
 Địa hình đất nước chúng ta dài - lối vào của ASEAN.
+
+Nếu như chúng ta đổi khổ tàu thì sẽ gặp vấn đề vối loại tàu khác.

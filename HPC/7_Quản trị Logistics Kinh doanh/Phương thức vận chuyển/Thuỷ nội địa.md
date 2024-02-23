@@ -2,7 +2,7 @@
 Địa hình miền bắc độ dốc lớn % Sơn La ở trung du miền núi phía Bác, từ HN đến Sơn La xa. Từ Mộc Châu đến Sơn La, không thể mở rộng được, đường gần núi đá -> không đi được xe to, vận chuyển đắt.
 //Cả cái tỉnh sản xuất được rất nhiều nông sản. Hà Giang, hẻm Tu Sản, vận chuyển nguuy hiểm. Ở dưới đồng bằng, sông của chúng ta nối từ trên đó xuống.
 Đường thuỷ ở VN không cạnh tranh được với đường bộ. Cảng Mỹ Thưới ở An Giang 5 năm cần phải nạo vét, do bị bồi cát - tàu lớn vào sẽ bị mắc cạn.
-
+Đồng bằng sông Cửu Long
 Thời gian vận chuyển dài
 Rủi ro hàng hoá cao
 Thiệt hại lớn

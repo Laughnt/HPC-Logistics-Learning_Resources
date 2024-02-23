@@ -12,6 +12,8 @@ Quốc lộ dài
 Hệ thống POT thu phí vận tải.
 Tỉ trọng bao nhiêu % - Vận tải đường bộ tại VN chiếm 60 - 70% khối lượng hàng hoá - chiếm tỷ trọng lớn nhất trong Việt Nam.
 
+Đường ven biên Lao Cai - Điện Biên.
+
 ### Tại sao con người ta lựa chọn vận chuyển bằng đường bộ:
 Với những ưu điểm tiện lợi, cơ động, khả năng thích nghi cao với nhiều điều kiện khí hậu và địa hình, hiêu quả kinh tế cao
 Có bao nhiêu loại xe vận tải trên đường - đủ loại
