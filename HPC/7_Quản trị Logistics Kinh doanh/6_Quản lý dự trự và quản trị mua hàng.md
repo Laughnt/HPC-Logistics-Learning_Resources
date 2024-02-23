@@ -68,4 +68,20 @@ Nhóm hàng quan trọng - Công thức của Millo / Ngộ độc Minh Chay - t
 Cần dự báo chính xác.
 #### Chiến lược dự trữ kéo
 Hệ thống xác định điểm đặt hàng kinh tế EOQ 
-PHương pháp RL (Reorder level)
+Phương pháp RL (Reorder level)
+
+__
+Hệ thống hoạch định MRP
+Hoạch định nhu cầu phân phối DRP
+Mô hình dự trữ đúng thời điểm JIT - không dự trữ (Toyota)
+Phương pháp Kanban - Thẻ Kanban 
+# Quản trị mua hàng 
+## Mua và chiến lược
+### - Nhu cầu 
+#### + Ưu
+Mua ít nên đưa ra yêu cầu nhanh 
+Vốn ít hơn
+#### + Nhược
+Cửa khẩu chính của người TQ vẫn là một cái rào sắt, còn huyện Tràng Định là một huyện chuyên trồng cây thạch đen. TQ xuất khẩu thông qua cửa khẩu. Covid19, thạch đen chúng ta ứ động ở đấy, họ không kịp thời chuẩn bị -> họ thiếu.
+
+### - Lô lớn
