@@ -40,3 +40,32 @@ d. Phân theo mục đích của dự trữ.
 Dự trữ thời vụ - Giá gạo, chất lương cao, cơ hội lớn.
 Dự trữ ứ đọng - kinh doanh CF, khách khong đủ, mà thời gian bảo quản những sản phẩm này không được lâu.
 Dự trữ đầu cơ tích trữ - Giá vàng 
+## Khái niệm quản lý dự trữ
+a. 
+Ở đâu, ở xa hơn nơi dự trữ, dẫn tới những nhu cầu sản xuất khác biệt bên trong khu vực sản xuất cần thiết.
+b. mục tiêu của quản lý dự trữ
+	Mức dịch vụ dự trữ chung - đảm bảo về lượng và chất.
+	Trình độ dịch vụ dự trữ chung 
+	Trình độ dịch vụ kế hoạch - xstk
+Làm sao để tối ưu? Đứt gãy chuỗi cung ứng do Covid, Nhật Bản thu hút lại nhà xưởng. Khi họ nhận ra quãng đường SX >tiêu thụ. Trump chiến dịch.
+#### Cấu thành chi phí đảm bảo dự trữ.
+Phân tích về điểm - Luộc trứng - ngót. Làm về xăng dầu, không làm kho ơ vùng lạnh. Đưa xăng dầu từ dưới -> Lào Cai, tự ngót trong quá trình lưu trữ và vận chuyển -> Bù tiền.
+c. một số chỉ tiêu đánh giá giảm chi phí
+Lô hàng phù hợp với quy mô doanh nghiệp của bạn.
+## Chiến lược hoá dự trữ
+FIFO Ở cảng, mình xếp container lên, sắp xếp để dễ dàng lấy.
+a. khái niệm
+b. tầm quan trọng
+- Phân loại ABC 
+  A - KH cần là có.
+  B - mỗi DN có các chính sách dự trữ khác nhau
+  C - Chống lại việc dự trữ tăng chi phí.
+- Phân tích giá trị rủi ro các nhóm hàng dự trữ
+Kỹ thuật góc phần tư.
+Nhóm hàng quan trọng - Công thức của Millo / Ngộ độc Minh Chay - thuốc để chữa cho nhóm người ngộ độc, ta cần nhờ WHO lấy 8 liều.
+**Phân biệt(so sánh) giữa chiến lực đẩy và chiến lược kéo trong việc dự trữ, áp dụng khi nào thì DN sử dụng, ưu(lợi ích)/nhược, phù hợp với SP/DN đầu hay cuối chuỗi nào?**
+#### Chiến lược đẩy
+Cần dự báo chính xác.
+#### Chiến lược dự trữ kéo
+Hệ thống xác định điểm đặt hàng kinh tế EOQ 
+PHương pháp RL (Reorder level)
