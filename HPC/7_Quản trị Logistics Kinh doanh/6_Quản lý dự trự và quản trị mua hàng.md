@@ -116,5 +116,24 @@ Từ ma trận hàng hoá, ta xác định ma trận liên qun đến danh mục
 John Joseph Coyle và ctg 2006
 - Tuỳ thuộc vào:
 B1: phân tích nhu cầu mua
-B2: 
+Ta cần lượng hoá chỉ tiêu: Tìm hiểu những thông tin cần thiết của sản phẩm liệu có phù hợp với bản thân mình.
+B2: Quyết định mua hay tự làm
+B3: Phương thức mua
+B4: Xác định nhà cung cấp
+- NCC tiềm năng / Chất lượng, độ tin cậy, nguồn lực, tài chính, chất lượng mong muốn, địa điểm của NCC
+B5: Tiếp nhận hàng hoá mua
+Kiểm tra 0 hàng hoá hư hỏng như thế nào.
+B6: Đánh giá sau mua
+## Quản lý nhà cung cấp
+### Lựa chọn nhà cung cấp tiềm năng
+Nhà cung cấp tốt là người có đúng sản phẩm, quan hệ tốt với DN.
+Mình lấy hàng từ bên C, D - DN đầu vào không ổn -> Họ tốt mình tốt.
+
+Chưa tham gia vào một chuỗi cung ứng của DN nào khác.
+### Quản lý quan hệ đối tác nhà cung cấp
+KFC + Coca Cola + Pizza Hut
+[Hệ sinh thái Tech -> Vin - Masan](https://cafef.vn/kham-pha-he-sinh-thai-nhieu-cong-ty-ty-do-nhat-cua-2-ty-phu-lap-nghiep-tu-dong-au-tu-thuc-pham-khoang-san-den-ngan-hang-dia-oc-cong-nghe-2022092910235145.chn#:~:text=Hòa%2C%20Phúc%20Long…-,Với%20hàng%20loạt%20doanh%20nghiệp%20quy%20mô%20lớn%2C%20Masan%20–%20Techcombank,đạt%205%2C3%20tỷ%20USD.)
+
+
+### Các yếu tố phát triển mối quan hệ
 
