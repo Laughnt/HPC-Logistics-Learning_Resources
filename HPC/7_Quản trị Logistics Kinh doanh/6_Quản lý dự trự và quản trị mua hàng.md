@@ -78,10 +78,43 @@ Phương pháp Kanban - Thẻ Kanban
 # Quản trị mua hàng 
 ## Mua và chiến lược
 ### - Nhu cầu 
-#### + Ưu
-Mua ít nên đưa ra yêu cầu nhanh 
-Vốn ít hơn
-#### + Nhược
+**+ Ưu**
+Mua ít nên đưa ra yêu cầu nhanh. Vốn ít hơn.
+**+ Nhược**
 Cửa khẩu chính của người TQ vẫn là một cái rào sắt, còn huyện Tràng Định là một huyện chuyên trồng cây thạch đen. TQ xuất khẩu thông qua cửa khẩu. Covid19, thạch đen chúng ta ứ động ở đấy, họ không kịp thời chuẩn bị -> họ thiếu.
 
 ### - Lô lớn
+- Vai trò và chiến lược mua:
+  Thu được lợi nhuận cao nhất có thể.
+- Mục tiêu của chiến lược mua
+# Xác lập chiến lược mua.
+B1: Phân loại hàng mua - Xác định thái độ của DN với hàng mua đó
+Chúng ta phân biệt hàng mua ít hay mua nhiều.
+
+**_- Hạng mục chiến lược:_** có rủi ro nguồn cung và tác động tài chính cao. Nhìn chung các hạng mục này hiếm, có giá trị vật chất cao như kim loại hiếm hay hợp chất có giá trị cao. Tùy thuộc vào vị thế năng lực tương đối của các bên liên quan, chiến lược mua hàng đối với các hạng mục chiến lược nhắm tới sự hợp tác hay phối hợp.  
+DN tính đến việc tự sản xuất.
+
+**_- Hạng mục đòn bẩy:_** là các hạng mục có rủi ro nguồn cung thấp nhưng tác động tài chính cao. Dù nguồn cung cấp dồi dào nhưng những hạng mục này rất quan trọng đối với tổ chức. Các hạng mục này đòi hỏi chiến lược mua hàng dựa trên đấu giá hoặc đấu thầu.
+
+**_- Hạng mục trở ngại:_** có ít tác động tới lợi nhuận nhưng lại có rủi ro nguồn cung cao. Đa phần rủi ro nguồn cung này là do sự khan hiếm về sản xuất và chủ yếu là các nhà cung cấp mới với công nghệ mới. Chính sách mua hàng đối với các hạng mục này là nhằm bảo đảm duy trì nguồn cung. Hơn nữa, phải phát triển thêm các sản phẩm và nhà cung cấp thay thế nhằm giảm sự phụ thuộc vào nhà cung cấp.
+
+**_- Hạng mục không quan trọng:_** có rủi ro nguồn cung và tác động tài chính thấp. Nguồn cung dư thừa và hạng mục chỉ đơn giản là cần đảm bảo đúng hiệu quả chức năng. Do việc giao nhận các hạng mục này thường tốn kém hơn chính giá trị của các sản phẩm, nên chúng đòi hỏi một chiến lược mua hàng nhắm tới việc giảm thiểu phức tạp trong hành chính và giao vận.
+Chiến lược dự trữ kéo, mua theo nhu cầu. Thiếu nó DN không chết.
+
+B2: Phân tích thị trường - điều tra khả năng của các nhà cung cấp và năng lực của DN.
+Sau khi chúng ta chọn, và DN đưa ra những lời nói -> DN có đang nợ nần không, có đang gom những lô lớn không?
+Mô hình Porter's Five Forces
+
+B3: Định vị chiến lược.
+Từ ma trận hàng hoá, ta xác định ma trận liên qun đến danh mục đầu tư của DN,
+
+- Khai thác: Mặt hàng chiến lược, đòn bẩy.
+- Đa dạng hoá: Thay thế đường sắt cho đường bộ.
+- Cân bằng: 
+
+## Quá trình mua
+John Joseph Coyle và ctg 2006
+- Tuỳ thuộc vào:
+B1: phân tích nhu cầu mua
+B2: 
+
