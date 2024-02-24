@@ -31,27 +31,27 @@ Vay ngắn hạn trả nợ người bán 50tr
 ___
 Bài thi sau này: 
 
-| SDĐK                              |     |      |
-| --------------------------------- | --- | ---- |
-| Tiền mặt                          | 111 | 500  |
-| NVL                               | 152 | 4500 |
-| Công cụ dụng cụ                   | 153 | 1500 |
-| Phải thu KH                       | 131 | 1000 |
-| Vay và nợ thuê tài chính          | 341 | 3000 |
-| Phải trả người bán                | 331 | 1800 |
-| Vốn đầu tư của CSH                | 411 | 2000 |
-| Chi phí SX KD dở dang             | 154 | 2000 |
-| Phải trả công nhân viên           | 334 | 200  |
-| Tiền gửi NH                       | 112 | 8000 |
-| Thuế phải nộp cho nhà nước        | 333 | 1000 |
-| Quỹ đầu tư phát triển             | 414 | 2500 |
-| Phải trả phải nộp khác            | 338 | 500  |
-| Phải thu tạm ứng                  | 141 | 500  |
-| Lợi nhuận sau thuế chưa phân phối | 421 | 2500 |
-| Thành phẩm                        | 155 | 3000 |
-| Quỹ khen thưởng, phúc lợi         | 353 | 1500 |
-| Phải thu khác                     | 138 | 1000 |
-| Nhận ký cược ký quý               | 344 | 7000 |
+| SDĐK                              |      |      |
+| --------------------------------- | ---- | ---- |
+| Tiền mặt                          | 111  | 500  |
+| NVL                               | 152  | 4500 |
+| Công cụ dụng cụ                   | 153  | 1500 |
+| Phải thu KH                       | 131  | 1000 |
+| Vay và nợ thuê tài chính          | 341  | 3000 |
+| Phải trả người bán                | 331  | 1800 |
+| Vốn đầu tư của CSH                | 4111 | 2000 |
+| Chi phí SX KD dở dang             | 154  | 2000 |
+| Phải trả công nhân viên           | 334  | 200  |
+| Tiền gửi NH                       | 112  | 8000 |
+| Thuế phải nộp cho nhà nước        | 333  | 1000 |
+| Quỹ đầu tư phát triển             | 414  | 2500 |
+| Phải trả phải nộp khác            | 338  | 500  |
+| Phải thu tạm ứng                  | 141  | 500  |
+| Lợi nhuận sau thuế chưa phân phối | 421  | 2500 |
+| Thành phẩm                        | 155  | 3000 |
+| Quỹ khen thưởng, phúc lợi         | 353  | 1500 |
+| Phải thu khác                     | 138  | 1000 |
+| Nhận ký cược ký quý               | 344  | 7000 |
 
 Trong kỳ có các nghiệp vụ phát sinh sau:
 TS tăng (N) = NV tăng (C)
@@ -62,23 +62,43 @@ Nguồn vốn: Vay nợ trả nộp quỹ lợi nhuận
 __
 Nhập kho NVL trả bằng tiền gửi NH: 500
 	TS giảm (C) = NV giảm (N)
-		Nợ TK 112
-		Có TK 153
+		Nợ TK 152
+		Có TK 111, TK 112
 Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
 	TS tăng (N) = TS giảm (C)
+		Nợ 111
+		Có 112
 Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
+	Nợ TK 141
+	Có TK 111, TK 112. TK 152
 Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
+	Nợ TK 112
+	Có TK 131
 Vay ngắn hạn để trả nợ cho người bán: 1000
+	Nợ TK 341, TK 331
+	Có TK 331
 Trích lợi nhuận sau thuế bổ sung quỹ khen thưởng phúc lợi 500
+	Nợ TK 421
+	Có TK 353
 Chuyển quỹ đầu tư PT để bổ sung vốn chủ sở hữu: 1500
+	Nợ TK 414
+	Có TK 4111
 Vay NH để thanh toán các khoản phải trả khác: 300
+	Nợ TK 338
+	Có TK 334
 Nhập kho công cụ, dụng cụ chưa trả tiền cho người bán: 300
+	Nợ TK 331
+	Có TK 153
 Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
+	Nợ TK 111, TK 112
+	Có TK 341
 Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
+	Nợ TK 133
+	Có TK 111, TK 112, TK 341
 Chi tiền gửi NH để thanh toán cho công nhân viên: 200 
 	TS tăng (N) = TS giảm (C)
-		Nợ 141
-		Có 111 
+		Nợ TK 141
+		Có TK 111 
 Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
 Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
 __
