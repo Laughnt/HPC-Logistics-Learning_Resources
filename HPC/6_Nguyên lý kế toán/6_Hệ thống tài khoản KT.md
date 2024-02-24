@@ -28,10 +28,62 @@ Vay ngắn hạn trả nợ người bán 50tr
 | ------------- | --------- | ---------------- | ---- | --------- | ------------- |
 | SDĐK: 500<br> | 100<br>20 | SDĐK: 200<br>100 | 0    | 50 <br>20 | SDĐK: 100<br> |
 | SDCK: 380     | 120       | SDCK: 300        | 0    | 70        | SDCK: 30      |
-SDĐK 
-Tiền mặt|111|500k
-NVL|152|4500k
-Công cụ dụng cụ|153|1500
-Phải thu KH|131|1000
-Vay và nợ thuê tài chính|341|3000
-Phải trả người bán|331|
+___
+Bài thi sau này: 
+
+| SDĐK                              |     |      |
+| --------------------------------- | --- | ---- |
+| Tiền mặt                          | 111 | 500  |
+| NVL                               | 152 | 4500 |
+| Công cụ dụng cụ                   | 153 | 1500 |
+| Phải thu KH                       | 131 | 1000 |
+| Vay và nợ thuê tài chính          | 341 | 3000 |
+| Phải trả người bán                | 331 | 1800 |
+| Vốn đầu tư của CSH                | 411 | 2000 |
+| Chi phí SX KD dở dang             | 154 | 2000 |
+| Phải trả công nhân viên           | 334 | 200  |
+| Tiền gửi NH                       | 112 | 8000 |
+| Thuế phải nộp cho nhà nước        | 333 | 1000 |
+| Quỹ đầu tư phát triển             | 414 | 2500 |
+| Phải trả phải nộp khác            | 338 | 500  |
+| Phải thu tạm ứng                  | 141 | 500  |
+| Lợi nhuận sau thuế chưa phân phối | 421 | 2500 |
+| Thành phẩm                        | 155 | 3000 |
+| Quỹ khen thưởng, phúc lợi         | 353 | 1500 |
+| Phải thu khác                     | 138 | 1000 |
+| Nhận ký cược ký quý               | 344 | 7000 |
+
+Trong kỳ có các nghiệp vụ phát sinh sau:
+TS tăng (N) = NV tăng (C)
+TS giảm (C) = NV giảm (N)
+TS tăng (N) = TS giảm (C)
+NV giảm (N) = NV giảm (C)
+Nguồn vốn: Vay nợ trả nộp quỹ lợi nhuận
+__
+Nhập kho NVL trả bằng tiền gửi NH: 500
+	TS giảm (C) = NV giảm (N)
+		Nợ TK 112
+		Có TK 153
+Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
+	TS tăng (N) = TS giảm (C)
+Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
+Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
+Vay ngắn hạn để trả nợ cho người bán: 1000
+Trích lợi nhuận sau thuế bổ sung quỹ khen thưởng phúc lợi 500
+Chuyển quỹ đầu tư PT để bổ sung vốn chủ sở hữu: 1500
+Vay NH để thanh toán các khoản phải trả khác: 300
+Nhập kho công cụ, dụng cụ chưa trả tiền cho người bán: 300
+Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
+Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
+Chi tiền gửi NH để thanh toán cho công nhân viên: 200 
+	TS tăng (N) = TS giảm (C)
+		Nợ 141
+		Có 111 
+Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
+Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
+__
+a, hãy phản ánh mối quan hệ của các đối tượng trong nghiệp vụ kinh tế phát sinh trên
+b, định khoản các nghiệp vụ kinh tế phát sinh 
+c, mở các tài khoản kế toán liên quan
+
+Câu a, b, trình bày theo ảnh trong máy.
