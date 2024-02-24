@@ -43,12 +43,9 @@ Khoản chi phí phát sinh liên quan đến việc tiêu thụ sản phẩm h�
 Những khoản chi phí phát sinh liên quan đến toàn DN, không thể tách riêng cho hoạt động nào, Bao gồm các chi phí tố chức điều hành, quản lý DN.
 _  
 Chú ý: Trường hợp những khoản chi phí phát sinh liên quan đến nhiều đối tượng tính giá không thể tách riêng cho từng đối tượng thì cần thiết phải phân bổ chi phí đó cho từng đối  tượng. Khi phân bổ, dựa trên quan điểm giữa những đối tượng tính giá và chỉ tiêu để có thể lựa chọn những tiêu thức thích hơn.
-(-) Bài hát tuổi 20.
+
+?) Bài hát tuổi 20.
 VD: Công ty thuê 5tr xe tải để vận chuyển 20 tấn gỗ để sản xuất bàn và ghế. Trong đó 15 tấn gỗ cho bàn và 5 ghế.
 Tính chi phí vận chuyển của mỗi đối tượng.
-
 X1 = 5/20 * 15 = 3.75
-
 X2 = 5 – 3.75 = 1.25
-
--        Nội dung báo giá.
