@@ -7,3 +7,4 @@ Câu hỏi?
 - 3 màu yêu thích:
   Tím, xanh lá cây, xanh nước biển
 - 3 nhược điểm, và tại sao. 
+___
