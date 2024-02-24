@@ -15,8 +15,8 @@ TK phải trả người bán: SDĐK 100tr
 __
 Nhận góp vốn liên doanh bằng VL 100tr
 	TS tăng (N) = NV tăng (C)
-		Nợ TK NVL: 100tr
-		Có TK: Vốn KD 100tr
+		Nợ TK NVL 100tr
+		Có TK Vốn KD 100tr
 Rút TGNH trả người bán 20tr
 	TS giảm (C) = NV giảm (N)
 Rút TGNH về quỹ TM 100tr 
@@ -69,20 +69,25 @@ Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
 		Nợ 111
 		Có 112
 Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
-	Nợ TK 141
-	Có TK 111, TK 112. TK 152
+	TS giảm (C) = NV giảm (N)
+		Nợ TK 141
+		Có TK 111, TK 112. TK 152
 Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
-	Nợ TK 112
-	Có TK 131
+	TS tăng (N) = NV tăng (C)
+		Nợ TK 112
+		Có TK 131
 Vay ngắn hạn để trả nợ cho người bán: 1000
-	Nợ TK 341, TK 331
-	Có TK 331
+	TS tăng (N) = NV tăng (C)
+		Nợ TK 341, TK 331
+		Có TK 331
 Trích lợi nhuận sau thuế bổ sung quỹ khen thưởng phúc lợi 500
-	Nợ TK 421
-	Có TK 353
+	TS giảm (C) = NV giảm (N)
+		Nợ TK 421
+		Có TK 353
 Chuyển quỹ đầu tư PT để bổ sung vốn chủ sở hữu: 1500
-	Nợ TK 414
-	Có TK 4111
+	NV giảm (N) = NV giảm (C)
+		Nợ TK 414
+		Có TK 4111
 Vay NH để thanh toán các khoản phải trả khác: 300
 	Nợ TK 338
 	Có TK 334
@@ -100,7 +105,13 @@ Chi tiền gửi NH để thanh toán cho công nhân viên: 200
 		Nợ TK 141
 		Có TK 111 
 Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
+	TS tăng (N) = NV tăng (C)
+		Nợ TK 341
+		Có TK 112
 Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
+	TS tăng (N) = NV tăng (C)
+		Nợ TK 333
+		Có TK 112
 __
 a, hãy phản ánh mối quan hệ của các đối tượng trong nghiệp vụ kinh tế phát sinh trên
 b, định khoản các nghiệp vụ kinh tế phát sinh 
