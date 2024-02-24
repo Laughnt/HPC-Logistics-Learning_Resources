@@ -24,7 +24,14 @@ Rút TGNH về quỹ TM 100tr
 Vay ngắn hạn trả nợ người bán 50tr
 	NV giảm (N) = NV giảm (C)
 
-| TK 112        | TKTS      | TK 111           | TKTS | TK 331 | TKNV          |
-| ------------- | --------- | ---------------- | ---- | ------ | ------------- |
-| SDĐK: 500<br> | 100<br>20 | SDĐK: 200<br>100 | 0    | 50     | SDĐK: 100<br> |
-| SDCK: 380     | 120       | SDCK: 300        | 0    | 50     | SDCK: 50      |
+| TK 112        | TKTS      | TK 111           | TKTS | TK 331    | TKNV          |
+| ------------- | --------- | ---------------- | ---- | --------- | ------------- |
+| SDĐK: 500<br> | 100<br>20 | SDĐK: 200<br>100 | 0    | 50 <br>20 | SDĐK: 100<br> |
+| SDCK: 380     | 120       | SDCK: 300        | 0    | 70        | SDCK: 30      |
+SDĐK 
+Tiền mặt|111|500k
+NVL|152|4500k
+Công cụ dụng cụ|153|1500
+Phải thu KH|131|1000
+Vay và nợ thuê tài chính|341|3000
+Phải trả người bán|331|
