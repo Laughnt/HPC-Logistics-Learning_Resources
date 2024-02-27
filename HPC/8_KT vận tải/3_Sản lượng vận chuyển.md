@@ -19,15 +19,16 @@ Các chỉ tiêu về thời gian trong thời gian trong cuộc đời phương
   Như sửa chữa, ngừng vì thời tiết xấu.
 - Thời gian chuyến đi.
   Là thời gian phương tiện thực hiện chuyến đi. Bao gồm thời gian chạy và xếp dỡ hàng hoá.
+  Thời gian chuyến đi = Thời gian chạy + Thời gian xếp dỡ hàng hoá
   
 #### Các hệ số thời gian khai thác phương tiện vận tải
 - Hệ số vận doanh
 Là hệ số sử dụng thời gian có của phương tiện. Phản ánh bình quân một ngày phương tiện có trong năm thì có bao nhiêu ngày phương tiện tham gia khai thác. 
 	Hệ số vận doanh = Thời gian khai thác / Thời gian có.
 - Hệ số thời gian vận hành 
-  Có bao nhiêu ngày phương tiện chạy trên tuyến.
+  Có bao nhiêu ngày phương tiện chạy trên tuyến - thời tiết, chất lượng của tàu.
 	Hệ số thời gian vận hành = Thời gian chạy / Thời gian khai thác.
-- Hệ số thời gian đỗ
+- Hệ số thời gian đỗ (năng lực của cảng)
 Bình quân một ngày phương tiện tham gia khai thác có bao nhiêu ngày phương tiện đỗ tại bến cảng. Phụ thuộc vào thủ tục hành chính và năng suất xếp dỡ của cảng biển.
 	Hệ số thời gian đỗ = Thời gian đỗ / Thời gian khai khác
 ### Giá thành vận chuyển
@@ -45,3 +46,10 @@ Chúng ta - người sử dụng, là giá cước, giờ chạy / phí vận ch
   Ví dụ: Chi phí nhiên liệu, định mức tiêu hao của nhiên liệu...
 - Giá thành thực tế
   Là tập hợp các chi phí thực tế phát sinh trong kỳ.
+Thời gian có mặt 300
+Thời gian khai thác 200
+Thời gian đỗ 70
+___
+Hệ số vận doanh 200/300
+Hệ số vận hành (200 - 70)/200
+Hệ số thời gian đỗ 70/200
