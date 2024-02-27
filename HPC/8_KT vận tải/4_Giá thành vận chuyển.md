@@ -43,7 +43,9 @@ Khoản mục chi phí sửa chữa. Các bộ phận vận chuyển đầu tư 
     Dịch vụ của 247 không thể vận chuyển lên Tây Nguyên do đội xe không có tuyến ổn định, ngoài Viettel %%
   - Điều kiện khí tượng
     Là các yếu tố thuộc về môi trường của vận tải, hướng gió, tốc độ gió, bão lốc sương mù, ảnh hưởng đến chi phí tiêu hao nhiên liệu và độ an toàn của phương tiện trong hành trình. 
-    Máy bay không thể hạ cách tại HN, lại cần hạ cánh xuống Vinh. Mọi chi phí VN airline phải chịu.
+    %%Máy bay không thể hạ cách tại HN, lại cần hạ cánh xuống Vinh. Mọi chi phí VN airline phải chịu.%%
+
   - Năng suất xếp dỡ
-    
+    Chịu ảnh hưởng bởi các yếu tố xếp dỡ năng lực của cảng -> thời gian đậu bến của phương tiện, do đó ảnh hưởng lớn đến chi phí chuyến đi của phương tiện.
   - Điều kiện thuỷ văn
+    Tốc độ dòng chảy - hướng dòng chảy - và chế độ thuỷ truyền
