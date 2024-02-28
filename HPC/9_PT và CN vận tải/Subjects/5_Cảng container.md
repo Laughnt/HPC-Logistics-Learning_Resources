@@ -59,7 +59,6 @@ Container được dỡ từ tàu lên bằng giàn khung cần trục đặt tr
   Bảo quản hàng tại CFS
   Giao hàng từ CFS lên xe tải với nhiều hàng nhập
   Nhập hàng vào xe tải lên CFS đối với chiều hàng xuất.
-  
-  ## Sơ đồ luân chuyển
-  
+  ## - Sơ đồ luân chuyển
+  ![Typical-Terminal_layout](https://www.researchgate.net/publication/245292923/figure/fig1/AS:896181001543680@1590677609672/Typical-terminal-layout-and-import-area-processes.pbm)
   
