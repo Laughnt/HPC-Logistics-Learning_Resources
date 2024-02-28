@@ -69,7 +69,7 @@ Hiện tại chưa tàu nào cao hơn 82. Cột ở dưới sẽ là 00.
 XNK: Sau thời gian này, nếu không đặt trước ở cảng thì không được lên.
 
 Cont đặc biệt cần được kiểm tra kỹ (nhiệt độ, chứng từ)
-## 3. Một số chỉ tiêu khai thác cảng cont
+## 3. Một số chỉ tiêu khai thác cảng container 
 ### Thời gian lưu bãi bình quân
 
 dt - thời gian lưu bãi bình quân của cont chuyển tải(ngày)
@@ -78,33 +78,33 @@ de - __ xuất (ngày)
 || - tỷ lệ container chuyền tải.
 
 - Thời gian cont nằm lại bãi tuỳ vào từng cont và điều kiện khai thác của hãng tàu. 
-	Thông thường thời gian lưu bãi nhập - dt = 1 -> 3.
-	de 3 -> 7 ngày
-### Hệ số diện tích bãi
-Hệ số diện tích bãi là tỷ số giữa phần diện tích bãi chữa cont (bao gồm cả đương giao thông trong bãi) so với tổng diện tích khu cảng cont.
-
+	Thông thường thời gian lưu bãi nhập - [[DET]]  = 1 -> 3.
+	[[DEM]]  3 -> 7 ngày
+### Hiệu suất khai thác bãi
+Hệ số sử dụng diện tích bãi là tỷ số giữa phần diện tích bãi chữa cont (bao gồm cả đương giao thông trong bãi) so với tổng diện tích khu cảng Container.
+$$\varepsilon=F_b/F_c$$Epsilon - Hệ số diện tích bãi.
 Fb - Diện tích bãi chứa cont (ha) - chiếm 60% diện ích tổng
 Fc - Tổng diện tích khu cảng cont (ha)
 - Hệ số: 
-	Từ 0,5 - 0,7 đối với cảng cont có bố trí khu vực làm hàng CFS.
-	Từ 0,6 - 0,8 với những cảng cont không bố trí khu vực làm hàng CFS.
+	Từ 0,5 - 0,7 đối với cảng có bố trí kho CFS.
+	Từ 0,6 - 0,8 với những cảng không bố trí kho CFS.
 ### Số ô nền trên một đơn vị diện tích bãi (TEU/ha)
-Là số ô nền có thể bố trí được trên mỗi ha diện tích bãi, nó phụ thuộc vào kiểu của hệ thống thiết bị bốc dỡ tại bãi và cách sắp xếp cont
+Là số ô nền có thể bố trí được trên mỗi ha diện tích bãi, nó phụ thuộc vào kiểu của hệ thống thiết bị bốc dỡ tại bãi và cách sắp xếp Container.
 
-
+$$L_s=G_s/F_b$$
 Ls: Số ô nền trên một đơn vị diện tích bãi.
 Gs: Tổng số ô nền trên toàn bộ diện tích bãi (TEU).
 Fb: Tổng số diện tích bãi chứa container (ha).
 ### Năng suất thông qua một đơn vị diện tích cảng
 Năng suất thông qua của một đơn vị diện tích cảng là tỷ số giữa sản lượng container thông qua cảng và tổng diện tích khu cảng container.
-
-Po - năng suất thông qua của mSố ô nền trên một đơn vị diện tích bãi chứa (1.6) Trong đóột đơn vị diện tích cảng trong năm (TEU/ha - năm)
+$$P_o=Q_c/F_c$$
+Po - năng suất thông qua
 Qc - sản lượng container thông qua cảng trong năm (TEU/ha - năm)
 Fc - tổng diện tích khu cảng container (ha)
 
 ## 4. Cảng cạn - ICD
 Định nghĩa - Giảm tải cho việc lưu kho lưu bãi và giảm các thủ tục.
-// Đi máy bay, chúng ta check-in ở nhà thay vì sân bay
+ %%Đi máy bay, chúng ta check-in ở nhà thay vì sân bay%%
 ### Vai trò của ICD trong hệ thống vận tải Container
 - Nơi tập kết, chất chứa hàng hoá và container
 - Địa điểm chính hoàn tất cả thủ tục hải quan
