@@ -91,12 +91,14 @@ Fc - Tổng diện tích khu cảng cont (ha)
 ### Số ô nền trên một đơn vị diện tích bãi (TEU/ha)
 Là số ô nền có thể bố trí được trên mỗi ha diện tích bãi, nó phụ thuộc vào kiểu của hệ thống thiết bị bốc dỡ tại bãi và cách sắp xếp cont
 
-Gs - Tổng số ô nền trên toàn bộ diện tích bãi cont (TEU)
-Fb - Diện tích bãi chứa cont
+
+Ls: Số ô nền trên một đơn vị diện tích bãi.
+Gs: Tổng số ô nền trên toàn bộ diện tích bãi (TEU).
+Fb: Tổng số diện tích bãi chứa container (ha).
 ### Năng suất thông qua một đơn vị diện tích cảng
 Năng suất thông qua của một đơn vị diện tích cảng là tỷ số giữa sản lượng container thông qua cảng và tổng diện tích khu cảng container.
 
-Po - năng suất thông qua của một đơn vị diện tích cảng trong năm (TEU/ha - năm)
+Po - năng suất thông qua của mSố ô nền trên một đơn vị diện tích bãi chứa (1.6) Trong đóột đơn vị diện tích cảng trong năm (TEU/ha - năm)
 Qc - sản lượng container thông qua cảng trong năm (TEU/ha - năm)
 Fc - tổng diện tích khu cảng container (ha)
 
