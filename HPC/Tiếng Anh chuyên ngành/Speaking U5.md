@@ -17,3 +17,7 @@ Quay - nướng để ở ngoài.
 Burger King cần phải ăn bốc - giống người Ấn / túi giấy to đùng.
 __
 Cơm / Gà chiên mắm.
+Trộn - mixture, consumn.
+
+#### Some (+) / Any (- / ?). (+) 
+Khi đi cùng câu hỏi đuôi.
