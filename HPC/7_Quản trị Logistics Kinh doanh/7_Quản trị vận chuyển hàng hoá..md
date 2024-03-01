@@ -29,3 +29,21 @@ Bắc Kinh cho phép đăng ký 500 xe con; Đăng ký sớm, mua sau, sử dụ
 Toàn bộ đi bằng tàu điện ngầm, xe bus. Giờ cao điểm ít xe oto.
 Quy hoạch đường vận tải của Bắc Kinh.
 Khai hoá dân tộc Tây Tạng. 
+
+### 6.1.4 Các yếu tố tác động
+1. Khoảng cách 
+   Thời gian 
+2. Khối lượng 
+3. Trọng khối 
+   Mỏ Vofram - sâu vào mỏ - sàng lọc cao -> hàng hoá độ chặt lớn với khối lượng nhiều,
+4. Hình dạng 
+Nông sản vận chuyển trên tàu. 
+Gia Lai, Đồng Thuận, Ninh Thuận, cánh đồng điện gió. Tách thiết bị ra nhiều phần khác nhau và lắp ráp tại nơi làm việc. 
+Đi từ thiện Sơn La, người dân cần chăn -> hút chân không để chở dễ dàng.
+5. Điều kiện bảo quản và xếp dỡ.
+   DN chuyên xử lý lúa gạo, họ hút gạo bằng máy, chuyển vào xà lan -> Năng suất, khả năng bốc dỡ - **Chở xả** 
+   
+Cửa khẩu Cốc Nam - Lạng Sơn, không đến có cont lạnh, nhưng có chỗ cắm điện - duy trì.
+Xuất khẩu Nông sản của VN năm 2023
+
+
