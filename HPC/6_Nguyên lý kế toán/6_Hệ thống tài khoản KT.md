@@ -17,12 +17,12 @@ Nhận góp vốn liên doanh bằng VL 100tr
 	TS tăng (N) = NV tăng (C)
 		Nợ TK tiền mặt 100tr
 		Có TK Vốn KD 100tr
-Rút TGNH trả người bán 20tr
+Rút TKNH trả người bán 20tr
 	TS giảm (C) = NV giảm (N)
-Rút TGNH về quỹ TM 100tr 
+Rút TKNH về quỹ TM 100tr 
 	TS tăng (N) = TS giảm (C)
 Vay ngắn hạn trả nợ người bán 50tr
-	NV giảm (N) = NV giảm (C)
+	NV tăng (N) = NV giảm (C)
 
 | TK 112        | TKTS      | TK 111           | TKTS | TK 331    | TKNV          |
 | ------------- | --------- | ---------------- | ---- | --------- | ------------- |
@@ -60,55 +60,59 @@ TS tăng (N) = TS giảm (C)
 NV giảm (N) = NV giảm (C)
 Nguồn vốn: Vay nợ trả nộp quỹ lợi nhuận
 __
-Nhập kho NVL trả bằng tiền gửi NH: 500
-	TS giảm (C) = NV giảm (N)
+1. Nhập kho NVL trả bằng tiền gửi NH: 500
+	TS t (n) = TS g (c)
 		Nợ TK 152
 		Có TK 111, TK 112
-Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
-	TS tăng (N) = TS giảm (C)
+2. Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
+	TS giảm (c) = TS t (n)
 		Nợ 111
 		Có 112
-Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
-	TS giảm (C) = NV giảm (N)
+3. Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
+	TS t (C) = TS giảm (N)
 		Nợ TK 141
 		Có TK 111, TK 112. TK 152
-Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
-	TS tăng (N) = NV tăng (C)
+4. Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
+	TS tăng (C) = NV tăng (N)
 		Nợ TK 112
 		Có TK 131
-Vay ngắn hạn để trả nợ cho người bán: 1000
-	TS tăng (N) = NV tăng (C)
+5. Vay ngắn hạn để trả nợ cho người bán: 1000
+	NV tăng (N) = NV g (C)
 		Nợ TK 341, TK 331
 		Có TK 331
-Trích lợi nhuận sau thuế bổ sung quỹ khen thưởng phúc lợi 500
-	TS giảm (C) = NV giảm (N)
+6. Trích lợi nhuận sau thuế bổ sung quỹ khen thưởng phúc lợi 500
+	NV giảm (N) = NV tăng (C)  
 		Nợ TK 421
 		Có TK 353
-Chuyển quỹ đầu tư PT để bổ sung vốn chủ sở hữu: 1500
-	NV giảm (N) = NV giảm (C)
+7. Chuyển quỹ đầu tư PT để bổ sung vốn chủ sở hữu: 1500
+	NV giảm (N) = NV t (C)
 		Nợ TK 414
 		Có TK 4111
-Vay NH để thanh toán các khoản phải trả khác: 300
-	Nợ TK 338
-	Có TK 334
-Nhập kho công cụ, dụng cụ chưa trả tiền cho người bán: 300
-	Nợ TK 331
-	Có TK 153
-Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
-	Nợ TK 111, TK 112
-	Có TK 341
-Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
-	Nợ TK 133
-	Có TK 111, TK 112, TK 341
-Chi tiền gửi NH để thanh toán cho công nhân viên: 200 
-	TS tăng (N) = TS giảm (C)
+8. Vay ngân hàng để thanh toán các khoản phải trả khác: 300
+	NV t(c) = NV g(n)
+		Nợ TK 338
+		Có TK 334
+9. Nhập kho công cụ, dụng cụ chưa trả tiền cho người bán: 300
+	TS t(n) = NV t(c)
+		Nợ TK 331
+		Có TK 153
+10. Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
+	NV t(c) = TS t (n)
+		Nợ TK 112
+		Có TK 341
+11. Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
+	TS t (N) = NV t(c) 
+		Nợ TK 133
+		Có TK 111, TK 112, TK 341
+12. Chi tiền gửi NH để thanh toán cho công nhân viên: 200 
+	TS g (c) = NV t (n)
 		Nợ TK 141
 		Có TK 111 
-Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
-	TS tăng (N) = NV tăng (C)
+13. Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
+	TS g (N) = NV tăng (C)
 		Nợ TK 341
 		Có TK 112
-Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
+14. Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
 	TS tăng (N) = NV tăng (C)
 		Nợ TK 333
 		Có TK 112
