@@ -45,5 +45,10 @@ Gia Lai, Đồng Thuận, Ninh Thuận, cánh đồng điện gió. Tách thiế
    
 Cửa khẩu Cốc Nam - Lạng Sơn, không đến có cont lạnh, nhưng có chỗ cắm điện - duy trì.
 Xuất khẩu Nông sản của VN năm 2023
-
-
+6. Trách nhiệm pháp lý
+Vận đơn đó, chuẩn bị vô cùng rõ về GHN
+7. Nhân tố thị trường vận tải 
+Mùa cao điểm của GHN là các ngày săn sales. GHTK đình công  -> dẫn đến ảnh hưởng những người bán Online. 
+Chủ tịch hiệp hội Giao thông vận tải, công ty Delta - giao thông vận tải kêu gào về việc không có xe, container thời điểm COVID-19 
+#### 6.2. Phân loại vận chuyển hàng hoá.
+Sơ đồ vận chuyển
