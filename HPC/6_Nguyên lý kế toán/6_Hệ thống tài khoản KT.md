@@ -15,7 +15,7 @@ TK phải trả người bán: SDĐK 100tr
 __
 Nhận góp vốn liên doanh bằng VL 100tr
 	TS tăng (N) = NV tăng (C)
-		Nợ TK NVL 100tr
+		Nợ TK tiền mặt 100tr
 		Có TK Vốn KD 100tr
 Rút TGNH trả người bán 20tr
 	TS giảm (C) = NV giảm (N)
@@ -115,6 +115,6 @@ Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
 __
 a, hãy phản ánh mối quan hệ của các đối tượng trong nghiệp vụ kinh tế phát sinh trên
 b, định khoản các nghiệp vụ kinh tế phát sinh 
-c, mở các tài khoản kế toán liên quan
+c, Vẽ các tài khoản kế toán liên quan - 10
 
 Câu a, b, trình bày theo ảnh trong máy.
