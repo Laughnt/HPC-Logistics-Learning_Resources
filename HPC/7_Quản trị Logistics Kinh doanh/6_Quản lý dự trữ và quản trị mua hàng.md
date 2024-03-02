@@ -1,16 +1,18 @@
-# Khái niệm
-### Tại sao phải dự trữ hàng hoá
+# 5.1. Khái niệm, chức năng và các loại hình dự trữ tại Doanh nghiệp
+### 5.1.1. Tại sao phải dự trữ hàng hoá / Khái niệm dự trữ
+**Trong nền kinh tế nói chung:** 
 - Gián đoạn không gian, thời gian.
 - Phòng ngừa thảm hoạ thiên tai
+**Trong doanh nghiệp:**
 - Cung cấp sản phẩm, dịch vụ đủ, nhanh 
 - Duy trì sản xuất, phân phối 
-Netslav - tất cả các khâu đều cần thực hiện một cái máy phối trộn. Nếu như họ dự tính sản xuất, thì sẽ cần các nguyên liệu như thế nào?
+[[Nestle]] - Nguyên liệu cần được tính toán như thế nào trước khi đưa vào máy phối trộn? [[nestle-procurement-policy-vn.pdf]] 
 Rất là nhiều DN của chúng ta kêu gào việc mất điện, máy vận hành cần thời gian (mẻ nguyên vật liệu dự kiến đã pha -> bỏ đi)
 - Tiết kiện trong mua
   Chúng ta tiết kiệm so với số tiền mua tỏng thể. 
   Ngành y tế, cung cấp dược bận việc đấu thầu. Người nằm viện cần phải mua lẻ từng hàng y tế. Nếu như Bệnh viện dods được đấu thầu, mua hàng trăm nghìn trong kho -> giá bán ra sẽ rẻ hơn.
-  Khi bệnh viên công/tư mổ cần nhiều bông gạc, quy định của nhà nước yêu cầu người bệnh cần mua.
-  ## Chức năng dự trữ tại Doanh nghiệp
+  Khi bệnh viên công/tư mổ cần nhiều bông gạc, quy định của nhà nước yêu cầu người bệnh cần mua.|
+## 5.1.2. Chức năng dự trữ tại Doanh nghiệp
 - CN1
 - CN2
 Sản xuất lúa đến t3 là xong, yêu cầu từ t6 mới mua -> cần dự trữ để bán.
@@ -23,7 +25,7 @@ Sản xuất lúa đến t3 là xong, yêu cầu từ t6 mới mua -> cần dự
     Nhà cung cấp lấy tiền, Nông dân VN, giá sầu riêng 200k/cân -> TQ sang phá giá -> nông dân phá hợp đồng với doanh nghiệp/thương nhân
     Mía đường Nghệ An, khi giá tăng thì bán cho bên khác, giá giảm.
 Chống khủng hoảng. Trà thảo mộc - máy sấy, máy phối trộn các loại nguyên liệu, thảo mật tốn thời gian trồng, khô.
-### Loại hình dự trữ của DN
+## 5.1.3. Loại hình dự trữ của DN
 a. Theo vị trí của SP trên dây chuyền cung ứng 
 **Học thuộc** phần hình vẽ 5.1 và 5.2
 Sản xuất oto không thể hoàn thiện trong 1 ngày, vậy thì chúng ta cần phải hoàn thiện sản phẩm dở dang.
