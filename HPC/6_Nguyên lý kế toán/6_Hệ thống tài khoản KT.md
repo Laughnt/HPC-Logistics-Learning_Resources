@@ -13,21 +13,21 @@ Sử dụng dữ liệu ở Chương 2, hãy mở TKNH. Biết SDĐK là 500tr,
 TK tiền mặt. SDĐK 200tr
 TK phải trả người bán: SDĐK 100tr
 __
-Nhận góp vốn liên doanh bằng VL 100tr
+1) Nhận góp vốn liên doanh bằng VL 100tr
 	TS tăng (N) = NV tăng (C)
 		Nợ TK tiền mặt 100tr
 		Có TK Vốn KD 100tr
-Rút TKNH trả người bán 20tr
+2) Rút TKNH trả người bán 20tr
 	TS giảm (C) = NV giảm (N)
-Rút TKNH về quỹ TM 100tr 
+3) Rút TKNH về quỹ TM 100tr 
 	TS tăng (N) = TS giảm (C)
-Vay ngắn hạn trả nợ người bán 50tr
+4) Vay ngắn hạn trả nợ người bán 50tr
 	NV tăng (N) = NV giảm (C)
 
-| TK 112        | TKTS      | TK 111           | TKTS | TK 331    | TKNV          |
-| ------------- | --------- | ---------------- | ---- | --------- | ------------- |
-| SDĐK: 500<br> | 100<br>20 | SDĐK: 200<br>100 | 0    | 50 <br>20 | SDĐK: 100<br> |
-| SDCK: 380     | 120       | SDCK: 300        | 0    | 70        | SDCK: 30      |
+| TK 112        | TKTS         | TK 111           | TKTS | TK 331    | TKNV          |
+| ------------- | ------------ | ---------------- | ---- | --------- | ------------- |
+| SDĐK: 500<br> | 1) 100<br>20 | SDĐK: 200<br>100 | 0    | 50 <br>20 | SDĐK: 100<br> |
+| SDCK: 380     | 120          | SDCK: 300        | 0    | 70        | SDCK: 30      |
 ___
 Bài thi sau này: 
 
@@ -96,9 +96,9 @@ __
 	TS t(n) = NV t(c)
 		Nợ TK 153
 		Có TK 331
-10. Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
+10. Vay và nợ thuê TC ngân hàng chuyển vào quỹ tiền mặt: 2000 
 	NV t(c) = TS t (n)
-		Nợ TK 111
+		Nợ TK 112
 		Có TK 341
 11. Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
 	TS t (n) = NV t(c) 
