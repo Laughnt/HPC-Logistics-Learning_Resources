@@ -1,5 +1,5 @@
 # 5.1. Khái niệm, chức năng và các loại hình dự trữ tại Doanh nghiệp
-### 5.1.1. Tại sao phải dự trữ hàng hoá / Khái niệm dự trữ
+## 5.1.1. Tại sao phải dự trữ hàng hoá / Khái niệm dự trữ
 **Trong nền kinh tế nói chung:** 
 - Gián đoạn không gian, thời gian.
 - Phòng ngừa thảm hoạ thiên tai
@@ -7,9 +7,9 @@
 - Cung cấp sản phẩm, dịch vụ đủ, nhanh 
 - Duy trì sản xuất, phân phối 
 [[Nestle]] - Nguyên liệu cần được tính toán như thế nào trước khi đưa vào máy phối trộn? [[nestle-procurement-policy-vn.pdf]] 
-Rất là nhiều DN của chúng ta kêu gào việc mất điện, máy vận hành cần thời gian (mẻ nguyên vật liệu dự kiến đã pha -> bỏ đi)
+Mẻ nguyên vật liệu, sau khi đã pha, mất điện = bỏ đi
 - Tiết kiện trong mua
-  Chúng ta tiết kiệm so với số tiền mua tỏng thể. 
+  Chúng ta tiết kiệm so với số tiền mua tổng thể. 
   Ngành y tế, cung cấp dược bận việc đấu thầu. Người nằm viện cần phải mua lẻ từng hàng y tế. Nếu như Bệnh viện dods được đấu thầu, mua hàng trăm nghìn trong kho -> giá bán ra sẽ rẻ hơn.
   Khi bệnh viên công/tư mổ cần nhiều bông gạc, quy định của nhà nước yêu cầu người bệnh cần mua.|
 ## 5.1.2. Chức năng dự trữ tại Doanh nghiệp

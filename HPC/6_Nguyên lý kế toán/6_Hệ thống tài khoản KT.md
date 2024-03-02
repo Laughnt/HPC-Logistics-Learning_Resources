@@ -66,7 +66,7 @@ __
 		Có TK 111, TK 112
 2. Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
 	TS giảm (c) = TS t (n)
-		Nợ 1125
+		Nợ 112
 		Có 111
 3. Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
 	TS t (C) = TS giảm (N)
