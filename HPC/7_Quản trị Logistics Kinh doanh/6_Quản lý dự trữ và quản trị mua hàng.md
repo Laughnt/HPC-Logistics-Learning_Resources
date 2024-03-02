@@ -7,7 +7,7 @@
 - Cung cấp sản phẩm, dịch vụ đủ, nhanh 
 - Duy trì sản xuất, phân phối 
 [[Nestle]] - Nguyên liệu cần được tính toán như thế nào trước khi đưa vào máy phối trộn? [[nestle-procurement-policy-vn.pdf]] 
-Mẻ nguyên vật liệu, sau khi đã pha, mất điện = bỏ đi
+Mẻ nguyên vật liệu, sau khi đã pha, mất điện hỏng. [Doanh nghiệp chật vật vì mất điện](https://zingnews.vn/doanh-nghiep-chat-vat-vi-mat-dien-post1437480.html)
 - Tiết kiện trong mua
   Chúng ta tiết kiệm so với số tiền mua tổng thể. 
   Ngành y tế, cung cấp dược bận việc đấu thầu. Người nằm viện cần phải mua lẻ từng hàng y tế. Nếu như Bệnh viện dods được đấu thầu, mua hàng trăm nghìn trong kho -> giá bán ra sẽ rẻ hơn.

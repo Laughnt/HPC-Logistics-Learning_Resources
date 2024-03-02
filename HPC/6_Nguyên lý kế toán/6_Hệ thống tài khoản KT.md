@@ -60,26 +60,26 @@ Trong kỳ có các nghiệp vụ phát sinh sau:
 	NV giảm (N) = NV giảm (C)
 		Nguồn vốn: Vay nợ trả nộp quỹ lợi nhuận
 __
-1. Nhập kho NVL trả bằng tiền gửi NH: 500
+1. Nhập kho NVL trả bằng tiền gửi NH: 500 nghìn
 	TS t (n) = TS g (c)
-		Nợ TK 152
-		Có TK 111, TK 112
+		Nợ TK 152: 500 nghìn
+		Có TK 112: 500 nghìn
 2. Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
 	TS giảm (c) = TS t (n)
-		Nợ 112
-		Có 111
+		Nợ 111
+		Có 112
 3. Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
 	TS t (C) = TS giảm (N)
 		Nợ TK 141
-		Có TK 111, TK 112. TK 152
+		Có TK 111
 4. Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
 	TS giảm (C) = NV tăng (N)
 		Nợ TK 112
 		Có TK 131
 5. Vay ngắn hạn để trả nợ cho người bán: 1000
 	NV tăng (N) = NV g (C)
-		Nợ TK 341, TK 331
-		Có TK 331
+		Nợ TK 331
+		Có TK 341
 6. Trích lợi nhuận sau thuế bổ sung quỹ khen thưởng phúc lợi 500
 	NV giảm (N) = NV tăng (C)  
 		Nợ TK 421
@@ -94,21 +94,21 @@ __
 		Có TK 334
 9. Nhập kho công cụ, dụng cụ chưa trả tiền cho người bán: 300
 	TS t(n) = NV t(c)
-		Nợ TK 331
-		Có TK 153
+		Nợ TK 153
+		Có TK 331
 10. Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
 	NV t(c) = TS t (n)
 		Nợ TK 111
 		Có TK 341
 11. Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
 	TS t (n) = NV t(c) 
-		Nợ TK 153
-		Có TK 111, TK 112, TK 341, TK 331
+		Nợ TK 212
+		Có TK 431
 12. Chi tiền gửi NH để thanh toán cho công nhân viên: 200 
-	TS g (c) = NV t (n)
+	TS g (c) = NV g (n)
 		Nợ TK 141
-		Có TK 111 
-13. Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
+		Có TK 112 
+13. Dùng tiền gửi ngân hàng để trả nợ vay và thuê tài chính ngắn hạn: 600
 	TS g (c) = NV g (n)
 		Nợ TK 341
 		Có TK 112
