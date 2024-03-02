@@ -1,4 +1,4 @@
-Hệ thống TKKT theo thông tư 200 ngày 22/12/2014 gồm 9 loại
+pusHệ thống TKKT theo thông tư 200 ngày 22/12/2014 gồm 9 loại
 - **Loại 1: TS** - SD: Nợ  
 - **Loại 2: TS** - SD: Nợ
 - **Loại 3: NPT** - SD: Có
