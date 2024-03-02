@@ -54,11 +54,11 @@ Bài thi sau này:
 | Nhận ký cược ký quý               | 344  | 7000 |
 
 Trong kỳ có các nghiệp vụ phát sinh sau:
-TS tăng (N) = NV tăng (C)
-TS giảm (C) = NV giảm (N)
-TS tăng (N) = TS giảm (C)
-NV giảm (N) = NV giảm (C)
-Nguồn vốn: Vay nợ trả nộp quỹ lợi nhuận
+	TS tăng (N) = NV tăng (C)
+	TS giảm (C) = NV giảm (N)
+	TS tăng (N) = TS giảm (C)
+	NV giảm (N) = NV giảm (C)
+		Nguồn vốn: Vay nợ trả nộp quỹ lợi nhuận
 __
 1. Nhập kho NVL trả bằng tiền gửi NH: 500
 	TS t (n) = TS g (c)
@@ -66,14 +66,14 @@ __
 		Có TK 111, TK 112
 2. Rút tiền gửi ngân hàng về quỹ tiền mặt: 1000
 	TS giảm (c) = TS t (n)
-		Nợ 111
-		Có 112
+		Nợ 1125
+		Có 111
 3. Chi tiền mặt để tạm ứng cho nhân viên đi công tác: 700
 	TS t (C) = TS giảm (N)
 		Nợ TK 141
 		Có TK 111, TK 112. TK 152
 4. Khách hàng trả nợ cho DN bằng tiền gửi NH: 600
-	TS tăng (C) = NV tăng (N)
+	TS giảm (C) = NV tăng (N)
 		Nợ TK 112
 		Có TK 131
 5. Vay ngắn hạn để trả nợ cho người bán: 1000
@@ -98,22 +98,22 @@ __
 		Có TK 153
 10. Vay và nợ thuê TCNH chuyển vào quỹ tiền mặt: 2000 
 	NV t(c) = TS t (n)
-		Nợ TK 112
+		Nợ TK 111
 		Có TK 341
 11. Mua sắm tài sản cố định hữu hình: 65000 bằng tiền vay và nợ thuê TCDH
-	TS t (N) = NV t(c) 
-		Nợ TK 133
-		Có TK 111, TK 112, TK 341
+	TS t (n) = NV t(c) 
+		Nợ TK 153
+		Có TK 111, TK 112, TK 341, TK 331
 12. Chi tiền gửi NH để thanh toán cho công nhân viên: 200 
 	TS g (c) = NV t (n)
 		Nợ TK 141
 		Có TK 111 
 13. Dùng tiền gửi NH để trả nợ vay và thuê tài chính ngắn hạn: 600
-	TS g (N) = NV tăng (C)
+	TS g (c) = NV g (n)
 		Nợ TK 341
 		Có TK 112
 14. Dùng tiền gửi NH để nộp thuế cho ngân sách nhà nước: 1000
-	TS tăng (N) = NV tăng (C)
+	TS giảm (c) = NV g (n)
 		Nợ TK 333
 		Có TK 112
 __
