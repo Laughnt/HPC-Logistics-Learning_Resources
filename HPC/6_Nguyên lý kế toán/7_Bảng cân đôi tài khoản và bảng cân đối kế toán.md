@@ -21,3 +21,9 @@ Số dư Nợ ghi vào (1), Số dư có ghi vào cột (2). Những TK có số
 Là một báo cáo tài chính - BCTC tổng hợp phản ánh tình hình TS và NV của đơn vị vào cuối kỳ (cuối quý, cuối năm)
 - 2- Nội dung
 ![[Pasted image 20240306135352.png]]
+Bảng này ghi bằng chữ, không ghi bằng mã số. Nhắt dữ liệu từ bên bảng cân đối tài khoản.
+- 3- Phương pháp lập:
+Để lập Bẳng CĐKT phải phản ánh tất cả các số liệu vào TK, đối chiếu, kiểm tra các số liệu đảm bảo chính xác, khớp đúng, sau đó sẽ thu nhập các thông tin từ các TKKT để lập Bảng.
+Cột ĐK: Căn cứ vào số liệu trên các chỉ tiêu tương ứng vào cột số CK của Bảng CĐKT của kỳ trước để chuyển vào.
+Cột CK: Lấy số liệu trên các TK sau khi đã khoá các TK, cụ thể:
+	Số dư bên Nợ/Có của các TK sẽ được ghi vào các chỉ tiêu tương tứng bên phần TS / NV

@@ -1,4 +1,4 @@
-pusHệ thống TKKT theo thông tư 200 ngày 22/12/2014 gồm 9 loại
+Hệ thống TKKT theo thông tư 200 ngày 22/12/2014 gồm 9 loại
 - **Loại 1: TS** - SD: Nợ  
 - **Loại 2: TS** - SD: Nợ
 - **Loại 3: NPT** - SD: Có
@@ -23,6 +23,8 @@ __
 	TS tăng (N) = TS giảm (C)
 4) Vay ngắn hạn trả nợ người bán 50tr
 	NV tăng (N) = NV giảm (C)
+
+![[Pasted image 20240306140650.png]]
 
 | TK 112        | TKTS            | TK 111           | TKTS | TK 331    | TKNV          |
 | ------------- | --------------- | ---------------- | ---- | --------- | ------------- |
