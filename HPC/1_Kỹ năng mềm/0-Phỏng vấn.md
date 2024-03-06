@@ -8,3 +8,4 @@ Câu hỏi?
   Tím, xanh lá cây, xanh nước biển
 - 3 nhược điểm, và tại sao. 
 ___
+https://drive.google.com/file/d/1soWEVy19J7MTaqTa9RQgCVMJdDO6gEyI/view
