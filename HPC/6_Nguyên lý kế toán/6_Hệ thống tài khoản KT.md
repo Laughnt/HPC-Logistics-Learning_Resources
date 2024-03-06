@@ -33,27 +33,27 @@ __
 ___
 Bài thi sau này: 
 
-| SDĐK                              |      |      |
-| --------------------------------- | ---- | ---- |
-| Tiền mặt                          | 111  | 500  |
-| NVL                               | 152  | 4500 |
-| Công cụ dụng cụ                   | 153  | 1500 |
-| Phải thu KH                       | 131  | 1000 |
-| Vay và nợ thuê tài chính          | 341  | 3000 |
-| Phải trả người bán                | 331  | 1800 |
-| Vốn đầu tư của CSH                | 4111 | 2000 |
-| Chi phí SX KD dở dang             | 154  | 2000 |
-| Phải trả công nhân viên           | 334  | 200  |
-| Tiền gửi NH                       | 112  | 8000 |
-| Thuế phải nộp cho nhà nước        | 333  | 1000 |
-| Quỹ đầu tư phát triển             | 414  | 2500 |
-| Phải trả phải nộp khác            | 338  | 500  |
-| Phải thu tạm ứng                  | 141  | 500  |
-| Lợi nhuận sau thuế chưa phân phối | 421  | 2500 |
-| Thành phẩm                        | 155  | 3000 |
-| Quỹ khen thưởng, phúc lợi         | 353  | 1500 |
-| Phải thu khác                     | 138  | 1000 |
-| Nhận ký cược ký quý               | 344  | 7000 |
+| SDĐK                              |     |      |
+| --------------------------------- | --- | ---- |
+| Tiền mặt                          | 111 | 500  |
+| NVL                               | 152 | 4500 |
+| Công cụ dụng cụ                   | 153 | 1500 |
+| Phải thu KH                       | 131 | 1000 |
+| Vay và nợ thuê tài chính          | 341 | 3000 |
+| Phải trả người bán                | 331 | 1800 |
+| Vốn đầu tư của CSH                | 411 | 2000 |
+| Chi phí SX KD dở dang             | 154 | 2000 |
+| Phải trả công nhân viên           | 334 | 200  |
+| Tiền gửi NH                       | 112 | 8000 |
+| Thuế phải nộp cho nhà nước        | 333 | 1000 |
+| Quỹ đầu tư phát triển             | 414 | 2500 |
+| Phải trả phải nộp khác            | 338 | 500  |
+| Phải thu tạm ứng                  | 141 | 500  |
+| Lợi nhuận sau thuế chưa phân phối | 421 | 2500 |
+| Thành phẩm                        | 155 | 3000 |
+| Quỹ khen thưởng, phúc lợi         | 353 | 1500 |
+| Phải thu khác                     | 138 | 1000 |
+| Nhận ký cược ký quý               | 344 | 7000 |
 
 Trong kỳ có các nghiệp vụ phát sinh sau:
 	TS tăng (N) = NV tăng (C)
