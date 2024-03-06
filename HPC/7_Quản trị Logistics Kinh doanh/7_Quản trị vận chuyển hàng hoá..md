@@ -1,4 +1,3 @@
-
 ### 6.1.3. Thành phần tham gia
 #### Hạ tầng giao thông
 Vận chuyển hàng nông sản tại Lạng Sơn - Sơn La, huyện ký kết ưu tiên cho phép xe của Bắc Giang đi trước -> nửa ngày -> sâu vào trong nội địa Trung Quốc
