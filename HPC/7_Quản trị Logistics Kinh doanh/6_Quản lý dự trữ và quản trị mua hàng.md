@@ -1,5 +1,5 @@
-# 5.1. Khái niệm, chức năng và các loại hình dự trữ tại Doanh nghiệp
-## 5.1.1. Tại sao phải dự trữ hàng hoá / Khái niệm dự trữ
+## 5.1. Khái niệm, chức năng và các loại hình dự trữ tại Doanh nghiệp
+### 5.1.1. Tại sao phải dự trữ hàng hoá / Khái niệm dự trữ
 **Trong nền kinh tế nói chung:** 
 - Gián đoạn không gian, thời gian.
 - Phòng ngừa thảm hoạ thiên tai
@@ -11,8 +11,9 @@ Mẻ nguyên vật liệu, sau khi đã pha, mất điện hỏng. [Doanh nghi�
 - Tiết kiện trong mua
   Chúng ta tiết kiệm so với số tiền mua tổng thể.
 %%Khi bệnh viên công/tư mổ cần nhiều bông gạc, quy định của nhà nước yêu cầu người bệnh cần (mua lẻ) bông gạc -> Bệnh viện được ngành y tế / cung cấp dược (trình dược viên) đấu thầu, mua hàng trăm nghìn trong kho -> Giá mua lại sẽ rẻ hơn. %%
-## Khái niệm
-●Việc chủ động hình thành thành một khối lượng hàng hóa, nguyên vật liệu tập trung ở các vị trí và thời điểm nhất định nhằm thỏa mãn yêu cầu cung ứng của sản xuất (điều kiện cho kinh doanh và tiêu dùng) được coi là dự trữ hàng hho
+### Khái niệm
+Việc chủ động hình thành thành một khối lượng hàng hóa, nguyên vật liệu tập trung ở các vị trí và thời điểm nhất định nhằm thỏa mãn yêu cầu cung ứng của sản xuất (điều kiện cho kinh doanh và tiêu dùng) được coi là dự trữ hàng hho
+
 ●Dự trữ hàng hóa là sự tích lũy và ngưng đọng:
 	vật tư, nguyên liệu
 	bán thành phẩm
@@ -20,18 +21,18 @@ Mẻ nguyên vật liệu, sau khi đã pha, mất điện hỏng. [Doanh nghi�
 	hàng hóa
 tại bất kỳ vị trí nào trong hệ thống [[Logistics]] nhằm đáp ứng nhu cầu của sản xuất và phân phối tại DN. 
 ## 5.1.2. Chức năng dự trữ tại Doanh nghiệp
-- Cho phép đạt được mức sản lượng kinh tế trong sản xuất và phân phối
+- Cho phép đạt được mức **sản lượng kinh tế** trong sản xuất và phân phối
 - Cân bằng cung cầu
-	Sản xuất lúa đến t3 là xong, yêu cầu từ t6 mới mua -> cần dự trữ để bán.
+	Sản xuất lúa xong khi tháng 3, yêu cầu mua từ tháng 6 -> cần dự trữ để bán.
 - Cho phép tạo sự chuyên môn hóa trong lĩnh vực sản xuất 
   Mình đến siêu thị mua 1-2 món hàng, tiêu dùng đa dạng / nhỏ lẻ. Trừ khi bản thân là người sản xuất thủ công, đặc biệt không thay thế được.
   - Chống lại những thay đổi bất thường
     Doanh nghiệp may của Việt Nam mình thời điểm Covid-19 [ngồi chơi](https://tapchicongthuong.vn/bai-viet/tac-dong-cua-dai-dich-covid-19-toi-cac-doanh-nghiep-det-may-tai-viet-nam-va-giai-phap-100345.htm). Đứt gãy [[chuỗi cung ứng]]. 
-	Người nông dân huỷ hợp đồng với DN khi giá tăng, và bán lại cho DN khi thương nhân người TQ huỷ mua ([sầu riêng](https://thesaigontimes.vn/gia-sau-rieng-giam-lien-tuc-la-do-trung-quoc-co-nguon-cung-moi/)/ [ốc bươu vàng](https://vietnamnet.vn/thuong-lai-trung-quoc-mua-oc-buou-vang-de-lam-gi-147730.html) , móng chân trâu) -> Thương nhân người Trung Quốc phá giá nông sản VN. 
-    Trà thảo mộc - máy sấy, máy phối trộn các loại nguyên liệu, thảo mật tốn thời gian trồng, khô
-> Chống khủng hoảng 
+	Người nông dân huỷ hợp đồng với DN khi giá tăng, và bán lại cho DN khi thương nhân người TQ huỷ mua ([sầu riêng](https://thesaigontimes.vn/gia-sau-rieng-giam-lien-tuc-la-do-trung-quoc-co-nguon-cung-moi/)/ [ốc bươu vàng](https://vietnamnet.vn/thuong-lai-trung-quoc-mua-oc-buou-vang-de-lam-gi-147730.html) / [móng chân trâu](https://vnexpress.net/chieu-thu-mua-nong-san-la-cua-thuong-lai-trung-quoc-2958099.html)) -> Thương nhân người Trung Quốc phá giá nông sản VN.
+    Trà thảo mộc - Trước khi đưa vào máy sấy, máy phối trộn các loại nguyên liệu, thảo mật sẽ tốn thời gian trồng, khô.
+> Chống khủng hoảng.
 ## 5.1.3. Loại hình dự trữ của DN
-a. Theo vị trí của SP trên dây chuyền cung ứng 
+##### a. Theo vị trí của SP trên dây chuyền cung ứng 
 **Học thuộc** phần hình vẽ 5.1 và 5.2
 Sản xuất oto không thể hoàn thiện trong 1 ngày, vậy thì chúng ta cần phải hoàn thiện sản phẩm dở dang.
 b. Phân theo giới hạn dự trữ
@@ -82,15 +83,15 @@ Hệ thống hoạch định MRP
 Hoạch định nhu cầu phân phối DRP
 Mô hình dự trữ đúng thời điểm JIT - không dự trữ (Toyota)
 Phương pháp Kanban - Thẻ Kanban 
-# Quản trị mua hàng 
-## Mua và chiến lược
-### - Nhu cầu 
+## Quản trị mua hàng 
+### Mua và chiến lược
+#### - Nhu cầu 
 **+ Ưu**
 Mua ít nên đưa ra yêu cầu nhanh. Vốn ít hơn.
 **+ Nhược**
 Cửa khẩu chính của người TQ vẫn là một cái rào sắt, còn huyện Tràng Định là một huyện chuyên trồng cây thạch đen. TQ xuất khẩu thông qua cửa khẩu. Covid19, thạch đen chúng ta ứ động ở đấy, họ không kịp thời chuẩn bị -> họ thiếu.
 
-### - Lô lớn
+#### - Lô lớn
 - Vai trò và chiến lược mua:
   Thu được lợi nhuận cao nhất có thể.
 - Mục tiêu của chiến lược mua
