@@ -9,22 +9,27 @@
 [[Nestle]] - Nguyên liệu cần được tính toán như thế nào trước khi đưa vào máy phối trộn? [[nestle-procurement-policy-vn.pdf]] 
 Mẻ nguyên vật liệu, sau khi đã pha, mất điện hỏng. [Doanh nghiệp chật vật vì mất điện](https://zingnews.vn/doanh-nghiep-chat-vat-vi-mat-dien-post1437480.html)
 - Tiết kiện trong mua
-  Chúng ta tiết kiệm so với số tiền mua tổng thể. 
-  Ngành y tế, cung cấp dược bận việc đấu thầu. Người nằm viện cần phải mua lẻ từng hàng y tế. Nếu như Bệnh viện dods được đấu thầu, mua hàng trăm nghìn trong kho -> giá bán ra sẽ rẻ hơn.
-  Khi bệnh viên công/tư mổ cần nhiều bông gạc, quy định của nhà nước yêu cầu người bệnh cần mua.|
+  Chúng ta tiết kiệm so với số tiền mua tổng thể.
+%%Khi bệnh viên công/tư mổ cần nhiều bông gạc, quy định của nhà nước yêu cầu người bệnh cần (mua lẻ) bông gạc -> Bệnh viện được ngành y tế / cung cấp dược (trình dược viên) đấu thầu, mua hàng trăm nghìn trong kho -> Giá mua lại sẽ rẻ hơn. %%
+## Khái niệm
+●Việc chủ động hình thành thành một khối lượng hàng hóa, nguyên vật liệu tập trung ở các vị trí và thời điểm nhất định nhằm thỏa mãn yêu cầu cung ứng của sản xuất (điều kiện cho kinh doanh và tiêu dùng) được coi là dự trữ hàng hho
+●Dự trữ hàng hóa là sự tích lũy và ngưng đọng:
+	vật tư, nguyên liệu
+	bán thành phẩm
+	thành phẩm
+	hàng hóa
+tại bất kỳ vị trí nào trong hệ thống [[Logistics]] nhằm đáp ứng nhu cầu của sản xuất và phân phối tại DN. 
 ## 5.1.2. Chức năng dự trữ tại Doanh nghiệp
-- CN1
-- CN2
-Sản xuất lúa đến t3 là xong, yêu cầu từ t6 mới mua -> cần dự trữ để bán.
-- CN3
-  Mình đến siêu thị mua 1-2 món hàng, tiêu dùng đa dạng, nhỏ lẻ. 
-  Trừ khi bản thân là người sản xuất thủ công, đặc biệt không thay thế được
-  - CN4
-    Covid19 - Đứt gãy [[chuỗi cung ứng]] 
-    DN may của VN mình ngồi chơi, bởi vì TQ đóng cửa, không SX hay chuyển nguyên vật liệu được.
-    Nhà cung cấp lấy tiền, Nông dân VN, giá sầu riêng 200k/cân -> TQ sang phá giá -> nông dân phá hợp đồng với doanh nghiệp/thương nhân
-    Mía đường Nghệ An, khi giá tăng thì bán cho bên khác, giá giảm.
-Chống khủng hoảng. Trà thảo mộc - máy sấy, máy phối trộn các loại nguyên liệu, thảo mật tốn thời gian trồng, khô.
+- Cho phép đạt được mức sản lượng kinh tế trong sản xuất và phân phối
+- Cân bằng cung cầu
+	Sản xuất lúa đến t3 là xong, yêu cầu từ t6 mới mua -> cần dự trữ để bán.
+- Cho phép tạo sự chuyên môn hóa trong lĩnh vực sản xuất 
+  Mình đến siêu thị mua 1-2 món hàng, tiêu dùng đa dạng / nhỏ lẻ. Trừ khi bản thân là người sản xuất thủ công, đặc biệt không thay thế được.
+  - Chống lại những thay đổi bất thường
+    Doanh nghiệp may của Việt Nam mình thời điểm Covid-19 [ngồi chơi](https://tapchicongthuong.vn/bai-viet/tac-dong-cua-dai-dich-covid-19-toi-cac-doanh-nghiep-det-may-tai-viet-nam-va-giai-phap-100345.htm). Đứt gãy [[chuỗi cung ứng]]. 
+	Người nông dân huỷ hợp đồng với DN khi giá tăng, và bán lại cho DN khi thương nhân người TQ huỷ mua ([sầu riêng](https://thesaigontimes.vn/gia-sau-rieng-giam-lien-tuc-la-do-trung-quoc-co-nguon-cung-moi/)/ [ốc bươu vàng](https://vietnamnet.vn/thuong-lai-trung-quoc-mua-oc-buou-vang-de-lam-gi-147730.html) , móng chân trâu) -> Thương nhân người Trung Quốc phá giá nông sản VN. 
+    Trà thảo mộc - máy sấy, máy phối trộn các loại nguyên liệu, thảo mật tốn thời gian trồng, khô
+> Chống khủng hoảng 
 ## 5.1.3. Loại hình dự trữ của DN
 a. Theo vị trí của SP trên dây chuyền cung ứng 
 **Học thuộc** phần hình vẽ 5.1 và 5.2
