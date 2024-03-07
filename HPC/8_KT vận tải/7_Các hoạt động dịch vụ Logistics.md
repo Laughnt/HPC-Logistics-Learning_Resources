@@ -15,3 +15,5 @@ Là loại chi phí không thay đổi, hoặc thay đổi rất ít khi khối 
 	Chi phí trả lương cho nhân viên theo thời gian
 Tỉ lệ thuận với sự thay đổi của khối lượng dịch vụ. Bao gồm chi phí nguyên vật liệu được đặt hàng, khi nhu cầu tăng thì chi phí mua nguyên vật liệu sẽ tăng. Thông qua việc tách chi phí cố định và chi phí biến đổi, giúp nhà quản trị xác định được điểm hoà vốn và lợi nhuận dự kiến.
 ![](https://amis.misa.vn/wp-content/uploads/2021/10/Hinh-2.png)
+Điểm hoà vốn = (tổng chi phí) / (giá trị trên từng sản phẩm - chi phí cố định) (SP)
+Lợi nhuận = Điểm hoà vốn * (giá trị trên từng sản phẩm - chi phí cố định) (nghìn)
