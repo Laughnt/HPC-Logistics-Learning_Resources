@@ -1,21 +1,25 @@
 ## 1.1. Đặc điểm, cấu tạo nguyên lý hoạt động
 **--------**
  ![📝](https://static.xx.fbcdn.net/images/emoji.php/v9/tcc/1/16/1f4dd.png)Là quá trình **thay đổi (di chuyển) vị trí** của **hàng hoá, hành khách** trong không gian và thời gian để nhằm thoả mãn nhu cầu nào đó của **con người.**
+ 
 Của cải vật chất của xã hội tạo ra từ
 	công nghiệp  
 	khai khoáng; 
 	công nghiệp chế biến; 
 	nông nghiệp 
 	vận tải - HĐ sản xuất vật chất / kinh tế độc lập
+
 Kết hợp của 3 yếu tố:
 	Đối tượng lao động
 	Sức lao động
 	Công cụ lao động
 %% Vận chuyển từ HN -> SG cần nhiều quá trình khác nhau%%
+
 Kinh doanh: Giảm chi phí hạng mục.
 	Không dự trữ được
 	Không sáng tạo
 	Làm thay đổi không gian
+
 - Hàng hóa đặc biệt
 	Thời gian vận chuyển ngắn -> tăng tiền chi phí (chênh lệch thời gian)
 	Chi phí vận chuyển hàng rỗng

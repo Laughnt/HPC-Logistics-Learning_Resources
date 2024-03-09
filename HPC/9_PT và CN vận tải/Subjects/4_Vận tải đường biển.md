@@ -136,7 +136,7 @@ Thu theo hãng tàu và cảng. Shipper và Consignee đều phải đóng.
   - Demurrage - [[DEM]]: Phí lưu container tại **bãi(cảng)** - Mình mượn container của bãi. Khách hàng đóng trực tiếp cho hãng tàu
     - **Storage Charge**: Phí lưu container do nhận trễ, chiếm dụng 1 vị trí tại cảng mà khách hàng đóng trực tiếp cho cảng 
    - **Detention** - [[DET]]: Phí lưu container tại **kho** - đem container ra khỏi cảng của khách hàng. Khách hàng đóng trực tiếp cho hãng tàu.
-![](https://www.mdpi.com/sustainability/sustainability-15-05536/article_deploy/html/images/sustainability-15-05536-g001.png)
+
 ## Tổng quan về hoạt động của cảng
 %% Gần biển, nên kỹ thuật phát triển - Phí vận chuyển giảm
 Hỗ trợ công tác xếp dỡ - Mục đích%%
@@ -199,3 +199,4 @@ Vùng nước biển được giới hạn để thiết lập vùng nước t�
 - Vị trí làm việc / Thiết bị, công cụ xếp dỡ.
 - Khí hậu -> Tính đa dạng của công việc.
   Giao thương sản xuất không nhịp nhàng, do hàng hoá ở cảng vận chuyển theo chu kỳ nhưng không liên tục.
+![](https://www.mdpi.com/sustainability/sustainability-15-05536/article_deploy/html/images/sustainability-15-05536-g001.png)
