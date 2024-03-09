@@ -5,9 +5,9 @@ Chiếm khoảng 50% vận tải nội địa
 Phản ánh được sự phát triển kinh tế xã hội
 - Ví dụ: 
 Nước Nga chuyên chở 60% tổng khối lượng hàng hoá, Mỹ 45% 
-## Lịch sử vận tải của đường sắt (Không cần thiết)
+## Lịch sử vận tải của đường sắt **(Không cần thiết)**
 Đường sắt Việt Nam có lịch sử lâu đời và phát triển theo 2 giai đoạn chính. 
-	 - Giai đoạn đầu tiên bắt đầu (Cuối XIX -> 1954) khi Việt Nam còn là thuộc địa của Pháp. Trong thời kỳ này, Pháp đã xây dựng và vận hành hệ thống đường sắt ở miền Bắc Việt Nam. Tuyến đường sắt đầu tiên được xây dựng từ Sài Gòn đến Phú Thọ vào năm 1881. Sau đó mở rộng sang các thành phố khác như Hưng Yên, Lào Cai và Đồng Đăng.
+	- Giai đoạn đầu tiên bắt đầu (Cuối XIX -> 1954) khi Việt Nam còn là thuộc địa của Pháp. Trong thời kỳ này, Pháp đã xây dựng và vận hành hệ thống đường sắt ở miền Bắc Việt Nam. Tuyến đường sắt đầu tiên được xây dựng từ Sài Gòn đến Phú Thọ vào năm 1881. Sau đó mở rộng sang các thành phố khác như Hưng Yên, Lào Cai và Đồng Đăng.
 	- Giai đoạn thứ hai bắt đầu từ năm 1954 đến nay, khi Việt Nam trở thành một quốc gia độc lập. Các tuyến đường sắt mới được xây dựng nhằm mục đích kết nối các thành phố lớn như Hồ Chí Minh, Đà Nẵng và Hải Phòng.
 ## Đặc điểm của vận tải đường sắt 
 #### Năng lực vận chuyển lớn

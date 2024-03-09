@@ -1,9 +1,7 @@
 # **Vận tải hàng không với nền kinh tế** (không cần thiết)
 
 ![vận tải hàng không](https://img.icn.vn/Image.ashx?src=/uploads/logistics/world-airroute-map.jpg&width=670)
-Đường thông lệ quốc tế:
-	Đường từ HN -> SG hơi cong, trái đất quay.
-
+Đường thông lệ quốc tế: Đường từ HN -> SG hơi cong, trái đất quay.
 - Hàng không kết nối mạng lưới giao thông vận tải trên toàn thế giới.
 	Kinh doanh toàn cầu và du lịch. Thúc đẩy tăng trưởng kinh tế, đặc biệt là ở các nước đang phát triển.
 - Hàng không vận chuyển gần 2 tỷ hành khách mỗi năm và 40% kim ngạch xuất khẩu liên vùng hàng hóa (theo giá trị) 40% khách du lịch quốc tế hiện nay đi du lịch bằng đường hàng không.
