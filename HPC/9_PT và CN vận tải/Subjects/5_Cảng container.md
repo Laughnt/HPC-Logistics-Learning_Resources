@@ -32,10 +32,11 @@ Cảng bố trí các tuyến giao thông, một chiều và hạn chế đến 
   Container được dỡ từ tàu xuống bằng giàn khung cần trục (Gantry crane) và  được đặt thẳng trên giá xe xếp dọc theo bến tàu. Máy léo sẽ kéo các giá xe vào bãi và xếp thành hàng ngay ngắn, trật tự.
     Ưu điểm: Khả năng lựa chọn cao, có thể dễ dàng lấy bất kỳ container nào khi cần.
 	Nhược điểm: Không thể xếp chồng các container, kho bãi chứa phải rộng rãi, đủ chỗ để bố trí các xe.
-  - **Hệ thông bốc dỡ container bằng xe nâng bên trong** Stradle Carrier System - SCS
+  - **Hệ thông bốc dỡ container bằng xe nâng bên trong** Stradle Carrier System - SCS <- Lưu tâm phần này.
 Container được dỡ từ tàu bằng giàn khung cần trục và đặt lên cầu tàu, các xe nâng bên trong chuyển vận vào bãi và xếp chồng thành 2-3 tầng (container được kẹp giữa ở khoảng trống giữa 4 chân bánh xe nâng).
 	Ưu điểm: Ít chiếm chỗ chứa, do container được để thành tầng
 	Nhược điểm gây trở ngại một phần khi cần rút hàng ra khỏi container hoặc nếu tiếp chuyển container thì phải sử dụng công cụ bốc dỡ, tốn thêm 1 thao tác nghiệp vụ.
+![](https://www.researchgate.net/publication/284190458/figure/fig2/AS:298039391604738@1448069536284/The-straddle-carrier-handling-system.png)
   - **_Hệ thống bốc dỡ bằng cẩu di động_** - RTCs
 Container được dỡ từ tàu lên bằng giàn khung cần trục đặt trực tiếp trên giá xe và được đầu máy kéo vào bãi. Cẩu di động sẽ dỡ và xếp container trên bãi thành nhiều  tầng. 
 

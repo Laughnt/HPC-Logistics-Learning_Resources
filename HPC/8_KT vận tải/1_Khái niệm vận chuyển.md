@@ -14,7 +14,7 @@ SỰ chuyên môn hoá sản xuất.
 	//Công ty sản xuất nhiên liệu và bên chuyên về lắp ráp, phân phối -> chuyển công cụ sản xuất và nhiên liệu qua 2 bên - Thế giới di động.
 	1 sản phẩm bán ra trên thị trường có sự xuất hiện của nhiều DN tham gia, mỗi DN sản xuất 1 bộ phận theo năng lực chuyên môn của mình.
 		Mình đưa các chi tiết phụ tùng về nơi sản xuất chính -> SP cuối cùng.
-//Viettel để ý người dùng.
+%%Viettel để ý người dùng%%
 
 
 #### Biến động của nhu cầu vận chuyển 

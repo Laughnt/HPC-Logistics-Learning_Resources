@@ -22,14 +22,15 @@ Thay đổi cơ cấu hàng hóa và cơ cấu thị trường
 # Cảng biển: 
 Nơi neo đậu của tàu biển, nơi phục vụ tàu và hàng hóa chuyên môn, đầu mối quan trọng của các quốc gia có biển.
 %% Nhà nước thực hiện dịch vụ hải quan, cấp phép giấy tờ ra biển, KT đủ khả năng xuất khẩu / Thiếu giấy tờ để vào nội địa %%
-#### Phân loại 
+## Phương tiện vật chất
+### Phân loại 
 - Mục đích sử dụng:
   Buôn bán
   Quân sự
   Trú ẩn
   Cá
   Cạn / thông quan nội địa ICD (Inland Container Depot)
-#### Phạm vi phục vụ
+### Phạm vi phục vụ
 Nội địa / Quốc tế.
 - Trang thiết bị của cảng
 	Trang thiết bị phục vụ tàu ra vào / Neo đậu làm hàng.
@@ -45,7 +46,7 @@ Nội địa / Quốc tế.
 	Phản ánh độ lớn / mức độ hiện đại và năng suất xếp dỡ của 1 cảng.
 	Khả năng chứa hàng của kho bãi ở cảng / chỉ tiêu năng suất <-> Thể hiện = số diện tích, vòng quay hàng hóa, sức chứa của bãi.
 	Chi phí xếp dỡ hàng hóa -> phản ánh năng suất lao động.
-#### Phương tiện vận chuyển: Tàu biển
+### Phương tiện vận chuyển: Tàu biển
 Tàu biển dùng vào mục đích kinh tế.
 - Đặc điểm kỹ thuật: 
 	Chủ tàu đặt tên và cơ quan đăng kiểm chấp nhận (Name)

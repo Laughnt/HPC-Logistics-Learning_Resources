@@ -14,7 +14,7 @@ Những căn cứ:
 - Trình tự phân ngăn và sơ đồ bãi xuất
 - Hạn chế nâng lực của tàu
 - Cảng xoay vòng
-- Phân bổ trọng lượng
+- [Phân bổ trọng lượng](https://www.researchgate.net/publication/373925038_Phat_trien_ung_dung_tim_kiem_container_rong)
 	Cont nặng xếp càng thấp càng tốt vì lý do ổn định tàu.
 	Trọng lượng được phân bổ đều hai bên vào mũi lái.
 	Phù hợp với gián hạn tải trọng trên boong và dưới hầm.
