@@ -82,7 +82,7 @@ Chống hiện tượng hàng hoá bị nóng, hấp hơi
 - Các phương pháp gửi hàng bằng container 
   Nhận nguyên giao nguyên. Người chuyên chở chỉ nhận nguyên từ người gửi ở nơi đi và giao nguyên ở nơi nhận.
   %%Niêm phong kẹp chì%%
-  ## - Trách nghiệm của người gửi hàng
+## - Trách nghiệm của người gửi hàng
   Chủ hàng hoặc người được chủ hàng uỷ thác điền vào vận đơn và đưa cho đại diện hãng tàu để ký vào danh mục hàng hoá xuất khẩu.
   Sau khi ký. hãng tàu sẽ cấp giao vô container để chủ hàng mượn và giao Parking List + Seal
   Chủ hàng lấy container rỗng về địa điểm đóng hàng của mình
@@ -136,6 +136,7 @@ Thu theo hãng tàu và cảng. Shipper và Consignee đều phải đóng.
   - Demurrage - [[DEM]]: Phí lưu container tại **bãi(cảng)** - Mình mượn container của bãi. Khách hàng đóng trực tiếp cho hãng tàu
     - **Storage Charge**: Phí lưu container do nhận trễ, chiếm dụng 1 vị trí tại cảng mà khách hàng đóng trực tiếp cho cảng 
    - **Detention** - [[DET]]: Phí lưu container tại **kho** - đem container ra khỏi cảng của khách hàng. Khách hàng đóng trực tiếp cho hãng tàu.
+![](https://www.mdpi.com/sustainability/sustainability-15-05536/article_deploy/html/images/sustainability-15-05536-g001.png)
 ## Tổng quan về hoạt động của cảng
 %% Gần biển, nên kỹ thuật phát triển - Phí vận chuyển giảm
 Hỗ trợ công tác xếp dỡ - Mục đích%%

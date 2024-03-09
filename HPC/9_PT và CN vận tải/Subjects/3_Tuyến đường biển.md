@@ -1,10 +1,11 @@
-### Ưu
+## Đặc điểm
+### - Ưu
 Tích hợp hầu hết các loại hàng hóa TMQT
 Tiêu thụ nhiên liệu/tấn hàng hóa thấp
 Năng lực trọng tải lớn
 Dễ dàng tới được các cảng khó xếp.
 Tuyến đường giao thông tự nhiên dễ dàng
-### Nhược
+### - Nhược
 8% tổn thất
 Yếu tố tự nhiên 
 Tốc độ thấp / Giải phóng hàng chậm
@@ -18,7 +19,7 @@ Thay đổi cơ cấu hàng hóa và cơ cấu thị trường
 - Tuyến đường biển: Ocean line - Hàng hải. Hình thành giữa 2 hay nhiều cảng khác nhau.
 	- Cơ sở vận chuyển kinh tế của vận tải đường [[Biển]] 
 		Tuyến đường nội địa/quốc tế - Kênh đào Suez - Panama 
-## Cảng biển: 
+# Cảng biển: 
 Nơi neo đậu của tàu biển, nơi phục vụ tàu và hàng hóa chuyên môn, đầu mối quan trọng của các quốc gia có biển.
 %% Nhà nước thực hiện dịch vụ hải quan, cấp phép giấy tờ ra biển, KT đủ khả năng xuất khẩu / Thiếu giấy tờ để vào nội địa %%
 #### Phân loại 

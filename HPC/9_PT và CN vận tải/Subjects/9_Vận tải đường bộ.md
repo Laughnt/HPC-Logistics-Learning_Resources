@@ -29,7 +29,7 @@
 3. Trách nhiệm của các bộ quy định như sau:    
 a) Bộ Giao thông vận tải xây dựng, hướng dẫn thực hiện tiêu chuẩn kỹ thuật các cấp đường;
 b) Bộ Khoa học và Công nghệ ban hành tiêu chuẩn kỹ thuật quốc gia các cấp đường.
-1. Trường hợp áp dụng tiêu chuẩn kỹ thuật đường bộ của nước ngoài thì phải được chấp thuận của cơ quan quản lý nhà nước có thẩm quyền.
+4. Trường hợp áp dụng tiêu chuẩn kỹ thuật đường bộ của nước ngoài thì phải được chấp thuận của cơ quan quản lý nhà nước có thẩm quyền.
    - Tuyến đường 
    - Phương tiện
    - Bến xe
