@@ -14,3 +14,10 @@ a2) Nguyên tắc bố trí và quy hoạch
 
 Nguyên tắc bố trí hàng hoá đi thẳng ở trong kho - Thuật toán A* 
 
+a3) Quy hoạch mặt bằng nghiệp vụ kho
+B1:
+B2: Liên đới (không rời bỏ) và kế tiếp (tính liên quan)
+B3: Bố trí các dòng / luồng hàng hoá dự trữ di chuyển.
+
+Sơ đồ bố trí các loại diện tích.
+B4: Phương pháp 
