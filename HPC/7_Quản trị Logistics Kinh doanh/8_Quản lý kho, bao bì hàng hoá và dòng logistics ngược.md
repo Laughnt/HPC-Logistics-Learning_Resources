@@ -12,3 +12,5 @@ a2) Nguyên tắc bố trí và quy hoạch
 %% Đặt hoa quả chín sớm trước hoa quả khác, thì sẽ chín nhanh hơn - Hoá học lớp 10 %% 
 Đồ đạc dùng nhiều để ở gần kho đường đi vào, hàng lâu không dùng thì để ở sâu bên trong.
 
+Nguyên tắc bố trí hàng hoá đi thẳng ở trong kho - Thuật toán A* 
+
