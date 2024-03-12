@@ -51,3 +51,43 @@ Mùa cao điểm của GHN là các ngày săn sales. GHTK đình công  -> dẫ
 Chủ tịch hiệp hội Giao thông vận tải, công ty Delta - giao thông vận tải kêu gào về việc không có xe, container thời điểm COVID-19 
 #### 6.2. Phân loại vận chuyển hàng hoá.
 Sơ đồ vận chuyển
+
+### 6.3.3. Lựa chọn người vận tải
+##### 6.3.3.1 Tiêu chuẩn
+> Câu hỏi liên quan 
+
+a)
+Đi vào bến xe / sân bay đều cần tiền.
+b) 
+c) Mất lòng tin - độ tin cậy sẽ khó xây dựng. Lô hàng hỏng, cốc coffee pha sai thì bỏng. 
+Tình trạng tan tầm - VOV giao thông.
+d) 
+e)  
+##### 6.3.3.2 Quá trình lựa chọn 
+Điểm số thấp -> Lựa chọn.
+### 6.3.4 Tích hợp trong vận tải 
+a) Thiết kế mạng lưới theo mật độ khách hàng và khoảng cách.
+b) Qui mô khách hàng
+c) Giá trị khách hàng
+
+### 6.3.5
+?) Các công việc cụ thể gồm?
+### 6.3.6. Hệ thống chứng từ trong vận chuyển hàng hoá
+Hệ thống chứng từ quốc tế cần nhiều chứng từ - Hải quan, nhiều yêu cầu từ các nước.
+1) Vận chuyển nội địa.
+[[vận đơn]] 
+hoá đơn vận chuyển
+khiếu nại vận chuyển
+2) Vận chuyển quốc tế
+Mỗi nơi - điều kiện chính trị, yêu cầu quốc tế. 
+
+?) Tên các thành phần vận chuyển
+Các yếu tố ảnh hưởng (8 yếu tố) tới vận tải
+KN thời gian vận chuyển / Khoảng cách vận chuyển
+Mùa cao điểm vận chuyển
+Phân loại theo phương thức vận chuyển - Bảng 6.1
+Tiêu chuẩn lựa chọn nhà cung cấp DV
+Chi phí vận tải (3 loại là gì)
+Quãng đường dài (>500km)- **Tốc độ**
+Tích hợp trong vận chuyển vận tải gồm?
+Nguyên tắc bố trí và quy hoạch trong nhà kho.
