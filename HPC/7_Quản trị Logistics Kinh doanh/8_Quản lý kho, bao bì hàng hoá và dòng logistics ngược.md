@@ -21,3 +21,31 @@ B3: Bố trí các dòng / luồng hàng hoá dự trữ di chuyển.
 
 Sơ đồ bố trí các loại diện tích.
 B4: Phương pháp 
+- Không tối ưu
+- Việc sử dụng vị trí 
+- Để ở chỗ dễ dàng tiếp cận nhất, dễ dàng thấu hiểu
+- Dùng trong kho tự động, kho thông minh,  quản lý bằng máy móc, đưa hàng hoá một cách dễ dàng nhất.
+
+b. Tổ chức lao động trong kho
+- Đặc điểm lao động ở kho:
+Vị trí làm việc không được dễ dàng. 
+Hàng về không ổn.
+Quản lý rất nhiều lao động thủ công - trình độ không cao.
+- Mục tiêu của tổ chức lao động nhà kho
+Tính liên tục vô cùng quan trọng - **Tối ưu / Chuỗi ** là 2 từ quan trọng.
+- Nguyên tắc tổ chức lao động trong kho.
+Chuyên môn
+Hợp tác hoá, kỹ thuật hoá.
+##### Các loại lao động trong kho
+NV kiểm nghiệm - Hàng mẫu trong kho so sánh với hàng ở bên ngoài.
+NV điều khiển thiết bị vận chuyển.
+%%Đường cao tốc HN - HP 100km giá 200k/lượt -> Đi vòng để tối ưu chi phí.
+%%
+c. An toàn trong kho
+### 7.1.2. 
+##### 7.1.2.1 Nhà kho truyền trống.
+Kho công, cho thuê, hàng hoá ra vào nhiều nhất có thể để tăng só tiền kiếm được.
+**Bảng 7.7**
+
+Quy trình tác nghiệm kho là khó nhất -> 7 đúng trong Logistics.
+Quản trị kho khác với kho truyền thống theo hướng giải quyết của kho hàng hoá hiện đại. 

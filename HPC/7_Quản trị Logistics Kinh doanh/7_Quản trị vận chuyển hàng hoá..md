@@ -91,3 +91,4 @@ Chi phí vận tải (3 loại là gì)
 Quãng đường dài (>500km)- **Tốc độ**
 Tích hợp trong vận chuyển vận tải gồm?
 Nguyên tắc bố trí và quy hoạch trong nhà kho.
+Tên của các phương pháp xác định hàng trong kho và tính chất của nó.
