@@ -23,6 +23,7 @@ Sau khi đoạn video bị xóa khỏi YouTube với lí do vi phạm bản quy�
 - Trước hết, Nestlé tạm ngừng mua dầu cọ từ Sinar Mars và tổ chức họp với Greenpeace để công khai thông tin chi tiết về chuỗi cung ứng dầu cọ.
 - Để giải quyết vấn đề nguồn cung lâu dài, Nestlé lựa chọn Forest Trust - một tổ chức phi lợi nhuận có thể được coi là “chọn mặt gửi vàng” của doanh nghiệp đồng thời đã ký hợp đồng làm ăn bền vững với những nhà cung cấp dầu cọ uy tín.
 - Vào tháng 5/2010, Nestlé cũng đã tham gia Hội nghị bàn tròn về sản xuất dầu cọ bền vững - một hiệp hội các công ty và đối tác khác liên kết với mục tiêu loại trừ việc sản xuất dầu cọ không bền vững gây ảnh hưởng xấu đến môi trường thiên nhiên.
+  
 Qua tình huống vô cùng thực tế của Nestle, phải thấy rằng khi đối diện với khủng hoảng, điều quan trọng là cần **xác định nguyên nhân và tập trung khắc phục, giải quyết nó** thay vì việc cố gắng xóa bỏ các thông tin trên mạng xã hội. Bởi khi mạng xã hội phát triển mạnh mẽ thì dư luận sẽ nắm trong tay quyền điều khiển hành vi nhờ việc xây dựng, chia sẻ, lan truyền nội dung trên các nền tảng mạng xã hội.
 
 > cân bằng giữa lợi ích kinh tế và lợi ích môi trường 

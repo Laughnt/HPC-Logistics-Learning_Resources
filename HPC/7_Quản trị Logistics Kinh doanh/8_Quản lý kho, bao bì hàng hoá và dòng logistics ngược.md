@@ -7,5 +7,8 @@ a. Quy hoạch không gian và phân bố vị trí nhà kho
 a1) Mục tiêu bố trí và sắp xếp không gian
 - Bố trí cho việc cơ giới hoá
 a2) Nguyên tắc bố trí và quy hoạch
- 
-b. Tổ chức lao động trong kho
+- Kho có trần - đặt giới hạn khoảng cách.
+- Dễ dàng cho việc cơ khí hoá và tối ưu hoá.
+%% Đặt hoa quả chín sớm trước hoa quả khác, thì sẽ chín nhanh hơn - Hoá học lớp 10 %% 
+Đồ đạc dùng nhiều để ở gần kho đường đi vào, hàng lâu không dùng thì để ở sâu bên trong.
+

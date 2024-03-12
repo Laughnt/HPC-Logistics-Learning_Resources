@@ -1,3 +1,4 @@
+
 >[!note]
 >Thông thường, khi đọc, nghe hay tìm hiểu về một vấn đề gì đó, chúng ta đi theo chu trình sau:
 >
