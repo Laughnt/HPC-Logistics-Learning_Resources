@@ -49,3 +49,10 @@ Kho công, cho thuê, hàng hoá ra vào nhiều nhất có thể để tăng s�
 
 Quy trình tác nghiệm kho là khó nhất -> 7 đúng trong Logistics.
 Quản trị kho khác với kho truyền thống theo hướng giải quyết của kho hàng hoá hiện đại. 
+- Lợi ích:
+##### 7.1.2.3 Dòng nghiệp vụ trong nhà khoPu
+
+(1) Crossdocking [](https://www.mdpi.com/1999-4893/15/8/265)
+(2) Dòng đầy đủ
+
+Thế Quyền, Văn Quân, Thu Trang,
