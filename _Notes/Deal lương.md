@@ -51,7 +51,21 @@ Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, m
 
 Cái từ khoá ==“offer từ 1 số cty khác”== nó khá đắt giá ấy, bạn tự ngẫm nhé để tự tin nói câu này thì tất nhiên bạn phải đi phỏng vấn nhận offer ở nhiều nơi, ít nhất là phải tham gia nhiều cuộc phỏng vấn - “dạ vì ký hợp đồng bảo mật NDA và tôn trọng các bên thứ ba nên em xin phép được bảo mật thông tin”.
 
-Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện quyết định lương sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp.
+Đổi công ty (khi còn trẻ) và đổi chức danh linh tinh là một vấn đề.
+
+Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện quyết định lương sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp. Nếu mức đề xuất không quá vượt budget - khoản tiền hiện có thì họ vẫn để 1 khoản dự phòng (gọi là buffer) cho những case - trường hợp đặc biệt tốt. Còn không thì bye bye cho lẹ, bên ngoài kia cả nghìn người.
+
+![[Pasted image 20240313111128.png]]
+
+- Package là tổng lương nhận trong năm. Cách tính
+	Giả sử lương mong muốn của bạn là X. 
+	Thì phần lương cứng hàng tháng sẽ là a% của X
+	Phần lương mềm là b% của X
+Tuy nhiên phần lương mềm sẽ trả theo một khoảng thời gian.
+Ngoài ra khi thử việc thì chỉ được 85% * a% * X, tính Package thế này thì người lao động thiệt .
+
+> Nên là khi thương lượng cứ hỏi là thẳng 13 hay 14 tháng lương rồi chia dự kiến ra.
+> Mình không quan trọng mức lương mình nhận được một tháng là bao nhiêu, miễn là cty xác nhận gửi cho mình đày đủ khoản đó.
 
 #### **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
 
@@ -85,7 +99,8 @@ Sợ là chưa tới được đoạn deal lương thì được mời về rồ
 
 **6. Phỏng vấn**
 
-Phỏng vấn tìm người là 1 quá trình mệt mỏi, càng tuyển người cấp độ cao thì càng mệt, nên nếu các bạn hợp với vị trí đó, cty thèm các bạn lắm! Thời buổi hiện nay cung nhiều cầu ít, mà tư bản bao giờ chả muốn vắt kiệt tới đồng cuối cùng, HR người ta có nhiều sự lựa chọn mà. Nên tốt nhất là đầu tư cho bản thân để bạn trở thành 1 cá thể có giá trị khi mà cty bỏ lỡ bạn thì họ sẽ tiếc nuối thì khi đó lương là ở trong tay bạn 🐧
+Phỏng vấn tìm người là 1 quá trình mệt mỏi, ==càng tuyển người cấp độ cao thì càng mệt==, nên nếu các bạn hợp với vị trí đó, cty thèm các bạn lắm! Thời buổi hiện nay cung nhiều cầu ít, mà tư bản bao giờ chả muốn vắt kiệt tới đồng cuối cùng, HR người ta có nhiều sự lựa chọn mà. Nên tốt nhất là đầu tư cho bản thân để bạn trở thành 1 cá thể có giá trị khi mà cty bỏ lỡ bạn thì họ sẽ tiếc nuối thì khi đó lương là ở trong tay bạn 🐧
+	Đúng thực sự để tìm được một người Senior hợp với nhu cầu của công ty, chưa bao gồm đến mức lương thì cũng rất khó rồi nên nếu bác nào cảm thấy mình hợp thì cứ tự tin thương lượng. Còn đối với tầm kỹ năng Fresher, Junior thì không nên căng quá, quan trọng cơ hội học hỏi để phát triển bản thân như nào.
 
 Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đến việc xếp đặt vị thế thương lương lương nên mình sẽ liệt kê ra vài điểm sơ sơ mà có thể các bạn (non-tech - không phải dân lập trình) sẽ bỏ qua:
 
@@ -117,6 +132,9 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 Tư bản tăng lương nhỏ giọt, mình từng deal lương hớ, thấp hơn bạn thực tập sinh ở trong công ty, tham khảo các tiền bối ở trong công ty lương tính bằng $. 
 
 Tham khảo mức lương dù có làm x2, x3 người khác cũng tối đa không quá 10 -> 20%. Lặng lẽ nâng cao giá trị nội tại, thông qua tiếp xúc cũng có thể biết được năng lực của sếp / trưởng phòng, có thể học hỏi được hay không.
+
+
+
 
 
 
