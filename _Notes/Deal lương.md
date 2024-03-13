@@ -59,41 +59,46 @@ Tất cả những công đoạn trước đó, phỏng vấn, hỏi qua hỏi l
 
 Dù họ đưa offer trước hay sau, thì họ cũng sẽ có 1 con số, lúc này tuỳ vào tình hình và nhu cầu cũng như mức độ hài lòng với con số họ đưa ra, mình sẽ nhận hoặc tiếp tục thương lượng tiếp. 
 
-%%Ví dụ họ quyết định cho mình 27tr cùng mấy cuốn tập làm văn, mình sẽ nói đại ý là mình hiểu là cần ít nhất 2-6 tháng để khẳng định năng lực, nên mình sẽ nhận thử việc với mức này, và sẽ deal lại sau 2 tháng thử việc, hoặc sau 6 tháng làm, kiểu vậy. Hoặc cân nhắc về việc nhận mức lương này + % commission dự án hoặc cổ phần công ty…
-%%
-Trường hợp đẹp nhất xảy ra, họ offer trước và offer hẳn con số 35tr, là cao hơn hẳn 5tr (17%) so với kỳ vọng trong đầu mình, tuỳ tình hình, mình vẫn có thể tiếp tục deal lên, hoặc nhận cũng được, nhớ là đừng có ngại kiểu sợ họ thấy mình trả treo như bán cá ngoài chợ lại đánh giá mình thấp, đồng tiền đi liền khúc ruột mà, họ đi trước mình tất nhiên sẽ hiểu rõ luật chơi hơn mình.
+- Ví dụ: 
+Họ quyết định cho mình 27tr cùng mấy cuốn tập làm văn, mình sẽ nói đại ý là mình hiểu là ==cần ít nhất 2-6 tháng== để khẳng định năng lực, nên mình sẽ ==nhận thử việc== với mức này, và sẽ quyết định lại sau 2 tháng thử việc, hoặc sau 6 tháng làm, kiểu vậy. Hoặc cân nhắc về việc nhận mức lương này + % tiền hoa hồng dự án hoặc cổ phần công ty…
 
-Mình tâm niệm câu này trong đầu: hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.
+Trường hợp đẹp nhất xảy ra, họ đưa ra trước và quyết định hẳn con số 35tr, là cao hơn hẳn 5tr (17%) so với kỳ vọng trong đầu mình, tuỳ tình hình, mình vẫn có thể tiếp tục quyết định đi lên, hoặc nhận cũng được (nếu không nổi với khối lượng công việc này thì sau này cty sẽ hạ dần mức lương xuống căn bản)
+Nhớ là đừng có ngại, kiểu sợ họ thấy mình trả treo như bán cá ngoài chợ lại đánh giá mình thấp, đồng tiền đi liền khúc ruột mà, họ đi trước mình tất nhiên sẽ hiểu rõ luật chơi hơn mình.
 
-**5. Cần hiểu luật chơi (để còn chơi theo luật)**
+> Mình tâm niệm câu này trong đầu: Hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.
 
-Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này.
+#### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
 
-1 ví dụ ae hay thấy là phỏng vấn xong thì đi về, rồi hôm sau HR sẽ điện và thông báo mức lương. Nguyên do là quy trình của cty sẽ là phỏng vấn chuyên môn, xong họ chấm, người phỏng vấn đưa ra mức tối đa có thể trả cho ứng viên => chuyển sang cho HR, HR sẽ liên hệ và tiếp tục làm tập làm văn để hạ con số đó xuống, để làm chi? Để giảm quỹ lương công ty, đôi khi đó là 1 phần trong KPI công việc của họ. Nên nếu được, ae cố gắng chốt cái offer trong cuộc phỏng vấn luôn để chủ động, còn nếu mà deal tiếp qua điện thoại thì mình cần là người chủ động, kiểu: “Offer này khá hấp dẫn với em, hiện tại vì abc nên em sẽ trả lời lại sau tối đa 3 ngày”. Cái abc đó có thể là vì mình đang chờ offer chỗ khác, vì mình cần bàn bạc kỹ hơn với gia đình…đại loại là hấp dẫn đấy nhưng chưa phải là nhất và mình cần suy xét kỹ hơn.
+Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + Luật lao động / Hợp đồng
 
-Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình gặp được trùm sò kiểu C-level, thì việc deal lương dễ hơn, vì sẽ deal thẳng với C-level và chốt ở đó luôn, đỡ qua nhiều bước trung gian.
+- Ví dụ: 
+Mọi người hay thấy là phỏng vấn xong thì đi về, rồi hôm sau HR sẽ điện và thông báo mức lương. 
+Nguyên do là quy trình của cty sẽ là **phỏng vấn chuyên môn**, xong họ chấm, người phỏng vấn đưa ra mức tối đa có thể trả cho ứng viên => chuyển sang cho HR, HR sẽ liên hệ và tiếp tục làm tập làm văn để hạ con số đó xuống, để làm chi? Để giảm quỹ lương công ty, đôi khi đó là 1 phần trong KPI công việc của họ. 
 
-Có ae thắc mắc là em mới ra trường, kinh nghiệm chưa nhiều thì mấy cái trên có vẻ khó, kinh nghiệm chưa nhiều thì việc tốt nhất ae có thể làm là show ra được rằng ae xứng đáng thế nào với vị trí đó, ae có giá trị như nào đối với cty, và áp dụng mấy cái ở trên kia vẫn được mà, chỉ sợ là chưa tới được đoạn deal lương thì được mời về rồi thôi ![😅](https://static.xx.fbcdn.net/images/emoji.php/v9/tac/1.5/16/1f605.png) 
+Nên nếu được, em cố gắng chốt cái dự tính trong cuộc phỏng vấn luôn để chủ động, còn nếu mà thương lượng tiếp qua điện thoại thì mình cần là người chủ động, kiểu: 
+“Offer này khá hấp dẫn với em, hiện tại vì lý do abc nên em sẽ trả lời lại sau tối đa 3 ngày”. 
+
+Cái lý do abc đó có thể là vì mình đang chờ offer chỗ khác, vì mình cần bàn bạc kỹ hơn với gia đình… đại loại là hấp dẫn đấy nhưng chưa phải là nhất và mình cần suy xét kỹ hơn. 
+Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình gặp được trùm sò kiểu C-level, thì việc quyết định lương dễ hơn, vì sẽ deal thẳng với C-level và chốt ở đó luôn, đỡ qua nhiều bước trung gian.
+
+Sợ là chưa tới được đoạn deal lương thì được mời về rồi thôi 😅
 
 **6. Phỏng vấn**
 
-Phỏng vấn tìm người là 1 quá trình mệt mỏi, càng tuyển người level cao thì càng mệt, nên nếu ae match vị trí đó, cty thèm ae lắm ![😃](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1.5/16/1f603.png) 
+Phỏng vấn tìm người là 1 quá trình mệt mỏi, càng tuyển người cấp độ cao thì càng mệt, nên nếu các bạn hợp với vị trí đó, cty thèm các bạn lắm! Thời buổi hiện nay cung nhiều cầu ít, mà tư bản bao giờ chả muốn vắt kiệt tới đồng cuối cùng, HR người ta có nhiều sự lựa chọn mà. Nên tốt nhất là đầu tư cho bản thân để bạn trở thành 1 cá thể có giá trị khi mà cty bỏ lỡ bạn thì họ sẽ tiếc nuối thì khi đó lương là ở trong tay bạn 🐧
 
-Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đến việc setup vị thế deal lương nên mình sẽ liệt kê ra vài điểm sơ sơ mà có thể ae sẽ bỏ qua:
+Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đến việc xếp đặt vị thế thương lương lương nên mình sẽ liệt kê ra vài điểm sơ sơ mà có thể các bạn (non-tech - không phải dân lập trình) sẽ bỏ qua:
 
 - CV không nên có 1 lỗi chính tả nào
-    
-- CV cần show ra được ít nhất 3 điều: mình đã làm những gì, học hỏi được gì từ đó và có gặp khó khăn gì trong những việc đã làm (kèm giải quyết nó như nào)
-    
+- CV cần ra được ít nhất 3 điều: mình đã làm những gì, học hỏi được gì từ đó và có gặp khó khăn gì trong những việc đã làm (kèm giải quyết/vượt qua nó như nào). Phần học vấn: Liệt kê từ hiện tại về quá khứ; bỏ mấy cái tự tìm tòi và đặc biệt là thôi học đi, nó không cần thiết đâu, với cả là mình nên bịa ra 1 số thứ mà trong tầm khả năng của mình ấy. VD:
+2019: Freelancer thiết kế đồ họa, Digital.
+2018: Fuho
+2017: Kỹ sư Front-end
 - Nhớ chuẩn bị danh sách câu hỏi để hỏi cty về những vấn đề mình cần làm rõ: về chuyên môn, về chính sách, về văn hoá, về con người, về định hướng phát triển của cty…
-    
-- Giờ giấc tác phong nề nếp rất quan trọng
-    
-- Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là “em không biết, có thể làm theo hướng này, nhưng em không chắc chắn”
-    
-- Đại loại để có vị thế tốt nhất khi vào deal thì nên có 1 cuộc phỏng vấn thành công tốt đẹp nhất có thể
-    
+- Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội
+- Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là “em không biết, có thể làm theo hướng này, nhưng em không chắc chắn.”
+- CV gởi đi phải dùng format PDF. Gởi file Word => Cấu trúc không cố định => tỷ lệ bị lỗi khi đọc cao => Dễ bị loại
 
 **7. Điều cốt lõi**
 
-6 điều trên là bổ trợ cho ae để người ta muốn nhận ae và vào tới vòng deal lương. Còn điều cốt lõi, ae phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và ae phải show ra cho họ thấy điều đó
+6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng deal lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó.
