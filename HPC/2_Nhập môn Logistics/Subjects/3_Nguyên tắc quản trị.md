@@ -8,7 +8,7 @@
 	• Sử dụng và làm mất dần giá trị thị trường của SP 
 	• CCƯ luôn là cụ thể, người tiêu dùng là chung chung
 
-Thiết kế điện thoại của Iphone: 
+Thiết kế của Iphone: Đột phá - Sang trọng 
 
 2. Định hướng giá trị
 3. Tích hợp để tối ưu hoá
