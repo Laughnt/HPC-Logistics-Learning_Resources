@@ -1,6 +1,4 @@
-LỚP A🔥🔥🌿🍀 (27/2)
-Đề bài : Sức mạnh của suy nghĩ.
-Họ và tên (SBD) :
+
 1. Tự feedback 2-3 điều cho bản thân ngày hôm nay.
 2. 2. Phương pháp (quyết tâm) chiến thắng vấn đề là gì?
 3. 3. Điều cần giáo viên giúp đỡ là gì?
