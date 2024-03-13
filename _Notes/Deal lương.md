@@ -47,11 +47,11 @@ Quyết định lương là quá trình trả giá mà, nên ai đưa ra con s�
 
 Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, mình sẽ đưa ra 1 khoảng, mà bắt đầu từ kỳ vọng của mình. Vd 30tr là mình vui vẻ, mình sẽ văn như này: em có tham khảo quanh bạn bè em, từ thị trường và “_offer từ 1 số cty khác_” thì thấy rằng với **vị trí mà cty đang cần tuyển, với cấp độ và khả năng đóng góp của em**, nó sẽ nằm trong khoảng 30-37tr. Và kỳ vọng của em cũng nằm trong khoảng đó.
 
-Đừng ngại gửi lại mail để thương lượng thêm lương sau đấy, bởi vì vài công ty gửi công văn tới phía trên để quyết định mức lương (đã thử và với mình thì thường sẽ thêm được 1-2tr/tháng). Nếu đã chốt quyết định qua đoạn chat thì vậy là chốt rồi, 
+Đừng ngại gửi lại mail để thương lượng thêm lương sau đấy, bởi vì vài công ty gửi công văn tới phía trên để quyết định mức lương (đã thử và với mình thì thường sẽ thêm được 1-2tr/tháng). Nếu đã chốt quyết định qua đoạn chat / email / pdf thì vậy là chốt rồi.
 
-Cái từ khoá ==“offer từ 1 số cty khác”== nó khá đắt giá ấy, bạn tự ngẫm nhé để tự tin nói câu này thì tất nhiên bạn phải đi phỏng vấn nhận offer ở nhiều nơi, ít nhất là phải tham gia nhiều cuộc phỏng vấn.
+Cái từ khoá ==“offer từ 1 số cty khác”== nó khá đắt giá ấy, bạn tự ngẫm nhé để tự tin nói câu này thì tất nhiên bạn phải đi phỏng vấn nhận offer ở nhiều nơi, ít nhất là phải tham gia nhiều cuộc phỏng vấn - “dạ vì ký hợp đồng bảo mật NDA và tôn trọng các bên thứ ba nên em xin phép được bảo mật thông tin”.
 
-Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện deal sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp.
+Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện quyết định lương sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp.
 
 #### **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
 
@@ -95,10 +95,28 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 2018: Fuho
 2017: Kỹ sư Front-end
 - Nhớ chuẩn bị danh sách câu hỏi để hỏi cty về những vấn đề mình cần làm rõ: về chuyên môn, về chính sách, về văn hoá, về con người, về định hướng phát triển của cty…
-- Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội
+- Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội.
 - Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là “em không biết, có thể làm theo hướng này, nhưng em không chắc chắn.”
-- CV gởi đi phải dùng format PDF. Gởi file Word => Cấu trúc không cố định => tỷ lệ bị lỗi khi đọc cao => Dễ bị loại
+- CV gởi đi phải dùng Format - định dạng PDF. Gởi tệp tin Word => Cấu trúc không cố định => tỷ lệ bị lỗi khi đọc cao => Dễ bị loại.
+- Thêm các kỹ năng hoặc công cụ mà bạn biết vào, kỹ năng về mặt kỹ thuật nhé. Chứ kỹ năng mềm, làm việc nhóm chả ai quan tâm vì chả có thứ gì đo đếm được. Tuỳ theo vị trí bạn đang ứng tuyển mà các kỹ năng này phải được sắp xếp theo mức độ liên quan từ **trên xuống dưới, từ trái qua phải**.
+- Biết gì thì liệt kê ra, người tuyển sẽ biết là bạn có kinh nghiệm với các kỹ năng này và sẽ biết để chọn. Còn trình độ tới đâu thì phải test/hỏi thử mới biết. Tự nhà tuyển dụng sẽ đánh giá bạn. Bạn không cần phải tự đánh giá bản thân vì nó còn thiên vào định kiến cá nhân lắm và không có giá trị lắm với người xem.
+- Nhiều bạn coi mấy mẫu CV trên mạng rồi đánh giá theo “SAO ★” là sai lầm nhé mấy bạn. Kỹ năng làm việc nhóm 5 sao: ★★★★★ ? Là ngang trình độ với người sáng lập ra kỹ năng làm việc nhóm?
+  Ví dụ bạn nộp CV cho vị trí Data Analyst mà bạn ghi: **Kỹ năng phân tích dữ liệu: 5 sao** thì vô nghĩa và không đánh giá được.
+  
+- Chỗ này có thể khắc phục bằng cách liệt kê chi tiết: Nếu bạn biết Python, chuyên cho Data analyst thì ghi các thư viện bạn hay dùng ra (Pandas, Numpy, Scipy,..). PowerBI (dax function…), biết SQL Server (SSMS,). Ví dụ như bạn biết các dùng Store procedure, Trigger, biết deploy SQL Server bằng docker, hay biết dùng k8s,… thì cứ ghi vào.
 
-**7. Điều cốt lõi**
+- Phần này khá quan trọng vì có nhiều công ty đang dùng các hệ thống quét CV tự động gọi là **ATS Applicant Tracking System**. Có từ khoá họ muốn thì sẽ bỏ qua, không có từ khoá thì họ loại luôn, hoàn toàn tự động. Nên việc liệt kê các từ khoá quan trọng vào đây sẽ giúp CV dễ vượt qua các hệ thống screening - quét màn hình tự động hơn.
+
+- Đợt rồi mình cũng trực tiếp xem xét CV và tuyển người mới cho đội nhóm, mình sẽ ưu tiên các CV có các keywords - từ khoá mà chỉ những người thực sự biết họ đang làm gì biết. Ví dụ bạn học SQL, bạn ghi vào bạn biết SQL, nếu chỉ đơn giản vậy thì ai cũng ghi được. Nhưng nếu bạn ghi SQL (PostgreSQL: complex query, store procedure, trigger, indexing ,json,…) hay nếu biết Data Warehouse thì ghi rõ (Azure / AWS / Google BigQuery), thì nó sẽ ấn tượng hơn rất nhiều và mình sẽ muốn gặp các bạn này.
+  
+>CV đẹp là CV nó thể hiện đủ năng lực của bạn và khiến nhà tuyển dụng nhận ra ngay bạn phù hợp với vị trí họ cần. Nếu người ta quan tâm sâu tới vị trí họ cần, họ sẽ đọc details - chi tiết. Khi họ nhận ra bạn có nhiều keywords - từ khoá trên CV đúng với cái họ cần. Bạn sẽ tỏa sáng.
+
+#### - **7. Điều cốt lõi**
 
 6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng deal lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó.
+Tư bản tăng lương nhỏ giọt, mình từng deal lương hớ, thấp hơn bạn thực tập sinh ở trong công ty, tham khảo các tiền bối ở trong công ty lương tính bằng $. 
+
+Tham khảo mức lương dù có làm x2, x3 người khác cũng tối đa không quá 10 -> 20%. Lặng lẽ nâng cao giá trị nội tại, thông qua tiếp xúc cũng có thể biết được năng lực của sếp / trưởng phòng, có thể học hỏi được hay không.
+
+
+
