@@ -1,7 +1,3 @@
-LỚP A🔥🔥🌿🍀 - Tri thức, Ước mơ mới
-TEST HUẤN LUYỆN PTBT - SỨC MẠNH CỦA TRI THỨC (24/2)
-Đề bài : 
-Họ và tên (SBD) : 
 
 1. Điều bản thân thấu hiểu là gì? Viết rõ ràng, tỉ mỉ, soi chiếu vào bản thân.
 2. Nhìn nhận tri thức vốn có của bản thân, bản thân đã chiến thắng được việc gì? Viết cụ thể và chi tiết. 
