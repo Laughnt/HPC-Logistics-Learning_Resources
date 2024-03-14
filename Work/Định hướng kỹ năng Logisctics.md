@@ -4,7 +4,7 @@
 >  vì data đa số nằm ở dạng structured đâu đó trong doanh nghiệp. Nên việc mình nắm được cách xem data như thế nào, ở đâu cũng là quan trọng.
 
 - VBA Code, 
-- Power BI
+- [[Tableau - Power BI]]
 > Hiểu được các tổ chức của data, bao gồm data types/ model / schema. Các bảng table có normalize hay denormalize không, primary/foreign key là gì, mô hình star schema ra sao. Khi nào apply đc Int32 và int64 , khi nào double khi nào float. 
 > Hiểu và biết cách sử dụng các ==DBT data build tool==, với 1 số doanh nghiệp không dùng Cloud provider thì họ dùng các dbt nhỏ hơn như talend/ knime / pyetl... thì mình hiểu các sử dụng nó cũng là 1 lợi thế. Sau đó cái tool visualize như powerbi/ tableau/ crystal report hay chí ít là excel pivot/power query. 
 
@@ -20,7 +20,7 @@ Stat
 - Kỹ năng đọc (400 từ/phút với 70% thấu hiểu nội dung văn bản), tiếng Anh hay tiếng Trung gì cũng được. Vì các bạn sẽ phải đọc rất nhiều, từ Documentation - tài liệu của Internal đến của Tool rồi các best practice khác mà các bạn có thể áp dụng cho công việc hằng ngày.
 - Kỹ năng hiểu vấn đề và đơn giản hóa vấn đề [tham khảo sách Hình vẽ thông minh](https://canho.com.vn/hinh-ve-thong-minh-tai-ban-2019-tai-ban-pdf/) + OpenAI ChatGPT Documentation. Nó sẽ bao gồm việc các bạn lắng nghe và có thể đưa ra cách giải quyết bớt cồng kềnh nhất.
   ![](https://sach.canho.com.vn/wp-content/uploads/2022/11/hinh-ve-thong-minh-1-5.jpg)
-- Quan trọng nhất là ==kỹ năng truyền đạt==, bạn có thể mô tả những thứ thuộc về technicals skill cho 1 người bình thường không có bất cứ background - kiến thức nền tảng nào về công nghệ thì là các bạn thành công. Hay các bạn có thể truyền tải đc thông tin ngắn gọn xúc tích cho các user - người dùng khác mà không bị loãng thông tin.
+- Quan trọng nhất là ==kỹ năng truyền đạt - năng lực==, bạn có thể mô tả những thứ thuộc về technicals skill cho 1 người bình thường không có bất cứ background - kiến thức nền tảng nào về công nghệ thì là các bạn thành công. Hay các bạn có thể truyền tải đc thông tin ngắn gọn xúc tích cho các user - người dùng khác mà không bị loãng thông tin.
 	   - Cách làm slide PPT cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. 
 	   - Sắp xếp lại câu chữ, các ý chính dùng Icon vẽ diagram abstract nhất có thể, hãy xem bất kỳ ai đọc slide/cv của mình là người không biết gì, hoặc xem họ như học sinh lớp 5. Thì lúc mình truyền đạt, họ dễ theo dõi và hiểu đc vấn đề của mình hơn.
 

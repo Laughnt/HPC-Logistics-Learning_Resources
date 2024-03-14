@@ -46,7 +46,9 @@ Nói chung cái này thiên về việc kỹ năng phỏng vấn, đi phỏng v�
 
 Quyết định lương là quá trình trả giá mà, nên ai đưa ra con số trước sẽ mất lợi thế đàm phán. Vì kiểu gì bên kia sẽ trả treo lại theo hướng có lợi cho người đó. Nên nếu họ hỏi mình con số, mình sẽ lái sang chuyện chuyên môn, hoặc hoặc các chuyện công việc khác, rồi hỏi tiếp về con số của họ.
 
-📍 Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, mình sẽ đưa ra 1 khoảng, mà bắt đầu từ kỳ vọng của mình. Vd 30tr là mình vui vẻ, mình sẽ văn như này: em có tham khảo quanh bạn bè em, từ thị trường và “_offer từ 1 số cty khác_” thì thấy rằng với **vị trí mà cty đang cần tuyển, với cấp độ và khả năng đóng góp của em**, nó sẽ nằm trong khoảng 30-37tr. Và kỳ vọng của em cũng nằm trong khoảng đó.
+Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, mình sẽ đưa ra 1 khoảng, mà bắt đầu từ kỳ vọng của mình. 
+- Vd 30tr là mình vui vẻ, mình sẽ văn như này: 
+	Em có tham khảo quanh bạn bè em, từ thị trường và “_offer từ 1 số cty khác_” thì thấy rằng với **vị trí mà cty đang cần tuyển, với cấp độ và khả năng đóng góp của em**, nó sẽ nằm trong khoảng 30-37tr. Và kỳ vọng của em cũng nằm trong khoảng đó.
 
 Đừng ngại gửi lại mail để thương lượng thêm lương sau đấy, bởi vì vài công ty gửi công văn tới phía trên để quyết định mức lương (đã thử và với mình thì thường sẽ thêm được 1-2tr/tháng). Nếu đã chốt quyết định qua đoạn chat / email / PDF thì vậy là chốt rồi.
 
