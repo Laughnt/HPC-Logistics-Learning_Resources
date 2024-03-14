@@ -1,9 +1,9 @@
-VĂN HÓA GỬI EMAIL
-1. ĐỐI VỚI EMAIL LẦN ĐẦU GỬI CHO NGƯỜI KHÁC XIN THAM KHẢO MẪU SAU:
+
+## 1. ĐỐI VỚI EMAIL LẦN ĐẦU GỬI CHO NGƯỜI KHÁC XIN THAM KHẢO MẪU SAU:
 Chủ đề email: "Về việc (nêu ra công việc cụ thể nhưng ngắn gọn thôi)"
-Chào chị A, (ghi tên cụ thể chứ đừng Dear anh/chị, và tuyệt đối không ghi sai tên người nhận)
-Em là ... đến từ (cơ quan/đoàn thể tương ứng). Em có được email này của chị do anh B bên công ty C giới thiệu (nêu ra hoàn cảnh có được thông tin liên lạc hoặc gợi nhắc người ta về dịp đã được gặp nay email liên hệ nói chuyện thêm). Em viết email này để (nêu ra công việc cần thảo luận, cụ thể hơn phần email title nhưng đừng có trình bày hết một cục chữ dày đặc ở đoạn này).
-(Chấm, xuống dòng, sang ý khác. Mỗi đoạn một ý ngắn gọn thôi.)
+	Chào chị A, (ghi tên cụ thể chứ đừng Dear anh/chị, và tuyệt đối không ghi sai tên người nhận)
+	Em là ... đến từ (cơ quan/đoàn thể tương ứng). Em có được email này của chị do anh B bên công ty C giới thiệu (nêu ra hoàn cảnh có được thông tin liên lạc hoặc gợi nhắc người ta về dịp đã được gặp nay email liên hệ nói chuyện thêm). Em viết email này để (nêu ra công việc cần thảo luận, cụ thể hơn phần email title nhưng đừng có trình bày hết một cục chữ dày đặc ở đoạn này).
+		(Chấm, xuống dòng, sang ý khác. Mỗi đoạn một ý ngắn gọn thôi.)
 Về việc A, ....
 Về vấn đề B, ...
 Tuy nhiên, một khúc mắc có thể xảy ra là ...
