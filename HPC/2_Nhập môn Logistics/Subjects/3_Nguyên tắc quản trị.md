@@ -45,11 +45,17 @@ Apple: [Nhu cầu người tiêu dùng](https://developer.apple.com/design/human
 
 • Doanh nghiệp vừa và lớn -> bản chất phức tạp 
 • Mặt hàng có nhu cầu lớn về logistics và chuỗi cung ứng
-
-#### 2.3.2 MỤC TIÊU
-![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=80]]
 - Bộ định hướng: Quan điểm nhắm đạt mục tiêu cho DN.
 - SWOT: Phân tích điểm mạnh yếu.
 Apple: Xây dựng tốt [[SWOT của Apple]] đều tuân theo chiến lược cạnh tranh chung của công ty.
 Khác với [OPPO](https://www.studocu.com/vn/document/truong-dai-hoc-fpt/digital-marketing/123doc-chien-luoc-kinh-doanh-quoc-te-cua-oppo-tai-viet-nam/27191752): Không thời thượng, tiết kiệm, cạnh tranh ở phía cạnh khác.
+#### 2.3.2 MỤC TIÊU
+![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=80]]
+#### 2.3.3 TIẾP CẬN QUẢN TRỊ QUÁ TRÌNH
+
+![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=84]]
+
+
+#### 2.3.4 Tiếp cận hoạt động (bỏ qua)
+
 
