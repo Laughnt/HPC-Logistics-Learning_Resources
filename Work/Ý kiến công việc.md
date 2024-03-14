@@ -20,7 +20,6 @@ Kiến thức chuyên sâu về logistics, quản lý nhân sự, luật giao th
 _  
 Ăn ít thịt nhiều rau, uống viên thay đổi cơ địa của Nhật. Mùa hè thì dùng mùi mát hương biển, hương chanh, mùa đông thì dùng mùi ấm như vani hay gỗ, bodymist của bath and bodywork.  
 _  
-**Fortran, C++, Python, LATEX**  
 Học on bằng Teams, họp bằng Zoom
 Trao đổi với teammate qua Mess, vs sếp qua Zalo, đối tác qua Slack
 Mail nội bộ dùng Outlook, cá nhân dùng Gmail

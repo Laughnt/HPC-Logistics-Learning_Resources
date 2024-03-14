@@ -24,7 +24,7 @@ Stat
 	   - Cách làm slide PPT cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. 
 	   - Sắp xếp lại câu chữ, các ý chính dùng Icon vẽ diagram abstract nhất có thể, hãy xem bất kỳ ai đọc slide/cv của mình là người không biết gì, hoặc xem họ như học sinh lớp 5. Thì lúc mình truyền đạt, họ dễ theo dõi và hiểu đc vấn đề của mình hơn.
 
-📝Tham khảo phần [[Deal lương]] - Thương lượng mức lương của các bạn khi đi làm (đừng như mình tăng tàng tàng thua lương cơ bản người mới vào)
+📝Tham khảo phần [[Deal - thương lượng lương]] - Thương lượng mức lương của các bạn khi đi làm (đừng như mình tăng tàng tàng thua lương cơ bản người mới vào)
 
 - Biết 1 tí về devops, git / cicd / branching pull request/ itsm hoặc 1 số cách promote từ dev =>qa=>prod. Data move như nào, test data ra sao...
 
