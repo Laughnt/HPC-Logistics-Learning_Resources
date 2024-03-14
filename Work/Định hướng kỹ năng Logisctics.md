@@ -1,24 +1,34 @@
-Power Automate, 
-Advanced Excel, 
+## - Kỹ năng cứng
+- Power Automate, 
+- **Advanced Excel,**
 >  vì data đa số nằm ở dạng structured đâu đó trong doanh nghiệp. Nên việc mình nắm được cách xem data như thế nào, ở đâu cũng là quan trọng.
 
-VBA Code, 
-Power BI
+- VBA Code, 
+- Power BI
 > Hiểu được các tổ chức của data, bao gồm data types/ model / schema. Các bảng table có normalize hay denormalize không, primary/foreign key là gì, mô hình star schema ra sao. Khi nào apply đc Int32 và int64 , khi nào double khi nào float. 
-> Hiểu và biết cách sử dụng các DBT data build tool, với 1 số doanh nghiệp ko dùng cloud provider thì họ dùng các dbt nhỏ hơn như talend/ knime / pyetl... thì mình hiểu các sử dụng nó cũng là 1 lợi thế. Sau đó cái tool visualize như powerbi/ tableau/ crystal report hay chí ít là excel pivot/power query. 
+> Hiểu và biết cách sử dụng các ==DBT data build tool==, với 1 số doanh nghiệp không dùng Cloud provider thì họ dùng các dbt nhỏ hơn như talend/ knime / pyetl... thì mình hiểu các sử dụng nó cũng là 1 lợi thế. Sau đó cái tool visualize như powerbi/ tableau/ crystal report hay chí ít là excel pivot/power query. 
 
-Python, **Fortran, C++, LATEX**  
-SQL ->  Business Analysis
-> Mục đích là để bản thân hiểu được logic và application structure chạy như thế nào.  Nếu bạn không có nền tảng này cũng không sao nhưng bù lại sẽ phải mất nhiều thời gian và công sức hơn để "hội nhập" với các tech stack của công ty bạn đang cần.  Vd. Doanh nghiệp bạn đang sài airflow để làm main data orchestrate thì việc bạn phải biết python là điều hiển nhiên, vì nếu không thì không thể dựng dags/ data pipelines đc. Tuy nhiên nếu doanh nghiệp đang sài các tool visualize drag drop như nifi/data factory/magic thì bạn không cần nhất thiết phải biết. Nên tùy vào techstack doanh nghiệp mà bạn apply thì sẽ có yêu cầu phần này hay ko và thường sẽ được ghi rõ trong job description
+- Python, **Fortran, C++, LATEX**  
+- SQL -> Business Analysis cho bên ngân hàng Techcombank <- công nghệ như lz
+> Mục đích là để bản thân hiểu được logic và application structure chạy như thế nào.  Nếu bạn không có nền tảng này cũng không sao nhưng bù lại sẽ phải mất nhiều thời gian và công sức hơn để "hội nhập" với các tech stack của công ty bạn đang cần.  
+> 
+> Vd: Doanh nghiệp bạn đang sài airflow để làm main data orchestrate thì việc bạn phải biết Python là điều hiển nhiên, vì nếu không thì không thể dựng dags/ data pipelines đc. Tuy nhiên nếu doanh nghiệp đang sài các tool visualize drag drop như nifi/data factory/magic thì bạn không cần nhất thiết phải biết. Nên tùy vào techstack doanh nghiệp mà bạn apply thì sẽ có yêu cầu phần này hay không và thường sẽ được ghi rõ trong **job description - mô tả công việc.
 
 Matlab, 
 Stat
+## - Kỹ năng mềm của bạn:
+- Kỹ năng đọc (400 từ/phút với 70% thấu hiểu nội dung văn bản), tiếng Anh hay tiếng Trung gì cũng được. Vì các bạn sẽ phải đọc rất nhiều, từ Documentation - tài liệu của Internal đến của Tool rồi các best practice khác mà các bạn có thể áp dụng cho công việc hằng ngày.
+- Kỹ năng hiểu vấn đề và đơn giản hóa vấn đề [tham khảo sách Hình vẽ thông minh](https://canho.com.vn/hinh-ve-thong-minh-tai-ban-2019-tai-ban-pdf/) + OpenAI ChatGPT Documentation. Nó sẽ bao gồm việc các bạn lắng nghe và có thể đưa ra cách giải quyết bớt cồng kềnh nhất.
+  ![](https://sach.canho.com.vn/wp-content/uploads/2022/11/hinh-ve-thong-minh-1-5.jpg)
+- Quan trọng nhất là ==kỹ năng truyền đạt==, bạn có thể mô tả những thứ thuộc về technicals skill cho 1 người bình thường không có bất cứ background - kiến thức nền tảng nào về công nghệ thì là các bạn thành công. Hay các bạn có thể truyền tải đc thông tin ngắn gọn xúc tích cho các user - người dùng khác mà không bị loãng thông tin.
+	   - Cách làm slide PPT cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. 
+	   - Sắp xếp lại câu chữ, các ý chính dùng Icon vẽ diagram abstract nhất có thể, hãy xem bất kỳ ai đọc slide/cv của mình là người không biết gì, hoặc xem họ như học sinh lớp 5. Thì lúc mình truyền đạt, họ dễ theo dõi và hiểu đc vấn đề của mình hơn.
 
-- Các kỹ năng về softskill của các bạn:
--Kỹ năng đọc, tiếng Anh hay tiếng Trung gì cũng đc. Vì các bạn sẽ phải đọc rất nhiều, từ Documentation - tài liệu của Internal đến của tool rồi các best practice khác mà các bạn có thể áp dụng cho công việc hằng ngày.
--Kỹ năng hiểu vấn đề và đơn giản hóa vấn đề. Nó sẽ bao gồm việc các bạn lắng nghe và có thể đưa ra cách giải quyết bớt cồng kềnh nhất.
--Quan trọng nhất là kỹ năng truyền đạt, bạn có thể mô tả những thứ thuộc về technicals skill cho 1 người bình thường không có bất cứ background nào về tech thì là các bạn thành công. Hay các bạn có thể truyền tải đc thông tin ngắn gọn xúc tích cho các user khác mà không bị loãng thông tin. Cách làm slide cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. Sắp xếp lại câu chữ, các ý chính dùng icon vẽ diagram abstract nhất có thể, hãy xem bất kỳ ai đọc slide/cv của mình là ng không biết gì, hoặc xem họ như học sinh lớp 5. Thì lúc mình truyền đạt, họ dễ  theo dõi và hiểu đc vấn đề của mình hơn.
+📝Tham khảo phần [[Deal lương]] - Thương lượng mức lương của các bạn khi đi làm (đừng như mình tăng tàng tàng thua lương cơ bản người mới vào)
 
-Biết 1 tí về devops, git / cicd / branching pull request/ itsm hoặc 1 số cách promote tuqf dev =>qa=>prod. Data move như nào, test data ra sao...
+- Biết 1 tí về devops, git / cicd / branching pull request/ itsm hoặc 1 số cách promote từ dev =>qa=>prod. Data move như nào, test data ra sao...
 
-Luôn học cái mới. Các công nghệ mới lúc nào cũng ngon vd apache iceberg/ delta io / cassandra ... apply những cái mới thì đời lúc nào cũng dễ thở.
+>Luôn học cái mới. Các công nghệ mới lúc nào cũng ngon vd apache iceberg/ delta io / cassandra ... apply những cái mới thì đời lúc nào cũng dễ thở.
+>	Người các bạn cần cạnh tranh là những bạn học Kinh tế / Y dược bên nước ngoài về, còn Công nghệ / Thực phẩm thì dễ dàng xin việc bên kia hơn.
+
+
