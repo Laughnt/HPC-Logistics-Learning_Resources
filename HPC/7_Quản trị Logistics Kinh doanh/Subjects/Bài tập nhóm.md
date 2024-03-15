@@ -27,4 +27,23 @@ Màu sắc nếu có thể. Cô chấm dịch vụ khách hàng.
 	Chiếm bao nhiêu % và hỗ trợ đến đâu.
 - Phản ứng của KH sau khi sử dụng dịch vụ vận tải 
 	Không giới hạn dung lượng của bài.
-[[PHÂN TÍCH HOẠT ĐỘNG QUẢN TRỊ VẬN TẢI CỦA CÔNG TY CỔ PHẦN GIAO NHẬN TOÀN CẦU DHL.pdf]]
+
+Phân tích:
+Thanh điểm 10
+
+- Cách đặt tên File - Tên nhóm / Nhóm thứ tự 1 / Tên của tiểu luận 
+- Tên giảng viên
+Tên của một người là thứ đẹp nhất đối với họ - mât thiện cảm với sự đối ngoại / đối nội -> Trân trọng
+- Hành văn trong Email
+Cơ bản
+- Tên File
+- Bìa
+- Nhóm (DS, điểm, công việc)
+- Danh sách từ viết tắt
+- Mục lục
+- Mở đầu
+- Nội dung
+- Kết luận
+- Tài liệu tham khảo
+- Phụ lục
+  > Đạo văn
