@@ -24,6 +24,3 @@ Apple: [Nhu cầu người tiêu dùng](https://developer.apple.com/design/human
 4. Cộng tác và thích nghi công nghệ
 [Uber bị Grab mua lại](https://vneconomy.vn/thuong-vu-grab-mua-uber-thi-phan-vuot-50-nhung-grab-van-duoc-tuyen-vo-toi.htm)
 Wal-mart hệ thống siêu thị lớn nhất nước Mỹ theo hệ thống dọc https://www.youtube.com/watch?v=Y0tyE739pK4
-
-
-
