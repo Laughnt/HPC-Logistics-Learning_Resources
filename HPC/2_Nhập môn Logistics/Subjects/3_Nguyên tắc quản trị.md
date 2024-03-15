@@ -59,5 +59,3 @@ Khác với [OPPO](https://www.studocu.com/vn/document/truong-dai-hoc-fpt/digita
 
 #### 2.3.4 Tiếp cận hoạt động (bỏ qua)
 
-
->>>>>>> origin/main
