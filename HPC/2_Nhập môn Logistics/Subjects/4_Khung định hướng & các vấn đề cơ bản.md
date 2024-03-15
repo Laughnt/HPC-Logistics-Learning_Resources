@@ -17,7 +17,7 @@ Giày (Phake) [Ebay: C to C](https://www.ebay.com/authenticity-guarantee) - Chuy
   • Thay đổi cách vận hành 
   • Tăng rủi ro tiềm ẩn
 Phân tích hành vi mua sắm trên Amazon.
-Chủ động tạo ra cầu: [[bánh 10won]]
+Chủ động tạo ra cầu: [[Xu hướng bánh 10won]]
 
 - Vai trò nhà bán lẻ
   • Nắm quyền kiểm soát 
