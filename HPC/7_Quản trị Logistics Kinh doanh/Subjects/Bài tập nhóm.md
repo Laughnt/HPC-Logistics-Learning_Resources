@@ -27,8 +27,6 @@ Màu sắc nếu có thể. Cô chấm dịch vụ khách hàng.
 	Chiếm bao nhiêu % và hỗ trợ đến đâu.
 - Phản ứng của KH sau khi sử dụng dịch vụ vận tải 
 	Không giới hạn dung lượng của bài.
-[[PHÂN TÍCH HOẠT ĐỘNG QUẢN TRỊ VẬN TẢI CỦA CÔNG TY CỔ PHẦN GIAO NHẬN TOÀN CẦU DHL.pdf]]
-
 
 Phân tích:
 Thanh điểm 10
