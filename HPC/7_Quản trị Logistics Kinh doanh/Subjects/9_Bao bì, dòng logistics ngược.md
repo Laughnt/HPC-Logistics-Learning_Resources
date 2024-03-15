@@ -1,3 +1,20 @@
+## KHÁI NIỆM VÀ CHỨC NĂNG CỦA BAO BÌ  
+#### - Khái niệm
+Xét từ góc độ [[Logistics]], 
+- Packet - bao bì được hiểu là một phương tiện đặc biệt đi kèm với hàng hóa để bảo vệ, bảo quản, vận chuyển và giới thiệu.
+	Tạo điều kiện thuận lợi cho quá trình sản xuất, phân phối và tiêu dùng hàng hóa.  
+- Packing - Đóng bao bì là một tập hợp các kỹ thuật định lượng, bao bọc hoặc bảo vệ các sản phẩm.
+	Hỗ trợ cho việc xếp dỡ, vận chuyển, phân phối, kho bãi, bán lẻ, tiêu thụ được đảm bảo an toàn, năng suất và hiệu quả. 
+	Tăng khả năng phục hồi, tái sử dụng hoặc tiêu huỷ kết hợp với **tối đa hoá** doanh thu và lợi nhuận của sản phẩm
+### - Chức năng
+
+
+
+## Phân loại bao bì  
+Khi xem xét bao bì như một hệ thống các mức độ cấp bậc của quá trình đóng gói, bao bì được chia thành ba  
+loại.
+
+
 ### Theo mức độ chuyên môn
 Nilon - bao bì thông dụng, dùng được nhiều chức năng khác nhau.
 Gas - không dùng cho mục đích khác ngoài đựng Gas (hoá chất là một chất nguy hiểm, và mỗi chất lại có một tính chất hoá lý khác nhau)
@@ -55,7 +72,8 @@ Thu hồi và tái sử dụng (Vỏ hộp sữa - Pin - chưa biết tái chế
 
 ### Đặc trưng so sánh
 
-1. Người dùng có hoàn trả không?
+1. Không dự báo được bao nhiêu người sẽ mang tới, bao nhiêu người thực sự tham gia
+2. Người dùng có hoàn trả không?
 3. Lon bia, người đập dập, người để lại ít bia.
 
 
@@ -63,3 +81,20 @@ Riêng ở HN, có 5 - 6 nhóm sẽ remake lại Quần áo cũ sang Quần áo 
 S & M thời gian tiêu dùng nhanh, 1 năm bao nhiêu cái áo phông thải ra -> campain: thu hồi lại quần áo để nhận lại coupon với tuyên bố là thực hiện với các nghiên ccữu tốt nhất: Hoá cất -> Thành sợi, dệt thành áo khác.
 Thật ra hông làm như vậy, chuyển sang Châu Phi -> Một trong những vệt đen.
 
+> Nhận thức của giới trẻ.
+
+## Yêu cầu tổ chức hoạt động logistics ngược tại DN  
+● Chiến lược logistics ngược thành công cần đến sự kết hợp hiệu quả giữa dòng xuôi và ngược trong cùng một chuỗi cung ứng  
+● Những chương trình logistics ngược chỉ nên chú trọng cho các  
+dòng hàng hóa thu hồi “không thể kiểm soát được” chứ không  
+phải cho tất cả các loại hàng hóa bị trả lại  
+● Sản phẩm chất lượng tốt và hoạt động logistics xuôi **hiệu quả** sẽ làm giảm thiểu yêu cầu logistics ngược  
+Đảm bảo nguyên vật liệu đảm bảo cũng như không cẩn hoàn trả lại vật phẩm.
+● Yêu cầu logistics ngược không giống nhau ở mỗi ngành và mỗi khâu trong chuỗi cung ứng  
+
+## 7.3.2 Quy trình Logistics ngược
+Đê La Thành dưới cắt ở Giảng Võ, chuyên về dầu mỡ, máy móc - mua lại quần áo vá để lau đi. 
+Trường Ams cấp 3, sẽ có nhưunxg hoạt động Dọn nha, về tìm lại hàng dùng được oặc không dùng được - bán lồng bàn nhựa, chuối xanh. Dọn giúm chủ nhận. 2 cái tai nghe khong dây -- 2nd hand
+> Bình chọn pha dọn nhà nào tốt nhất.
+
+Chiến thuật Chiến tranh ở Bình Xuyên - Điện Biên.
