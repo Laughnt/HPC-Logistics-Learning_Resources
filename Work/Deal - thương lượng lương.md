@@ -102,7 +102,7 @@ Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình g�
 
 Sợ là chưa tới được đoạn thương lượng lương thì được mời về rồi thôi 😅
 
-**6. Phỏng vấn**
+#### **6. Phỏng vấn**
 
 Phỏng vấn tìm người là 1 quá trình mệt mỏi, ==càng tuyển người cấp độ cao thì càng mệt==, nên nếu các bạn hợp với vị trí đó, cty thèm các bạn lắm! Thời buổi hiện nay cung nhiều cầu ít, mà tư bản bao giờ chả muốn vắt kiệt tới đồng cuối cùng, HR người ta có nhiều sự lựa chọn mà. Nên tốt nhất là đầu tư cho bản thân để bạn trở thành 1 cá thể có giá trị khi mà cty ==bỏ lỡ bạn thì họ sẽ tiếc nuối== thì khi đó lương là ở trong tay bạn 🐧
 	Đúng thực sự để tìm được một người Senior hợp với nhu cầu của công ty, chưa bao gồm đến mức lương thì cũng rất khó rồi nên nếu bác nào cảm thấy mình hợp thì cứ tự tin thương lượng. Còn đối với tầm kỹ năng Fresher, Junior thì không nên căng quá, quan trọng cơ hội học hỏi để phát triển bản thân như nào.
