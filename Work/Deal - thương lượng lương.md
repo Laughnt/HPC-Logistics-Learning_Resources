@@ -70,7 +70,7 @@ Tuy nhiên phần lương mềm sẽ trả theo một khoảng thời gian.
 Ngoài ra khi thử việc thì chỉ được 85% * a% * X, tính Package thế này thì người lao động thiệt .
 
 > Nên là khi thương lượng cứ hỏi là thẳng 13 hay 14 tháng lương rồi chia dự kiến ra.
-> Mình không quan trọng mức lương mình nhận được một tháng là bao nhiêu, miễn là cty xác nhận gửi cho mình đày đủ khoản đó.
+> Mình không quan trọng mức lương mình nhận được một tháng là bao nhiêu, miễn là cty xác nhận gửi cho mình đầy đủ khoản đó.
 
 #### **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
 
@@ -105,7 +105,7 @@ Sợ là chưa tới được đoạn thương lượng lương thì được m�
 #### **6. Phỏng vấn**
 
 Phỏng vấn tìm người là 1 quá trình mệt mỏi, ==càng tuyển người cấp độ cao thì càng mệt==, nên nếu các bạn hợp với vị trí đó, cty thèm các bạn lắm! Thời buổi hiện nay cung nhiều cầu ít, mà tư bản bao giờ chả muốn vắt kiệt tới đồng cuối cùng, HR người ta có nhiều sự lựa chọn mà. Nên tốt nhất là đầu tư cho bản thân để bạn trở thành 1 cá thể có giá trị khi mà cty ==bỏ lỡ bạn thì họ sẽ tiếc nuối== thì khi đó lương là ở trong tay bạn 🐧
-	Đúng thực sự để tìm được một người Senior hợp với nhu cầu của công ty, chưa bao gồm đến mức lương thì cũng rất khó rồi nên nếu bác nào cảm thấy mình hợp thì cứ tự tin thương lượng. Còn đối với tầm kỹ năng Fresher, Junior thì không nên căng quá, quan trọng cơ hội học hỏi để phát triển bản thân như nào.
+	Đúng thực sự để tìm được một người Senior hợp với nhu cầu của công ty, chưa bao gồm đến mức lương thì cũng rất khó rồi nên nếu bạn nào cảm thấy mình hợp thì cứ tự tin thương lượng. Còn đối với tầm kỹ năng Fresher, Junior thì không nên căng quá, quan trọng cơ hội học hỏi để phát triển bản thân như nào.
 
 Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đến việc xếp đặt vị thế thương lương lương nên mình sẽ liệt kê ra vài điểm sơ sơ mà có thể các bạn (non-tech - không phải dân lập trình) sẽ bỏ qua:
 
