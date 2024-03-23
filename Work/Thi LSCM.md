@@ -7,24 +7,17 @@ Trong không khí rộn ràng của các cuộc thi Logistics & Supply Chain nh�
 ##### **1. VÒNG TRẮC NGHIỆM - “DÙ LÀ VÒNG 1 NHƯNG RẤT DỄ…DỄ SAI, DỄ RỚT” ![🤪](https://static.xx.fbcdn.net/images/emoji.php/v9/td9/1.5/16/1f92a.png)** 
 
 - Để pass vòng này, với mình 70% đến từ kiến thức, còn 30% là kỹ năng teamwork
-
 - Về kiến thức, đây là 1 số source khá uy tín mà team mình đã “check var” và dùng để ôn cho hầu hết các cuộc thi LSCM:
-
-- Sách SCM Strategy Planning & Operation by Sunil Chopra: https://drive.google.com/file/d/1mb0GqCW4CgBu1UdtLiHlxDR-Dq8dhOgn/view?usp=sharing
-    
+Sách SCM Strategy Planning & Operation by Sunil Chopra: https://drive.google.com/file/d/1mb0GqCW4CgBu1UdtLiHlxDR-Dq8dhOgn/view?usp=sharing
 - Bài tập: các bạn có thể ôn từ source Chegg.com (có fee)
-    
-
-- Về kỹ năng teamwork, vì vòng trắc nghiệm diễn ra dưới áp lực thời gian nên team mình thường sẽ chia nhau ra làm trong 1 khoảng thời gian nhất định và sau đó có thời gian chung để cross-check và support lẫn nhau những câu còn stuck.
+- Về kỹ năng teamwork, vì vòng trắc nghiệm diễn ra dưới áp lực thời gian nên team mình thường sẽ chia nhau ra làm trong 1 khoảng thời gian nhất định và sau đó có thời gian chung để cross-check và support lẫn nhau những câu còn kẹt.
 
 ##### **2. VÒNG GIẢI CÂY**
 
 2 thứ mọi người có thể chuẩn bị là:
-
 **(1) Kỹ năng xử lý số liệu**
 
 - Với những cuộc thi nặng về data như SCMission, Supply Chain Race…, các bạn nên trang bị trước kỹ năng làm việc với dữ liệu lớn bằng việc học thêm các tool (Excel, Python, SQL, Power BI), nắm rõ cách hoạt động của tool và kết hợp với business insights để xử lý dữ liệu
-
 - Đặc biệt, với các đề thi rơi vào dạng khó nhằn nhất của LSCM Case - **“PHÂN TÍCH DỮ LIỆU để TỐI ƯU HÓA CHUỖI CUNG ỨNG”**, có 2 yếu tố quan trọng:
 
  _**![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/t5/1.5/16/1f4cc.png) Thứ nhất,**_ hiểu về NHIỆM VỤ TỐI ƯU HÓA!
