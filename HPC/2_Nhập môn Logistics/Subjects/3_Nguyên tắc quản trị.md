@@ -32,6 +32,7 @@ Apple: [Nhu cầu người tiêu dùng](https://developer.apple.com/design/human
 ![AWS](https://i.imgur.com/dC1XUNE.png)
 
 4. Cộng tác và thích nghi công nghệ
+
 ▪ Cộng tác: cùng hướng đến mục tiêu chung trên cơ sở chia sẻ ▪ Đối tượng: KH/ NCC vật liệu/ NCC dịch vụ 
 ▪ DVKH cải thiện, sử dụng nguồn lực hiệu quả
 	[Uber bị Grab mua lại](https://vneconomy.vn/thuong-vu-grab-mua-uber-thi-phan-vuot-50-nhung-grab-van-duoc-tuyen-vo-toi.htm)
@@ -57,5 +58,4 @@ Khác với [OPPO](https://www.studocu.com/vn/document/truong-dai-hoc-fpt/digita
 
 
 #### 2.3.4 Tiếp cận hoạt động (bỏ qua)
-
 
