@@ -22,11 +22,11 @@ Khởi nguồn xu hướng Bánh đồng xu bắt đầu từ những bài đăn
 Đầu tháng 10, nhiều bài review với nội dung “chê” bánh đồng xu như bột bánh không chính, phô mai không thể kéo sợi, giá cao, phải chờ lâu đã tạo làn sóng lan khắp nhiều trang cá nhân và các trang cộng đồng khác. 
 >Từ một xu hướng mạng xã hội, bánh đồng xu trở thành chủ đề bị “down trend” với chỉ số cảm xúc chỉ đạt ở mức -5,82%.
 
-> Tâm lý “sợ bỏ lỡ” – FOMO
+> Tâm lý “[sợ bỏ lỡ](https://advertisingvietnam.com/suc-hut-cua-influencer-marketing-duoi-goc-nhin-tam-ly-hoc-danh-vao-thien-kien-nhan-thuc-va-noi-so-bo-lo-cua-nguoi-dung-l22822)” – FOMO
 
 # Bùng nổ và thoái trào
 Giá và hương vị của bánh là hai cụm chủ đề nổi bật về bánh đồng xu được người dùng mạng thảo luận, ==hương vị bánh chiếm 24,45% giá cả chiếm 17,99%==. Tỉ lệ thảo luận tiêu cực chiếm 5.30% cao hơn tỉ lệ tích cực 4.72%. Từ biểu đồ xu hướng thảo luận, ta thấy rõ 2 giai đoạn uptrend và downtrend Giai đoạn giữa cuối tháng 9 nhiều bài viết review đưa bánh đồng xu trở thành xu hướng mạng xã hội. 
 
 **Ngày 23/9 khi xu hướng đạt đỉnh**, lượng thảo luận là 33.059. Đến đầu tháng 10 khi bắt đầu xuất hiện các bài viết “chê” bánh đồng xu lượng thảo luận bắt đầu giảm dần. 
 
-Ngày 23/10 khi xu hướng dần thoái trào lượng thảo luận chỉ còn đạt 4.662. Dự kiến vẫn sẽ được cộng đồng ưu ái cập nhật vào sự lựa chọn các món ăn vặt như bánh trứng gà non, bánh cá nếu chất lượng bánh + giá bán được cải thiện.
+Ngày 23/10 khi xu hướng dần thoái trào lượng thảo luận chỉ còn đạt 4.662. Dự kiến vẫn sẽ được cộng đồng ưu ái cập nhật vào sự lựa chọn các món ăn vặt như bánh trứng gà non, bánh cá nếu chất lượng bánh + giá bán được cải thiện.|
