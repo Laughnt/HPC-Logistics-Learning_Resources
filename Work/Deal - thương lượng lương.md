@@ -1,5 +1,6 @@
 --------
 ## **Ai trong đời mà không trải qua 1 lần**
+https://www.facebook.com/groups/vietnamquora/posts/2737481486484970/
 **Nhạc thiền tịnh tâm**
 > Năm 2020, lương lập trình mới ra trường cấp 3 của mình tầm 5tr, và mình deal được 9tr (+80% mặt bằng chung, chưa có bằng đại học)
 > Năm 2024, mình chuyển việc, và mình hỗ trợ chốt deal +40% so với offer công ty đưa ra.
