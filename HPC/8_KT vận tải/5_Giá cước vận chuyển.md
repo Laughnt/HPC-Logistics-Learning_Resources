@@ -11,7 +11,7 @@ Là biến động của giá cước có tính quy luật theo thời gian tron
 - Biến động theo chu kỳ kinh tế
  Thay đổi theo chu kỳ. Thời kỳ suy thoát thì giá cước thấp: Do nhu cầu vận chuyển thấp, biến động này có tính quy luật, thuận lợi do công tác dự báo - giảm nhân sự (thị trường bão hoà sản phẩm.
  
- ## Yếu tố ảnh hưởng giá cước
+**Yếu tố ảnh hưởng giá cước**
  - Hàng hoá 
 Tình hình hàng hoá, bao gồm các yếu tố như mặt hàng, trọng lượng của lô hàng, yêu cầu của khách hàng với hàng hoá chuyên chở (nguy hiểm / quá khổ)
  - Phương tiện
