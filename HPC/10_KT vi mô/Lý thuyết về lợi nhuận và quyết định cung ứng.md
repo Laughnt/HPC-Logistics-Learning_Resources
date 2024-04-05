@@ -40,10 +40,17 @@ FC = 5; VC = 0,6Q^2 + 4Q
 3. Tính mức sản lượng Q mà tại đó DN tối đa hoá doanh thu? Xác định lợi nhuận đạt được.
    Để tối đa hoá doanh thu thì: MR = 0 -> Q <=> Π = TR - TC
    Trong thực tế không phải doanh thu nhiều là có lãi -> mục tiêu ta muốn hướng đến như thế nào.
-   _____
-1. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt.
+4. Xác định mức giá và sản lượng khi doanh nghiệp theo đuổi mục tiêu đạt lợi nhuận là 7 và doanh thu càng nhiều càng tốt.
    Ta có: Π = TR - TC
 Vậy chọn Q = và P = để lợi nhuận = 7 và doanh thu lớn nhất.
 
 Vấn đề là chiều thứ 6 ra Tết quên mất -> khong thay đổi lịch nữa.
 Buối cuối để nhắc và ôn nhớ, về nhà làm hết bài tập Chương 3
+
+
+P= 60-5Q TC = Q^2 +6Q +100
+Hàm lợi nhuận TPr = P * Q - TC = 54Q - 6Q^2 -100
+(TPr)' = 54 - 12Q = 0 => Q = 4.5
+
+Hàm doanh thu TR = P * Q = 60Q - 5Q^2
+MR = (TR)' = 0 -> Q = 12 
