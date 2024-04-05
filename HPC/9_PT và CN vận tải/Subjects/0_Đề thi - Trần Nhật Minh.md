@@ -1,17 +1,17 @@
 1. Nêu cơ sở vật chất - kỹ thuật của vận tải đường biển
-[[3_Tuyến đường biển#Phương tiện vật chất]]
-[[4_Vận tải đường biển#Cơ sở vật chất của cảng biển]]
+![[3_Tuyến đường biển#Phương tiện vật chất]]
+![[4_Vận tải đường biển#- Cơ sở vật chất của cảng]]
 Khái niệm của Cảng biển.
 Nhóm trang thiết bị của Cảng.
 Đặc trưng kỹ thuật của tàu.
 
 2. Nêu đặc điểm của vận tải bằng oto 
-[[9_Vận tải đường bộ#Đặc điểm vận tải ôtô]]
+![[9_Vận tải đường bộ#Đặc điểm vận tải ôtô]]
 Ưu/Nhược điểm.
 Tính chất hàng hoá vận chuyển
 
 3. Vận tải đa phương thức là gì, hiệu quả của vận tải đa phương thức
-[[1_Tổng quan#Tổ chức quá trình vận tải]]
+![[1_Tổng quan#Tổ chức quá trình vận tải]]
 Khái niệm.
 Ưu điểm
 Giải thích tại sao lại giảm được chi phí
@@ -22,12 +22,10 @@ Giải thích tại sao lại giảm được chứng từ không cần thiết 
 3 chức năng:
 bằng chứng xác nhận đã nhận hàng
 giấy từ thanh toán
-hợp đồng
-
-Căn cứ để bàn giao hải quan
+hợp đồng - căn cứ để bàn giao hải quan
 
 5. Nêu đặc điểm của vận tải đường sắt đối với hệ thống giao thông vận tải
-[[7_Vận tải đường sắt#Đặc điểm của vận tải đường sắt]]]
+![[7_Vận tải đường sắt#Đặc điểm của vận tải đường sắt]]]
 Ưu, nhược điểm:
 Loại hàng hoá nào sẽ được vận chuyển.
 Cấu tạo của đường sắt / toa tàu.
@@ -36,7 +34,7 @@ Một số SP được vận chuyển - xa / cồng kềnh.
 Đường sắt PT như thế nào - Phân tán rộng / trải dài trên nhiều vùng địa lý / liên tục / thường xuyên
 
 6. Nêu ưu nhược điểm của vận tải hàng không
-[[8_Vận tải hàng không#Đặc điểm]]
+![[8_Vận tải hàng không#Đặc điểm]]
 Ưu/Nhược điểm:
 Loại hàng hoá sử dụng.
 7. So sánh 2 hình thức chuyên chở hàng hoá bằng đường sắt và đường bộ
@@ -48,10 +46,10 @@ Loại hàng hoá sử dụng.
 | – Cước vận chuyển cao hơn đường sắt và đường biển.                                                                                                                                                                                                                                                                                                                                                                                         | – Thời gian vận chuyển lâu hơn đường bộ do lộ trình cố định, thời gian chờ đợi và trung chuyển tận nơi.  <br>– Không vận chuyển được các mặt hàng phức tạp, quá khổ, quá tải                                                                                                                                                                                                                                       |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                    |
 8. Nêu cơ sở vật chất - kỹ thuật của vận tải đường không và hàng hoá vận chuyển qua đường hàng không
-[[8_Vận tải hàng không#Cơ sở vật chất kỹ thuật]] 
+![[8_Vận tải hàng không#Cơ sở vật chất kỹ thuật]] 
 +
-Hàng hoá vận chuyển qua đường hàng không [[8_Vận tải hàng không#Hàng hoá]]
+Hàng hoá vận chuyển qua đường hàng không ![[8_Vận tải hàng không#Đặc điểm chuyên chở]]
 
 9. Nêu khái niệm và ưu điểm của vận tải container
-[[container]]
+![[container]]
 Mấy loại.

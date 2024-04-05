@@ -70,7 +70,7 @@ Cần phân loại rất nhiều.
 Phương tiện máy bay, sân bay, đào tạo nhân lực.
 
 ## Đặc điểm chuyên chở
-## Hàng hoá
+
 ### Hàng hoá cứu trợ khẩn cấp
 Bắt buộc phải đến nhanh.
 ### Hàng hoá giới hạn
