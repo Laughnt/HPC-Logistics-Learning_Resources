@@ -2,7 +2,7 @@
 - Chi phí bằng hiện vật: Còn gọi là chi phí về tài nguyên được biểu hiện là những chi phí về yếu tố sản xuất đàu vào tính bằng đơn vị hiện vật.
   %% Bao nhiêu tấn si-măng, nói tới hiện vật là một sản phẩm cụ thể, cầm - cảm nhận được. 
    Sản xuất những sản phẩm khác nhau -> nhiều khi không so sánh được, để mà so sánh đượcthì quy về tính bằng chi phí = tiền.%%
-- Chi phí bằng tiền là chi phí về các yếu tố sản xuất đầu vào tình bằng đơn vị tiền tệ. Đây là chi phí thường được quan tâm trong hoạt ododjng sản xuất trong Doanh nghiệp.
+- Chi phí bằng tiền là chi phí về các yếu tố sản xuất đầu vào tình bằng đơn vị tiền tệ. Đây là chi phí thường được quan tâm trong hoạt động sản xuất trong Doanh nghiệp.
   %%Kiểm soát, tính toán được.%%
 - Chi phí Kinh tế (TC): Được biểu biểu thị bằng toàn bộ chi phí liên quan đến quá trình sản xuất kinh doanh.
   Chúng ta bỏ lỡ chi phí cơ hội.
