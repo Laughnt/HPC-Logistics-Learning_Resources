@@ -53,3 +53,7 @@ Hàng hoá vận chuyển qua đường hàng không ![[8_Vận tải hàng khô
 9. Nêu khái niệm và ưu điểm của vận tải container
 ![[container]]
 Mấy loại.
+
+___
+
+

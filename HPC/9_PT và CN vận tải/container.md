@@ -27,10 +27,10 @@ Hình dáng cố định: Bền chắc dùng được nhiều lần / đặc bi�
 |Cu.Cap: 33.2 Cu.m|Thể tích chứa hàng tối đa 33.2 khối|
 ## Những phương pháp phân loại container
 
-|**Tiêu chuẩn phân loại**|**Mô tả chi tiết**|
-|---|---|
-|**Phân loại theo tải trọng và kích thước**|1. **Container nhỏ**: tải trọng 5 tấn, dung tích dưới 3m3<br>2. **Container trung bình**: trọng lượng dưới 8 tấn, dung tích dưới 10m3.<br>3. **Container lớn**: trọng lượng trên 10 tấn, dung tích hơn 10 m3|
-|**Phân loại container theo kết cấu**|1. Container kín – Closed Container.<br>2. Container mở – Open Container.<br>3. Container khung – Frame Container.<br>4. Container gấp – Tilt Container.<br>5. Container phẳng – Flat Container.<br>6. Container có bánh – Rolling Container.|
+| **Tiêu chuẩn phân loại**                   | **Mô tả chi tiết**                                                                                                                                                                                                                            |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Phân loại theo tải trọng và kích thước** | 1. **Container nhỏ**: tải trọng 5 tấn, dung tích dưới 3m3<br>2. **Container trung bình**: trọng lượng dưới 8 tấn, dung tích dưới 10m3.<br>3. **Container lớn**: trọng lượng trên 10 tấn, dung tích hơn 10 m3                                  |
+| **Phân loại container theo kết cấu**       | 1. Container kín – Closed Container.<br>2. Container mở – Open Container.<br>3. Container khung – Frame Container.<br>4. Container gấp – Tilt Container.<br>5. Container phẳng – Flat Container.<br>6. Container có bánh – Rolling Container. |
 #### Phân loại theo chức năng chứa hàng
 
 |**Tiêu chuẩn phân loại**|**Mô tả chi tiết**|
