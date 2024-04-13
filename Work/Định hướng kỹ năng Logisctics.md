@@ -9,7 +9,7 @@
 > Hiểu và biết cách sử dụng các ==DBT data build tool==, với 1 số doanh nghiệp không dùng Cloud provider thì họ dùng các dbt nhỏ hơn như talend/ knime / pyetl... thì mình hiểu các sử dụng nó cũng là 1 lợi thế. Sau đó cái tool visualize như powerbi/ tableau/ crystal report hay chí ít là excel pivot/power query. 
 
 - Python, **Fortran, C++, LATEX**  
-- SQL -> Business Analysis cho bên ngân hàng Angry_bank <- công nghệ như lz
+- SQL -> Business Analysis cho bên ngân hàng Angry_bank <- công nghệ kém.
 > Mục đích là để bản thân hiểu được logic và application structure chạy như thế nào.  Nếu bạn không có nền tảng này cũng không sao nhưng bù lại sẽ phải mất nhiều thời gian và công sức hơn để "hội nhập" với các tech stack của công ty bạn đang cần.  
 > 
 > Vd: Ngân hàng mình làm đang sài airflow để làm main data orchestrate thì việc bạn phải biết Python là điều hiển nhiên, vì nếu không thì không thể dựng dags/ data pipelines đc. Tuy nhiên nếu doanh nghiệp đang sài các tool visualize drag drop như nifi/data factory/magic thì bạn không cần nhất thiết phải biết. Nên tùy vào techstack doanh nghiệp mà bạn apply thì sẽ có yêu cầu phần này hay không và thường sẽ được ghi rõ trong **job description - mô tả công việc.
