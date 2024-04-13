@@ -1,3 +1,4 @@
+[[Cười - Nhóm 1 - PHÂN TÍCH HOẠT ĐỘNG QUẢN TRỊ VẬN TẢI CỦA CÔNG TY CỔ PHẦN GIAO NHẬN TOÀN CẦU DHL.pdf]]
 Lựa chọn 1 DN sản xuất kinh doanh trên thị trường:  [DHL](https://www.dhl.com/global-en/home/our-divisions/supply-chain/about-dhl-supply-chain/annual-reports.html) 
 __
 Phân tích một nội dung quản trị Logistics kinh doanh của Doanh nghiệp đó.

@@ -17,16 +17,16 @@
 Matlab, 
 Stat
 ## - Kỹ năng mềm của bạn:
-- Kỹ năng đọc (400 từ/phút với 70% thấu hiểu nội dung văn bản), tiếng Anh hay tiếng Trung gì cũng được. Vì các bạn sẽ phải đọc rất nhiều, từ Documentation - tài liệu của Internal đến của Tool rồi các best practice khác mà các bạn có thể áp dụng cho công việc hằng ngày.
+- Kỹ năng đọc (400 từ/phút với 70% thấu hiểu nội dung văn bản), tiếng Anh hay tiếng Trung gì cũng được. Vì mình sẽ phải đọc rất nhiều, từ Documentation - tài liệu của Internal đến của Tool rồi các best practice khác mà các bạn có thể áp dụng cho công việc hằng ngày.
 - Kỹ năng hiểu vấn đề và đơn giản hóa vấn đề [tham khảo sách Hình vẽ thông minh](https://canho.com.vn/hinh-ve-thong-minh-tai-ban-2019-tai-ban-pdf/) + OpenAI ChatGPT Documentation. Nó sẽ bao gồm việc các bạn lắng nghe và có thể đưa ra cách giải quyết bớt cồng kềnh nhất.
   ![](https://sach.canho.com.vn/wp-content/uploads/2022/11/hinh-ve-thong-minh-1-5.jpg)
 - Quan trọng nhất là ==kỹ năng truyền đạt - năng lực==, bạn có thể mô tả những thứ thuộc về technicals skill cho 1 người bình thường không có bất cứ background - kiến thức nền tảng nào về công nghệ thì là các bạn thành công. Hay các bạn có thể truyền tải đc thông tin ngắn gọn xúc tích cho các user - người dùng khác mà không bị loãng thông tin.
 	   - Cách làm slide PPT cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. 
 	   - Sắp xếp lại câu chữ, các ý chính dùng Icon vẽ diagram abstract nhất có thể, hãy xem bất kỳ ai đọc slide/cv của mình là người không biết gì, hoặc xem họ như học sinh lớp 5. Thì lúc mình truyền đạt, họ dễ theo dõi và hiểu đc vấn đề của mình hơn.
 
-📝Tham khảo phần [[Deal - thương lượng lương]] - Thương lượng mức lương của các bạn khi đi làm (đừng như mình tăng tàng tàng thua lương cơ bản người mới vào)
+📝Tham khảo phần [[Deal - thương lượng lương]] - Thương lượng mức lương của mình khi đi làm (mình trước làm việc tăng tàng tàng thua lương cơ bản người mới vào)
 
-- Biết 1 tí về devops, git / cicd / branching pull request/ itsm hoặc 1 số cách promote từ dev =>qa=>prod. Data move như nào, test data ra sao...
+- Biết 1 tí (hiện tại đã thành tạo) về devops, git / cicd / branching pull request/ itsm hoặc 1 số cách promote từ dev =>qa=>prod. Data move như nào, test data ra sao...
 
 >Luôn học cái mới. Các công nghệ mới lúc nào cũng ngon vd apache iceberg/ delta io / cassandra ... apply những cái mới thì đời lúc nào cũng dễ thở.
 >	Người các bạn cần cạnh tranh là những bạn học Kinh tế / Y dược bên nước ngoài về, còn Công nghệ / Thực phẩm thì dễ dàng xin việc bên kia hơn.

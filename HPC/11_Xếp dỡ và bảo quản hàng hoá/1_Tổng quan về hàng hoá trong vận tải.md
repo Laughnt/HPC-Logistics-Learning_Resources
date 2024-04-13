@@ -27,4 +27,4 @@ Lưu ý nhóm 1 và nhóm 2.
 	- Nhóm hàng vận chuyển đòi hỏi có chế độ bảo quản riêng: đó là những loại hàng phải được bảo quản theo những chế độ đặc biệt quy định -> không làm theo -> hàng sẽ bị hư hỏng hoặc gây nguy hiểm cho tàu.
 		Ví dụ: Pin lithium, băng khô, vật chất hoá học, động cơ của ôtô -> [[container]] cần nhiệt độ thích hợp.
 
-
+# Bao bì và ký mãn hiệu ha
