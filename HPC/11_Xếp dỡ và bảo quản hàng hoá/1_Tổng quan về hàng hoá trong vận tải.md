@@ -27,18 +27,24 @@ Lưu ý nhóm 1 và nhóm 2.
 	- Nhóm hàng vận chuyển đòi hỏi có chế độ bảo quản riêng: đó là những loại hàng phải được bảo quản theo những chế độ đặc biệt quy định -> không làm theo -> hàng sẽ bị hư hỏng hoặc gây nguy hiểm cho tàu.
 		Ví dụ: Pin lithium, băng khô, vật chất hoá học, động cơ của ôtô -> [[container]] cần nhiệt độ thích hợp.
 
-# Bao bì và ký mãn hiệu hàng hoá
+## Bao bì và ký mãn hiệu hàng hoá
 Là những kết cấu làm bằng các vật liệu khác nhau dùng để bảo quản hàng hóa trong quá trình vận chuyển, lưu kho, chờ đợi sử dụng.
 %% Đóng gói ít hàng, bao bì ít -> không quan tâm đến yếu tố về chi phí, vậy là bản thân sẽ kiểm tra về tính kinh tế theo quy mô. Lego ở Bình Dương, vận hành cần nhân sự cấp cao. %%
 Yêu cầu chung đối với bao bì: bền chắc, thích hợp với hàng bên trong, dễ bốc xếp vận chuyển, cần được tiêu chuẩn hóa, chịu được sự xô lắc của tàu, sự thay đổi nhiệt độ, độ ẩm, và các điều kiện khác (vận chuyển từ vùng này -> vùng khác) trong chuyến đi dài ngày.
 %% Kính phía trước của oto, để có thể vận chuyển Pallet - đóng thùng gỗ. Gói chống ấm bên trong đồ ăn. %%
-## Bao bì bên trong
+### Bao bì bên trong
 Bao bì trên trong (bao gói) là một bộ phận không tách rời khỏi hàng, chúng trực tiếp tiếp xúc với hàng hóa, cùng hàng hóa đến tay người tiêu dùng (như chai, lọ, hộp, túi, Xếp dỡ và bảo quản hàng hoá 7 nylon giấy chống ẩm...). Bao gói có thể 1 lớp, 2 lớp, 3 lớp tuỳ theo tiêu chuẩn mỗi loại hàng.
 - Chức năng chính của bao bì bên trong là làm gia tăng khả năng bảo quản hàng, có tác dụng quảng cáo và trang sức cho hàng đẹp thêm. 
 - Yêu cầu với bao gói bên trong là phải đảm bảo vệ sinh, kín.
-## Bao bì bên ngoài
+### Bao bì bên ngoài
 Có tác dụng chống được các tác dụng cơ học từ bên ngoài, hạn chế tác dụng của mưa, nắng, ánh sáng, bụi... 
 - Thường làm bằng: gỗ, vỉ, giấy cứng, giấy mềm, tôn kim loại, thủy tinh, sành sứ, chất dẻo...
 
-# Nhãn hiệu
+## Nhãn hiệu
+Do nơi sản xuất ghi, nó gắn liền với sản phẩm của nơi sản xuất. 
+- Nội dung ghi thường là: tên hàng, nơi sản xuất, trọng lượng cả bì, không bì, thành phần cấu tạo, đặc điểm kỹ thuật, cách sử dụng.
+### Ký hiệu dấu hàng
+Nếu hàng hóa vận chuyển đòi hỏi phải có sự chú ý chăm sóc đặc biệt thì người gửi hàng phải vẽ hoặc dán lên trên các bao, kiện hàng một dấu hiệu biểu thị tính chất của hàng hóa để người làm công tác bốc xếp, vận chuyển biết và chú ý tới như: hàng dễ vỡ, không lật ngược hàng, hàng sợ ẩm, sợ ánh nắng...
+
+![](https://kienvang247.com.vn/wp-content/uploads/2022/09/ky-hieu-hang-hoa.jpg)
 
