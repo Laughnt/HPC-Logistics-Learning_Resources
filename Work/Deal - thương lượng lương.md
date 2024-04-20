@@ -19,7 +19,7 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 Đối với mình, lương nó là 1 tổ hợp những giá trị công ty đem lại cho mình, trong đó bao gồm (nhưng không phải tất cả):
 - Số tiền mình nhận về hàng tháng
 - Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn
-- Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, tham dự các workshop độc quyền, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft…nhiều lắm
+- Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, tham dự các workshop độc quyền, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
 - Lộ trình thăng tiến nghề nghiệp
 - Tìm được thầy giỏi, bạn tốt
 - Văn hoá công ty

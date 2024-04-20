@@ -31,4 +31,13 @@ Một số loại hàng nếu nhiệt độ xuống quá thấp sẽ bị đông
  Thường xảy ra đối với một số loại hàng như than, quặng, lưu huỳnh, phốt pho và một số loại hàng nguy hiểm khác. Nguyên nhân: Do bản thân hàng có khả năng phát nhiệt, tích tụ khí và chúng ta chưa tuân thủ đúng kỹ thuật bảo quản theo các nguyên tắc riêng phù hợp với hàng, hệ thống thông gió chưa tốt, công tác kiểm tra hàng chưa tốt, không phát hiện kịp thời các hiện tượng phát sinh của chúng.
  
  Hư hỏng do cách ly, đệm lót không tốt: 
- Nguyên nhân do một số loại hàng có tính chất kỵ nhau mà xếp gần nhau, hàng nặng xếp trên, hàng nhẹ xếp dưới, xếp chiều cao chồng hàng quá quy định, hàng hóa xếp sát sàn và thành vách tàu không có đệm lót..
+ Nguyên nhân do một số loại hàng có tính chất kỵ nhau mà xếp gần nhau, hàng nặng xếp trên, hàng nhẹ xếp dưới, xếp chiều cao chồng hàng quá quy định, hàng hóa xếp sát sàn và thành vách tàu không có đệm lót.
+
+%% Hao hụt bao nhiêu % thì không cần bồi thường - liên quan tới hợp đồng%%
+
+- Chuẩn bị phương tiện vận chuyển
+Phải chuẩn bị phương tiện vận chuyển chu đáo trước khi nhận hàng để vận chuyển
+Các hầm, ngăn chứa hàng phải được vệ sinh sạch sẽ đạt yêu cầu đối với từng loại hàng.
+Kiểm tra và đưa vào hoạt động bình thường các thiết bị nâng, cẩu hàng
+Công tác chuẩn phương tiện phải được ghi vào nhật ký.
+
