@@ -1,4 +1,4 @@
-## - Kỹ năng cứng chung cho ngành.
+ ## - Kỹ năng cứng chung cho ngành.
 - Power Automate, 
 - **Advanced Excel,**
 >  vì data đa số nằm ở dạng structured đâu đó trong doanh nghiệp. Nên việc mình nắm được cách xem data như thế nào, ở đâu cũng là quan trọng.
