@@ -40,4 +40,20 @@ Phải chuẩn bị phương tiện vận chuyển chu đáo trước khi nhận
 Các hầm, ngăn chứa hàng phải được vệ sinh sạch sẽ đạt yêu cầu đối với từng loại hàng.
 Kiểm tra và đưa vào hoạt động bình thường các thiết bị nâng, cẩu hàng
 Công tác chuẩn phương tiện phải được ghi vào nhật ký.
+#### Vật liệu đệm lót, cách ly 
+Đây cũng là một yếu tố khá quan trọng để có thể phòng ngừa được hư hỏng, thiếu hụt hàng hóa. Vật liệu đệm lót phải chuẩn bị đầy đủ, thích hợp đối với từng loại hàng và tuyến đường hành trình của tàu. Các vật liệu đệm lót phải đảm bảo cách ly được hàng với thành, sàn tàu và với các lô hàng với nhau và đảm bảo không để hàng bị xê dịch, trong quá trình vận chuyển. Trong một số trường hợp nếu điều kiện cho phép có thể dùng chính bản thân hàng hóa (các loại hàng chịu va chạm, đè nén, không vỡ...) để làm vật liệu chèn giữa các lô hàng khác với nhau nhưng phải đảm bảo không làm hỏng lô hàng chèn đó
+#### Một số lưu ý khi làm hàng
+Trong quá trình làm hàng, nếu có sự hư hỏng hàng (đổ vỡ, dập nát,...) -> lập biên bản miễn trách nhiệm.
+%% 
+Thuê Viettel, không cần trực tiếp đóng gói 
+Doanh nghiệp sẽ kiểm tra định kỳ
+%%
+Phải theo dõi sự làm việc của công nhân bốc xếp, phải lưu ý xếp hàng theo đúng sơ đồ, có thể từ chối sự làm việc của nhóm công nhận nào không xếp hàng đúng theo yêu cầu và đề nghị thay nhóm công nhân khác.
 
+#### Phân bố hàng xuống các hầm hợp lý
+Có thể diễn giải ra đây nhiều vấn đề nhưng tóm lại là ngoài việc đảm bảo an toàn cho tàu, thuyền viên, đảm bảo tận dụng được sức chứa và trọng tải tàu, tiến độ làm hàng... thì đảm bảo sao cho mỗi loại hàng với tính chất cơ, lý, hóa, sinh của chúng được xếp vào những chỗ thích hợp để vận chuyển và không làm ảnh hưởng xấu đến các hàng hóa xếp quanh nó. 
+- Các loại hàng tỏa mùi mạnh (cá, da muối...) không nên xếp gần các loại hàng có tính hút mùi mạnh (như chè, thuốc, gạo, đường...)
+- Các loại hàng tỏa ẩm (lương thực, hàng lỏng...) phải được xếp cách ly với các hàng hút ẩm (bông, vải, đường...) 
+- Các loại hàng tỏa bụi mạnh (như xi măng, phân chở rời, lưu huỳnh, tinh quặng...) không được xếp cùng thời gian với các loại hàng mà có thể bị hỏng bởi bụi (bông, vải, sợi...) 
+- Các loại hàng dễ cháy nổ cần xếp xa với các nguồn nhiệt như buồng máy, ống khói...
+- Các loại hàng lỏng chứa trong thùng nên xếp vào các hầm riêng nếu xếp chung với các hàng khác thì nên xếp ở dưới cùng và sát về vách sau của hầm.
