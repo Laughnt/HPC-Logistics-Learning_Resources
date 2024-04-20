@@ -128,7 +128,7 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 - Nhiều bạn coi mấy mẫu CV trên mạng rồi đánh giá theo “SAO ★” là sai lầm nhé mấy bạn. Kỹ năng làm việc nhóm 5 sao: ★★★★★ ? 
   Ví dụ bạn nộp CV cho vị trí Data Analyst mà bạn ghi: **Kỹ năng phân tích dữ liệu: 5 sao** thì vô nghĩa và không đánh giá được. Là ngang trình độ với người sáng lập ra kỹ năng phân tích dữ liệu?
   
-- Chỗ này có thể khắc phục bằng cách liệt kê chi tiết: Nếu bạn biết Python, chuyên cho Data analyst thì ghi các thư viện bạn hay dùng (Pandas, Numpy, Scipy,..). PowerBI (dax function…), biết SQL Server (SSMS,). Ví dụ như bạn biết các dùng Store procedure, Trigger, biết deploy SQL Server bằng docker, hay biết dùng k8s,… thì cứ ghi vào.
+- Chỗ này có thể khắc phục bằng cách liệt kê chi tiết: Nếu bạn biết Python, chuyên cho Data Analyst thì ghi các thư viện bạn hay dùng (Pandas, Numpy, Scipy,..). PowerBI (dax function…), biết SQL Server (SSMS,). Ví dụ như bạn biết các dùng Store procedure, Trigger, biết deploy SQL Server bằng docker, hay biết dùng k8s,… thì cứ ghi vào.
 	Phần này khá quan trọng vì có nhiều công ty đang dùng các hệ thống quét CV tự động gọi là **ATS Applicant Tracking System**. Có từ khoá họ muốn thì sẽ bỏ qua, không có từ khoá thì họ loại luôn, hoàn toàn tự động. Nên việc liệt kê các từ khoá quan trọng vào đây sẽ giúp CV dễ vượt qua các hệ thống screening - quét màn hình tự động hơn.
 
 - Đợt rồi mình cũng trực tiếp xem xét CV và tuyển người mới cho đội nhóm, mình sẽ ưu tiên các CV có các keywords - từ khoá mà chỉ những người thực sự biết họ đang làm gì biết. 
