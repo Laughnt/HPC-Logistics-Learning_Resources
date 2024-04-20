@@ -8,6 +8,9 @@ https://www.facebook.com/groups/vietnamquora/posts/2737481486484970/
 Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “deal lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách.
 Mình đã ngồi ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới.
 
+
+![](https://public-files.gumroad.com/9ezqq8dxknplpqcp5cwe18ob6yh7)
+
 #### - **1. Tâm thế khi đi phỏng vấn và deal lương**
 
 Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin việc”. Việc mình đi làm công việc thực chất là 1 cuộc trao đổi sòng phẳng: 
