@@ -57,3 +57,5 @@ Có thể diễn giải ra đây nhiều vấn đề nhưng tóm lại là ngoà
 - Các loại hàng tỏa bụi mạnh (như xi măng, phân chở rời, lưu huỳnh, tinh quặng...) không được xếp cùng thời gian với các loại hàng mà có thể bị hỏng bởi bụi (bông, vải, sợi...) 
 - Các loại hàng dễ cháy nổ cần xếp xa với các nguồn nhiệt như buồng máy, ống khói...
 - Các loại hàng lỏng chứa trong thùng nên xếp vào các hầm riêng nếu xếp chung với các hàng khác thì nên xếp ở dưới cùng và sát về vách sau của hầm.
+
+
