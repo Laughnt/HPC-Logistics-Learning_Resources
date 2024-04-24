@@ -46,4 +46,17 @@ Nhiệm vụ bảo quản hàng trong hành trình chủ yếu tập trung vào 
 - Kiểm tra và dùng các biện pháp cần thiết không để cho hàng bị dịch chuyển, nhất là đối với các hàng trên boong, đặc biệt trong thời gian thời tiết xấu.
 
 # Mồ hôi hàng hoá
-Hầu hết các khiếu nại về hàng hóa là do hàng hóa bị hư hỏng trong quá trình vận chuyển, trong đó rất nhiều trường hợp hư hỏng đó là do mồ hôi gây ra
+Hầu hết các khiếu nại về hàng hóa là do hàng hóa bị hư hỏng trong quá trình vận chuyển, trong đó rất nhiều trường hợp hư hỏng đó là do mồ hôi gây ra.
+
+Mồ hôi được tạo thành do hơi nước trong không khí bị lạnh dưới điểm sương ngưng đọng thành các hạt nước. Mồ hôi hàng hóa thường xảy ra khi hàng hóa lạnh mà không khí vào lại ấm.
+%% Treo gói hút ẩm %%
+Hiện tượng có những hạt nước bám trên bề mặt hàng hoá.
+
+Hiện tượng mồ hôi hàng hóa có thể xảy ra khi tàu hành trình từ vùng lạnh sang những vùng có khí hậu nóng hơn. Nguyên nhân: Khi tàu chạy từ một cảng vùng lạnh đến vùng có nhiệt độ cao hơn, độ ẩm không khí lớn hơn thì nhiệt độ và độ ẩm không khí trong hầm hàng cũng sẽ tăng lên tương ứng.
+
+# Nguyên tắc thông gió
+Xét về mặt ảnh hưởng của môi trường xung quanh thì hàng hóa được chia làm hai loại chính như sau: 
+- Hàng có tính hút ẩm (Hygroscopic Cargo): Đây chủ yếu là các loại hàng gốc thực vật như các loại ngũ cốc, các loại bột ngũ cốc, bông, gỗ, thuốc sợi...Loại hàng này dễ bị sự tác động của độ ẩm, chúng có thể hút ẩm, giữ ẩm và tỏa hơi ẩm. Hàng hút ẩm làm tăng hiện tượng mồ hôi thân tàu khi nhiệt độ thay đổi, nhất là khi chở hàng từ vùng nóng sang vùng lạnh. Đặc biệt, hiện tượng này xảy ra mạnh khi nhiệt độ bên ngoài giảm đột ngột. 
+- Hàng không hút ẩm (Non - hygroscopic cargo): Là các loại hàng gốc từ các vật liệu cứng như các sản phẩm sắt thép / vi mạch, máy móc, các đồ bằng đất nung, các hàng hóa đóng thùng, đóng hộp... . Các loại hàng này dễ bị tác động bởi hiện tượng mồ hôi hàng hóa gây han gỉ, bẩn, làm biến màu...dẫn đến hư hỏng đặc biệt khi chở hàng từ vùng lạnh sang vùng nóng hơn
+%%Để bình thường thì thông gió vẫn xảy ra -> Lắp quạt ở bên trên mái của kho lưu trữ hàng hoá.%%
+
