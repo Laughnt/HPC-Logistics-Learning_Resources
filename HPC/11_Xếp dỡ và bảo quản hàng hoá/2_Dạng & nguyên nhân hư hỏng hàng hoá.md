@@ -34,8 +34,8 @@ Một số loại hàng nếu nhiệt độ xuống quá thấp sẽ bị đông
  Nguyên nhân do một số loại hàng có tính chất kỵ nhau mà xếp gần nhau, hàng nặng xếp trên, hàng nhẹ xếp dưới, xếp chiều cao chồng hàng quá quy định, hàng hóa xếp sát sàn và thành vách tàu không có đệm lót.
 
 %% Hao hụt bao nhiêu % thì không cần bồi thường - liên quan tới hợp đồng%%
-
-- Chuẩn bị phương tiện vận chuyển
+## Phòng ngừa, hạn chế thiếu hụt hàng hoá.
+#### Chuẩn bị phương tiện vận chuyển
 Phải chuẩn bị phương tiện vận chuyển chu đáo trước khi nhận hàng để vận chuyển
 Các hầm, ngăn chứa hàng phải được vệ sinh sạch sẽ đạt yêu cầu đối với từng loại hàng.
 Kiểm tra và đưa vào hoạt động bình thường các thiết bị nâng, cẩu hàng
@@ -51,7 +51,9 @@ Doanh nghiệp sẽ kiểm tra định kỳ
 Phải theo dõi sự làm việc của công nhân bốc xếp, phải lưu ý xếp hàng theo đúng sơ đồ, có thể từ chối sự làm việc của nhóm công nhận nào không xếp hàng đúng theo yêu cầu và đề nghị thay nhóm công nhân khác.
 
 #### Phân bố hàng xuống các hầm hợp lý
+##### - Trọng tải
 Có thể diễn giải ra đây nhiều vấn đề nhưng tóm lại là ngoài việc đảm bảo an toàn cho tàu, thuyền viên, đảm bảo tận dụng được sức chứa và trọng tải tàu, tiến độ làm hàng... thì đảm bảo sao cho mỗi loại hàng với tính chất cơ, lý, hóa, sinh của chúng được xếp vào những chỗ thích hợp để vận chuyển và không làm ảnh hưởng xấu đến các hàng hóa xếp quanh nó. 
+##### - Hàng hoá mang tính chất hoá lý
 - Các loại hàng tỏa mùi mạnh (cá, da muối...) không nên xếp gần các loại hàng có tính hút mùi mạnh (như chè, thuốc, gạo, đường...)
 - Các loại hàng tỏa ẩm (lương thực, hàng lỏng...) phải được xếp cách ly với các hàng hút ẩm (bông, vải, đường...) 
 - Các loại hàng tỏa bụi mạnh (như xi măng, phân chở rời, lưu huỳnh, tinh quặng...) không được xếp cùng thời gian với các loại hàng mà có thể bị hỏng bởi bụi (bông, vải, sợi...) 
