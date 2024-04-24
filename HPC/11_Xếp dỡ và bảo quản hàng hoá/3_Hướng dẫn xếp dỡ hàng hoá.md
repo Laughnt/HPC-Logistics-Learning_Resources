@@ -6,7 +6,7 @@ Các hòm to, nặng nên xếp dưới và ở giữa hầm, các hòm nhỏ x�
 %% Phalet., đặt so le%%
 Thường các hòm được xếp chồng bằng hòm hoặc lệch hòm.
 
-%% Đặt lệch, những thùng hang fnjwang sẽ để ở bên dưới%%
+%% Đặt lệch, những thùng hang nặng sẽ để ở bên dưới%%
 
 ## 2. Hàng bao bì
 Thường là các loại ngũ cốc đóng bao như bột, đường... là những loại hàng mềm không bị hạn chế bởi kích thước, dễ xếp, nhược điểm là đa số các loại hàng này đều sợ ẩm nên phải có đệm lót tốt. 
@@ -60,3 +60,8 @@ Xét về mặt ảnh hưởng của môi trường xung quanh thì hàng hóa �
 - Hàng không hút ẩm (Non - hygroscopic cargo): Là các loại hàng gốc từ các vật liệu cứng như các sản phẩm sắt thép / vi mạch, máy móc, các đồ bằng đất nung, các hàng hóa đóng thùng, đóng hộp... . Các loại hàng này dễ bị tác động bởi hiện tượng mồ hôi hàng hóa gây han gỉ, bẩn, làm biến màu...dẫn đến hư hỏng đặc biệt khi chở hàng từ vùng lạnh sang vùng nóng hơn
 %%Để bình thường thì thông gió vẫn xảy ra -> Lắp quạt ở bên trên mái của kho lưu trữ hàng hoá.%%
 
+
+Nguyên tắc chất xếp hàng hoá. 
+Phân hoá hàng hoá và vận chuyển 
+Mồ hôi hàng hoá 
+Nguyên tắc thông gió.
