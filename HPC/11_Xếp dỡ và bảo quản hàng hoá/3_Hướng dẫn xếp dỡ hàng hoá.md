@@ -14,7 +14,9 @@ Thường xếp theo phương pháp chồng bao, chồng nửa bao hoặc xếp 
 
 Thường các bao được xếp dọc phương tiện vận chuyển.
 %% Gạo / bột mì toả ẩm -> giảm khối lượng (hao hụt tự nhiên) -> Xuất khẩu gạo cần tính trọng lượng hao hụt. 
-Không nẹp chặt hàng bao bì -> tránh để trống khí ->  Nên có khoảng cách giữa các bao và thành khoang để khi có hiện tượng [**đổ mồ hôi hàng hóa**](http://banog.vn/do-mo-hoi-hang-hoa/) thì nước sẽ theo thành khoang chảy xuống mà không dính đến bao gạo.%% 
+Không nẹp chặt hàng bao bì -> tránh để trống khí ->  Nên có khoảng cách giữa các bao và thành khoang để khi có hiện tượng [**đổ mồ hôi hàng hóa**](http://banog.vn/do-mo-hoi-hang-hoa/) thì nước sẽ theo thành khoang chảy xuống mà không dính đến bao gạo.%%
+
+[[Thông gió hàng hoá]] 
 ## 3. Hàng bó kiện
 Thường là các loại hàng nhẹ như các kiện đay, bông, sợi, gai... phương pháp xếp tương tự hàng hòm kiện.
 ## 4. Hàng thùng 
@@ -26,9 +28,9 @@ Thường là các loại hàng: thanh ray, các loại đường ống, các th
 Yêu cầu xếp không được để hàng biến dạng, đây thường là các loại hàng nặng nên xếp ở dưới và xếp với các loại hàng nhẹ khác để tận dụng dung tích phương tiện vận chuyển.
 
 Phương pháp xếp: 
-- Thanh ray: 
-  + Xếp dọc tàu 
-  + Xếp ô vuông 
+- Thanh ray:
+  - - Xếp dọc tàu
+  - - Xếp ô vuông 
 - Đường ống có đầu loe: Xếp so le đầu đuôi. 
 - Các dầm, thanh sắt: Nên xếp dọc phương tiện vận chuyển.
 %% TÌm hiểu về các xếp và công thức tính chu vi của hàng ống / kim loại %%
@@ -42,3 +44,6 @@ Nhiệm vụ bảo quản hàng trong hành trình chủ yếu tập trung vào 
 - Giữ gìn sao cho nước (từ bất kỳ nguồn nào) không rò rỉ, chảy vào hầm làm ướt hàng. 
 - Kiểm tra, duy trì được chế độ nhiệt độ và độ ẩm thích hợp đối với hàng vận chuyển.
 - Kiểm tra và dùng các biện pháp cần thiết không để cho hàng bị dịch chuyển, nhất là đối với các hàng trên boong, đặc biệt trong thời gian thời tiết xấu.
+
+# Mồ hôi hàng hoá
+Hầu hết các khiếu nại về hàng hóa là do hàng hóa bị hư hỏng trong quá trình vận chuyển, trong đó rất nhiều trường hợp hư hỏng đó là do mồ hôi gây ra
