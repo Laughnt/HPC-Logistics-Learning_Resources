@@ -59,9 +59,3 @@ Xét về mặt ảnh hưởng của môi trường xung quanh thì hàng hóa �
 - Hàng có tính hút ẩm (Hygroscopic Cargo): Đây chủ yếu là các loại hàng gốc thực vật như các loại ngũ cốc, các loại bột ngũ cốc, bông, gỗ, thuốc sợi...Loại hàng này dễ bị sự tác động của độ ẩm, chúng có thể hút ẩm, giữ ẩm và tỏa hơi ẩm. Hàng hút ẩm làm tăng hiện tượng mồ hôi thân tàu khi nhiệt độ thay đổi, nhất là khi chở hàng từ vùng nóng sang vùng lạnh. Đặc biệt, hiện tượng này xảy ra mạnh khi nhiệt độ bên ngoài giảm đột ngột. 
 - Hàng không hút ẩm (Non - hygroscopic cargo): Là các loại hàng gốc từ các vật liệu cứng như các sản phẩm sắt thép / vi mạch, máy móc, các đồ bằng đất nung, các hàng hóa đóng thùng, đóng hộp... . Các loại hàng này dễ bị tác động bởi hiện tượng mồ hôi hàng hóa gây han gỉ, bẩn, làm biến màu...dẫn đến hư hỏng đặc biệt khi chở hàng từ vùng lạnh sang vùng nóng hơn
 %%Để bình thường thì thông gió vẫn xảy ra -> Lắp quạt ở bên trên mái của kho lưu trữ hàng hoá.%%
-
-
-Nguyên tắc chất xếp hàng hoá. 
-Phân hoá hàng hoá và vận chuyển 
-Mồ hôi hàng hoá 
-Nguyên tắc thông gió.
