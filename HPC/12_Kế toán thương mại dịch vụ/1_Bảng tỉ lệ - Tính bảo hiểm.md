@@ -43,7 +43,28 @@ Trả bảo hiểm.
 
 Tài sản cố định mua về + tiền cài đặt + tiền vận chuyển.
 
-## - 2
-Kế toán mua hàng NC, CCDC, Hàng hoá,
+## - 2 Kế toán mua hàng
+NC, CCDC, Hàng hoá,
 - Mua trong nước
 GT hàng mua = Giá HD (vat & không vat) + thuế NK TLĐB - CKTH / CTDHDB + CP
+
+## - 3 Kế toán bán hàng.
+- KT GVHB - Chi phí
+	Nhập trước xuất trước, bình quân gia quyền, thực tế định doanh 
+	Giá xuất khẩu - giá vốn N 632 C154 155 156 152
+- KT ĐTBH - Doanh thu 
+  N111, 112, 131 C511 C3331
+- KT Chi phí bán hàng:
+  C111, C112, C341
+  
+# - 4 KT sản xuất.
+
+- Tập hợp CPSX để tính giá.
+N154 C621 C622 C627 CPSX trong kỳ (SP hoàn thiện & SP dở dang)
+- Nhập kho thành phẩm hoàn thành
+N155 C154 (Giải thích SP hoàn thiện)
+- Xuất bán luôn
+N632 C154
+- Gửi bán
+N157 C154
+Chú ý: Tính sản phẩm dở dang.
