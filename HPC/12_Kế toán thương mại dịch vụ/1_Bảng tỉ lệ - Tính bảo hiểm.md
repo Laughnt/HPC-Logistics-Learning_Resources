@@ -18,7 +18,7 @@ TS tăng (N) = NV gỉam (C)
 		Nợ TK 334
 		Có TK 112
 
-
+## - 1
 
 | Các khoản trích Bảo hiểm | Tỷ lệ đóng của Doanh nghiệp | Tỷ lệ đóng của NLĐ | Tổng cộng |
 | ------------------------ | --------------------------- | ------------------ | --------- |
@@ -40,3 +40,10 @@ Tỉnh bảo hiểm:
 	NLĐ chịu -> trừ lương - N334, C338 chiếm 10,5%
 Trả bảo hiểm.
 	Người bảo hiểm: C111, C112/ N338 
+
+Tài sản cố định mua về + tiền cài đặt + tiền vận chuyển.
+
+## - 2
+Kế toán mua hàng NC, CCDC, Hàng hoá,
+- Mua trong nước
+GT hàng mua = Giá HD (vat & không vat) + thuế NK TLĐB - CKTH / CTDHDB + CP
