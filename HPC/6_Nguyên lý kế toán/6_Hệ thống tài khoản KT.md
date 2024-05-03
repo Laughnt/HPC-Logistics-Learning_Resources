@@ -124,3 +124,4 @@ b, định khoản các nghiệp vụ kinh tế phát sinh
 c, Vẽ các tài khoản kế toán liên quan - 10
 
 Câu a, b, trình bày theo ảnh trong máy.
+
