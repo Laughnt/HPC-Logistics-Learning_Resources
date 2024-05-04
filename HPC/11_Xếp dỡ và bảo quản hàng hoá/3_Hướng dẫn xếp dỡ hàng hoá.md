@@ -7,7 +7,6 @@ Các hòm to, nặng nên xếp dưới và ở giữa hầm, các hòm nhỏ x�
 Thường các hòm được xếp chồng bằng hòm hoặc lệch hòm.
 
 %% Đặt lệch, những thùng hang nặng sẽ để ở bên dưới%%
-
 ## 2. Hàng bao bì
 Thường là các loại ngũ cốc đóng bao như bột, đường... là những loại hàng mềm không bị hạn chế bởi kích thước, dễ xếp, nhược điểm là đa số các loại hàng này đều sợ ẩm nên phải có đệm lót tốt. 
 Thường xếp theo phương pháp chồng bao, chồng nửa bao hoặc xếp cặp ba, cặp năm bao tuỳ theo mức độ cần thông gió nhiều hay ít và độ chắc chắn của đống hàng. 
