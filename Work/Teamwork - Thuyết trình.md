@@ -1,7 +1,7 @@
 9slide -> trình độ Master, dùng PowerPoint đi làm lương 1x. 
+https://9slide.vn
 
-Năm 4 + PowerPoint thì đi làm thêm cho Bank vừa nhàn + sướng + lương cao.. 
-
+Năm 4 + PowerPoint thì đi làm thêm cho Bank vừa nhàn + sướng + lương cao.
 ### Phàn nàn gánh team thuyết trình?
 Cái quan trọng của trưởng nhóm là phải biết thiết quân luật, còn nếu mà cứ chia chung chung thì sẽ nhận lại đám bùi nhùi thôi. Đứa nào có điểm mạnh nào thì bắt làm cái đó. 
 
@@ -15,7 +15,12 @@ Google tìm thêm các công việc keyword E-learning. Hoặc làm mảng đào
 
 Mỗi tiêu chuẩn sẽ có những ưu/nhược điểm riêng và phù hợp với những nhu cầu/ đặc điểm khác nhau của tổ chức. 
 https://www.dominknow.com/blog/scorm-vs-xapi-vs-cmi5-which-content-standard-is-the-best-for-elearning
+Vì mình build toàn bộ hệ thống vận hành và báo cáo của Datapot do chưa có 1 hệ thống SIS nào đáp ứng đúng nhu cầu cụ thể của mình, nên sẽ chia nhỏ ra thành từng nghiệp vụ, tổng quan nó và nghiên cứu theo từng nghiệp vụ sẽ có bài toán cụ thể hơn. Gom chung 1 lượt vào bài toán cụ thể của doanh nghiệp mình sẽ khó có tài liệu chi tiết.
 
-Vừa là công cụ, nó hoàn toàn có thể kham được nhiều công việc của Illustrator (AI) nên có thể ứng tuyển thẳng các công việc về Graphic designer - thiết kế đồ họa. Biết thiết kế thì chuyển đổi giữa các công cụ khá nhanh. 
+VD:
+Digital Marketing
+Customer Funnel
+PnL
+...
+Nếu nhiều người quan tâm, các bạn team mình có thể tổng hợp lại một số use-case các bạn ấy đã triển khai để mọi người tham khảo. Vốn PowerPoint vừa là công cụ, nó hoàn toàn có thể kham được nhiều công việc của Illustrator (AI) nên có thể ứng tuyển thẳng các công việc về Graphic designer - thiết kế đồ họa. Biết thiết kế thì chuyển đổi giữa các công cụ khá nhanh. 
 - Powerpoint - Adobe - Figma. Dần dần có thể làm Website, Application phát triển theo hướng UI/UX -> lên Fiver để luyện cơ ngón tay.
-
