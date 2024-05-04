@@ -21,3 +21,4 @@
 https://sti.vista.gov.vn/tw/Lists/TaiLieuKHCN/Attachments/357671/CVv149S022023050.pdf
 
 - Than phải được xếp cách ly với các loại hàng nhóm 1, 2, 3, 4,5 trong IMDG code.
+https://tienphong.vn/tau-vinalines-queen-mat-tich-la-do-nickel-hoa-long-post562625.tpo
