@@ -62,3 +62,4 @@ Hàng mau hỏng là các loại hàng có nguồn gốc từ động thực v�
 ## Phân loại
 Hàng ướp đá.
 Hàng ướp lạnh.
+## Thịt & Cá
