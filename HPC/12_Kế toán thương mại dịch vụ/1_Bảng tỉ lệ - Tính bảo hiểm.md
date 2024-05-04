@@ -18,7 +18,7 @@ TS tăng (N) = NV gỉam (C)
 		Nợ TK 334
 		Có TK 112
 
-## - 1
+## - 1 Các khoản trích
 
 | Các khoản trích Bảo hiểm | Tỷ lệ đóng của Doanh nghiệp | Tỷ lệ đóng của NLĐ | Tổng cộng |
 | ------------------------ | --------------------------- | ------------------ | --------- |
@@ -48,7 +48,7 @@ NC, CCDC, Hàng hoá,
 - Mua trong nước
 GT hàng mua = Giá HD (vat & không vat) + thuế NK TLĐB - CKTH / CTDHDB + CP
 
-## - 3 Kế toán bán hàng.
+## - 3 Kế toán bán hàng
 - KT GVHB - Chi phí
 	Nhập trước xuất trước, bình quân gia quyền, thực tế định doanh 
 	Giá xuất khẩu - giá vốn N 632 C154 155 156 152
@@ -56,15 +56,16 @@ GT hàng mua = Giá HD (vat & không vat) + thuế NK TLĐB - CKTH / CTDHDB + CP
   N111, 112, 131 C511 C3331
 - KT Chi phí bán hàng:
   C111, C112, C341
-  
-# - 4 KT sản xuất.
-
+## - 4 KT sản xuất.
 - Tập hợp CPSX để tính giá.
 N154 C621 C622 C627 CPSX trong kỳ (SP hoàn thiện & SP dở dang)
 - Nhập kho thành phẩm hoàn thành
 N155 C154 (Giải thích SP hoàn thiện)
+Công cụ dụng cụ phân tích theo sản phẩm được mua theo kỳ bán, giá bán sẽ chia dần theo các kỳ. VD: Kỳ đầu tiên sản phẩm mua với giá cao, kỳ sau sẽ được bán với giá rẻ hơn bìnn thường.
 - Xuất bán luôn
 N632 C154
 - Gửi bán
 N157 C154
 Chú ý: Tính sản phẩm dở dang.
+
+![[Pasted image 20240503112139.png]]
