@@ -43,3 +43,10 @@ _Khối tính toán ALU (Arithmetic Logic Unit)_: Có chức năng thực hiện
 ## Phần mềm hệ thống 
 Phần mềm là chương trình máy tính được mô tả bằng hệ thống ký hiệu, mã hoặc ngôn ngữ để điều khiển thiết bị số thực hiện chức năng nhất định.
 Là một tập hợp các phần mềm chuyên dụng cho phép các phần mềm khác (như Microsoft Word, Microsoft Excel, Microsoft Powerpoint…) hoặc người sử dụng có thể dễ dàng tương tác và điều khiển các thiết bị phần cứng máy tính
+
+## Biểu diễn thông tin trong máy tính
+Hệ đếm là tập hợp các ký hiệu và quy tắc sử dụng tập ký hiệu đó để biểu diễn và xác định các giá trị các số.
+Mỗi hệ đếm có một số ký sỗ hữu hạn.
+
+Hệ 2 - 8 - 10 - 16
+
