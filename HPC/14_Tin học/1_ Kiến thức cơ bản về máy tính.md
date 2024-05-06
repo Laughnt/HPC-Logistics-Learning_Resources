@@ -40,3 +40,6 @@ _Các thanh ghi (Registers)_: Nằm ngay trong CPU, có nhiệm vụ ghi mã l�
 
 _Khối tính toán ALU (Arithmetic Logic Unit)_: Có chức năng thực hiện các lệnh của đơn vị điều khiển và xử lý tín hiệu.
 
+## Phần mềm hệ thống 
+Phần mềm là chương trình máy tính được mô tả bằng hệ thống ký hiệu, mã hoặc ngôn ngữ để điều khiển thiết bị số thực hiện chức năng nhất định.
+Là một tập hợp các phần mềm chuyên dụng cho phép các phần mềm khác (như Microsoft Word, Microsoft Excel, Microsoft Powerpoint…) hoặc người sử dụng có thể dễ dàng tương tác và điều khiển các thiết bị phần cứng máy tính
