@@ -46,7 +46,11 @@ Là một tập hợp các phần mềm chuyên dụng cho phép các phần m�
 
 ## Biểu diễn thông tin trong máy tính
 Hệ đếm là tập hợp các ký hiệu và quy tắc sử dụng tập ký hiệu đó để biểu diễn và xác định các giá trị các số.
-Mỗi hệ đếm có một số ký sỗ hữu hạn.
-
+Mỗi hệ đếm có một số ký số hữu hạn.
 Hệ 2 - 8 - 10 - 16
 
+### Đơn vị thông tin và dung lượng bộ nhớ
+- 8 bit = 1 byte.
+- Một ký tự trong máy tính được biểu diễn bằng 1 byte (B)
+- Các bội của byte (B):Kb, Mb, Gb,...
+### Dung lượng bộ nhớ
