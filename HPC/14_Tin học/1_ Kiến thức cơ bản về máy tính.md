@@ -34,3 +34,9 @@ Phần mềm gồm:
 	Phần mềm ứng dụng
 ### Phần cứng máy tính
 
+_Khối điều khiển (CU - Control Unit)_: Là thành phần của CPU có nhiệm vụ biên dịch các lệnh của chương trình và điều khiển các hoạt động xử lý.
+
+_Các thanh ghi (Registers)_: Nằm ngay trong CPU, có nhiệm vụ ghi mã lệnh trước khi xử lý và ghi kết quả sau khi xử lý.  
+
+_Khối tính toán ALU (Arithmetic Logic Unit)_: Có chức năng thực hiện các lệnh của đơn vị điều khiển và xử lý tín hiệu.
+
