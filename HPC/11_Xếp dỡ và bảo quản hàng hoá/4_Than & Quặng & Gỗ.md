@@ -57,9 +57,47 @@ Phân loại:
 ## Khái niệm
 Hàng mau hỏng là các loại hàng có nguồn gốc từ động thực vật như thịt, cá, trứng, bơ sữa, rau, củ quả... 
 
-Đặc điểm của loại hàng nàyL 
+Đặc điểm của loại hàng này:
 - Luôn chứa một lượng độ ẩm bản thân khá lớn, luôn diễn ra các hoạt động sinh hóa, sinh lý làm thay đổi thành phần hóa học, hương vị và chất lượng hàng. Do vậy, đối với loại hàng này, cần phải có chế độ bảo quản phù hợp đặc biệt về nhiệt độ và độ ẩm.
 ## Phân loại
 Hàng ướp đá.
 Hàng ướp lạnh.
 ## Thịt & Cá
+Thịt thường được chở dưới dạng ướp đá không bao bì như thịt trâu, thịt bò, thịt cừu, thịt lợn... Người ta để thịt từng tảng to, xếp đống lên nhau hoặc treo trên các xà treo.
+
+Chiều cao đống thịt tuỳ theo sức chịu nén của chúng. Ví dụ đống thịt trâu, bò thường cao hơn đống thịt cừu non, bò non... Đối với thịt gia cầm, chúng thường được đóng trong các túi nilon, xếp vào khay hoặc hộp cac-ton
+
+## Trứng 
+ - Trứng thường được chở dưới dạng tươi hoặc ướp muối. 
+ - Trứng được xếp vào các sọt, thùng các tông trên các khay hoặc có vật liệu chèn lót để cho trứng khỏi bị vỡ trong quá trình vận chuyển. 
+ - Thường ưu tiên xếp trứng ở những nơi bằng phẳng, ít rung lắc. Nhiệt độ bảo quản trứng trên dưới 0 độ C chút ít.
+## Rau xanh và hoa quả
+- Rau xanh và hoa quả có đặc điểm là độ ẩm bản thân rất lớn nên dễ bị vi khuẩn xâm nhập.
+- Rau xanh và hoa quả trong quá trình vận chuyển vẫn diễn ra quá trình sinh hóa, chín sau và rất dễ bị khô héo, dập nát, thối. 
+- Rau xanh và hoa quả được bảo quản ở nhiệt độ mát trên dưới 10oC tuỳ loại. Riêng các loại táo, nho, lê, đào, mận, nhiệt độ vận chuyển khoảng từ -1oC đến 2oC.
+- Rau xanh và hoa quả thường được xếp vào các sọt, hộp các tông và được chở trên các tàu chuyên dụng hoặc Container lạnh. Trong quá trình chuyên chở, phải theo dõi, duy trì nhiệt độ của hàng theo yêu cầu của người gửi hàng và phải có biện pháp thông gió thích hợp
+## Vận chuyển động vật sống
+Châu Bùi chó -> hẻo. Nhập khẩu giống bò bên Úc năng suất cao. 
+Cao Bằng có kangkuru.
+Hàn Quốc trả về Trung Quốc con gấu trúc. Cung cấp sản phẩm cho các thành phố.
+Đoàn xiếc sẽ có những cam kết và quy định: Nhiệt độ, thông gió, không bị  xuổng chuồng, tránh để mát an toàn, cần có giấy phép -> để khỏ mạnh, cần thận những đáp ứng riêng. Con vật to có tính hung hăng
+
+
+Cúm gia cầm - gà bệnh không đảm bảo an toàn -> N con người bị lây nhiễm
+Bò có sừng, bị húc nhau vào trong quú trình chọi phải nhau. Gà chọi cần phải có một lớp mỏng ở bên trong, thức ăn chúng ta rải bên ngoài, tránh những con ngà khác bị chạm vào nhau.
+
+Đi đường Láng Hoà Lạc, người khác bán chim trời . động vật hoang dã, người ta phân tích những bản chất của Virus Corona
+
+Pilip bán những ođọng vật hoang dã, ốc đồng, cua đồng - các nhà máy xả thải -> nhiễm kim loại lạnh. Nhiễm sán rất lớn, nhìn vào chỗ có gạch, nhiễm sán -> Hàn Quốc có cua muối.
+
+Làm mắm cáy -> Nhiễm sán. 
+Nem chua - cho vào đĩa, cho vào lò vi sóng, cô sẽ hay cho vào trong be
+ếp 200 độ C 
+Hồ Hải Dương cá chết hàng loạt - lượng oxi ít, nước độc -> Cá hẻo. Mượn sổ đỏ của bố mẹ, bố mẹ tháy rằng mượn vay tiền để mua cá -> cá chết sạch, chết hết -> tiền hết.
+Trái cây nếu được tổng ở farmer hoặc những nông trai, trái cây được để làm ddẹp - phân bón cho cây. HỌ chỉ ăn ở siêu thị. Dơi đậu vào -> tác giả của bài báo đó, tham gia đội tình nguyện ,tặng đồ ăn cho người già,. Thầy đồ án cấm tiết - đồ handmade người tham gia có không nhiêm bệnh truyền nheiẽm không, qua đêm có được bảo quản tốt không. Không có bảo quản.
+Chấp nhận hầu toà -> khiến ngộ độc hàng loạt.
+
+Giải cứu đông vật hoang dã - công viên Thuỷ Lệ.  
+
+Trong suốt quá trình kiểm định, sẽ có những chuyến đi kéo dài vài này -> thức ăn, khuóc uống.
+Trên đường đi, on người có thể không bị sóng sanh, thời gian định kỳ kiểm tra.  Dễ hoảng nên c
