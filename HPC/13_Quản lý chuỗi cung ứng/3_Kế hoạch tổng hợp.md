@@ -23,7 +23,34 @@ Khai thác công suất một cách trịt để nhất.
 -> Lợi nhuận / doanh thu cực đại
 Đây là biện pháp tốt nhất để đưa ra giá khuyến mãi tỏng những giai đoạn cao điểm nhằm gia tăng doanh thu hay kiểm soát chi phí trong những giai đoạn thấp,
 Không có sản phẩm thay thế hoặc những sản phẩm thay thế khác.
+	Nhân viên tiếp thị và phòng ban -> Cao điểm -> Doanh thu 
+	Doanh nhân - Ế ẩm -> Lợi nhuận
 
+### Khuyến mại
+	- Tăng doanh thu ở mùa cao điểm 
+	- Kiểm soát chi phí ở mùa thấp điểm
 
+>[!note] 
+>Săn giá rẻ ở những thời điểm này, mua một món tặng một món.
+>Nhu cầu của chúng ta thấp -> Nhà tiêu dùng bán đi được nhiều hàng tiêu dùng hơn
+### Giảm giá
+	- Tăng quy mô thị trường
+	- Tăng trưởng thị phần
+	- Đẩy mạnh mua hàng 
 
-
+## Tồn kho
+Là mức tồn củam ặt hàng hay tài nguyên nào đó được sử dụng trong một tổ chức.
+	Chi phí cơ hội
+	Bảo hiểm
+	Hư hao
+### Mục đích
+- Duy trì sự độc lập trong vận hàng
+Dự trữ thực phẩm / tiền để dự trữ.
+- Đáp ứng sự biến thiên về nhu cầu sản phẩm 
+Trồng trọt chăn nuôi, dịch biệnh không kiểm soátt được -> thiệt hại -> nhập đầu vào của nó sẽ bị biến động
+- Cho phép uyển chuyển trong lịch trình sản xuất 
+- Cung cấp sự an toàn đối với các biến thiên về thời gian cung cấp nguyên vật liệu
+- Tậndụng yếu tố kinh tế khi đặt hnàng số lượng lớn
+-> Sự tiên liệu về giá cả thay đổi
+%%Đi chợ đều hướng tới tối ưu về chi phí, mua ít thì đắt -> mua nhiều thì rẻ. Để nông sản mua được về vào tủ lạnh -> phần quả tiếp xúc với tủ lạnh thì dễ hẻo -> phí quả hỏng > số tiền mua về để dự trữ.
+%%
