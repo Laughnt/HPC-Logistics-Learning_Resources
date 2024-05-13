@@ -65,3 +65,11 @@ Trên cơ sở là chúng ta có nhu cầu.
 
 - Quản lý mức tiêu dùng
 Giải thích lý do tịa sao lại mua, mua để làm gì, mua bao nhiêu và khi nào. 
+
+## Tín dụng và các khoản phải thu 
+**Tín dụng** là những hoạt động quản lý và tìm kiếm khách hàng tiềm năng để đảm bảo rằng công ty có thể kinh doanh với những khách hàng có thể thanh toán đơn hàng của họ
+
+**Khoản phải thu** là những hoạt động thu hồi công nợ từ các hoạt động kinh doanh của công ty
+Quản lý tín dụng tốt có thể giúp công ty lấp đầy dượcd nhu cầu của khách hàng và giảm tối thiểu lượng tiền mặt bị chiếm dụng từ các khoản phải thu
+
+%% Tìm hiểu về Vin - thương hiệu quốc gia, làm điều này cho người Việt - những việc dễ cho người khác làm.%%
