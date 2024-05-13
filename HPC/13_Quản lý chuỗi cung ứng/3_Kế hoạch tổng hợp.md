@@ -54,3 +54,4 @@ Trồng trọt chăn nuôi, dịch biệnh không kiểm soátt được -> thi�
 -> Sự tiên liệu về giá cả thay đổi
 %%Đi chợ đều hướng tới tối ưu về chi phí, mua ít thì đắt -> mua nhiều thì rẻ. Để nông sản mua được về vào tủ lạnh -> phần quả tiếp xúc với tủ lạnh thì dễ hẻo -> phí quả hỏng > số tiền mua về để dự trữ.
 %%
+
