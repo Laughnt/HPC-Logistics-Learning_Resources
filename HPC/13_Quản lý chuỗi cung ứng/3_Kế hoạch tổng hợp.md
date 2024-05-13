@@ -59,3 +59,9 @@ Trồng trọt chăn nuôi, dịch biệnh không kiểm soátt được -> thi�
 Đơn đặt hàng theo chu kỳ kinh tế:
 ![[QUAN TRI CHUOI CUNG UNG.pdf#page=57]]
 Trên cơ sở là chúng ta có nhu cầu.
+
+## Cung ứng và mua hàng
+đọc giáo trình.
+
+- Quản lý mức tiêu dùng
+Giải thích lý do tịa sao lại mua, mua để làm gì, mua bao nhiêu và khi nào. 
