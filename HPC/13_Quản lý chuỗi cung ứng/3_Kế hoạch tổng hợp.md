@@ -38,7 +38,7 @@ Không có sản phẩm thay thế hoặc những sản phẩm thay thế khác.
 	- Tăng trưởng thị phần
 	- Đẩy mạnh mua hàng 
 
-## Tồn kho
+## Quản lý tồn kho
 Là mức tồn củam ặt hàng hay tài nguyên nào đó được sử dụng trong một tổ chức.
 	Chi phí cơ hội
 	Bảo hiểm
@@ -55,3 +55,7 @@ Trồng trọt chăn nuôi, dịch biệnh không kiểm soátt được -> thi�
 %%Đi chợ đều hướng tới tối ưu về chi phí, mua ít thì đắt -> mua nhiều thì rẻ. Để nông sản mua được về vào tủ lạnh -> phần quả tiếp xúc với tủ lạnh thì dễ hẻo -> phí quả hỏng > số tiền mua về để dự trữ.
 %%
 
+Đáp ứng nhu cầu về sản phẩm giữa các phần đặt hàng theo lịch trình bình thường
+Đơn đặt hàng theo chu kỳ kinh tế:
+![[QUAN TRI CHUOI CUNG UNG.pdf#page=57]]
+Trên cơ sở là chúng ta có nhu cầu.
