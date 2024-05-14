@@ -1,7 +1,7 @@
 
 1. Tự feedback 2-3 điều cho bản thân ngày hôm nay.
-2. 2. Phương pháp (quyết tâm) chiến thắng vấn đề là gì?
-3. 3. Điều cần giáo viên giúp đỡ là gì?
+2. Phương pháp (quyết tâm) chiến thắng vấn đề là gì?
+3. Điều cần giáo viên giúp đỡ là gì?
 ___
 1. Bản thân thường suy nghĩ về chủ đề gì trong cuộc sống? Các yếu tố tác động lên suy nghĩ của bản thân khiến bản thân dễ bị tiêu cực là gì? Viết thật cụ thể, rõ ràng để thay đổi và chiến thắng trong tương lai.
 2. Phân loại suy nghĩ trong bản thân, bản thân thường hay suy nghĩ theo hướng nào?
