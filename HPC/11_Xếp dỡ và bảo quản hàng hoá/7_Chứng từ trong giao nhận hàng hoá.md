@@ -51,3 +51,4 @@ Nhìn hợp đồng là biết dân chuyên hay không chuyên.
 Kiểm tra dấu chì / nguyên đai /nguyên kiện, còn nguyên hay đã mất.
 
 Bên nào sẽ phụ trách nhiệm xếp dỡ, theo [[Incoterm]]. Sau lan can là một trách nhiệm khác, trước lan ca sẽ là khác. 
+- Hoá đơn thương mại là loại chứng từ cơ bản của công tác thanh toán và do người bán hàng thảo ra để yêu cầu người mua phải trả số tiền hàng đẫ được ghi trên hoá đơn. Hoá đơn thương mại ghi rõ đặc điểm hàng hoá, đơn giá, tổng giá trị của hàng hoá, điều kiện cơ sở giao hàng.
