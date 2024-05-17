@@ -3,7 +3,7 @@ I. Khái niệm cơ bản
 
 Mua bán hàng hóa nhằm mục đích sinh lợi.
 https://luatminhkhue.vn/hop-dong-mua-ban-hang-hoa-la-gi-dac-diem-hop-dong-mua-ban-hang-hoa-trong-thuong-mai.aspx
-Hoạt động bao gồm: Mua vào, bán ra, vận chuyển, bảo quản, ...
+Hoạt động bao gồm: Mua vào, bán ra, vận chuyển, bảo quản...
 ## Ví dụ hoạt động mua vào, bán ra, vận chuyển, bảo quản trong kế toán thương mại và dịch vụ:
 
 **1. Mua vào:**
@@ -19,8 +19,8 @@ Hoạt động bao gồm: Mua vào, bán ra, vận chuyển, bảo quản, ...
     - **Hình thức mua:** Mua trực tiếp, mua qua đại lý,...
     - **Phương thức thanh toán:** Tiền mặt, chuyển khoản, séc,...
     - **Hạch toán:**
-        - Nợ: TK 152 - Nguyên vật liệu
-        - Có: TK 133 - Tiền mặt/TK 111 - Ngân hàng/TK 211 - Chuyển khoản thanh toán
+        - N152
+        - C133 C112 C211 
 - **Mua dụng cụ, đồ dùng:**
     - **Hình thức mua:** Mua trực tiếp, mua qua đại lý,...
     - **Phương thức thanh toán:** Tiền mặt, chuyển khoản, séc,...
@@ -120,3 +120,41 @@ Mua bán hàng hóa, cung cấp dịch vụ.
 **IV. Cơ sở pháp lý hoạt động của doanh nghiệp thương mại - dịch vụ**
 Luật Doanh nghiệp.
 Luật Kế toán.
+
+	Ví dụ:
+1. Xuất kho:
+a. Nguyên liệu xuất kho từ kho:
+N621
+C152
+- Vận tải hành khách: 56tr
+- Vận tải hàng hóa: 44tr
+b. Nguyên liệu do lái xe mua trên đường:
+N621
+C221
+- Vận tải hành khách: 30tr
+- Vận tải hàng hóa: 27tr
+
+2. Giá trị nguyên liệu còn tồn lại trên phương tiện vận chuyển:
+a. Vận tải hành khách:
+N152 7tr
+C621 7tr
+
+b. Vận ti hàng hóa:
+N152 4tr
+C621 4tr
+3. Định mức nguyên liệu tiêu hao:
+a. Vận tải hành khách:
+N628 80tr - 7tr = 73 tr
+C152 73tr
+
+b. Vận tải hàng hóa:
+N628 65tr - 4tr = 61 tr
+C152 61tr
+4. Kết chuyển chi phí nguyên liệu phát sinh trong kỳ:
+a. Vận tải hành khách:
+N631 73tr
+C152 73tr
+
+b. Vận tải hàng hóa:
+N631 61tr
+C152 61tr
