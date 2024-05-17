@@ -130,7 +130,7 @@ C152
 - Vận tải hàng hóa: 44tr
 b. Nguyên liệu do lái xe mua trên đường:
 N621
-C221
+C154
 - Vận tải hành khách: 30tr
 - Vận tải hàng hóa: 27tr
 
@@ -158,3 +158,6 @@ C152 73tr
 b. Vận tải hàng hóa:
 N631 61tr
 C152 61tr
+Bởi vì CP phát sinh vượt định mức ->
+CP lái xe chịu N334 + C621 /2
+DN chịu N632 C621 
