@@ -27,12 +27,13 @@ Kích cỡ lô sinh lợi - lô hàng hoá (ELS)
 Thứ tự các sản phẩm được sản xuất 
 Kiểm tra kết quả tồn kho 
 	Thuỷ hải sản, kho lạnh không có -> hỏng ngay.
-
 ### Lập trình sản xuất đa sản phẩm
 Sắp xếp thứ tự các sản phẩm được SX = khi thời gian hết hàng tồn kho bắt buộc ta phải Sản xuất, cuẩn bị hết hàng thì ta phải có kế hoạch sản xuất rồi.
+
 R = P / D
-R:thời gian hết hagnf tồn kho
-P số lượng sản pahảm tỏng kho hiện tại
+R thời gian hết hàng tồn kho
+P số lượng sản phẩm tổng kho hiện tại
 D lượng cầu sản phẩm (sản xuất hoặc bán đi)
 
-2000m vải thì đó là lượng cầu sa
+> Phân bố cân bằng giữa mửa sử dụng, tồn kho, phục vụ khách hàng
+## Quản lý nhà máy trong sản xuất
