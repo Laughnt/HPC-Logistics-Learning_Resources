@@ -55,7 +55,18 @@ Hàng hoá của TQ tràn vào thì doanh nghiệp của bố mẹ sẽ làm ăn
 
 - Nhập dữ liệu cho một đơn hàng, nhập một và chỉ một lần
 - Tự động hoá trong xử lý đơn hàng
-  Quy mô Toyota, một phân xưởng sơn = cả trường HPC, 2 đến 3 người quản lý, tất cả hoạt động là Robot xử lý hết, kiểm soat hết tất cả những hoạt động phân nxưởng - nếu màn hình không có báo hiệu thì chạy bình thường. Nhìn xem đèn đỏ đó là cái gì thì xử lý -> DN tự động hoá.
+  Quy mô Toyota, một phân xưởng sơn = cả trường HPC, 2 đến 3 người quản lý, tất cả hoạt động là Robot xử lý hết, kiểm soat hết tất cả những hoạt động phân xưởng - nếu màn hình không có báo hiệu thì chạy bình thường. Nhìn xem đèn đỏ đó là cái gì thì xử lý -> DN tự động hoá.
 - Đơn hàng luôn ở trạng thái sẵn sàng phục vụ khách hàng
 - Sử dụng hệ thống quản lý đơn đặt hàng tích hợp
 
+### Phân phối trực tiếp
+Là quá trình phân phối từ một địa điểm gốc đến địa điểm nhận hàng. 
+Lựa chọn lộ trình vận tải ngắn nhất giauwx 2 địa điểm.
+Giảm hoạt động trung gian thông qua vận chuyển những đơn hàng nhỏ đến một điểm tập trung, sau đó kết hợp thành đơn hàng lớn
+## Phân phối theo lộ trình đã định 
+Là quá trình phân phối từ một địa điểm gốc đến nhiều địa điểm khác nhau theo lộ trình đã định.
+
+# Kế hoạch phân phối
+## Cross Docking
+
+## Outsource
