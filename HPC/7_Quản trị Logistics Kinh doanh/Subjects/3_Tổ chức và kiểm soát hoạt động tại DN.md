@@ -71,7 +71,7 @@ Ta trở thành những người phân nhánh.
 - Kiểm tra: Trung tâm đầu não của hệ thống kiểm soát.
 Những người kiểm tra: Các nhà quản trị các tổ chức tư vấn hoặc máy diện thoát.
 Sử dụng các thông tin về kết quả của quá trình so với kết quả này với các tiêu chuẩn kiểm soát ở trên, đưa ra các kết luật và thiết lập các hoạt động điều chỉnh cho các chu kỳ quản trị tiếp theo.
-[[Bài tập nhóm]]
+[[Study/HPC/7_Quản trị Logistics Kinh doanh/Subjects/Bài tập nhóm]]
 
 #### 3.3.1 Khái niệm và mô hình kiểm soát (lướt qua)
 ### 3.3.2
