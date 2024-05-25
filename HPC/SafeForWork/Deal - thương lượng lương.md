@@ -17,10 +17,11 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 
 Đối với mình, lương nó là 1 tổ hợp những giá trị công ty đem lại cho mình, trong đó bao gồm (nhưng không phải tất cả):
 - Số tiền mình nhận về hàng tháng
-- Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn
-- Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, tham dự các workshop độc quyền, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
+- ==Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn==
+- Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, ==tham dự các workshop độc quyền của trường đại học trọng điểm như NEU / RMIT / VinU / HUST==, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
 - Lộ trình thăng tiến nghề nghiệp
 - Tìm được thầy giỏi, bạn tốt
+- **Con gái khi đến kỳ kinh nguyệt, được nghỉ một khoảng thời gian hoặc x3 lương làm lúc "bà dâu" đến.**
 - Văn hoá công ty
 - Cơ hội đi đường dài với nhau, hoặc đạt được mục tiêu ngắn, dài hạn…(đồng nghiệp của mình được cty cho mượn 500tr để mua oto đi là 1 ví dụ)
 - … nhiều lắm ngồi nghĩ 1 hồi sẽ ra đầy
@@ -59,9 +60,9 @@ Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, m
 	“dạ vì ký hợp đồng bảo mật NDA và tôn trọng các bên thứ ba nên em xin phép được bảo mật thông tin”.
 	"Mình làm việc có chữ tín và trách nhiệm cùng với cam kết bảo mật thông tin nên không thể chia sẻ bản lương thưởng của cty cũ được, chị thông cảm cho em nhé ạ."
 
-Đổi công ty (khi còn trẻ) và đổi chức danh linh tinh là một vấn đề.
+Đổi công ty (khi mình còn trẻ) và đổi chức danh linh tinh là một vấn đề.
 
-Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện quyết định lương sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp. Nếu mức đề xuất không quá vượt budget - khoản tiền hiện có thì họ vẫn để 1 khoản dự phòng (gọi là buffer) cho những case - trường hợp đặc biệt tốt. Còn không thì bye bye cho lẹ, **bên ngoài kia cả nghìn người.**
+Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện quyết định lương sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp. Nếu mức đề xuất không quá vượt budget - khoản tiền hiện có thì họ vẫn để 1 khoản dự phòng (gọi là buffer) cho những case - trường hợp đặc biệt tốt. Còn không thì bye bye cho lẹ, **bên ngoài kia cả nghìn người thay thế mình.**
 
 ![[Pasted_image_20240313111128.png]]
 
@@ -69,12 +70,9 @@ Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. 
 	Giả sử lương mong muốn của bạn là X. 
 	Thì phần lương cứng hàng tháng sẽ là a% của X
 	Phần lương mềm là b% của X
-Tuy nhiên phần lương mềm sẽ trả theo một khoảng thời gian.
-Ngoài ra khi thử việc thì chỉ được 85% * a% * X, tính Package thế này thì người lao động thiệt .
-
+Tuy nhiên phần lương mềm sẽ trả theo một khoảng thời gian. Ngoài ra khi thử việc thì chỉ được 85% * a% * X, tính Package thế này thì người lao động thiệt .
 > Nên là khi thương lượng cứ hỏi là thẳng 13 hay 14 tháng lương rồi chia dự kiến ra.
 > Mình không quan trọng mức lương mình nhận được một tháng là bao nhiêu, miễn là cty xác nhận gửi cho mình đầy đủ khoản đó.
-
 #### **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
 
 Tất cả những công đoạn trước đó, phỏng vấn, hỏi qua hỏi lại, bàn luận về chuyên môn, văn hoá công ty… là để lên kế hoạch nền cho việc quyết định lương (nó là vấn đề cuối cùng cần thảo luận, 1 phần cũng là vì lý do này).
@@ -88,7 +86,7 @@ Trường hợp đẹp nhất xảy ra, họ đưa ra trước và quyết đị
 📍 Nhớ là đừng có ngại, kiểu sợ họ thấy mình trả treo như bán cá ngoài chợ lại đánh giá mình thấp, đồng tiền đi liền khúc ruột mà, họ đi trước mình tất nhiên sẽ hiểu rõ luật chơi hơn mình.
 
 > Mình tâm niệm câu này trong đầu: **Hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.**
-
+	Luôn hỏi khi bạn không biết, đừng ngại đặt câu hỏi để hiểu rõ vấn đề hơn. Bằng cách này, bạn có nhiều khả năng thành công hơn là cứ tiếp tục mà chả có kiến thức gì để thành công.
 #### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
 
 Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + Luật lao động / Hợp đồng.
@@ -139,6 +137,8 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 #### - **7. Điều cốt lõi**
 
 6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng deal lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó.
-Tư bản tăng lương nhỏ giọt, mình từng deal lương hớ, thấp hơn bạn thực tập sinh ở trong công ty, tham khảo các tiền bối ở trong công ty lương tính bằng $. 
+***Tư bản tăng lương nhỏ giọt, mình từng deal lương hớ (thấp hơn bạn thực tập sinh ở trong công ty). Sau này nhớ tham khảo các tiền bối ở trong công ty lương tính bằng $ trước về văn hoá công ty nhé.**** 
 
-Tham khảo mức lương dù có làm x2, x3 người khác cũng tối đa không quá 10 -> 20%. Lặng lẽ nâng cao giá trị nội tại, thông qua tiếp xúc cũng có thể biết được năng lực của sếp / trưởng phòng, có thể học hỏi được hay không.
+Thường xuyên, dù cho bạn có làm x2 -> x3 người khác thì lương bạn cũng không tăng tối đa quá 10 -> 20%. Do đó, hãy **lặng lẽ nâng cao giá trị nội tại, thông qua tiếp xúc cũng có thể biết được năng lực của sếp / trưởng phòng, có thể học hỏi được hay không**, từ đấy nhảy việc sang bên bạn muốn.
+
+"Tạm thời dừng chân một lúc để nghỉ ngơi cũng ổn thôi nhưng đừng đứng lại lâu quá để bị tụt lại phía sau. Con đường phía trước còn dài lắm, thong thả mà đi cũng được, miễn đừng thụt lùi quá nhiều." - giai đoạn tồi tệ nhất mình đã được khuyên như vậy và nó giúp ích mình rất nhiều.
