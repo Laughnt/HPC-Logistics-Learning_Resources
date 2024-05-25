@@ -47,7 +47,7 @@ Tài sản cố định mua về + tiền cài đặt + tiền vận chuyển.
 NC, CCDC, Hàng hoá,
 - Mua trong nước
 GT hàng mua = Giá HD (vat & không vat) + thuế NK TLĐB - CKTH / CTDHDB + CP
-
+Hình trong máy.
 ## - 3 Kế toán bán hàng
 - KT GVHB - Chi phí
 	Nhập trước xuất trước, bình quân gia quyền, thực tế định doanh 
