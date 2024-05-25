@@ -18,3 +18,4 @@ Nên giờ tâm hồn rất thoải mái, tự tại chứ không phiền não k
 
 > Trạng thái tinh thần -> sự mất mát không ngừng về đam mê.
 
+![[Pasted image 20240513104034.png]]

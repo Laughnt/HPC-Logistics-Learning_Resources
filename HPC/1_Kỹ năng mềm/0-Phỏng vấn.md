@@ -7,3 +7,8 @@ Có Sheet điểm danh - điền dấu X khi mà điểm danh không có không 
 - 3 nhược điểm, và tại sao. 
 ___
 https://drive.google.com/file/d/1soWEVy19J7MTaqTa9RQgCVMJdDO6gEyI/view
+____
+
+1. Tự feedback 2-3 điều cho bản thân ngày hôm nay.
+2. Phương pháp (quyết tâm) chiến thắng vấn đề là gì?
+3. Điều cần giáo viên giúp đỡ là gì?

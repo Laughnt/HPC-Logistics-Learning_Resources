@@ -34,5 +34,5 @@ Chân tay tong teo, kiến thức sống ngắn hạn, cái tôi cá nhân siêu
 9. Quyết tâm học tập của bản thân nếu được lựa chọn? Bản thân sẽ chuẩn bị không gian, thời gian và phí tham dự như thế nào để đáp ứng yêu cầu của chuyên gia và khoá huấn luyện?  
 Không gian/Thời gian/Phí tham dự trong một năm tới được đảm bảo. Nghiêm túc học tập, đáp ứng yêu cầu của chuyên gia và khoá huấn luyện.
  
-10.  Lời muốn gửi đến Chuyên Gia
+10.  Lời muốn gửi đến Chuyên gia
  Em cam kết tin vào những phân tích sâu sắc của chuyên gia. Rất bổ ích ạ. Em xin cảm ơn.

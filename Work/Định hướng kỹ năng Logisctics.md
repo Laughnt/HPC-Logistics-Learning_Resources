@@ -1,3 +1,4 @@
+
  ## - Kỹ năng cứng chung cho ngành.
 - Power Automate, 
 - **Advanced Excel,**
@@ -29,6 +30,8 @@ Stat
 - Biết 1 tí (hiện tại đã thành tạo) về devops, git / cicd / branching pull request/ itsm hoặc 1 số cách promote từ dev =>qa=>prod. Data move như nào, test data ra sao...
 
 >Luôn học cái mới. Các công nghệ mới lúc nào cũng ngon vd apache iceberg/ delta io / cassandra ... apply những cái mới thì đời lúc nào cũng dễ thở.
->	Người các bạn cần cạnh tranh là những bạn học Kinh tế / Y dược bên nước ngoài về, còn Công nghệ / Thực phẩm thì dễ dàng xin việc bên kia hơn.
+>	Người các bạn cần cạnh tranh là những bạn học Kinh tế / Y dược bên nước ngoài về, còn Công nghệ / Hoá sinh thì dễ dàng xin việc bên kia hơn.
 
 - Kỹ năng làm việc nhóm với nhân sự trình độ thấp hơn.
+
+![[Pasted image 20240504081150.png]]
