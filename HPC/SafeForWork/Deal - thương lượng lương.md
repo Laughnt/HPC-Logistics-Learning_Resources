@@ -37,7 +37,9 @@ Sau khi đã làm rõ hết mọi thứ và mình sẽ tham gia công việc khi
 	Trước khi mình bàn về lương, anh có thể hỏi em thêm 1 chút về… được không |
 	
 📍 Cái … đó bạn biết điền mấy cái dính tới **chuyên môn** ấy, ví dụ về việc ứng dụng AI - trí tuệ nhân tạo trong lập trình chẳng hạn, hoặc về công nghệ sẽ áp dụng trong dự án tới...
-	Khi bạn đã làm lâu trong nghề, có danh tiếng và đối tác ổn định thì chốt giá nhanh là ưu điểm và đặc quyền. Tuy nhiên khi bạn mới bắt đầu, chốt giá nhanh có thể là nhược điểm chí mạng khiến bạn mất quyền lợi. Đừng nóng lòng yêu cầu khách thông báo giá cả, hãy từ từ tìm hiểu nhu cầu và các bài toán kinh doanh của họ trước khi nói câu chuyện giá cả. 
+
+>[!note] Lưu tâm
+Khi bạn đã làm lâu trong nghề, có danh tiếng và đối tác ổn định thì chốt giá nhanh là ưu điểm và đặc quyền. Tuy nhiên khi bạn mới bắt đầu, chốt giá nhanh có thể là nhược điểm chí mạng khiến bạn mất quyền lợi. Đừng nóng lòng yêu cầu khách thông báo giá cả, hãy từ từ tìm hiểu nhu cầu và các bài toán kinh doanh của họ trước khi nói câu chuyện giá cả. 
 
 Luôn bắt đầu bằng cách giới thiệu CV của bạn trước, và tại sao bạn là một ==mảnh ghép hoàn hảo cho dự án== của họ. Tiếp đó đặt ra các câu hỏi về công ty của họ, mục đích hoạt động, cấu thành nhóm, những thách thức họ đang gặp phải, thảo luận cách bạn giải quyết các vấn đề của công ty. 
 
