@@ -3,10 +3,9 @@
 https://www.facebook.com/groups/vietnamquora/posts/2737481486484970/
 **Nhạc thiền tịnh tâm**
 > Năm 2020, lương lập trình mới ra trường cấp 3 của mình tầm 5tr, và mình deal được 9tr (+80% mặt bằng chung, chưa có bằng đại học)
-> Năm 2024, mình chuyển việc, và mình hỗ trợ chốt deal +40% so với offer công ty đưa ra.
+> Năm 2024, mình chuyển việc, và mình hỗ trợ chốt thương lượng +40% so với lời đề nghị công ty đưa ra.
 
-Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “deal lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách.
-Mình đã ngồi ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới.
+Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “thương lượng lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách. Mình may mắn được ngồi và học tập ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới.
 
 ![](https://public-files.gumroad.com/9ezqq8dxknplpqcp5cwe18ob6yh7)
 
@@ -28,7 +27,7 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 
 #### - **2. Lương là vấn đề cuối cùng mà mình sẽ thảo luận**
 
-Thường đi phỏng vấn mà gặp câu hỏi về lương, mình sẽ hoặc là lái nó sang 1 chủ đề khác (thường là để làm rõ hơn về việc mình và công ty, công việc có hợp nhau không). Vẫn có trường hợp họ cần chốt con số trước khi phỏng vấn tiếp thì mình sẽ bày tỏ quan điểm của mình rằng 
+Thường đi phỏng vấn mà gặp câu hỏi về lương, mình sẽ hoặc là lái nó sang 1 chủ đề khác (thường là để làm rõ hơn về việc mình và công ty, công việc có hợp nhau không). Vẫn có trường hợp họ cần chốt con số trước khi phỏng vấn tiếp thì mình sẽ bày tỏ quan điểm của mình rằng:
 	“Lương là vấn đề cuối cùng mà mình sẽ thảo luận”
 	"Công việc không phải công cụ để kiếm tiền đối với em, mà là phương tiện để em học hỏi thêm những kiến thức/tri thức mới và áp dụng nó vào việc phát triển của quý công ty"
 
@@ -44,7 +43,9 @@ Luôn bắt đầu bằng cách giới thiệu CV của bạn trước, và tạ
 
 Sau cùng, mới đoạn chốt giá. 
 
-Nói chung cái này thiên về việc kỹ năng phỏng vấn, đi phỏng vấn nên ra tầm chục câu để hỏi lại nhà tuyển dụng, chọn 1 vài câu trong đó ra hỏi là được: https://www.glassdoor.com/Interview/index.htm
+Nói chung cái này thiên về việc kỹ năng phỏng vấn, đi phỏng vấn nên ra tầm chục câu để hỏi lại nhà tuyển dụng, chọn 1 vài câu trong đó ra hỏi là được: 
+https://www.glassdoor.com/Interview/index.htm
+https://www.weforum.org/agenda/2023/05/future-of-jobs-2023-skills/ 
 
 #### - **3. Nếu được, mình sẽ không đưa ra con số trước**
 
@@ -56,11 +57,9 @@ Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, m
 
 Đừng ngại gửi lại mail để thương lượng thêm lương sau đấy, bởi vì vài công ty gửi công văn tới phía trên để quyết định mức lương (đã thử và với mình thì thường sẽ thêm được 1-2tr/tháng). Nếu đã chốt quyết định qua đoạn chat / email / PDF thì vậy là chốt rồi.
 
-- Cái từ khoá ==“offer từ 1 số cty khác”== nó khá đắt giá ấy, bạn tự ngẫm nhé để tự tin nói câu này thì tất nhiên bạn phải đi phỏng vấn nhận offer ở nhiều nơi, ít nhất là phải tham gia nhiều cuộc phỏng vấn.
-	“dạ vì ký hợp đồng bảo mật NDA và tôn trọng các bên thứ ba nên em xin phép được bảo mật thông tin”.
+- Cái từ khoá ==“offer từ 1 số cty khác”== nó khá đắt giá ấy, để tự tin nói câu này thì tất nhiên bạn phải đi phỏng vấn nhận offer ở nhiều nơi, ít nhất là phải tham gia nhiều cuộc phỏng vấn.
+	“Dạ vì ký hợp đồng bảo mật NDA và tôn trọng các bên thứ ba nên em xin phép được bảo mật thông tin”.
 	"Mình làm việc có chữ tín và trách nhiệm cùng với cam kết bảo mật thông tin nên không thể chia sẻ bản lương thưởng của cty cũ được, chị thông cảm cho em nhé ạ."
-
-Đổi công ty (khi mình còn trẻ) và đổi chức danh linh tinh là một vấn đề.
 
 Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. Câu chuyện quyết định lương sẽ nằm trong khung này, và bét nhất thì mình cũng được mức 30, còn nếu họ trả thấp hơn 30 thì họ sẽ cần rất nhiều sách tập làm văn để có thể nói chuyện tiếp. Nếu mức đề xuất không quá vượt budget - khoản tiền hiện có thì họ vẫn để 1 khoản dự phòng (gọi là buffer) cho những case - trường hợp đặc biệt tốt. Còn không thì bye bye cho lẹ, **bên ngoài kia cả nghìn người thay thế mình.**
 
@@ -73,6 +72,8 @@ Còn cái khoảng kia mình sẽ đóng khung khoảng giá trong đầu họ. 
 Tuy nhiên phần lương mềm sẽ trả theo một khoảng thời gian. Ngoài ra khi thử việc thì chỉ được 85% * a% * X, tính Package thế này thì người lao động thiệt .
 > Nên là khi thương lượng cứ hỏi là thẳng 13 hay 14 tháng lương rồi chia dự kiến ra.
 > Mình không quan trọng mức lương mình nhận được một tháng là bao nhiêu, miễn là cty xác nhận gửi cho mình đầy đủ khoản đó.
+
+Đổi công ty (khi mình còn trẻ) và đổi chức danh linh tinh là 2 vấn đề hoàn toàn khác nhau, bạn sẽ cần phải tự học cách xử lý chúng.
 #### **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
 
 Tất cả những công đoạn trước đó, phỏng vấn, hỏi qua hỏi lại, bàn luận về chuyên môn, văn hoá công ty… là để lên kế hoạch nền cho việc quyết định lương (nó là vấn đề cuối cùng cần thảo luận, 1 phần cũng là vì lý do này).
@@ -98,8 +99,7 @@ Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò
 - Nên nếu được, em cố gắng chốt cái dự tính trong cuộc phỏng vấn luôn để chủ động, còn nếu mà thương lượng tiếp qua điện thoại thì mình cần là người chủ động, kiểu: 
 	“Offer này khá hấp dẫn với em, hiện tại vì lý do abc nên em sẽ trả lời lại sau tối đa 3 ngày”. 
 
-Cái lý do abc đó có thể là vì ***mình đang chờ offer chỗ khác, vì mình cần bàn bạc kỹ hơn với gia đình***… đại loại là hấp dẫn đấy nhưng chưa phải là nhất và mình cần suy xét kỹ hơn. 
-Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình gặp được trùm sò kiểu C-level, thì việc quyết định lương dễ hơn, vì sẽ deal thẳng với C-level và chốt ở đó luôn, đỡ qua nhiều bước trung gian.
+Cái lý do abc đó có thể là vì ***mình đang chờ offer chỗ khác, vì mình cần bàn bạc kỹ hơn với gia đình***… đại loại là hấp dẫn đấy nhưng chưa phải là nhất và mình cần suy xét kỹ hơn.  Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình gặp được trùm sò kiểu C-level, thì việc quyết định lương dễ hơn, vì sẽ thương lượng thẳng với C-level và chốt ở đó luôn, đỡ qua nhiều bước trung gian.
 
 Sợ là chưa tới được đoạn thương lượng lương thì được mời về rồi thôi 😅
 
@@ -113,9 +113,9 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 - CV không nên có 1 lỗi chính tả nào
 - CV cần ra được ít nhất 3 điều: mình đã làm những gì, học hỏi được gì từ đó và có gặp khó khăn gì trong những việc đã làm (kèm giải quyết/vượt qua nó như nào). Mình sẽ không ngạc nhiên nếu hôm nào đó phỏng vấn 1 ứng viên, và họ bắt đầu chia sẻ về ==kinh nghiệm vượt thất nghiệp== thay vì kinh nghiệm đi làm ở cty cũ. Ở góc nhìn quản trị học, nó thể hiện tính **"Resilience"** - khả năng phục hồi tâm lý là khả năng đối phó về mặt tinh thần và cảm xúc với khủng hoảng hoặc nhanh chóng trở lại trạng thái trước khủng hoảng ở 1 nhân viên tốt.
   Phần học vấn: Liệt kê từ hiện tại về quá khứ; bỏ mấy cái tự tìm tòi và đặc biệt là thôi học đi, nó không cần thiết đâu, với cả là mình nên bịa ra 1 số thứ mà trong tầm khả năng của mình ấy. VD: 
-2019: Freelancer thiết kế đồ họa.
-2018: Fuho
-2017: Thợ làm bánh.
+2019: Lập trình đồ họa cho một tập đoàn đa quốc gia
+2018: Fuho 
+2017: Thợ làm bánh ngọt siiiu cấp ngou
 - Nhớ chuẩn bị danh sách câu hỏi để hỏi cty về những vấn đề mình cần làm rõ: về chuyên môn, về chính sách, về văn hoá, về con người, về định hướng phát triển của cty…
 - Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội.
 - Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là ==“em không biết, có thể làm theo hướng này, nhưng em không chắc chắn.”==
@@ -125,7 +125,7 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 - Nhiều bạn coi mấy mẫu CV trên mạng rồi đánh giá theo “SAO ★” là sai lầm nhé mấy bạn. Kỹ năng làm việc nhóm 5 sao: ★★★★★ ? 
   Ví dụ bạn nộp CV cho vị trí Data Analyst mà bạn ghi: **Kỹ năng phân tích dữ liệu: 5 sao** thì vô nghĩa và không đánh giá được. Là ngang trình độ với người sáng lập ra kỹ năng phân tích dữ liệu?
   
-- Chỗ này có thể khắc phục bằng cách liệt kê chi tiết: Nếu bạn biết Python, chuyên cho Data Analyst thì ghi các thư viện bạn hay dùng (Pandas, Numpy, Scipy,..). PowerBI (dax function…), biết SQL Server (SSMS,). Ví dụ như bạn biết các dùng Store procedure, Trigger, biết deploy SQL Server bằng docker, hay biết dùng k8s,… thì cứ ghi vào.
+- Chỗ này có thể khắc phục bằng cách liệt kê chi tiết: Nếu bạn biết Python, chuyên cho công việc Data Analyst thì ghi các thư viện bạn hay dùng (Pandas, Numpy, Scipy,..). PowerBI (dax function…), biết SQL Server (SSMS,). Ví dụ như bạn biết các dùng Store procedure, Trigger, biết deploy SQL Server bằng docker, hay biết dùng k8s,… thì cứ ghi vào.
 	Phần này khá quan trọng vì có nhiều công ty đang dùng các hệ thống quét CV tự động gọi là **ATS Applicant Tracking System**. Có từ khoá họ muốn thì sẽ bỏ qua, không có từ khoá thì họ loại luôn, hoàn toàn tự động. Nên việc liệt kê các từ khoá quan trọng vào đây sẽ giúp CV dễ vượt qua các hệ thống screening - quét màn hình tự động hơn.
 
 - Đợt rồi mình cũng trực tiếp xem xét CV và tuyển người mới cho đội nhóm, mình sẽ ưu tiên các CV có các keywords - từ khoá mà chỉ những người thực sự biết họ đang làm gì biết. 
@@ -136,9 +136,10 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 
 #### - **7. Điều cốt lõi**
 
-6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng deal lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó.
-***Tư bản tăng lương nhỏ giọt, mình từng deal lương hớ (thấp hơn bạn thực tập sinh ở trong công ty). Sau này nhớ tham khảo các tiền bối ở trong công ty lương tính bằng $ trước về văn hoá công ty nhé.**** 
+6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng thương lượng lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó. ***Phải hiểu là, tư bản tăng lương nhỏ giọt, mình từng deal lương hớ (thấp hơn bạn thực tập sinh bên Tân Ba Gia ở trong công ty, bạn ấy mới vào mà lương cao hơn hẳn mình). Sau này nhớ tham khảo các tiền bối ở trong công ty lương tính bằng $ trước về văn hoá công ty nhé.***
 
 Thường xuyên, dù cho bạn có làm x2 -> x3 người khác thì lương bạn cũng không tăng tối đa quá 10 -> 20%. Do đó, hãy **lặng lẽ nâng cao giá trị nội tại, thông qua tiếp xúc cũng có thể biết được năng lực của sếp / trưởng phòng, có thể học hỏi được hay không**, từ đấy nhảy việc sang bên bạn muốn.
 
-"Tạm thời dừng chân một lúc để nghỉ ngơi cũng ổn thôi nhưng đừng đứng lại lâu quá để bị tụt lại phía sau. Con đường phía trước còn dài lắm, thong thả mà đi cũng được, miễn đừng thụt lùi quá nhiều." - giai đoạn tồi tệ nhất mình đã được khuyên như vậy và nó giúp ích mình rất nhiều.
+- "Tạm thời dừng chân một lúc để nghỉ ngơi cũng ổn thôi nhưng đừng đứng lại lâu quá để bị tụt lại phía sau. Con đường phía trước còn dài lắm, thong thả mà đi cũng được, miễn đừng thụt lùi quá nhiều." giai đoạn tồi tệ nhất mình (hông than khổ đâu :^) đã được khuyên như vậy và nó giúp ích mình rất nhiều. 
+- Và "Cuộc sống sẽ không vì bạn là con gái mà thương hoa tiếc ngọc" đã trở thành điều chân ái mà mình cần hiểu cho người mình thương sau này. 
+
