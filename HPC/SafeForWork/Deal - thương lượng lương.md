@@ -20,7 +20,7 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 - Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, ==tham dự các workshop độc quyền của trường đại học trọng điểm như NEU / RMIT / VinU / HUST==, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
 - Lộ trình thăng tiến nghề nghiệp
 - Tìm được thầy giỏi, bạn tốt
-- **Con gái khi đến kỳ kinh nguyệt, được nghỉ một khoảng thời gian hoặc x3 lương làm lúc "bà dâu" đến.**
+- **Con gái khi đến kỳ kinh nguyệt, được nghỉ một khoảng thời gian hoặc x2 -> x3 lương làm lúc "bà dâu" đến.**
 - Văn hoá công ty
 - Cơ hội đi đường dài với nhau, hoặc đạt được mục tiêu ngắn, dài hạn…(đồng nghiệp của mình được cty cho mượn 500tr để mua oto đi là 1 ví dụ)
 - … nhiều lắm ngồi nghĩ 1 hồi sẽ ra đầy
@@ -90,6 +90,15 @@ Trường hợp đẹp nhất xảy ra, họ đưa ra trước và quyết đị
 
 > Mình tâm niệm câu này trong đầu: **Hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.**
 	Luôn hỏi khi bạn không biết, đừng ngại đặt câu hỏi để hiểu rõ vấn đề hơn. Bằng cách này, bạn có nhiều khả năng thành công hơn là cứ tiếp tục mà chả có kiến thức gì để thành công.
+
+Ví dụ: "Em là người sẽ trả lời là em không biết câu trả lời cho câu hỏi nằm ngoài phạm vi giới hạn hiểu biết của em, nhưng em khẳng định là em biết cách để đi tìm câu trả lời, và em cam kết với việc đi tìm câu trả lời đấy."
+
+Ví dụ 2: https://www.facebook.com/groups/tamsu.content/posts/1005310600581354/ 
+Những thứ hay nhất mình rút ra được từ bài viết của đàn chị ở trên^(bạn tìm những người giỏi tương tự mà theo dõi nhé)
+- _Đối với em, quan trọng là mình có thực sự muốn làm không. Nếu muốn thì sẽ tìm cách. Nếu em chưa biết làm, em sẽ kết nối với những người khác giỏi hơn trong lĩnh vực đó và nhờ họ dạy cho em làm"_
+- Làm 1 sản phẩm mới từ đầu khó vcl. Vừa làm vừa sửa, thử và sai. Làm đến đâu tạo ra workflow đến đấy. Không có gì chắc chắn 100% cả. Chính vì vậy, 1 tinh thần dám nghĩ dám làm là must-have cho lứa nhân sự core đầu tiên.
+- Trong đó có câu: _“Tại sao Zalo phổ biến ở Việt Nam thế?”_. Mình trả lời ra 1 insight mà chị ấy thấy hứng thú, còn kêu mình gửi thêm detail qua email cho bả nữa.
+Nói chung vòng phỏng vấn này chị ấy cố gắng thể hiện ra 3 thứ: **Content sense; Khả năng giao tiếp** và **Sự hiểu biết về các nền tảng**.
 #### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
 
 Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + Luật lao động / Hợp đồng.
