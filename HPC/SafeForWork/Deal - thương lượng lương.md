@@ -22,11 +22,11 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 - Số tiền mình nhận về hàng tháng
 - ==Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn (Teaching & Mentoring)==
 - Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, ==tham dự các workshop độc quyền của trường đại học trọng điểm như NEU / RMIT / VinU / HUST==, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
-- Lộ trình thăng tiến sự nghiệp - Career
-- Tìm được thầy giỏi, bạn tốt
+- Lộ trình thăng tiến sự nghiệp (có thể phù hợp hoặc không với công ty) - Career 
+- Tìm được thầy giỏi, bạn tốt.
 - **Con gái khi đến kỳ kinh nguyệt, được nghỉ một khoảng thời gian hoặc x2 -> x3 lương làm lúc "bà dâu" đến.**
-- Văn hoá công ty
-- Cơ hội đi đường dài với nhau, hoặc đạt được mục tiêu ngắn, dài hạn…(đồng nghiệp của mình được cty cho mượn 500tr để mua oto đi là 1 ví dụ)
+- Văn hoá công ty.
+- Cơ hội đi đường dài với nhau, hoặc đạt được mục tiêu ngắn, dài hạn… (đồng nghiệp của mình được cty cho mượn 500tr để mua oto đi là 1 ví dụ)
 - … nhiều lắm ngồi nghĩ 1 hồi sẽ ra đầy
 
 ### - **2. Lương là vấn đề cuối cùng mà mình sẽ thảo luận**
@@ -52,8 +52,8 @@ https://www.facebook.com/VietnamWorksFanpage/videos/785888196159985/
 
 Cá nhân mình thấy **Ấn tượng ban đầu (Câu giới thiệu bản thân) và Ấn tượng cuối cùng (Câu hỏi cho NTD)** là 2 phần có ảnh hưởng LỚN tới “cảm nhận” của người phỏng vấn về bạn. Vậy nên 2 chiến lược của mình cho câu hỏi cho công ty này:
 1. Thể hiện được những điểm mạnh, hiểu biết về công ty, lĩnh vực của công ty ngay trong câu hỏi. Nhiều lúc có điểm mạnh mà cả buổi NTD không hỏi tới, thì đây chính là cơ hội:
-	“E có tìm hiểu và theo dõi các campaign của nhãn hàng A bên mình. Tháng 5 bên mình cũng vừa ra mắt dòng sản phẩm mới B giúp mở rộng ngành hàng và duy trì vị thế market leader trong ngành hàng C. E cũng rất mong được tham gia vào việc phát triển một dòng sản phẩm mới như vậy ạ. A/c có thể chia sẻ thêm giúp em về định hướng của nhãn hàng trong năm tới và các cơ hội để e có thể phát triển hơn ở vị trí này ạ?”
-2. “Đối với vị trí này, thì trong 1 tới 3 tháng đầu tiên, anh chị mong muốn như thế nào ở bạn nhân viên, những điểm nào em cần chú ý nhất?" Các anh chị sẽ nói 2-3 điểm mà anh chị ấy mong muốn nhất. Sau đó mình sẽ kết thúc buổi phỏng vấn bằng việc liệt kê 3 điểm mạnh của mình cho vị trí đó là gì.
+	“E có tìm hiểu và theo dõi các campaign của nhãn hàng A bên mình. Tháng 5 bên mình cũng vừa ra mắt dòng sản phẩm mới B giúp mở rộng ngành hàng và duy trì vị thế market leader rong ngành hàng C. E cũng rất mong được tham gia vào việc phát triển một dòng sản phẩm mới như vậy ạ. A/c có thể chia sẻ thêm giúp em về định hướng của nhãn hàng trong năm tới và các cơ hội để e có thể phát triển hơn ở vị trí này ạ?”
+2. “Đối với vị trí này, thì trong 1 tới 3 tháng đầu tiên, anh chị mong muốn như thế nào ở bạn nhân viên, những điểm nào em cần chú ý nhất?" Các anh chị ấy sẽ nói 2-3 điểm mà anh chị ấy mong muốn nhất. Sau đó mình sẽ kết thúc buổi phỏng vấn bằng việc liệt kê 3 điểm mạnh của mình cho vị trí đó là gì.
 Luôn nhớ là để luôn lại ấn tượng TÍCH CỰC nha. Đó là chìa khóa. Tuyệt đối không thể hiện sự thiếu tự tin ở phần này nhó 👌
 
 ### -2.5 Du học nước ngoài sao?
@@ -100,7 +100,7 @@ Trường hợp đẹp nhất xảy ra, họ đưa ra trước và quyết đị
 > Mình tâm niệm câu này trong đầu: **Hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.**
 	Luôn hỏi khi bạn không biết, đừng ngại đặt câu hỏi để hiểu rõ vấn đề hơn. Bằng cách này, bạn có nhiều khả năng thành công hơn là cứ tiếp tục mà chả có kiến thức gì để thành công.
 
-##### - Ví dụ: 
+##### - Ví dụ: https://www.facebook.com/ftuconfessions/posts/637828375221764
 "Em là người sẽ trả lời là em không biết câu trả lời cho câu hỏi nằm ngoài phạm vi giới hạn hiểu biết của em, nhưng em khẳng định là em biết cách để đi tìm câu trả lời, và em cam kết với việc đi tìm câu trả lời đấy."
 ##### - Ví dụ 2: https://www.facebook.com/groups/tamsu.content/posts/1005310600581354/ 
 Những thứ hay nhất mình rút ra được từ bài viết của đàn chị hiện đang làm việc ở Bytedance (công ty mẹ của Douyin 抖音 - Tiktok ở trên^(bạn tìm những người giỏi tương tự mà theo dõi nhé):
@@ -138,7 +138,7 @@ Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đ
 2018: Fuho 🐧
 2017: Thợ làm bánh ngọt siiiu cấp ngou
 - Nhớ chuẩn bị danh sách câu hỏi để hỏi cty về những vấn đề mình cần làm rõ: về chuyên môn, về chính sách, về văn hoá, về con người, về định hướng phát triển của cty…
-- Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội.
+- Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội. 
 - Tìm hiểu kỹ về sản phẩm công ty và tính cách của sếp / người tuyển dụng. Giống như là bạn nằm gầm giường nhà người ta hay bạn bè họ hàng thân thiết vậy.
 https://www.facebook.com/ftuconfessions <- Hữu ích.
 
