@@ -5,7 +5,13 @@ https://www.facebook.com/groups/vietnamquora/posts/2737481486484970/
 > Năm 2020, lương lập trình mới ra trường cấp 3 của mình tầm 5tr, và mình deal được 9tr (+80% mặt bằng chung, chưa có bằng đại học)
 > Năm 2024, mình chuyển việc, và mình hỗ trợ chốt thương lượng +40% so với lời đề nghị công ty đưa ra.
 
-Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “thương lượng lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách. Mình may mắn được ngồi và học tập ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới:
+Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “thương lượng lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách. Mình may mắn được ngồi và học tập ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới.
+
+>[!note] Mindset > Skillset > Toolset
+>Là bộ ba công cụ quan trọng đối với tất cả mọi người khi làm việc ở bất kỳ vị trí nào:
+>- Mindset: là tư duy, nhận định, quan điểm của bạn về một vấn đề, hay công việc. Điều này ảnh hưởng đến toàn bộ kết quả bạn làm ra.
+>- Skillset: là kỹ năng, khả năng để bạn thực hiện công việc.
+>- Toolset: là công cụ, phần mềm giúp bạn thực hiện công việc nhanh chóng, hiệu quả hơn
 
 ![](https://i.redd.it/qhhj2z4wakkc1.png)
 ### - **1. Tâm thế khi đi phỏng vấn và deal lương**
@@ -16,7 +22,7 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 - Số tiền mình nhận về hàng tháng
 - ==Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn (Teaching & Mentoring)==
 - Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, ==tham dự các workshop độc quyền của trường đại học trọng điểm như NEU / RMIT / VinU / HUST==, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
-- Lộ trình thăng tiến nghề nghiệp
+- Lộ trình thăng tiến sự nghiệp - Career
 - Tìm được thầy giỏi, bạn tốt
 - **Con gái khi đến kỳ kinh nguyệt, được nghỉ một khoảng thời gian hoặc x2 -> x3 lương làm lúc "bà dâu" đến.**
 - Văn hoá công ty
@@ -45,8 +51,7 @@ https://www.weforum.org/agenda/2023/05/future-of-jobs-2023-skills/
 https://www.facebook.com/VietnamWorksFanpage/videos/785888196159985/
 
 Cá nhân mình thấy **Ấn tượng ban đầu (Câu giới thiệu bản thân) và Ấn tượng cuối cùng (Câu hỏi cho NTD)** là 2 phần có ảnh hưởng LỚN tới “cảm nhận” của người phỏng vấn về bạn. Vậy nên 2 chiến lược của mình cho câu hỏi cho công ty này:
-1. Thể hiện được những điểm mạnh, hiểu biết về công ty, lĩnh vực của công ty ngay trong câu hỏi:
-Nhiều lúc có điểm mạnh mà cả buổi NTD không hỏi tới, thì đây chính là cơ hội.
+1. Thể hiện được những điểm mạnh, hiểu biết về công ty, lĩnh vực của công ty ngay trong câu hỏi. Nhiều lúc có điểm mạnh mà cả buổi NTD không hỏi tới, thì đây chính là cơ hội:
 	“E có tìm hiểu và theo dõi các campaign của nhãn hàng A bên mình. Tháng 5 bên mình cũng vừa ra mắt dòng sản phẩm mới B giúp mở rộng ngành hàng và duy trì vị thế market leader trong ngành hàng C. E cũng rất mong được tham gia vào việc phát triển một dòng sản phẩm mới như vậy ạ. A/c có thể chia sẻ thêm giúp em về định hướng của nhãn hàng trong năm tới và các cơ hội để e có thể phát triển hơn ở vị trí này ạ?”
 2. “Đối với vị trí này, thì trong 1 tới 3 tháng đầu tiên, anh chị mong muốn như thế nào ở bạn nhân viên, những điểm nào em cần chú ý nhất?" Các anh chị sẽ nói 2-3 điểm mà anh chị ấy mong muốn nhất. Sau đó mình sẽ kết thúc buổi phỏng vấn bằng việc liệt kê 3 điểm mạnh của mình cho vị trí đó là gì.
 Luôn nhớ là để luôn lại ấn tượng TÍCH CỰC nha. Đó là chìa khóa. Tuyệt đối không thể hiện sự thiếu tự tin ở phần này nhó 👌
@@ -139,7 +144,7 @@ https://www.facebook.com/ftuconfessions <- Hữu ích.
 
 - Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là ==“em không biết, có thể làm theo hướng này, nhưng em không chắc chắn.”==
 - CV gởi đi phải dùng Format - định dạng PDF. Gởi tệp tin Word => Cấu trúc không cố định => tỷ lệ bị lỗi khi đọc cao => Dễ bị loại.
-- Thêm các kỹ năng hoặc công cụ mà bạn biết vào, kỹ năng về mặt kỹ thuật nhé. Chứ kỹ năng mềm, làm việc nhóm chả ai quan tâm vì chả có thứ gì đo đếm được. Tuỳ theo vị trí bạn đang ứng tuyển mà các kỹ năng này phải được sắp xếp theo mức độ liên quan từ **trên xuống dưới, từ trái qua phải**. Tham khảo:
+- Thêm các kỹ năng hoặc công cụ mà bạn biết vào, kỹ năng về mặt kỹ thuật nhé. Chứ kỹ năng mềm, làm việc nhóm chả ai quan tâm vì chả có thứ gì đo đếm được. Tuỳ theo vị trí bạn đang ứng tuyển mà các kỹ năng này phải được sắp xếp theo mức độ liên quan từ **trên xuống dưới, từ trái qua phải**. Tham khảo **Năng lực cốt lõi (Core competencies)**:
   ![[WEF_Future_of_Jobs_2023.pdf#page=38]]
 - Biết gì thì liệt kê ra, người tuyển sẽ biết là bạn có kinh nghiệm với các kỹ năng này và sẽ biết để chọn. Còn trình độ tới đâu thì phải test/hỏi thử mới biết. Tự nhà tuyển dụng sẽ đánh giá bạn. Bạn không cần phải tự đánh giá bản thân vì nó còn **thiên vào định kiến cá nhân lắm và không có giá trị lắm với người xem.**
 - Nhiều bạn coi mấy mẫu CV trên mạng rồi đánh giá theo “SAO ★” là sai lầm nhé mấy bạn. Kỹ năng làm việc nhóm 5 sao: ★★★★★ ? 
@@ -159,10 +164,13 @@ https://www.facebook.com/watch/?v=1481447772776085
 
 ### - **7. Điều cốt lõi**
 
-6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng thương lượng lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó. ***Phải hiểu là, tư bản tăng lương nhỏ giọt, mình từng deal lương hớ (thấp hơn bạn thực tập sinh bên Tân Ba Gia ở trong công ty, bạn ấy mới vào mà lương cao hơn hẳn mình). Sau này nhớ tham khảo các tiền bối ở trong công ty lương tính bằng $ trước về văn hoá công ty nhé.***
+6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng thương lượng lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó. 
+https://tinhte.vn/thread/su-nguy-hai-cua-noi-dung-ngan.3644742/
+![](https://photo2.tinhte.vn/data/attachment-files/2023/03/6358687_a11.jpg)
+***Phải hiểu là, tư bản tăng lương nhỏ giọt, mình từng deal lương hớ (thấp hơn bạn thực tập sinh bên Tân Ba Gia ở trong công ty, bạn ấy mới vào mà lương cao hơn hẳn mình). Sau này nhớ tham khảo các tiền bối trước về văn hoá công ty nhé.***
 
 Thường xuyên, dù cho bạn có làm x2 -> x3 người khác thì lương bạn cũng không tăng tối đa quá 10 -> 20%. Do đó, hãy **lặng lẽ nâng cao giá trị nội tại, thông qua tiếp xúc cũng có thể biết được năng lực của sếp / trưởng phòng, có thể học hỏi được hay không**, từ đấy nhảy việc sang bên bạn muốn.
-
+![](https://photo2.tinhte.vn/data/attachment-files/2023/03/6358692_a7.jpg)
 - "Tạm thời dừng chân một lúc để nghỉ ngơi cũng ổn thôi nhưng đừng đứng lại lâu quá để bị tụt lại phía sau. Con đường phía trước còn dài lắm, thong thả mà đi cũng được, miễn đừng thụt lùi quá nhiều." giai đoạn tồi tệ nhất mình (hông than khổ đâu :^) đã được khuyên như vậy và nó giúp ích mình rất nhiều. 
 - Và "Cuộc sống sẽ không vì bạn là con gái mà thương hoa tiếc ngọc" đã trở thành điều chân ái mà mình cần hiểu cho người mình thương sau này. 
 
