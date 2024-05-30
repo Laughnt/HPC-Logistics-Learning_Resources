@@ -30,20 +30,26 @@ Thường đi phỏng vấn mà gặp câu hỏi về lương, mình sẽ hoặc
 
 Sau khi đã làm rõ hết mọi thứ và mình sẽ tham gia công việc khi chốt được vấn đề lương lậu. Mình nhận thấy là nhà tuyển dụng họ đánh giá cao điều này.
 - Mẫu văn vở cho bạn là: 
-	Trước khi mình bàn về lương, anh có thể hỏi em thêm 1 chút về… được không |
-	
+	Trước khi mình bàn về lương, anh có thể hỏi em thêm 1 chút về… được không.
 📍 Cái … đó bạn biết điền mấy cái dính tới **chuyên môn** ấy, ví dụ về việc ứng dụng AI - trí tuệ nhân tạo trong lập trình chẳng hạn, hoặc về công nghệ sẽ áp dụng trong dự án tới...
 
 >[!note] Lưu tâm
 Khi bạn đã làm lâu trong nghề, có danh tiếng và đối tác ổn định thì chốt giá nhanh là ưu điểm và đặc quyền. Tuy nhiên khi bạn mới bắt đầu, chốt giá nhanh có thể là nhược điểm chí mạng khiến bạn mất quyền lợi. Đừng nóng lòng yêu cầu khách thông báo giá cả, hãy từ từ tìm hiểu nhu cầu và các bài toán kinh doanh của họ trước khi nói câu chuyện giá cả. 
 
 Luôn bắt đầu bằng cách giới thiệu CV của bạn trước, và tại sao bạn là một ==mảnh ghép hoàn hảo cho dự án== của họ. Tiếp đó đặt ra các câu hỏi về công ty của họ, mục đích hoạt động, cấu thành nhóm, những thách thức họ đang gặp phải, thảo luận cách bạn giải quyết các vấn đề của công ty. 
-
 Sau cùng, mới đoạn chốt giá. 
 
-Nói chung cái này thiên về việc kỹ năng phỏng vấn, đi phỏng vấn nên ra tầm chục câu để hỏi lại nhà tuyển dụng, chọn 1 vài câu trong đó ra hỏi là được: 
+- Nói chung cái này thiên về việc kỹ năng phỏng vấn, **đi phỏng vấn nên ra tầm chục câu để hỏi lại nhà tuyển dụng**, chọn 1 vài câu trong đó ra hỏi là được: 
 https://www.glassdoor.com/Interview/index.htm
 https://www.weforum.org/agenda/2023/05/future-of-jobs-2023-skills/ 
+https://www.facebook.com/VietnamWorksFanpage/videos/785888196159985/
+
+Cá nhân mình thấy **Ấn tượng ban đầu (Câu giới thiệu bản thân) và Ấn tượng cuối cùng (Câu hỏi cho NTD)** là 2 phần có ảnh hưởng LỚN tới “cảm nhận” của người phỏng vấn về bạn. Vậy nên 2 chiến lược của mình cho câu hỏi cho công ty này:
+1. Thể hiện được những điểm mạnh, hiểu biết về công ty, lĩnh vực của công ty ngay trong câu hỏi:
+Nhiều lúc có điểm mạnh mà cả buổi NTD không hỏi tới, thì đây chính là cơ hội.
+	“E có tìm hiểu và theo dõi các campaign của nhãn hàng A bên mình. Tháng 5 bên mình cũng vừa ra mắt dòng sản phẩm mới B giúp mở rộng ngành hàng và duy trì vị thế market leader trong ngành hàng C. E cũng rất mong được tham gia vào việc phát triển một dòng sản phẩm mới như vậy ạ. A/c có thể chia sẻ thêm giúp em về định hướng của nhãn hàng trong năm tới và các cơ hội để e có thể phát triển hơn ở vị trí này ạ?”
+2. “Đối với vị trí này, thì trong 1 tới 3 tháng đầu tiên, anh chị mong muốn như thế nào ở bạn nhân viên, những điểm nào em cần chú ý nhất?" Các anh chị sẽ nói 2-3 điểm mà anh chị ấy mong muốn nhất. Sau đó mình sẽ kết thúc buổi phỏng vấn bằng việc liệt kê 3 điểm mạnh của mình cho vị trí đó là gì.
+Luôn nhớ là để luôn lại ấn tượng TÍCH CỰC nha. Đó là chìa khóa. Tuyệt đối không thể hiện sự thiếu tự tin ở phần này nhó 👌
 
 ### -2.5 Du học nước ngoài sao?
 Nếu bạn có năng lực tốt, cứ đăng ký thẳng FDI với MNC lớn. Thường yêu cầu 0-3 năm là fresher cứ thẳng tiến đăng ký thôi, chả ngại. Vấn đề thường gặp hơn là các bạn hay nghĩ mình có  profile đi du học ngon thì dễ kiếm việc: thực tế thì với entry level, các lead thường nhìn ==thái độ và tiềm năng== nhiều hơn là thông tin nền, vì thực tế họ không biết bạn được trường dạy những điều gì (không nói được gì nhiều). 
@@ -88,9 +94,6 @@ Trường hợp đẹp nhất xảy ra, họ đưa ra trước và quyết đị
 
 > Mình tâm niệm câu này trong đầu: **Hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.**
 	Luôn hỏi khi bạn không biết, đừng ngại đặt câu hỏi để hiểu rõ vấn đề hơn. Bằng cách này, bạn có nhiều khả năng thành công hơn là cứ tiếp tục mà chả có kiến thức gì để thành công.
-> 	**Nhớ đặt câu hỏi cho nhà tuyển dụng** nữa nhé, chuẩn bị đúng câu hỏi sâu là tốt nha:
-		https://www.facebook.com/VietnamWorksFanpage/videos/785888196159985/
-		https://www.facebook.com/reel/478058034795879
 
 ##### - Ví dụ: 
 "Em là người sẽ trả lời là em không biết câu trả lời cho câu hỏi nằm ngoài phạm vi giới hạn hiểu biết của em, nhưng em khẳng định là em biết cách để đi tìm câu trả lời, và em cam kết với việc đi tìm câu trả lời đấy."
@@ -102,9 +105,9 @@ Những thứ hay nhất mình rút ra được từ bài viết của đàn ch�
 Nói chung vòng phỏng vấn này chị ấy cố gắng thể hiện ra 3 thứ: **Content sense; Khả năng giao tiếp** và **Sự hiểu biết về các nền tảng mạng xã hội**. 
 ##### - Ví dụ 3: Cách giới thiệu bản thân tốt nhất trong một cuộc phỏng vấn (Microsoft)
 https://www.facebook.com/QRVN.quoravietnam/posts/pfbid0rC3Sp7w9PJtFr8srBBxGDc1Bs3aLVaFnq7xrHcYcVdkZzZ4EzKj78ySsDocf3VBtl
+Bài viết này hợp với những bạn đăng ký cho tập đoàn đa quốc gia - Big4.
 ### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
 Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + **Luật lao động / Hợp đồng.
-
 - Ví dụ: 
 	Mọi người hay thấy là phỏng vấn xong thì đi về, rồi hôm sau HR sẽ điện và thông báo mức lương. 
 	Nguyên do là quy trình của cty sẽ là **phỏng vấn chuyên môn**, xong họ chấm, người phỏng vấn đưa ra mức tối đa có thể trả cho ứng viên => chuyển sang cho HR, HR sẽ liên hệ và tiếp tục làm tập làm văn để hạ con số đó xuống, để làm chi? Để giảm quỹ lương công ty, đôi khi đó là 1 phần trong KPI công việc của họ. 
@@ -112,7 +115,7 @@ Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò
 - Nên nếu được, em cố gắng chốt cái dự tính trong cuộc phỏng vấn luôn để chủ động, còn nếu mà thương lượng tiếp qua điện thoại thì mình cần là người chủ động, kiểu: 
 	“Offer này khá hấp dẫn với em, hiện tại vì lý do abc nên em sẽ trả lời lại sau tối đa 3 ngày”. 
 
-Cái lý do abc đó có thể là vì ***mình đang chờ offer chỗ khác, vì mình cần bàn bạc kỹ hơn với gia đình***… đại loại là hấp dẫn đấy nhưng chưa phải là nhất và mình cần suy xét kỹ hơn.  Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình gặp được trùm sò kiểu C-level, thì việc quyết định lương dễ hơn, vì sẽ thương lượng thẳng với C-level và chốt ở đó luôn, đỡ qua nhiều bước trung gian.
+Cái lý do abc đó có thể là vì ***mình đang chờ offer chỗ khác, vì mình cần bàn bạc kỹ hơn với gia đình***… đại loại là hấp dẫn đấy nhưng chưa phải là nhất và mình cần suy xét kỹ hơn. Có cuộc phỏng vấn thì chia ra làm nhiều vòng, và có vòng mình gặp được trùm sò kiểu C-level, thì việc quyết định lương dễ hơn, vì sẽ thương lượng thẳng với C-level và chốt ở đó luôn, đỡ qua nhiều bước trung gian.
 
 Sợ là chưa tới được đoạn thương lượng lương thì được mời về rồi thôi 😅
 
@@ -124,13 +127,16 @@ https://hoovada.com/question/luc-di-phong-van-moi-nguoi-co-bat-gap-cau-hoi-nao-l
 
 Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đến việc xếp đặt vị thế thương lương lương nên mình sẽ liệt kê ra vài điểm sơ sơ mà có thể các bạn (non-tech - không phải dân lập trình) sẽ bỏ qua:
 - CV không nên có 1 lỗi chính tả nào
-- CV cần ra được ít nhất 3 điều: mình đã làm những gì, học hỏi được gì từ đó và có gặp khó khăn gì trong những việc đã làm (kèm giải quyết/vượt qua nó như nào). Mình sẽ không ngạc nhiên nếu hôm nào đó phỏng vấn 1 ứng viên, và họ bắt đầu chia sẻ về ==kinh nghiệm vượt thất nghiệp== thay vì kinh nghiệm đi làm ở cty cũ. Ở góc nhìn quản trị học, nó thể hiện tính **"Resilience"** - khả năng phục hồi tâm lý là khả năng đối phó về mặt tinh thần và cảm xúc với khủng hoảng hoặc nhanh chóng trở lại trạng thái trước khủng hoảng ở 1 nhân viên tốt.
+- CV cần ra được ít nhất 3 điều: mình đã làm những gì, học hỏi được gì từ đó và có gặp khó khăn gì trong những việc đã làm (kèm giải quyết/vượt qua nó như nào). Mình sẽ không ngạc nhiên nếu hôm nào đó phỏng vấn 1 ứng viên, và họ bắt đầu chia sẻ về ==kinh nghiệm vượt thất nghiệp== thay vì kinh nghiệm đi làm ở cty cũ. Ở góc nhìn quản trị học, nó thể hiện tính **"Resilience"** - "khả năng phục hồi tâm lý" là khả năng đối phó về mặt tinh thần và cảm xúc với khủng hoảng hoặc nhanh chóng trở lại trạng thái trước khủng hoảng, ở 1 nhân viên tốt.
   Phần học vấn: Liệt kê từ hiện tại về quá khứ; bỏ mấy cái tự tìm tòi và đặc biệt là thôi học đi, nó không cần thiết đâu, với cả là mình nên bịa ra 1 số thứ mà trong tầm khả năng của mình ấy. VD: 
 2019: Lập trình đồ họa cho một tập đoàn đa quốc gia
 2018: Fuho 🐧
 2017: Thợ làm bánh ngọt siiiu cấp ngou
 - Nhớ chuẩn bị danh sách câu hỏi để hỏi cty về những vấn đề mình cần làm rõ: về chuyên môn, về chính sách, về văn hoá, về con người, về định hướng phát triển của cty…
 - Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội.
+- Tìm hiểu kỹ về sản phẩm công ty và tính cách của sếp / người tuyển dụng. Giống như là bạn nằm gầm giường nhà người ta hay bạn bè họ hàng thân thiết vậy.
+https://www.facebook.com/ftuconfessions <- Hữu ích.
+
 - Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là ==“em không biết, có thể làm theo hướng này, nhưng em không chắc chắn.”==
 - CV gởi đi phải dùng Format - định dạng PDF. Gởi tệp tin Word => Cấu trúc không cố định => tỷ lệ bị lỗi khi đọc cao => Dễ bị loại.
 - Thêm các kỹ năng hoặc công cụ mà bạn biết vào, kỹ năng về mặt kỹ thuật nhé. Chứ kỹ năng mềm, làm việc nhóm chả ai quan tâm vì chả có thứ gì đo đếm được. Tuỳ theo vị trí bạn đang ứng tuyển mà các kỹ năng này phải được sắp xếp theo mức độ liên quan từ **trên xuống dưới, từ trái qua phải**. Tham khảo:
