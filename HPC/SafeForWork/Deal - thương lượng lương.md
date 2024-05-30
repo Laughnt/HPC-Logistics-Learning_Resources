@@ -5,18 +5,16 @@ https://www.facebook.com/groups/vietnamquora/posts/2737481486484970/
 > Năm 2020, lương lập trình mới ra trường cấp 3 của mình tầm 5tr, và mình deal được 9tr (+80% mặt bằng chung, chưa có bằng đại học)
 > Năm 2024, mình chuyển việc, và mình hỗ trợ chốt thương lượng +40% so với lời đề nghị công ty đưa ra.
 
-Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “thương lượng lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách. Mình may mắn được ngồi và học tập ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới.
+Mình đưa 2 ví dụ của cá nhân mình để bạn đọc thấy rằng “thương lượng lương không phải cuộc chiến” nhưng để làm tốt nó thì tất nhiên cần biết cách. Mình may mắn được ngồi và học tập ở hầu hết vai trò trong bàn đàm phán lương nên mình sẽ liệt kê ra cho bạn những điều cần lưu ý để có thể hỗ trợ lương tốt hơn trong lần tới:
 
-![](https://public-files.gumroad.com/9ezqq8dxknplpqcp5cwe18ob6yh7)
-
+![](https://i.redd.it/qhhj2z4wakkc1.png)
 ### - **1. Tâm thế khi đi phỏng vấn và deal lương**
-
 Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin việc”. Việc mình đi làm công việc thực chất là 1 cuộc trao đổi sòng phẳng: 
 	**Tôi cho cty thuê năng lực của tôi, và nhận lại là lương, là cơ hội**, là abc xyz (mà mọi người hay gọi là phúc lợi, nhưng nó là nhiều hơn thế) => cân kèo khi phỏng vấn. Nó như là bạn đi bán hàng hay cho thuê cái xe máy vậy. Tất nhiên cán cân sẽ luôn lệch 1 hoặc nhiều chút do cơ chế cung - cầu của thị trường.
 
 Đối với mình, lương nó là 1 tổ hợp những giá trị công ty đem lại cho mình, trong đó bao gồm (nhưng không phải tất cả):
 - Số tiền mình nhận về hàng tháng
-- ==Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn==
+- ==Cơ hội học hỏi, phát triển chuyên môn từ những người giỏi hơn (Teaching & Mentoring)==
 - Những cơ hội để phát triển năng lực như: đi onsite, làm với đồng nghiệp quốc tế, ==tham dự các workshop độc quyền của trường đại học trọng điểm như NEU / RMIT / VinU / HUST==, nhận được hỗ trợ kỹ thuật từ các công ty hàng đầu như Amazon, Google, Microsoft… nhiều lắm
 - Lộ trình thăng tiến nghề nghiệp
 - Tìm được thầy giỏi, bạn tốt
@@ -26,13 +24,11 @@ Mình đi phỏng vấn chưa bao giờ mình nghĩ là đi “phỏng vấn xin
 - … nhiều lắm ngồi nghĩ 1 hồi sẽ ra đầy
 
 ### - **2. Lương là vấn đề cuối cùng mà mình sẽ thảo luận**
-
 Thường đi phỏng vấn mà gặp câu hỏi về lương, mình sẽ hoặc là lái nó sang 1 chủ đề khác (thường là để làm rõ hơn về việc mình và công ty, công việc có hợp nhau không). Vẫn có trường hợp họ cần chốt con số trước khi phỏng vấn tiếp thì mình sẽ bày tỏ quan điểm của mình rằng:
 	“Lương là vấn đề cuối cùng mà mình sẽ thảo luận”
 	"Công việc không phải công cụ để kiếm tiền đối với em, mà là phương tiện để em học hỏi thêm những kiến thức/tri thức mới và áp dụng nó vào việc phát triển của quý công ty"
 
 Sau khi đã làm rõ hết mọi thứ và mình sẽ tham gia công việc khi chốt được vấn đề lương lậu. Mình nhận thấy là nhà tuyển dụng họ đánh giá cao điều này.
-
 - Mẫu văn vở cho bạn là: 
 	Trước khi mình bàn về lương, anh có thể hỏi em thêm 1 chút về… được không |
 	
@@ -54,7 +50,6 @@ Nếu bạn có năng lực tốt, cứ đăng ký thẳng FDI với MNC lớn. 
 
 Nếu còn có thể ở lại, ở lại lâu hẳn lên ==lead/supervisor/manager level== rồi hẵng về. Ở level dưới, về chưa có competitive advantage nhiều so với fresher VN, không ngon.
 ### - **3. Nếu được, mình sẽ không đưa ra con số trước**
-
 Quyết định lương là quá trình trả giá mà, nên ai đưa ra con số trước sẽ mất lợi thế đàm phán. Vì kiểu gì bên kia sẽ trả treo lại theo hướng có lợi cho người đó. Nên nếu họ hỏi mình con số, mình sẽ lái sang chuyện chuyên môn, hoặc hoặc các chuyện công việc khác, rồi hỏi tiếp về con số của họ.
 
 Trường hợp họ “cứng”, nhất quyết yêu cầu mình 1 con số, mình sẽ đưa ra 1 khoảng, mà bắt đầu từ kỳ vọng của mình. 
@@ -80,35 +75,35 @@ Tuy nhiên phần lương mềm sẽ trả theo một khoảng thời gian. Ngo�
 > Mình không quan trọng mức lương mình nhận được một tháng là bao nhiêu, miễn là cty xác nhận gửi cho mình đầy đủ khoản đó.
 
 Đổi công ty (khi mình còn trẻ) và đổi chức danh linh tinh là 2 vấn đề hoàn toàn khác nhau, bạn sẽ cần phải tự học cách xử lý chúng.
-##\## **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
 
-Tất cả những công đoạn trước đó, phỏng vấn, hỏi qua hỏi lại, bàn luận về chuyên môn, văn hoá công ty… là để lên kế hoạch nền cho việc quyết định lương (nó là vấn đề cuối cùng cần thảo luận, 1 phần cũng là vì lý do này).
-
-Dù họ đưa offer trước hay sau, thì họ cũng sẽ có 1 con số, lúc này tuỳ vào tình hình và nhu cầu cũng như mức độ hài lòng với con số họ đưa ra, mình sẽ nhận hoặc tiếp tục thương lượng tiếp. 
+### **4. Khi có offer, cuộc thương lượng mới chính thức bắt đầu**
+Tất cả những công đoạn trước đó, phỏng vấn, hỏi qua hỏi lại, bàn luận về chuyên môn, văn hoá công ty… là để lên kế hoạch nền cho việc quyết định lương (nó là vấn đề cuối cùng cần thảo luận, 1 phần cũng là vì lý do này). Dù họ đưa offer trước hay sau, thì họ cũng sẽ có 1 con số, lúc này tuỳ vào tình hình và nhu cầu cũng như mức độ hài lòng với con số họ đưa ra, mình sẽ nhận hoặc tiếp tục thương lượng tiếp. 
 
 - Ví dụ: 
 Họ quyết định cho mình 27tr cùng mấy cuốn tập làm văn, mình sẽ nói đại ý là mình hiểu là ==cần ít nhất 2-6 tháng== để khẳng định năng lực, nên mình sẽ ==nhận thử việc== với mức này, và sẽ quyết định lại sau 2 tháng thử việc, hoặc sau 6 tháng làm, kiểu vậy. Hoặc cân nhắc về việc nhận mức lương này + % tiền hoa hồng dự án hoặc cổ phần công ty…
 
 Trường hợp đẹp nhất xảy ra, họ đưa ra trước và quyết định hẳn con số 35tr, là cao hơn hẳn 5tr (17%) so với kỳ vọng trong đầu mình, tuỳ tình hình, mình vẫn có thể tiếp tục quyết định đi lên, hoặc nhận cũng được (nếu không nổi với khối lượng công việc này thì sau này cty sẽ hạ dần mức lương xuống căn bản)
+
 📍 Nhớ là đừng có ngại, kiểu sợ họ thấy mình trả treo như bán cá ngoài chợ lại đánh giá mình thấp, đồng tiền đi liền khúc ruột mà, họ đi trước mình tất nhiên sẽ hiểu rõ luật chơi hơn mình.
 
 > Mình tâm niệm câu này trong đầu: **Hỏi thì chưa chắc có, nhưng không hỏi thì chắc chắn là không có.**
 	Luôn hỏi khi bạn không biết, đừng ngại đặt câu hỏi để hiểu rõ vấn đề hơn. Bằng cách này, bạn có nhiều khả năng thành công hơn là cứ tiếp tục mà chả có kiến thức gì để thành công.
+> 	**Nhớ đặt câu hỏi cho nhà tuyển dụng** nữa nhé, chuẩn bị đúng câu hỏi sâu là tốt nha:
+		https://www.facebook.com/VietnamWorksFanpage/videos/785888196159985/
+		https://www.facebook.com/reel/478058034795879
 
-Nhớ đặt câu hỏi cho nhà tuyển dụng nữa nhé, chuẩn bị càng nhiều câu hỏi sâu càng tốt nha:
-https://www.facebook.com/VietnamWorksFanpage/videos/785888196159985/
-
-Ví dụ: "Em là người sẽ trả lời là em không biết câu trả lời cho câu hỏi nằm ngoài phạm vi giới hạn hiểu biết của em, nhưng em khẳng định là em biết cách để đi tìm câu trả lời, và em cam kết với việc đi tìm câu trả lời đấy."
-
-Ví dụ 2: https://www.facebook.com/groups/tamsu.content/posts/1005310600581354/ 
-Những thứ hay nhất mình rút ra được từ bài viết của đàn chị ở trên^(bạn tìm những người giỏi tương tự mà theo dõi nhé)
+##### - Ví dụ: 
+"Em là người sẽ trả lời là em không biết câu trả lời cho câu hỏi nằm ngoài phạm vi giới hạn hiểu biết của em, nhưng em khẳng định là em biết cách để đi tìm câu trả lời, và em cam kết với việc đi tìm câu trả lời đấy."
+##### - Ví dụ 2: https://www.facebook.com/groups/tamsu.content/posts/1005310600581354/ 
+Những thứ hay nhất mình rút ra được từ bài viết của đàn chị hiện đang làm việc ở Bytedance (công ty mẹ của Douyin 抖音 - Tiktok ở trên^(bạn tìm những người giỏi tương tự mà theo dõi nhé):
 - _Đối với em, quan trọng là mình có thực sự muốn làm không. Nếu muốn thì sẽ tìm cách. Nếu em chưa biết làm, em sẽ kết nối với những người khác giỏi hơn trong lĩnh vực đó và nhờ họ dạy cho em làm"_
-- Làm 1 sản phẩm mới từ đầu khó vcl. Vừa làm vừa sửa, thử và sai. Làm đến đâu tạo ra workflow đến đấy. Không có gì chắc chắn 100% cả. Chính vì vậy, 1 tinh thần dám nghĩ dám làm là must-have cho lứa nhân sự core đầu tiên.
-- Trong đó có câu: _“Tại sao Zalo phổ biến ở Việt Nam thế?”_. Mình trả lời ra 1 insight mà chị ấy thấy hứng thú, còn kêu mình gửi thêm detail qua email cho bả nữa.
-Nói chung vòng phỏng vấn này chị ấy cố gắng thể hiện ra 3 thứ: **Content sense; Khả năng giao tiếp** và **Sự hiểu biết về các nền tảng**. 
-#### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
-
-Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + Luật lao động / Hợp đồng.
+- Làm 1 sản phẩm mới từ đầu khó vcl. Vừa làm vừa sửa, thử và sai. Làm đến đâu tạo ra workflow đến đấy. Không có gì chắc chắn 100% cả. Chính vì vậy, **1 tinh thần dám nghĩ dám làm** là must-have cho lứa nhân sự core đầu tiên.
+- Trong đó có câu: _“Tại sao Zalo phổ biến ở Việt Nam thế?”_. Mình trả lời ra 1 insight mà chị ấy thấy hứng thú, còn kêu mình gửi thêm thông tin chi tiết qua email cho bả nữa. 
+Nói chung vòng phỏng vấn này chị ấy cố gắng thể hiện ra 3 thứ: **Content sense; Khả năng giao tiếp** và **Sự hiểu biết về các nền tảng mạng xã hội**. 
+##### - Ví dụ 3: Cách giới thiệu bản thân tốt nhất trong một cuộc phỏng vấn (Microsoft)
+https://www.facebook.com/QRVN.quoravietnam/posts/pfbid0rC3Sp7w9PJtFr8srBBxGDc1Bs3aLVaFnq7xrHcYcVdkZzZ4EzKj78ySsDocf3VBtl
+### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
+Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + **Luật lao động / Hợp đồng.
 
 - Ví dụ: 
 	Mọi người hay thấy là phỏng vấn xong thì đi về, rồi hôm sau HR sẽ điện và thông báo mức lương. 
@@ -121,26 +116,25 @@ Cái lý do abc đó có thể là vì ***mình đang chờ offer chỗ khác, v
 
 Sợ là chưa tới được đoạn thương lượng lương thì được mời về rồi thôi 😅
 
-#### **6. Phỏng vấn**
-
+### - **6. Phỏng vấn**
 Phỏng vấn tìm người là 1 quá trình mệt mỏi, ==càng tuyển người cấp độ cao thì càng mệt==, nên nếu các bạn hợp với vị trí đó, cty thèm các bạn lắm! Thời buổi hiện nay cung nhiều cầu ít, mà tư bản bao giờ chả muốn vắt kiệt tới đồng cuối cùng, HR người ta có nhiều sự lựa chọn mà. Nên tốt nhất là đầu tư cho bản thân để bạn trở thành 1 cá thể có giá trị khi mà cty ==bỏ lỡ bạn thì họ sẽ tiếc nuối== thì khi đó lương là ở trong tay bạn 🐧
 	Đúng thực sự để tìm được một người Senior hợp với nhu cầu của công ty, chưa bao gồm đến mức lương thì cũng rất khó rồi nên nếu bạn nào cảm thấy mình hợp thì cứ tự tin thương lượng. Còn đối với tầm kỹ năng Fresher, Junior thì không nên căng quá, quan trọng cơ hội học hỏi để phát triển bản thân như nào.
-
 https://www.facebook.com/tungbtbienthai/videos/1573030310204931/
+https://hoovada.com/question/luc-di-phong-van-moi-nguoi-co-bat-gap-cau-hoi-nao-la-khong
 
 Phỏng vấn là 1 chủ đề khác nhưng nó có liên quan mật thiết đến việc xếp đặt vị thế thương lương lương nên mình sẽ liệt kê ra vài điểm sơ sơ mà có thể các bạn (non-tech - không phải dân lập trình) sẽ bỏ qua:
-
 - CV không nên có 1 lỗi chính tả nào
 - CV cần ra được ít nhất 3 điều: mình đã làm những gì, học hỏi được gì từ đó và có gặp khó khăn gì trong những việc đã làm (kèm giải quyết/vượt qua nó như nào). Mình sẽ không ngạc nhiên nếu hôm nào đó phỏng vấn 1 ứng viên, và họ bắt đầu chia sẻ về ==kinh nghiệm vượt thất nghiệp== thay vì kinh nghiệm đi làm ở cty cũ. Ở góc nhìn quản trị học, nó thể hiện tính **"Resilience"** - khả năng phục hồi tâm lý là khả năng đối phó về mặt tinh thần và cảm xúc với khủng hoảng hoặc nhanh chóng trở lại trạng thái trước khủng hoảng ở 1 nhân viên tốt.
   Phần học vấn: Liệt kê từ hiện tại về quá khứ; bỏ mấy cái tự tìm tòi và đặc biệt là thôi học đi, nó không cần thiết đâu, với cả là mình nên bịa ra 1 số thứ mà trong tầm khả năng của mình ấy. VD: 
 2019: Lập trình đồ họa cho một tập đoàn đa quốc gia
-2018: Fuho 
+2018: Fuho 🐧
 2017: Thợ làm bánh ngọt siiiu cấp ngou
 - Nhớ chuẩn bị danh sách câu hỏi để hỏi cty về những vấn đề mình cần làm rõ: về chuyên môn, về chính sách, về văn hoá, về con người, về định hướng phát triển của cty…
 - Giờ giấc, tác phong, nề nếp rất quan trọng - tham gia những công ty có chữ V bắt đầu, vừa đẹp CV vừa được rèn ngang với quân đội.
 - Biết gì thì nói nấy, đừng chém, câu nào không biết thì cứ thẳng thắn nói là ==“em không biết, có thể làm theo hướng này, nhưng em không chắc chắn.”==
 - CV gởi đi phải dùng Format - định dạng PDF. Gởi tệp tin Word => Cấu trúc không cố định => tỷ lệ bị lỗi khi đọc cao => Dễ bị loại.
-- Thêm các kỹ năng hoặc công cụ mà bạn biết vào, kỹ năng về mặt kỹ thuật nhé. Chứ kỹ năng mềm, làm việc nhóm chả ai quan tâm vì chả có thứ gì đo đếm được. Tuỳ theo vị trí bạn đang ứng tuyển mà các kỹ năng này phải được sắp xếp theo mức độ liên quan từ **trên xuống dưới, từ trái qua phải**.
+- Thêm các kỹ năng hoặc công cụ mà bạn biết vào, kỹ năng về mặt kỹ thuật nhé. Chứ kỹ năng mềm, làm việc nhóm chả ai quan tâm vì chả có thứ gì đo đếm được. Tuỳ theo vị trí bạn đang ứng tuyển mà các kỹ năng này phải được sắp xếp theo mức độ liên quan từ **trên xuống dưới, từ trái qua phải**. Tham khảo:
+  ![[WEF_Future_of_Jobs_2023.pdf#page=38]]
 - Biết gì thì liệt kê ra, người tuyển sẽ biết là bạn có kinh nghiệm với các kỹ năng này và sẽ biết để chọn. Còn trình độ tới đâu thì phải test/hỏi thử mới biết. Tự nhà tuyển dụng sẽ đánh giá bạn. Bạn không cần phải tự đánh giá bản thân vì nó còn **thiên vào định kiến cá nhân lắm và không có giá trị lắm với người xem.**
 - Nhiều bạn coi mấy mẫu CV trên mạng rồi đánh giá theo “SAO ★” là sai lầm nhé mấy bạn. Kỹ năng làm việc nhóm 5 sao: ★★★★★ ? 
   Ví dụ bạn nộp CV cho vị trí Data Analyst mà bạn ghi: **Kỹ năng phân tích dữ liệu: 5 sao** thì vô nghĩa và không đánh giá được. Là ngang trình độ với người sáng lập ra kỹ năng phân tích dữ liệu?
@@ -151,14 +145,13 @@ https://www.facebook.com/watch/?v=1481447772776085
 	Phần này khá quan trọng vì có nhiều công ty đang dùng các hệ thống quét CV tự động gọi là **ATS Applicant Tracking System**. Có từ khoá họ muốn thì sẽ bỏ qua, không có từ khoá thì họ loại luôn, hoàn toàn tự động. Nên việc liệt kê các từ khoá quan trọng vào đây sẽ giúp CV dễ vượt qua các hệ thống screening - quét màn hình tự động hơn.
 
 - Đợt rồi mình cũng trực tiếp xem xét CV và tuyển người mới cho đội nhóm, mình sẽ ưu tiên các CV có các keywords - từ khoá mà chỉ những người thực sự biết họ đang làm gì biết. 
-  
   Ví dụ:
 	Bạn học SQL, bạn ghi vào bạn biết SQL, nếu chỉ đơn giản vậy thì ai cũng ghi được. Nhưng nếu bạn ghi SQL (PostgreSQL: complex query, store procedure, trigger, indexing ,json,…) hay nếu biết Data Warehouse thì ghi rõ (Azure / AWS / Google BigQuery), thì nó sẽ ấn tượng hơn rất nhiều và mình sẽ muốn gặp các bạn này.
   hay https://www.facebook.com/reel/1106743900747140
   
 >CV đẹp là CV nó thể hiện đủ năng lực của bạn và khiến nhà tuyển dụng nhận ra ngay bạn phù hợp với vị trí họ cần. Nếu người ta quan tâm sâu tới vị trí họ cần, họ sẽ đọc details - chi tiết. Khi họ nhận ra bạn có nhiều keywords - từ khoá trên CV đúng với cái họ cần. Bạn sẽ tỏa sáng.
 
-#### - **7. Điều cốt lõi**
+### - **7. Điều cốt lõi**
 
 6 điều trên là bổ trợ cho mọi người để người ta muốn nhận họ và vào tới vòng thương lượng lương. Còn điều cốt lõi, bạn phải là 1 người có năng lực thực sự, cái năng lực này đúng là thứ cty đang cần tuyển, và bạn phải chia sẻ ra cho họ thấy điều đó. ***Phải hiểu là, tư bản tăng lương nhỏ giọt, mình từng deal lương hớ (thấp hơn bạn thực tập sinh bên Tân Ba Gia ở trong công ty, bạn ấy mới vào mà lương cao hơn hẳn mình). Sau này nhớ tham khảo các tiền bối ở trong công ty lương tính bằng $ trước về văn hoá công ty nhé.***
 
