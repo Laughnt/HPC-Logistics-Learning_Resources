@@ -22,7 +22,7 @@ Stat
 - Kỹ năng hiểu vấn đề và đơn giản hóa vấn đề [tham khảo sách Hình vẽ thông minh](https://canho.com.vn/hinh-ve-thong-minh-tai-ban-2019-tai-ban-pdf/) + OpenAI ChatGPT Documentation. Nó sẽ bao gồm việc các bạn lắng nghe và có thể đưa ra cách giải quyết bớt cồng kềnh nhất.
   ![](https://sach.canho.com.vn/wp-content/uploads/2022/11/hinh-ve-thong-minh-1-5.jpg)
 - Quan trọng nhất là ==kỹ năng truyền đạt - năng lực==, bạn có thể mô tả những thứ thuộc về technicals skill cho 1 người bình thường không có bất cứ background - kiến thức nền tảng nào về công nghệ thì là các bạn thành công. Hay các bạn có thể truyền tải đc thông tin ngắn gọn xúc tích cho các user - người dùng khác mà không bị loãng thông tin.
-	   - Cách làm slide PPT cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. 
+	   - Cách làm slide PPT ở trường cũng vậy đừng quăng 1 đống chữ wall of text lên thì chẳng ai đọc xong mà nhớ đc thông tin mình cần truyền đạt cả. 
 	   - Sắp xếp lại câu chữ, các ý chính dùng Icon vẽ diagram abstract nhất có thể, hãy xem bất kỳ ai đọc slide/cv của mình là người không biết gì, hoặc xem họ như học sinh lớp 5. Thì lúc mình truyền đạt, họ dễ theo dõi và hiểu đc vấn đề của mình hơn.
 
 📝Tham khảo phần [[Deal - thương lượng lương]] - Thương lượng mức lương của mình khi đi làm (mình trước làm việc tăng tàng tàng thua lương cơ bản người mới vào)
@@ -35,3 +35,7 @@ Stat
 - Kỹ năng làm việc nhóm với nhân sự trình độ thấp hơn.
 
 ![[Pasted image 20240504081150.png]]
+
+- Sử dụng thành thạo AI.
+![[Pasted image 20240517073439.png]]
+![[Gemini for Google Workspace Prompt Guide - Việt hoá by HVN Group.pdf]]
