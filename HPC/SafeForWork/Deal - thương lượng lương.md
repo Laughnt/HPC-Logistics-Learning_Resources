@@ -110,7 +110,16 @@ Những thứ hay nhất mình rút ra được từ bài viết của đàn ch�
 Nói chung vòng phỏng vấn này chị ấy cố gắng thể hiện ra 3 thứ: **Content sense; Khả năng giao tiếp** và **Sự hiểu biết về các nền tảng mạng xã hội**. 
 ##### - Ví dụ 3: Cách giới thiệu bản thân tốt nhất trong một cuộc phỏng vấn (Microsoft)
 https://www.facebook.com/QRVN.quoravietnam/posts/pfbid0rC3Sp7w9PJtFr8srBBxGDc1Bs3aLVaFnq7xrHcYcVdkZzZ4EzKj78ySsDocf3VBtl
-Bài viết này hợp với những bạn đăng ký cho tập đoàn đa quốc gia - Big4.
+Bài viết này hợp với những bạn đăng ký cho tập đoàn đa quốc gia - Big4. Sau trải nghiệm mới mẻ này, mình xin có vài lời đúc kết xương máu:
+1. Công ty chuyên nghiệp thường làm việc qua Email. Họ có thể gọi điện hoặc không.
+2. Bắt buộc phải có mô tả công việc ghi rõ yêu cầu, của nhà tuyển dụng và quyền lợi của nhân viên (chứ không phải là hẹn phỏng vấn rồi mới mô tả công việc).
+3. Vị trí nhân sự bình thường **chỉ cần 10 - 15 phút** để đánh giá mức độ phù hợp. (Trừ khi bạn apply vào một công ty có mức độ cạnh tranh vô cùng lớn như Google, Vinamilk, ... sẽ có nhiều vòng phỏng vấn với đầy câu hỏi khó hiểu ?? :D ?? để tìm hiểu về thế giới quan của bạn)
+4. Nên phỏng vấn ở công ty để đánh giá môi trường làm việc và văn hóa (Chỉ những vị trí làm remote hoặc vị trí cấp cao thì mới trao đổi ở những nơi công cộng).
+5. **Nếu bạn cảm thấy không muốn trả lời câu hỏi nào, hãy từ chối. Cảm thấy có gì đó không ổn sao, hãy dừng buổi phỏng vấn và rời đi. Đừng cả nể.**
+6. Nếu sau buổi phỏng vấn bạn cảm thấy không được tôn trọng hoặc giảm đi sự tự ti, khả năng cao là người tuyển dụng không có kỹ năng làm việc với con người (hỏi những câu vô duyên, không thể kiểm soát cảm xúc tốt...).
+7. Nếu nhà tuyển dụng hỏi "1 ngày em có thể làm được tối đa bao nhiêu tiếng?", chạy ngay đi! **8 tiếng** là đủ rồi, không cần hỏi. Người hỏi câu này đang muốn bạn làm nhiều hơn mức giờ tiêu chuẩn.
+8. Nếu họ có thiện chí tuyển bạn về làm việc, họ sẽ chia sẻ rạch ròi về định hướng công ty và phúc lợi nhân viên, những điều họ sẽ làm trong tương lai chứ không phải khoe thành tích của quá khứ. Bạn sẽ cảm thấy được tôn trọng ngay cả khi không phù hợp với vị trí ứng tuyển.
+9. Nếu bạn học 4 năm đại học/cao đẳng và đang ứng tuyển vị trí thấp nhất trong công ty thì không sao hết. Mình đi học để có mở mang tư duy chứ không phải học chỉ để tìm việc.
 ### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
 Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + **Luật lao động / Hợp đồng.
 - Ví dụ: 
