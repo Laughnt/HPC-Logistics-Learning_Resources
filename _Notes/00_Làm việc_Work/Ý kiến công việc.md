@@ -1,4 +1,4 @@
-**Giao tiếp lấy tấm bằng 7.0 Ielts, HSK4 (HOẶC HSK cao cấp nếu có thể) và N3**
+﻿**Giao tiếp lấy tấm bằng 7.0 Ielts, HSK4 (HOẶC HSK cao cấp nếu có thể) và N3**
 Không nợ lương. 1 cty không có tiền lệ tăng lương cho người mới 1 năm đầu, không có lộ trình rõ ràng, sếp không bao giờ đề cập xây dựng 1 lộ trình phát triển là cook sớm nếu muốn thăng tiến.
 
 Hàn + Nhật không bao giờ làm.
@@ -80,3 +80,5 @@ Các bạn Intern cũng chỉ có khoảng thời gian ngắn khoảng nửa bu�
 Khi Internship, tiêu chí muốn thử sức và muốn học hỏi là chính xác. Expectation của ứng viên tuỳ theo mức độ mà khai thác thôi.  
 _  
 Đi làm rồi mới thấy người lớn... có chút đáng thương. Nhiều người có vẻ xấu, nhưng sâu thẳm bên trong, họ cũng chỉ là bị hoàn cảnh đưa đẩy, vì cơm áo gạo tiền, vì rất nhiều câu chuyện mà họ không kể. Có nhiều người, nếu không phải gặp nhau trong môi trường công sở, có lẽ đã có thể là những người bạn. Nhưng giữa cuộc sống của người lớn, ai cũng xây cho mình tường thành, ai cũng tạo vỏ bọc, gân lên để bảo vệ bản thân trước, nên cuối cùng, hầu hết là chẳng hề vui vẻ.
+
+https://www.facebook.com/share/v/Jyyq4DvQk5Dt3TZF/?mibextid=AQBXeECoIFSgMqhe
