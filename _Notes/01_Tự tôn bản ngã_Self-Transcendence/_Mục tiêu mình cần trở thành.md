@@ -7,3 +7,4 @@ Thường trong tuần sẽ chỉ gặp 1 hoặc 2 lần gì đó. Các ngày tr
 >[!note] Thích hông?
 >Mình đặc biệt thích một kiểu người:"Khối lượng kiến thức và độ dày thông tin của họ lớn hơn mình rất nhiều, nhưng họ vẫn sẵn lòng chăm chú lắng nghe những lời vô nghĩa của mình. Mình luôn cảm thấy sự dịu dàng, lãng mạn và uyên bác là tính cách hiếm có nhất ở con người, bất kể đi đến đâu cũng đều trở thành kho báu.
 >Vẻ đẹp tri thức ha.
+

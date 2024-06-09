@@ -17,6 +17,8 @@
 
 Matlab, 
 Stat
+https://www.coderschool.vn/blog/8-chung-chi-microsoft-ve-du-lieu-va-ai-mien-phi-nen-hoc-2023
+
 ## - Kỹ năng mềm của bạn:
 - Kỹ năng đọc (400 từ/phút với 70% thấu hiểu nội dung văn bản), tiếng Anh hay tiếng Trung gì cũng được. Vì mình sẽ phải đọc rất nhiều, từ Documentation - tài liệu của Internal đến của Tool rồi các best practice khác mà các bạn có thể áp dụng cho công việc hằng ngày.
 - Kỹ năng hiểu vấn đề và đơn giản hóa vấn đề [tham khảo sách Hình vẽ thông minh](https://canho.com.vn/hinh-ve-thong-minh-tai-ban-2019-tai-ban-pdf/) + OpenAI ChatGPT Documentation. Nó sẽ bao gồm việc các bạn lắng nghe và có thể đưa ra cách giải quyết bớt cồng kềnh nhất.
