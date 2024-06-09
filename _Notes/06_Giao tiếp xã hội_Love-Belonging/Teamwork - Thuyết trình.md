@@ -1,4 +1,4 @@
-﻿9slide -> trình độ Master, dùng PowerPoint đi làm lương 1x. 
+9slide -> trình độ Master, dùng PowerPoint đi làm lương 1x. 
 https://9slide.vn
 
 Năm 4 + PowerPoint thì đi làm thêm cho Bank vừa nhàn + sướng + lương cao.

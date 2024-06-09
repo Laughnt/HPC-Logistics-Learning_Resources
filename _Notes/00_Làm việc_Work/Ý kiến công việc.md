@@ -1,4 +1,4 @@
-﻿**Giao tiếp lấy tấm bằng 7.0 Ielts, HSK4 (HOẶC HSK cao cấp nếu có thể) và N3**
+**Giao tiếp lấy tấm bằng 7.0 Ielts, HSK4 (HOẶC HSK cao cấp nếu có thể) và N3**
 Không nợ lương. 1 cty không có tiền lệ tăng lương cho người mới 1 năm đầu, không có lộ trình rõ ràng, sếp không bao giờ đề cập xây dựng 1 lộ trình phát triển là cook sớm nếu muốn thăng tiến.
 
 Hàn + Nhật không bao giờ làm.
