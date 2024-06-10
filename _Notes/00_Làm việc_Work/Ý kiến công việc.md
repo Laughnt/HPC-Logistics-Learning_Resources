@@ -39,11 +39,11 @@ Phải hỏi kĩ trước khi làm. Hoàn thành trước Deadline 3-5 ngày đ�
 
 - Ghi lại quá trình làm việc một cách rõ ràng.  
 Không cần biết mình làm được hay không, cứ **đồng ý trước** đã (dĩ nhiên là công việc đó phải nằm trong trách nhiệm phòng ban mình), cách làm tính sau.
-
+___
 Đi phỏng vấn dù kết quả có ra sao thì đều phải **gửi email để cám ơn** họ đã dành thời gian cho mình. ==Trước khi nhấn nút gửi mail phải coi lại 1 lượt từ trên xuống dưới mail xem thông tin đúng chưa, tiêu đề, người được cc, tệp tin đính kèm.==
 
 ==‘Cảm ơn vì đã có cơ hội nói chuyện. Chúc cửa hàng / công ty làm ăn phát đạt gặp nhiều may mắn’==
-
+___
 2-3 tháng đầu là giai đoạn hòa nhập, hãy dành thời gian để tìm hiểu chu trình, phong cách làm việc. Lắng nghe để ghi nhận rồi học hỏi nhưng không có nghĩ lu mờ giá trị bản thân.
 
 Đứng trung lập ở giữa các cuộc chiến, các phe phái với nhau. Càng không nên thể hiện quan điểm phán xét cá nhân nơi công sở.
@@ -62,8 +62,7 @@ Có thể giải quyết task công việc chỉ mất 5 tiếng nhưng để d�
 Không phải cứ chú tâm làm thì người khác sẽ thấy, nếu được hãy vừa làm giỏi và vừa khéo léo thể hiện rằng mình giỏi.
 
 + Chính trị / Triết học / Thần học / Tử vi + Chiêm tinh + Cung Hoàng đạo
-_
-
+___
 Hãy bắt đầu bằng việc này.
 
 Tốt lắm, tiếp tục.
@@ -72,13 +71,13 @@ Thế à, đừng để ý, mà hãy suy nghĩ cách khắc phục đi nhé!
 
 Cậu không cố ý làm điều đó. Nếu cậu nhìn nhận đúng sai lầm và trưởng thành để không bao giờ tái phạm thì không có vấn đề gì. Nhưng tôi sẽ nổi giận nếu có lần thứ hai. Do đó, không chỉ nghĩ đến việc khắc phục mà còn phải tránh sai lầm lặp lại.
 
-_  
-Rõ ràng HR viết ra bài này còn junior và size công ty cũng bé thì mindset mới bé như vậy. Để có chiến lược và mục tiêu rõ ràng, chắc chắn phải qua đào tạo và rèn dũa, va vấp trong môi trường thực tế nhiều. Với các vị trí welcome các bạn ở level fresh, chỉ cần đáp ứng được yêu cầu về chất lượng đầu vào liên quan, expect là điểm cộng để các bạn không bị out nhiều ở giữa chừng. Công ty tuyển Intern vào cũng để làm việc, và thu hút talent về longterm chứ không phải vì mục đích nhân đạo như bạn viết bài đề cập.
+___  
+Rõ ràng HR viết ra bài này còn junior và size công ty cũng bé thì mindset mới bé như vậy. Để có chiến lược và mục tiêu rõ ràng, chắc chắn phải qua đào tạo và rèn dũa, va vấp trong môi trường thực tế nhiều. Với các vị trí welcome các bạn ở level fresh, chỉ cần đáp ứng được yêu cầu về chất lượng đầu vào liên quan, expect là điểm cộng để các bạn không bị out nhiều ở giữa chừng. Công ty tuyển Intern vào cũng để làm việc, và thu hút talent về longterm chứ không phải vì mục đích nhân đạo.
 
 Các bạn Intern cũng chỉ có khoảng thời gian ngắn khoảng nửa buổi một ngày, mong muốn thực hành và làm việc xem xét có phù hợp với công việc và định hướng phát triển hay không trước, sau đó sẽ mài dũa dần trong tương lai hoặc sau khi ra trường.
 
 Khi Internship, tiêu chí muốn thử sức và muốn học hỏi là chính xác. Expectation của ứng viên tuỳ theo mức độ mà khai thác thôi.  
-_  
+___
 Đi làm rồi mới thấy người lớn... có chút đáng thương. Nhiều người có vẻ xấu, nhưng sâu thẳm bên trong, họ cũng chỉ là bị hoàn cảnh đưa đẩy, vì cơm áo gạo tiền, vì rất nhiều câu chuyện mà họ không kể. Có nhiều người, nếu không phải gặp nhau trong môi trường công sở, có lẽ đã có thể là những người bạn. Nhưng giữa cuộc sống của người lớn, ai cũng xây cho mình tường thành, ai cũng tạo vỏ bọc, gân lên để bảo vệ bản thân trước, nên cuối cùng, hầu hết là chẳng hề vui vẻ.
 
 https://www.facebook.com/share/v/Jyyq4DvQk5Dt3TZF/?mibextid=AQBXeECoIFSgMqhe
