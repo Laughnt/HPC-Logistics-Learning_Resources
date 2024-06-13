@@ -17,7 +17,7 @@ Mình làm việc có chữ tín và trách nhiệm cùng với cam kết bảo 
 
 Kiến thức chuyên sâu về logistics, quản lý nhân sự, luật giao thông vận tải, quản lý chuỗi cung ứng, quản lý hệ thống phân phối, giao nhận hàng hóa, kho bãi, khai thác vận tải đa phương thức và tiếng Anh chuyên ngành.
 
-_  
+___
 Ăn ít thịt nhiều rau, uống viên thay đổi cơ địa của Nhật. Mùa hè thì dùng mùi mát hương biển, hương chanh, mùa đông thì dùng mùi ấm như vani hay gỗ, bodymist của bath and bodywork.  
 _  
 Học on bằng Teams, họp bằng Zoom
@@ -27,8 +27,8 @@ Note dùng Notion, lên lịch dùng GCal, hệ thống kiến thức bằng Obs
 
 _
 # **LUÔN LUÔN PHẢI GHI CHÚ MỌI TRƯỜNG HỢP,** 
-phải chốt tiếng nói thành văn bản, ghi âm, Email. Sếp dặn, đồng nghiệp nhờ, luôn luôn phải có type. Sếp dặn, xong sếp quên. Dạ, anh/chị. Em sẽ ...(làm theo công việc abcd)... như a/c nói ạ
-**Ký tên xác nhận, giấy trắng mực XANH và email xác nhận không chỉ gọi điện thoại,** trong mọi trường hợp sẽ là phao cứu sinh.
+phải chốt tiếng nói thành văn bản, ghi âm, Email. Sếp dặn, đồng nghiệp nhờ, luôn luôn phải có type. Sếp dặn, xong sếp quên, Dạ anh/chị, em sẽ ...(làm theo công việc abcd)... như a/c nói ạ
+**Ký tên xác nhận, giấy trắng mực XANH và email xác nhận không chỉ gọi điện thoại,** trong mọi trường hợp sẽ là phao cứu sinh. 
 ## Meeting Notes
 ·         AGENDA (các đầu việc phải bàn)
 ·         NOTES (các ghi chép lại trong buổi họp)
@@ -72,7 +72,7 @@ Thế à, đừng để ý, mà hãy suy nghĩ cách khắc phục đi nhé!
 Cậu không cố ý làm điều đó. Nếu cậu nhìn nhận đúng sai lầm và trưởng thành để không bao giờ tái phạm thì không có vấn đề gì. Nhưng tôi sẽ nổi giận nếu có lần thứ hai. Do đó, không chỉ nghĩ đến việc khắc phục mà còn phải tránh sai lầm lặp lại.
 
 ___  
-Rõ ràng HR viết ra bài này còn junior và size công ty cũng bé thì mindset mới bé như vậy. Để có chiến lược và mục tiêu rõ ràng, chắc chắn phải qua đào tạo và rèn dũa, va vấp trong môi trường thực tế nhiều. Với các vị trí welcome các bạn ở level fresh, chỉ cần đáp ứng được yêu cầu về chất lượng đầu vào liên quan, expect là điểm cộng để các bạn không bị out nhiều ở giữa chừng. Công ty tuyển Intern vào cũng để làm việc, và thu hút talent về longterm chứ không phải vì mục đích nhân đạo.
+Rõ ràng HR viết ra bài này còn junior và size công ty cũng bé thì tư duy mới bé như vậy. Để có chiến lược và mục tiêu rõ ràng, chắc chắn phải qua đào tạo và rèn dũa, va vấp trong môi trường thực tế nhiều. Với các vị trí tuyển dụng các bạn ở cấp độ mới vào, chỉ cần đáp ứng được yêu cầu về chất lượng đầu vào liên quan, kỳ vọng bình thường là điểm cộng để các bạn không bị đuổi nhiều ở giữa chừng. Công ty tuyển Intern vào cũng để làm việc, và thu hút tài năng về lâu dài chứ không phải vì mục đích nhân đạo.
 
 Các bạn Intern cũng chỉ có khoảng thời gian ngắn khoảng nửa buổi một ngày, mong muốn thực hành và làm việc xem xét có phù hợp với công việc và định hướng phát triển hay không trước, sau đó sẽ mài dũa dần trong tương lai hoặc sau khi ra trường.
 

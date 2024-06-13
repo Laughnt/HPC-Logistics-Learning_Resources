@@ -4,3 +4,4 @@ Nếu NTD hỏi em đã có kinh nghiệm gì chưa mà hỏng biết trả lờ
 3. Nhà tuyển dụng đòi hỏi gì ở thực tập sinh? 1 ứng viên có thể làm nhiều đầu việc hay có kinh nghiệm sẵn rồi. Như thế thì không còn là tuyển thực tập nữa. 
    
 Tâm thế tìm việc thực tập chính là tìm nơi để áp dụng kiến thức kỹ năng trong quá trình đi học, tất nhiên có kinh nghiệm sẵn thì quá tuyệt. Còn không thì cũng chẳng vấn đề gì đâu, thực tập sinh mà, biết đầu việc, biết kiến thức, kỹ năng áp dụng cho công việc như thế nào là được. Còn làm mà không cần hướng dẫn thì đó không còn là thực tập nữa rồi.
+![[Tuyển dụng nhân sự ngày nay khó còn hơn lên trời!.mp4]]
