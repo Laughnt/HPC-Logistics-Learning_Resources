@@ -1,4 +1,4 @@
-Chuyên chở hàng hoá [[xuất nhập khẩu]] bằng đường sắt.
+Chuyên chở hàng hoá [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] bằng đường sắt.
 ## Vị trí vận tải của đường sắt
 Phương tiện chủ chốt của quốc gia về khả năng chuyên chở 
 Chiếm khoảng 50% vận tải nội địa
@@ -38,7 +38,7 @@ Mạng lưới đường sắt quốc gia có tổng chiều dài 3.143 km và c
 - 7. Tuyến đường sắt kép Bắc Giang - Uông Bí - Hạ Long Quảng Ninh
 #### Ga đường sắt
 Là nơi tiến hành các nghiệp vụ kỹ thuật, khai thác hàng hoá và được phân loại như sau:
-	Ga biên giới: làm thủ tục truyền tải và [[xuất nhập khẩu]] 
+	Ga biên giới: làm thủ tục truyền tải và [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] 
 	Ga đường sắt: để xác định chi phí 
 #### Đầu máy
 Là yếu tố quyết định đến sự ra đời và sự phát triển của vận tải đường sắt. Xu hướng phát triển của vận tải đường sắt trên thế giới hiện nay là thay bằng đầu máy điện.

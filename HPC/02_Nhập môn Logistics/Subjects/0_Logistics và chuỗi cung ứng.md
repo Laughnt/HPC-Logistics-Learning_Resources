@@ -10,7 +10,7 @@ B&B: Business -> Business.
 ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=19]]
 - 1990 -> nay: Tích hợp toàn [[chuỗi cung ứng]].
   ![[0.Nhap mon Logistics_CCU_Bản gửi SV.pdf#page=26]]
-Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống [[xuất nhập khẩu]].
+Tìm hiểu về chuyên ngành cùng nội dung của giáo trình, hệ thống [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]].
 [[Shopee - xử lý đơn hàng FBS]] [Amazon - FBA](https://sell.amazon.vn/hoan-thien-don-hang-boi-amazon-fba)
 ### - Siêu thị: Co.op Mart
 Trung tâm các thành phố lớn là nơi tạo ra gần 80% giá trị thị trường với mật độ dân cư đông đúc và mức sống liên tục tăng.

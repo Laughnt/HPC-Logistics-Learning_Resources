@@ -1,4 +1,4 @@
-- Hợp đồng [[xuất nhập khẩu]] (hợp đồng ngoại thương) - mua bán ở ngoài đất nước.
+- Hợp đồng [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] (hợp đồng ngoại thương) - mua bán ở ngoài đất nước.
 - Giấy chứng nhận xuất xứ - táo mua ngoài siêu thị
 - Phiếu đóng gói
 - Giấy chứng nhận chất lượng - ViệtGrab - Ocrop giấy chứng nhận mỗi địa phương một sản phẩm trong đó. Một xã nấu rượu -> sản phẩm đại diện. Các công ty đều mua bảo hiểm cho hàng hoá của mình, để nếu xảy ra rủi ro thì sẽ được đền bù.
@@ -7,7 +7,7 @@
 - Tìm hiểu về quyền sở hữu trí tuệ, chứng nhận về hệ thống quản lý DN hiện đại.
 ___
 Dịch vụ đi kèm đều yêu cầu các loại hàng hoá khác nhau - yêu cầu vật tư đi kèm, không yêu cầu hàng hoá hữu hình. Ví dụ: Dạy học là dịch vụ, cần phải có những mặt hàng vật chất như bàn ghế/
-- Hợp đồng ngoại thương còn gọi là hợp đồng [[xuất nhập khẩu]], đó là thoả thuận giữa người mua và người bán hở giữa 2 quốc gia khác nhau.
+- Hợp đồng ngoại thương còn gọi là hợp đồng [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]], đó là thoả thuận giữa người mua và người bán hở giữa 2 quốc gia khác nhau.
 - Hợp đồng sẽ quy định bên bán phải cung cấp đúng về những thông tin cần thiết của hai bên,
 %%
 - Khi thu hồi nợ quá hạn mức từ DN, thì DN sẽ trả:

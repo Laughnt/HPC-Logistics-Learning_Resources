@@ -8,7 +8,7 @@
 	Container từ xe nâng -> cảng -> cảng đích.
 %% Cảng Singapo - 1 container thành 2 chiếc container. Phương tiện vận chuyển hiện đại %%
 - Cảng phục vụ container trên tuyến chính 
-  Là đầu mối của khu vực nội địa có quy mô hàng hoá [[xuất nhập khẩu]]. 
+  Là đầu mối của khu vực nội địa có quy mô hàng hoá [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]]. 
 - Cảng container xuất nhập khẩu
   Thời gian nằm bãi của container dài so với chuyền tải. Các hoạt động đóng hàng, thủ tục hải quan, đưa ra khỏi khu vực cảng đầu mối và vào sâu trong nội địa sẽ làm giảm áp lực ở cảng.
   %%Sinh ra cảng cạn/khô%%

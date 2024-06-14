@@ -15,7 +15,7 @@ Thông số phương tiện vận chuyển
 Cơ sở đóng tàu - DN hoạt động ở VN
 
 21% luân chuyển hàng hoá (thông qua cảng)
-Hàng hoá chuyên chở: hàng siêu trường siêu trọng/vật liệu xây dựng, nông sản, hàng [[xuất nhập khẩu]] - khối lượng lớn, miền Nam phát triển hơn - hệ thống đường bộ chưa đồng bộ
+Hàng hoá chuyên chở: hàng siêu trường siêu trọng/vật liệu xây dựng, nông sản, hàng [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] - khối lượng lớn, miền Nam phát triển hơn - hệ thống đường bộ chưa đồng bộ
 An Giang, đường cao tốc vào doanh nghiệp bên trong rất nhỏ. Chở hàng đến lại cần phải chuyển hàng sang ce nhỏ -> phát sinh vấn đề
 
 DN có các cảng sông riêng - xuống xalan riêng.

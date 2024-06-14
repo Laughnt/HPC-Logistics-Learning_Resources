@@ -25,7 +25,7 @@ SỰ chuyên môn hoá sản xuất.
 //Viettel thuê sẽ giảm đi chi phí thay vì mua, nó sẽ liên quan đến vận chuyển ít. DƯ THỪA phương tiện -> chi phí.
 - Không gian
 	- Biểu hiện trên cùng một tuyến vận tải, quá trình nhập lại thì nhu cầu vận chuyển của hàng hoá đó lại giảm.
-	- 1 chặng/quá trình -> tăng/giảm (hàng nông sản VN [[xuất nhập khẩu]] sang Châu Âu, nhưng không ngược lại)
+	- 1 chặng/quá trình -> tăng/giảm (hàng nông sản VN [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] sang Châu Âu, nhưng không ngược lại)
 	- Để nâng cao:
 	  Các nhà vận tải thường đa dạng mặt hàng bằng cách container hoá hàng hoá vận tải
 

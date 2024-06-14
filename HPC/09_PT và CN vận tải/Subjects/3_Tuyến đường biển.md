@@ -14,7 +14,7 @@ Chuyên chở hàng hóa
 Mở rộng quan hệ buôn bán
 Thay đổi cơ cấu hàng hóa và cơ cấu thị trường
 Ảnh hưởng [[cán cân thanh toán]] 
-Ảnh hưởng hiệu quả kinh doanh [[xuất nhập khẩu]] 
+Ảnh hưởng hiệu quả kinh doanh [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] 
 %%So sánh giá cước máy bay VN -> Mỹ: 15tr / Container bình thường: 50tr%%
 - Tuyến đường biển: Ocean line - Hàng hải. Hình thành giữa 2 hay nhiều cảng khác nhau.
 	- Cơ sở vận chuyển kinh tế của vận tải đường [[Biển]] 

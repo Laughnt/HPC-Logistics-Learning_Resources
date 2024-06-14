@@ -53,7 +53,7 @@ Kiện hàng phù hợp.
  Công cụ xếp dỡ Container tại kho bãi
  Công cụ xếp dỡ lên các phương án vận tải khác như tàu hỏa, ô tô.
  Công cụ xếp dỡ hàng hóa vào trong Container.
-## Tổ chức vận chuyển [[xuất nhập khẩu]] = Container 
+## Tổ chức vận chuyển [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] = Container 
 Đóng hàng vào Container
 - Người chuyên chở khi nhạn Container là hàng đã được niêm phong kẹp chì.
 Khi chuyền tải thì hàng hóa không được sap xếp lai.

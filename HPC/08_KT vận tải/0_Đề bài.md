@@ -17,7 +17,7 @@ SỰ chuyên môn hoá sản xuất.
 2. Biến động nhu cầu vận chuyển theo không gian và các giải pháp giảm ảnh hưởng xấu của biến động này?
 - Không gian
 	- Biểu hiện trên cùng một tuyến vận tải, quá trình nhập lại thì nhu cầu vận chuyển của hàng hoá đó lại giảm.
-	- 1 chặng/quá trình -> tăng/giảm (hàng nông sản VN [[xuất nhập khẩu]] sang Châu Âu, nhưng không ngược lại
+	- 1 chặng/quá trình -> tăng/giảm (hàng nông sản VN [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] sang Châu Âu, nhưng không ngược lại
 - Giải pháp:
 	  Container hoá hàng hoá vận tải
 	  Cập nhật hạ tầng giao thông

@@ -1,6 +1,6 @@
 ### Thực trạng
 Số lượng cảng 34 cảng. Chiều dài, nhiều vùng vịnh, quần đảo, tổng thể hiện đại
-Đáp ứng [[xuất nhập khẩu]] 
+Đáp ứng [[Study/HPC/02_Nhập môn Logistics/xuất nhập khẩu]] 
 Phân tích cảng theo điểm.
 Khu vực 1 - Từ vĩ độ 7 đổ ra Bắc - nêu tên
 Khu vực 2 - 
