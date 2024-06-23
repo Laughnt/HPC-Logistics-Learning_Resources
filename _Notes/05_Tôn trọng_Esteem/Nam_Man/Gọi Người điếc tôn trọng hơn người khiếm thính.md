@@ -1,0 +1,6 @@
+ko nghe được ko có nghĩa là người khác muốn gọi họ ntn cũng đc bạn ạ 🥹VD 1 em bé bé xíu chưa biết nói hay chưa hiểu người lớn nói gì, hoặc 1 người ốm nặng đang nằm bất tỉnh, thì tên là A vẫn cứ phải là A chứ ko thể tuỳ tiện gọi là B hay C được ạ 🥲
+Về bản chất thì khiếm thính chỉ là mất đi một phần khả năng nghe, còn điếc là hoàn toàn không thể nghe. Hai đối tượng này thuộc hai cộng đồng riêng, có cách giao tiếp riêng, tuy cùng là người khuyết tật nhưng chế độ phúc lợi và quyền lợi được hưởng cũng khác nhau￼.
+Người khiếm thính vẫn có thể nghe được một chút, và nhờ sự trợ giúp của máy trợ thính họ có thể nghe được bình thường. Người khiếm thính cũng có thể nói được.￼
+Người điếc thì ko thể nghe cũng ko thể nói. Nếu được học thì họ vẫn đọc chữ đc, có người còn biết đọc khẩu hình miệng của người đối diện, và họ cũng có cách giao tiếp bằng ngôn ngữ cử chỉ đó ạ.
+
+vì việc gọi “người khiếm thính” không phải là phát ngôn lịch sự hơn “người điếc” do nó sai về bản chất. Vì sao chúng ta có thể nói đúng mà lại chấp nhận việc nói sai nhỉ?
