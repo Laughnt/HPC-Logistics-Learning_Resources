@@ -1,5 +1,3 @@
-
-
 Tôi nhớ, ngày còn ở công ty cũ, tôi hay đi đá bóng cùng một anh Leader. Một dịp kia, sau khi đá bóng và anh em rủ nhau đi nhậu, anh ấy có nói riêng với tôi rằng:
 - Hồi các em mới vào, anh đã phỏng vấn rất nhiều bạn, anh và mấy anh Lead khác có đề cập khá nhiều về em đấy.
 - Ồ, em đâu có gì đặc biệt nhỉ ? Tôi ngạc nhiên
