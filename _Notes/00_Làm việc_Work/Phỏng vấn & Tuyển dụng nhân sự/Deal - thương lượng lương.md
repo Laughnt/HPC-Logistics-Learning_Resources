@@ -120,6 +120,7 @@ Bài viết này hợp với những bạn đăng ký cho tập đoàn đa quố
 7. Nếu nhà tuyển dụng hỏi "1 ngày em có thể làm được tối đa bao nhiêu tiếng?", chạy ngay đi! **8 tiếng** là đủ rồi, không cần hỏi. Người hỏi câu này đang muốn bạn làm nhiều hơn mức giờ tiêu chuẩn.
 8. Nếu họ có thiện chí tuyển bạn về làm việc, họ sẽ chia sẻ rạch ròi về định hướng công ty và phúc lợi nhân viên, những điều họ sẽ làm trong tương lai chứ không phải khoe thành tích của quá khứ. Bạn sẽ cảm thấy được tôn trọng ngay cả khi không phù hợp với vị trí ứng tuyển.
 9. Nếu bạn học 4 năm đại học/cao đẳng và đang ứng tuyển vị trí thấp nhất trong công ty thì không sao hết. Mình đi học để có mở mang tư duy chứ không phải học chỉ để tìm việc.
+https://con-mot-sach.com/2023/09/24/mot-tuan-lam-viec-cua-engineering-manager-p3/
 ### **5. Cần hiểu luật chơi (để còn chơi theo luật)**
 Tuỳ cuộc phỏng vấn, sẽ có những người khác nhau đóng vai trò quyết định trong việc chốt lương với mình (sau khi 2 bên đã kỳ kèo ngã giá). Người đó có thể là người đang phỏng vấn, có thể là cấp trên của người đó, hoặc là HR, đôi khi lại cần cả hội đồng để quyết định việc này + **Luật lao động / Hợp đồng.
 - Ví dụ: 
