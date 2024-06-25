@@ -1,4 +1,4 @@
-Đây là 7 website tìm kiếm và phân loại có nhiều thông tin học thuật trình độ cao mà ngay cả google cũng không có.
+Đây là 7 website tìm kiếm và phân loại có nhiều thông tin học thuật trình độ cao mà ngay cả Google cũng không có.
 1. www.refseek.com
 Tìm kiếm dữ liệu, thông tin Học thuật với hơn một tỷ nguồn
 2. www.worldcat.org

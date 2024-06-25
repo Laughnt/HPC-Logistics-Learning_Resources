@@ -1,0 +1,7 @@
+1. What the heck is insight & How to find it của Lam Tran
+Highly recommend đọc cuốn này: Cuốn sách gối đầu cho các bạn muốn dấng thân vào con đường làm ngành! Đặc biệt là, muốn làm planner thì phải biết INSIGHT! Và lý thuyết về insight thì vô vàn từ các nguồn tài liệu nước ngoài! Mình ko phải là người dễ dàng nuốt trôi các lý thuyết suông, càng ko phải là người thích đọc chữ, nhưng với cuốn này thì kiến thức về INSIGHT - nó là gì? rồi nhận dạng ra làm sao? tìm được nó như thế nào? được chắt lọc và cô đọng từ kinh nghiệm người thật việc thật của anh Planner là người Việt một cách dễ hiểu, dễ nhớ nhất.
+Gọi là sách nhưng mình take nó như cuốn cẩm nang nhỏ. Tác giả viết rất ngắn gọn, súc tích không hàn lâm nhưng vẫn giải đáp đc câu hỏi lớn đặt ra: "Insight là gì?"
+![](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590037632i/53453324.jpg)
+2. Predatory Thinking của Dave Trott
+Cho những bạn ko thích đọc chữ nhiều và ko nuốt nổi lý thuyết suông như mình, thì đây nhất định là dành cho các bạn: Cách viết câu ngắn gọn dễ hiểu, những mẫu chuyện đời thường xoay quay cuộc sống hàng ngày của DT như chỗ làm việc, rồi gia đình hai đứa con nhỏ, rồi những cuộc nói chuyện hàng ngày,... để thấy rằng muốn sáng tạo thì nhìn đâu cũng sáng tạo được, và sau đó tác giả đúc kết ra những bài học sâu sắc về sáng tạo và cả cuộc sống.
+![](https://robslater7.files.wordpress.com/2015/09/predatory-thinking.jpg?w=640)
