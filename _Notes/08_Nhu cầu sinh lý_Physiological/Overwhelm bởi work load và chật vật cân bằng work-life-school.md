@@ -1,0 +1,18 @@
+Dành cho những người chronically online như tôi,
+
+Nửa đêm thấy video này ngồi xem tập trung phát thấy khá hay.
+Cũng chả phải lần đầu YouTube recommend một video về
+dopamine detox hay sửa short attention span. Tôi thường bỏ qua vì đinh ninh tình trạng của mình chả tệ thế bọn này làm content hướng đến người khác, cứ nhồi buzzword cho phức tạp chứ không nghiêm trọng thế. Nhưng cái video này catch my eyes vì nhìn nó đơn giản, và thuyết phục. 20 phút đổi lại nhiều giờ lãng phí. Ông này ngồi nói 20 phút trước camera bằng cái giọng soothing dễ ngủ, tôi quyết tâm ngồi nghe mà không lướt đọc comment hay mở một đống social media khác ra.
+
+Dạo gần đây tôi luôn bị overwhelm bởi work load và chật vật cân bằng work-life-school. Khi mà có một đống việc phải làm tôi sẽ muốn nằm lăn ra doom scrolling thay vì thực sự ngồi vào bàn giải quyết. Tôi có thời gian, nhưng mà tôi nhìn đống việc tôi phải giải quyết tôi chỉ muốn cuộn mình trong chăn xem short content. Còn lúc tôi lết được vào bàn ngồi thì cơn đói dopamine chồm lên, làm tôi mở một đống tab Wikipedia và xem mấy cái video essay một lúc về những chủ đề vớ vẩn. Chả đến mức shut in không chạm cỏ, vẫn ra ngoài đi chơi với bạn bè, tập thể dục và đọc sách, nhưng những lúc đáng ra tôi phải làm việc tôi lại lãng phí và nghĩ rằng mình nên tự thưởng sau một ngày dài. Thời gian ấy cắt cả vào thời gian ngủ. Não bộ hard wired là phải liên tục kiếm gì đó mới thay vì tập trung một cách năng suất, feed một đống thông tin vào mặt trong chân rung răng nghiến mắt không chớp. Tôi không nghĩ tôi bị ADHD, chỉ là ta đang sống trong thời đại mà internet hình thành cái cách ta tiếp nhận thông tin như vậy. Really fucked up with your brain. Đương nhiên thói quen đó không bất di dịch, chỉ cần ta sửa cách sử dụng internet.
+
+Ông này cũng nói trong video là 20 phút không hoàn toàn cứu được cả đời đâu, không đi từ 0 lên 100 ngay mà nó là sự thay đổi dần dần, đưa về trạng thái mà mình biết mình làm chủ được hành động thay vì auto pilot. Là quá trình thay đổi cái mental digestion process của chính ta. Nếu hiện tại bạn đang thấy over-stimulated, là tim đập chân run ngứa não craving làm gì đó mà không tập trung làm gì được thì hãy hít một hơi sâu và tự nhủ mọi chuyện sẽ ổn, mình đang làm chủ. Khi nhận thức được mình đang kiểm soát, cuộc đời sẽ đơn giản hơn.
+
+Nhiều điểm chính được đưa ra như sửa cách ta tiêu thụ thông tin, mạng xã hội không phải là vấn đề mà là cách ta sử dụng. Cạnh đó là làm gì đó sáng tạo: viết vẽ soạn nhạc bất cứ gì để tâm trí được thể hiện không còn đè nén. Hoạt động thể chất cũng quan trọng, tâm trí khỏe khi cơ thể khỏe, ra ngoài đi bộ 10 phút hoặc giãn cơ, lúc mà ta nhục nhã nhất về bản thân có thể là lúc để thay đổi nó. Nhưng tôi khuyên nên thực sự xem video này thay vì tóm tắt ở đây nên nói qua vậy thôi.
+
+“Cái vấn đề của chạy theo dopamine là ta đang trong trạng thái bất mãn trường kì. Ta không đuổi theo khoái lạc, ta chỉ liên tục làm tê liệt nỗi đau.” Lý thuyết của ông này khá giống Epicureanism, khi mà mục đích cuộc sống là hưởng lạc, nhưng phải duy trì và điều tiết ở mức đọ vừa phải để lạc thú không nuốt chửng lấy ta.
+
+Khi làm QnA có nhiều người hỏi tôi về việc thấy cuộc sống vô vị, nhàm chán, không mục đích. Tôi cũng bảo nên thử làm nhiều hoạt động hơn là doom scrolling trong phòng. Nhưng mà ông này cho khá nhiều giải pháp và diễn đạt mượt mà dễ nghe hơn. Nếu bạn là một trong số đó, thì bạn nên xem qua video này. 23 phút tập trung không mở tab khác không đọc comment. It will help.
+
+Nhàm chán là mẹ đẻ của triết học.
+![[Pasted image 20240626221003.png]]
