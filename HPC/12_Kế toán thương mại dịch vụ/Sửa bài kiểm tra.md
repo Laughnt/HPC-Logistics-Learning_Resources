@@ -1,6 +1,6 @@
 1. Tính tổng lương trả cho (phụ xe và lái xe) nên cần phải nhân với 7 xe.
-2. Nợ TK 627, Có TK 112. Tính theo phương pháp khấu hao nên không (+) Thuế GTGT.
-3. 
+3. Nợ TK 627, Có TK 112. Tính theo phương pháp khấu hao nên không (+) Thuế GTGT.
+2. 
    1. N156 1500 N133 150 C331 1650
    2. N131 990 C511 900 C3331 90
       N632 500 C156 500
