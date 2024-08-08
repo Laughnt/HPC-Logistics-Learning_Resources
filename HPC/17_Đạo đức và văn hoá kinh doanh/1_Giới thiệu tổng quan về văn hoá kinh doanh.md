@@ -16,6 +16,11 @@ Theo Nguyễn Như Ý (1998), văn hoá là nhưunxg giá trị vật chắt, ti
 Là biểu hiện cơ bản của công nghiệp trong quá trình đấu tranh sinh tồn và phát triển, đồng thời là những hoạt động nhận thức thực tiễn nhằm tạo ra những biến đổi của xã hội, của môi trường xung quanh và bản thân con người.
 Là sản phẩm có tính cộng đồng.
 Tác động theo ba quá trình:
-- Quá trình cải tạo vật chất
-- Quá trình cải tạo cơ cấu xã hội
-- Quá trình cải tạo tâm ý xã hội (quan hệ giữa con người)
+- Quá trình cải tạo vật chất - công cụ dụng cụ (máy tình ngày xưa)
+- Quá trình cải tạo cơ cấu xã hội - người lao động là đàn ông chủ chính.
+- Quá trình cải tạo tâm lý xã hội (quan hệ giữa con người) - trước đây giáo viên đánh mắng học sinh -> học sinh cần được nhẹ nhàng hơn.
+Văn hoá là sản phẩm của con người được tạo ra trong quá trình lao động.
+
+## Các yếu tố cấu thành văn hoá
+Ngôn ngữ - Làng khác nhau giao tiếp khác nhau.
+Tôn giáo & tín ngưỡng 
