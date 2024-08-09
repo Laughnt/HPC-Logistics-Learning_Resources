@@ -14,3 +14,24 @@ Thuật ngữ "Tổ chức" có hai nghĩa khác nhau.
 ## Tổ chức theo cơ cấu
 là khuôn khỏ phân cấp của tổ chức, trong đó xác định những quy trình và trách nhiệm. Để đạt được điều này, các vị trí công việc duodjwc thiết lập và liên kết với nhau sao cho năng lực và kênh giao tiếp giữa những người thực nhiệm vụ có thể được thiết kế được cách hiệu quả nhất.
 ![[Pasted image 20240809082058.png]]
+**Phi tập trung:** Đơn bán hàng điện thoại sẽ gửi thông tin về phía sản xuất -> không cần thông qua giám sát.
+### 1. Mua hàng tập trung 
+Tập hợp các quy trình thu mua hoàn chỉnh của tất cả các nh ucầu thiết yêu trong doanh nghiệp.
+- Ưu điểm:
+	Mua hàng số lượng lớn
+	Cải thiện tính chuyên nghiệp
+	Cơ cấu nhà cung cấp đồng nhất
+	Trách nhiệm rõ ràng
+	Quy trình thu mua hiệu quả
+	Kiểm soát thống nhất
+- Nhược điểm:
+  Khoảng cách về không gian
+  Xung đột mục tiêu 
+  Mức độ chấp nhận thấp
+  Đặc thù văn hoá
+## 2. Mua hàng phi tập tủng.
+Mọi hoạt ođọng mua hàng được tiến hành một cách tự chủ bởi các bộ phận chuyên biệt, nơi phát sinh nhu cầu tương ứng.
+- Ưu điểm:
+  là cự ly tối ưu tới người dung. Thời gian xử lý ngắn hơn, ra quyết định nhanh chóng được đảm bảo đạt được mức độ định hướng cao tới nhu cầu khách hàng/nội bộ
+- Nhược điểm: 
+  Sự trùng lặp về yêu cầu tại các tổ chức đơn vị khác -> dư thừa xảy ra.
