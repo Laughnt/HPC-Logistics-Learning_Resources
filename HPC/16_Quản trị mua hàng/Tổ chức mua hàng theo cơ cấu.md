@@ -35,3 +35,4 @@ Mọi hoạt ođọng mua hàng được tiến hành một cách tự chủ b�
   là cự ly tối ưu tới người dung. Thời gian xử lý ngắn hơn, ra quyết định nhanh chóng được đảm bảo đạt được mức độ định hướng cao tới nhu cầu khách hàng/nội bộ
 - Nhược điểm: 
   Sự trùng lặp về yêu cầu tại các tổ chức đơn vị khác -> dư thừa xảy ra.
+![](https://bos.edu.vn/wp-content/uploads/2023/02/z4125938674529_d5b5a8a0747c6da06a63054e823387b1-765x1024.jpg)
