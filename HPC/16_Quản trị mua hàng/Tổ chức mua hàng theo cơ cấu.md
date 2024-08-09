@@ -54,3 +54,21 @@ Năng lực
 Rủi ro cung ứng 
 # Quyết định thầu
 Phù hợp với nsx.
+# Đơn đặt hàng 
+Số đơn đặt hàng nội bộ mà nhà cung cấp có thể tham khảo khi giao hàng
+Mô tả rõ ràng về nguồn cung cấp
+Số lượng mặt hàng đã đặt
+Đơn giá và tổng giá
+Thời gian giao hàng và giao đoạn giao hàng  
+Tham chiếu đến các thuộc tính được đảm bảo và các yêu cầu chất lượng 
+Điều kiện thanh toán và giao hàng đã thảo thuận, kể cả địa điểm giao hagnf
+Tham chiếu đến các thảo thuận đặc biệt.
+# Xác nhận đơn hàng 
+Nhà cung cấp xác nhận -> chấp nhận -> sẽ được thực hiện.
+# Giám sát và kiểm soát thời hạn
+Để bảo vệ việc cung cấp nguồn hàng của doanh nghiệp, thời hạn được giám soát và kiểm soát trong bước quy định tiếp theo.
+Thực hiện khi giao hàng đang chờ xử lý đã quá hạn hoặc sắp chậm trễ.
+
+
+
+
