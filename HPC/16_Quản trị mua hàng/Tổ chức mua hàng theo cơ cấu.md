@@ -29,10 +29,28 @@ Tập hợp các quy trình thu mua hoàn chỉnh của tất cả các nh ucầ
   Xung đột mục tiêu 
   Mức độ chấp nhận thấp
   Đặc thù văn hoá
-## 2. Mua hàng phi tập tủng.
+## 2. Mua hàng phi tập trung.
 Mọi hoạt ođọng mua hàng được tiến hành một cách tự chủ bởi các bộ phận chuyên biệt, nơi phát sinh nhu cầu tương ứng.
 - Ưu điểm:
   là cự ly tối ưu tới người dung. Thời gian xử lý ngắn hơn, ra quyết định nhanh chóng được đảm bảo đạt được mức độ định hướng cao tới nhu cầu khách hàng/nội bộ
 - Nhược điểm: 
   Sự trùng lặp về yêu cầu tại các tổ chức đơn vị khác -> dư thừa xảy ra.
 ![](https://bos.edu.vn/wp-content/uploads/2023/02/z4125938674529_d5b5a8a0747c6da06a63054e823387b1-765x1024.jpg)
+
+| Vật tư    | Định mức | % hao hụt | Nhu cầu đặt hàng |
+| --------- | -------- | --------- | ---------------- |
+| Màn hình  | 1        | 5%        | 1050             |
+| Pin       | 1        | 10%       | 1100             |
+| Vỏ        | 1        | 2%        | 1020             |
+| Linh kiện | 2        | 3%        | 2060             |
+# Đánh giá đấu thầu
+Giá mua 
+Thời gian giao hàng 
+Dịch vụ
+Độ tin cậy
+Mức độ chất lượng 
+Năng lực
+Địa điểm 
+Rủi ro cung ứng 
+# Quyết định thầu
+Phù hợp với nsx.
