@@ -24,3 +24,5 @@ Văn hoá là sản phẩm của con người được tạo ra trong quá trìn
 ## Các yếu tố cấu thành văn hoá
 Ngôn ngữ - Làng khác nhau giao tiếp khác nhau.
 Tôn giáo & tín ngưỡng 
+Giá trị và thái độ
+Phong tục tập quán - Thờ tổ tiên, Châu Âu không thờ tổ tiên, truyền từ đời này sang đời khác. 
