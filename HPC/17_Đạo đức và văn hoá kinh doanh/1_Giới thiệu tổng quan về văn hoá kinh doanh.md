@@ -4,11 +4,12 @@ Văn hoá kinh doanh - ĐH Thương mại
 Bùi Xuân Phong (2011) Giáo trình đạo đức kinh doanh và văn hoá doanh nghiệp, Bưu chính viễn thông.
 Dương Thị Liễu (2011), Văn hoá doanh nghiệp, NEU
 
+## Khái niệm
 Văn hoá bắt nguồn từ chữ La Tinh - Cultus Animi (gieo trồng tinh thần)
 Là sự giáo dục bồi dưỡng tâm hồn con người.
 
 **Theo UNESCO (1982),** văn hoá hôm nay có thể coi là tổng thể cửa những nét riêng biệt tinh thần và vật chất, trí tuệ và cảm xúc quyết định tính cách của một xã hội hay một nhóm người trong xã hội.
-Văn hoá bao gồm **nghệ thuật và văn chương, những lỗi sống, những quyền cơ bản của con người, những hệ thống các giá trị, những tập tục và những tín ngưỡng.**
+Văn hoá bao gồm **nghệ thuật và văn chương, những lối sống, những quyền cơ bản của con người, những hệ thống các giá trị, những tập tục và những tín ngưỡng.**
 
 Theo Nguyễn Như Ý (1998), văn hoá là nhưunxg giá trị vật chắt, tinh thần do con người sáng tạo ra trong lịch sử.
 
