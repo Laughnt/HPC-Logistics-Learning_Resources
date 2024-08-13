@@ -26,3 +26,9 @@ Chưa đầy một thế kỷ giành lại nền độc lập, người Việt �
 Về *kinh tế*, nông nghiệp tiểu nông phong kiến và các nghề thủ công truyền thống như dệt, gốm, mĩ nghệ... Nhiều làng nghề và trung tập thủ công nghiệp xuất hiện, tiêu biểu là kinh thành Thăng Long với 36 phường hội.
 - Thời Pháp thuộc 
 Sự thâm nhập của các nước phương Tây trong cơn lốc đi tìm kiếm thị trường là điều kiện để các nước phương Đông có cơ hội tiếp xúc với văn hoá phương Tây và tiếp thu những thành tựu của nền văn minh công nghiệp. Trong bối cảnh đó, văn hoá Đại Việt đã có sự tiếp diễn với văn hoá phương Tây, thông qua sự thâm nhập của người Pháp vào Việt Nam.
+
+Đổi mới cả về chủ thể văn hoá cả văn hoá vật chất lẫn văn hoá tinh thần. Một đội ngũ tri thức mới ra đời, đặt nền móng cho sự hình thành các ngành khoa học như Ngôn ngữ học, dân tộc học, Nghệ thuật, Tôn giáo, Địa lí, Sử học, khảo cổ học... Nhiều hình thức văn hoá mới nảy nở và phát triển.
+- Giai đoạn (1945-1986)
+Cách mạng Tháng Tám đa chấm dứt hơn 80 năm đô hộ. Nền văn hoá VN gắn với sự ra đời của nhà nước VN dân chủ cộng hoà từ 1945. Đó là nền văn hoá hình thành nên nền tảng văn hoá Đại Việt và quá trình đổi mưới của văn hoá Việt Nam trong khung cảnh tiếp xúc văn hoá Đông - Tây cuối thế kỷ XIX đầu thế kỉ XX.
+
+Sự tiếp xúc với văn hoá thế giới không chỉ giới hạn ở nền văn hoá Tây Âu, văn hoá Mĩ, mà còn mở rộng với các nền văn hoá Đông Âu mang tính xã hội chủ nghĩa (Liên Xô, Nam Tư, Hunggari, Bungari, Tiệp Khắc,...) Do đó mà hàng loạt các tác phẩm cổ điển của Nga, Đức, Ba Lan, Tiệp khắc được dịch và phổ biến tại Việt Nam.
