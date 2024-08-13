@@ -1,6 +1,5 @@
 Mua hàng của doanh nghiệp thay đổi bởi vì công nghệ thông tin -> thay đổi nhanh,
 Mua hàng đảm bảo nguồn cung.
-
 ## Chức năng:
 - Phục vụ vận hành 
 - Chiến lược

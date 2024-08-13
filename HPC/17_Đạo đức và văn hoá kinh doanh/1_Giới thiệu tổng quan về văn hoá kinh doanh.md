@@ -3,7 +3,6 @@ Nguyễn Mạnh Quân (2015) Giáo trình Đạo đức kinh doanh và văn hoá
 Văn hoá kinh doanh - ĐH Thương mại
 Bùi Xuân Phong (2011) Giáo trình đạo đức kinh doanh và văn hoá doanh nghiệp, Bưu chính viễn thông.
 Dương Thị Liễu (2011), Văn hoá doanh nghiệp, NEU
-
 ## Khái niệm
 Văn hoá bắt nguồn từ chữ La Tinh - Cultus Animi (gieo trồng tinh thần)
 Là sự giáo dục bồi dưỡng tâm hồn con người.
@@ -26,4 +25,6 @@ Văn hoá là sản phẩm của con người được tạo ra trong quá trìn
 Ngôn ngữ - Làng khác nhau giao tiếp khác nhau.
 Tôn giáo & tín ngưỡng 
 Giá trị và thái độ
-Phong tục tập quán - Thờ tổ tiên, Châu Âu không thờ tổ tiên, truyền từ đời này sang đời khác. 
+Phong tục tập quán - Thờ tổ tiên, Châu Âu không thờ tổ tiên, truyền từ đời này sang đời khác.
+Thẩm mĩ
+Vật chất
