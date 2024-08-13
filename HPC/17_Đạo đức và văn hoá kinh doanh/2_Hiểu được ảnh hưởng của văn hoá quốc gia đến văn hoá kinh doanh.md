@@ -29,6 +29,14 @@ Sự thâm nhập của các nước phương Tây trong cơn lốc đi tìm ki�
 
 Đổi mới cả về chủ thể văn hoá cả văn hoá vật chất lẫn văn hoá tinh thần. Một đội ngũ tri thức mới ra đời, đặt nền móng cho sự hình thành các ngành khoa học như Ngôn ngữ học, dân tộc học, Nghệ thuật, Tôn giáo, Địa lí, Sử học, khảo cổ học... Nhiều hình thức văn hoá mới nảy nở và phát triển.
 - Giai đoạn (1945-1986)
-Cách mạng Tháng Tám đa chấm dứt hơn 80 năm đô hộ. Nền văn hoá VN gắn với sự ra đời của nhà nước VN dân chủ cộng hoà từ 1945. Đó là nền văn hoá hình thành nên nền tảng văn hoá Đại Việt và quá trình đổi mưới của văn hoá Việt Nam trong khung cảnh tiếp xúc văn hoá Đông - Tây cuối thế kỷ XIX đầu thế kỉ XX.
+Cách mạng Tháng Tám đa chấm dứt hơn 80 năm đô hộ. Nền văn hoá VN gắn với sự ra đời của nhà nước VN dân chủ cộng hoà từ 1945. Đó là nền văn hoá hình thành nên nền tảng văn hoá Đại Việt và quá trình đổi mới của văn hoá Việt Nam trong khung cảnh tiếp xúc văn hoá Đông - Tây cuối thế kỷ XIX đầu thế kỉ XX.
 
 Sự tiếp xúc với văn hoá thế giới không chỉ giới hạn ở nền văn hoá Tây Âu, văn hoá Mĩ, mà còn mở rộng với các nền văn hoá Đông Âu mang tính xã hội chủ nghĩa (Liên Xô, Nam Tư, Hunggari, Bungari, Tiệp Khắc,...) Do đó mà hàng loạt các tác phẩm cổ điển của Nga, Đức, Ba Lan, Tiệp khắc được dịch và phổ biến tại Việt Nam.
+
+- Giai đoạn đổi mới (1986 - nay)
+Từ năm 1986,với tư tưởng đổi mới toàn diện đề ra trong Đại hội Đảng lần thứ VI, Việt Nam bước vào một thời kỳ mới: Thời kì xây dựng nền kinh tế thị trường, mở cửa và hội nhập.
+
+>Người quan trọng, có công rất lớn trong giai đoạn đổi mới là tổng bí thư Vương Văn Linh, cải cách tư tưởng quan điểm, chính trị. Từ bao cấp => cơ chế thị trường / tự chịu trách nhiệm cho hành động cá nhân.
+
+Việt Nam đã chính thức bước vào sân chơi của thời đại, sân chơi của thời kỳ 'toàn cầu hoá' và phương châm được chúng ta chọn trong cuộc chơi toàn cầu này là:
+>"Đưa văn hoá Việt Nam ra thế giới và đưa văn hoá thế giới đến việt Nam".
