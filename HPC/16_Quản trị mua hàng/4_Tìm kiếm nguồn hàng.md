@@ -38,3 +38,4 @@ Kim ngạch nhập khẩu từ TQ:
 vải, phân bón, sắt thép, hoá chẩt, phụ liệu giày dép, điện tử vi tính và linh kiện, rau hoa quả, xe máy, ngô, sợi dệt đã xe, phụ liệu may mặc, lúa mỳ, động cơ đốt trong, phụ liệu thuốc lá, tàu thuyền, thiết bị, ôtô, nhôm, nguyên phụ liệu dược phẩm...
 
 ![[Pasted image 20240814100012.png]]
+**Tổng cục hải quan** -> quy mô.
