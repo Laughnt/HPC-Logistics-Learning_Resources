@@ -16,3 +16,25 @@ Dữ liệu thu nhập được về thị trường, nhà cung ứng, khái ni�
 Ngoại tệ luôn tiềm ẩn rủi ro biến ođọ
 - Tận dụng trợ cấp chính phủ.
 Ngành công nghiệp hàng không & vũ trụ -> cung cấp dịch vụ tốt với mức giá thấp.
+
+## Rủi ro mới ở phạm vi quốc tế
+Các hoạt động mua hàng theo định hướng quốc tế mang đến cho doanh nghiệp những cơ hội to lớn để tối ưu việc cung cấp sản phẩm & dịch vụ.
+- Văn hoá
+	Bao gồm tất cả các yếu tố như ngôn ngữ, tâm lý hoặc hiểu biết pháp luật có htể cản trở sự giao tiếp và hiểu biết giữa nhà cung cấp với khách hàng
+- Chính trị
+	Các điều  kiện khung về chính trị của quốc gia nơi thực hiện thu mua có thể gây ra rủi ro đặc biệt là khi xảy ra các sự cố không thể đoán trước được, bị ảnh hưởng bởi các nhà cầm quyền -> hạn chế HĐ thương mại.
+- Kinh tế
+	Kinh tế vĩ mô gây ra rủi ro.
+- Thiên nhiên
+	Từ quan điểm kinh tế vĩ mô, tác động của thiên tai ngày càng vượt quá những rủi ro nêu trên.
+- Hoạt động
+	Bao gồm tất cả các khịa cạnh có thể dẫn đến kết quả không thuật lợi do hạot động của nhà cung ứng, đặc biệt là rủi ro về giá cả / chất lượng / thời hạn.
+- Hành vi
+	Do hành vi của nhà cung ứng, doanh nghiệp thường sẽ gặp khó khăn trong việc đánh giá trước hành vi của nhà cung ứng, vì thông thường lượng thông tin đáng tin cậy và kinh nghiệm thực tế là không đủ.
+
+### Mặt hàng Việt Nam nhập khẩu từ Trung Quốc nhiều:
+
+Kim ngạch nhập khẩu từ TQ:
+vải, phân bón, sắt thép, hoá chẩt, phụ liệu giày dép, điện tử vi tính và linh kiện, rau hoa quả, xe máy, ngô, sợi dệt đã xe, phụ liệu may mặc, lúa mỳ, động cơ đốt trong, phụ liệu thuốc lá, tàu thuyền, thiết bị, ôtô, nhôm, nguyên phụ liệu dược phẩm...
+
+![[Pasted image 20240814100012.png]]
