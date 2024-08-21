@@ -8,7 +8,24 @@ Bộ máy kiểm soát quản trị rủi ro có thể tiếp cận quy trình b
 ### 1. Nhận diện rủi ro mua hàng 
 Là xuất phát điểm của quy trình quản trị rủi ro và thường được coi là giai đoạn quan trọng nhất.
 1. Rủi ro cung ứng
+Thiếu nguồn cung ứng nguyên vật liệu trog thời gian ngắn, vì nhà cung ứng phá sản hoặc thiếu hụt nguyên vật liệu. 
+Sai sót liên quan đến ngày giao hàng, chất lượng hoặc khối lượng.
+Doanh nghiệp phụ thuộc quá nhiều vào một nhà cung ứng.
 2. Rủi ro sản phẩm
-3. Rủi ro hậu cần
+Chất lượng hoặc khối lượng nguyên vật liệu được giao không đáp ứng yêu cầu
+Công nghệ được phát triển cùng nhà cung ứng (vấn đề bản quyền)
+Công nghệ được mua vội vàng & không tìm hiểu cặn kẽ
+3. Rủi ro hậu cần (**Trên đường vận chuyển**)
+Nguồn cung ứng có tính toàn cầu, phức tạp, đa nhánh.
+Thời gian thay mới nguyên vật liệu quá dài, làm giảm khả năng dự đoán.
+Là hàng gửi qua đường biển bị mất hoặc hư hại trong quá trình vận chuyển
+Lượng cầu bị giới hạn một cách không thiện chí.
 4. Rủi ro thị trường
+Thiếu khả năng thay thế nhà cung ứng về vấn đề độc quyền 
+Thay đổi về kinh tế, chính trị, xã hội, luật pháp hay hệ sinh thái xảy ra ở quốc gia cungcấp nguyên vật liệu
+Tắc nghẽn, thiếu hụt tài nguyên, hay các hành vi đầu cơ trên thị trường chứng khoán khiến giá cả biến động thất thường hoặc gây tắc nghẽn, thiếu hụt sản phẩm
+Dao động tiền tệ làm tăng chi phí.
 5. Rủi ro quy trình 
+Nhiệm vụ không được phân công rõ ràng
+Lịch trình trung hạn không được đáp ứng
+Mục tiêu và nhiệm vụ của các bộ phận không phối hợp nhịp nhàng.
