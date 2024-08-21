@@ -16,4 +16,18 @@ Giá cả giảm hoặc tăng = số lượng của mặt hàng.
 4. Ngoài ra, doanh nghiệp còn phải điều tra mức độ canh tranh xoay quanh sản phẩm cần thu mua.
    Việc điều tra này => nhà cung cấp chiến lược hiểu sâu về quyền lực mình đang nắm giữ trên thị trường. Nếu sản phẩm có cấu trúc tương đương nhau -> người mua sẽ được tự do lựa chọn.
 5. Phân tích nhu cầu của thị trường -> đặt câu hỏi xác định nhu cầu so với nhu cầu của các đối thủ cạnh tranh khác.
-   6. Doanh nghiệp mua hàng phải xem xét chi tiết nhưunxg nhà cung ứng còn đang hoạt động -> tổng hợp thông tin -> chất lượng và tiềm năng của những nhà cung ứng.
+   6. Doanh nghiệp mua hàng phải xem xét chi tiết những nhà cung ứng còn đang hoạt động -> tổng hợp thông tin -> chất lượng và tiềm năng của những nhà cung ứng.
+      
+Nguồn thông tin, một phương pháp phân biệt nguồn thông tin được chấp nhận rộng rãi bắt nguồn từ tiếp thị bán hàng, phân biệt hai loại nguồn là:
+- sơ cấp (primary)
+- thứ cấp (secondary)
+### - Sơ cấp
+Bao gồm việc trực tiếp thu nhập dữ liệu về thị trường thu mua đang xem xết.
+Cụ thể, đối với hoạt động mua hàng, trực tiếp thu nhập dữ liệu nghĩa là yêu cầu nhà cung ứng gửi báo cáo tự đánh giá, tham dự hội thảo và hội chợ thương mại, trao đổi với nsx, tham quan cơ sở sx.
+### - Thứ cấp
+Sử dụng thông tin sẵn có, ví dụ: Các ấn phẩn của nhà cung ứng như địa chỉ trực tuyến, tờ rơi giới thiệu sản phẩm hay báo cáo doanh nghiệp.
+Để khám phá sâu hơn, người mua hàng có thể tìm đọc thêm các tạp chí chuyên ngành, danh bạ thương mại, báo cáo thị trường (chứng khoán), cũng như nghiên cữu trên mạng.
+
+>Phân tích và giám sát thị trường là phần một công việc tất yếu hàng ngày của nhà mua hàng chiến lược. Chỉ khi sở hữu kiến thức chắc chắn về thị trường -> DN mới có thể kết nối nhu cầu nội bộ với hoàn cảnh bên ngoài một cách tối ưu.
+## Phân tích giá trị:
+Có thể được hiểu là một thủ tục có hệ thống để phát hiện và cắt giảm những lãng phí gây tốn kém cho sản phẩmm hay quy trình mà không ảnh hưởng tiêu cực đến những đặc trưng quan trọng đối với khách hàng như tính năng, tuổi thọ, chất lượng hay sức bán của sản phẩm.
