@@ -31,3 +31,6 @@ Sử dụng thông tin sẵn có, ví dụ: Các ấn phẩn của nhà cung ứ
 >Phân tích và giám sát thị trường là phần một công việc tất yếu hàng ngày của nhà mua hàng chiến lược. Chỉ khi sở hữu kiến thức chắc chắn về thị trường -> DN mới có thể kết nối nhu cầu nội bộ với hoàn cảnh bên ngoài một cách tối ưu.
 ## Phân tích giá trị:
 Có thể được hiểu là một thủ tục có hệ thống để phát hiện và cắt giảm những lãng phí gây tốn kém cho sản phẩmm hay quy trình mà không ảnh hưởng tiêu cực đến những đặc trưng quan trọng đối với khách hàng như tính năng, tuổi thọ, chất lượng hay sức bán của sản phẩm.
+
+# Phân tích giá trị
+Đánh giá riêng sản phẩm: cách thức thực hiện hoá chức năng và chức năng: mục đích lợi ích với khách hàng.
