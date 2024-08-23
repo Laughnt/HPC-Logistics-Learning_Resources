@@ -23,4 +23,5 @@ Phong cách uỷ thác khích lệ cấp dưới theo đuổi hoài bão, mục 
 Phong cách bằng hữu đánh giá cao sự nhiệt tình, mong muốn của cấp dưới và chủ yếu dựa vào mối quan hệ gắn bó và sự tin cậy để kích lệ tính năng động, sáng tạo và sự mạo hiểm của họ.
 Phong cách dân chủ thường chú trọng đến sự tích cực và vai trò của nhóm, tập thể để đi đến quyết định tập thể (lấy quan điểm số đông)
 Quan tâm đến tăng cười thông tin và giao tiếp -> bầu không khí thuận lợi -> thực hiện mục tiêu.
+## 2.3 Định hướng giá trị văn hoá của doanh nghiệp
 Người lãnh đạo cần phải hiểu rõ tầm quan trọng của văn hoá doanh nghiệp và có trách nhiệm đưa ra các quyết định và hành động phù hợp để xây dựng và duy trì văn hoá.
