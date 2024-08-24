@@ -13,3 +13,10 @@ Là một nhiệm vụ trọng tâm trong quản lý nhân sự, nhắm tới vi
 	Mở rộng công việc (job enlargement)
 	Đào sâu công việc (job enrichment)
 	Luân chuyển công việc (job rotation)
+## Phát triển nhân sự
+Đào tạo mở rộng (near-the-job)
+- Vòng tròn chất lượng (quality circle)
+- Xưởng học tập (learning workshop)
+Đào tạo bên ngoài (off-the-job)
+- Hội thảo ()
+- Nghiên cứu khoa học ()
