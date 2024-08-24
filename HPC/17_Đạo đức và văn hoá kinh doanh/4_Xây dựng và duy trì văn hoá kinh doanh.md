@@ -11,3 +11,11 @@ Kẻng -> đàn ông mang điếu cày hút/chè đặc; Phụ nữ tụm 5 tụ
 
 Chuyển sang giai đoạn cải cách, ruộng đất chia về tay người dân -> tự cày -> năng suất lao động tăng lên; mùa màng bội thu. Người dân làm mọi cách để sản phẩm năng suất hơn.
 // Nam Định: Nhà máy dệt từng được đưa lên tờ tiền, đây là một trong những nhà máy có sản lượng tốt -> tặng huy chương. Đến bây giờ thì biến mất.
+
+1. Quy trình thay đổi văn hoá 
+- Xuất hiện động lực thay đổi:
+	Có sự thay đổi trong giới lãnh đạo công ty.
+	Văn hoá công ty yếu.
+2. Quy trình thay đổi văn hoá
+- Diễn ra như: Trước tiên điều cần thay đổi các yếu tố thuộc lớp văn hoá **thứ nhất và thứ hai** để tạo nền tảng cho những thay đổi lớn hơn. 
+- Sự thay đổi toàn diện nhất chính la
