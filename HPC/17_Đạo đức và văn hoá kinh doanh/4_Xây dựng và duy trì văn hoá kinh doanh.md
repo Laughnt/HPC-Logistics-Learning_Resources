@@ -1,0 +1,1 @@
+Văn hoá của người Nhật, hoạt động về cộng đồng chung.
