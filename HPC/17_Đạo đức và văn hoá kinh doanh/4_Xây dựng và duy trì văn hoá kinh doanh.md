@@ -56,4 +56,4 @@ Công ước Quốc tế về luật biển, nếu chúng ta bắt  hết thì s
 - Xây dựng hệ thống thử nghiệm song song 
 - Áp dụng công nghệ mới. (Có máy tính nên không cần bảng giấy chấm công nữa, sử dụng bảng chấm vân tay)
 - Thay thế các vị trí trong doanh nghiệp
-- Do các vụ scandal và việc phá vỡ các huyền thoại, biểu tượng. (An)
+- Do các vụ scandal và việc phá vỡ các huyền thoại, biểu tượng. (Mì chính tại Thị Nghè, công ty của Nhật Bản khi thải ra phải là nước sạch)
