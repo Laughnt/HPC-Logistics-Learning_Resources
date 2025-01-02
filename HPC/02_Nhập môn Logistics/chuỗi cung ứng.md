@@ -1,4 +1,4 @@
-Tập hợp các liên kết kinh tế trực tiếp và gián tiếp từ nguồn cung ứng nguyên liệu tới nhà máy, trung tâm phân phối, nhà bán lẻ đến người tiêu dùng.
+Tập hợp các liên kết kinh tế trực tiếp và gián tiếp từ nguồn cung ứng nguyên liệu tới nhà máy, trung tâm phân phối, nhà bán lẻ đến người tiêu dùng, gắn liền với sản phẩm.
 
 - Hệ thống những tổ chức, hoạt động, thông tin, con người, và các nguồn lực
 - Tham gia trực tiếp - Tại DN phân phối và bán SP, hoặc gián tiếp - Tính năng
