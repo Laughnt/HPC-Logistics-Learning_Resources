@@ -6,3 +6,5 @@ Giáo trình Quản trị rủi ro.
 - Chương 4: Quản trị quá trình thực hiện
 - Chương 5: Quản trị rủi ro
 [[Incoterm]] 
+
+Làm về hợp đồng quốc tế.
