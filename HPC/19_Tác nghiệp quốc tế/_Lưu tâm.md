@@ -5,6 +5,6 @@ Giáo trình Quản trị rủi ro.
 - Chương 3: Quản trị quá trình giao dịch đàm phán ký kết hợp đồng TMQT
 - Chương 4: Quản trị quá trình thực hiện
 - Chương 5: Quản trị rủi ro
-[[Incoterm]] 
+[[Incoterm - IFCD]] 
 
 Làm về hợp đồng quốc tế.
