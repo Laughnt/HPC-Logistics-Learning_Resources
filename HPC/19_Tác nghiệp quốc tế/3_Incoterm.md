@@ -1,7 +1,6 @@
 Incoterm gồm 3 chữ cái viết tắt, và (), đằng sau dấu (là địa điểm chuyển giao rủi ro),
 ### So sách cách trình bày câu hỏi:
 >So sánh EXW và FCA:
-
 ### - Giống nhau: 
 - Trách nhiệm của người bán:
 Tập kết hàng hoá đúng số lượng chất lượng tại địa điểm  Chuyển giao cho người mua hoá đơn, cjhứng từ vận tải và các chứng từ hàng hoá có liên quan (bộ chứng từ XK)
@@ -43,10 +42,40 @@ Người mua:
 # CPT
 Cước phí trả tới cước quy định:
 - Người bán:
-Ký hợp đồng chuyên chở và trả cước đến tận điểm đến quy định tại nước người mua
-Giao hàng cho người vận tải đã ký hợp đồng
-Cung cấp bộ chứng từ bao gồm chứng từ vận tải
+Ký hợp đồng chuyên chở và trả cước đến tận điểm đến quy định tại nước người mua.
+Giao hàng cho người vận tải đã ký hợp đồng.
+Cung cấp bộ chứng từ bao gồm chứng từ vận tải.
 - Người mua: 
 Chịu chi phí và tổn thất khi hàng đã giao cho người vận tải đầu tiên.
 Làm thủ tục thông quan nhập khẩu và chịu các chi phí về thông quan nhập khẩu.
 Nhập hàng sau khi hàng đã được giao cho người vận tải đầu tiên và có bộ chứng từ hợp lệ. 
+# CIP 
+- Người bán:
+  Ký hợp đồng chuyên chở và trả cước đến tận cảng đến quy định 
+  Lấy giấy phép xk, làm thủ tục thông quan
+  Mua bảo hiểm hàng hoá suốt quãng đường vận chuyển
+  Giao hàng cho người vận tải đau tiên đã ký hợp đồng
+  Cung cấp bộ chứng từ giao hàng bao gồm chứng từ vận tải, chứng từ bảo hiểm
+- Người mua:
+  Chịu chi phí và tổn thất khi đã giao cho người vận chuyển dầu tiên
+  Nhận hàng khi hàng đa được giao cho người vận tải đầu tiên hoặc nhận đủ bộ chứng từ.
+## Môn học Bảo hiểm
+*- Điều kiện bảo hiểm C:*
+Được áp dụng cho trường hợp hàng hoá hay tài sản vận chuyển bị thiệt hại do các nguyên do sau:
+- Tàu bị mắc cạn, lật úp và bị đắm
+- Tàu bị va chạm, đâm vào bất kỳ vật thể nào không kể nước
+- Cháy hoặc nổ
+- Phương tiện vận tải bộ bị lật hay trật bánh
+- Dỡ hàng ở cảng nơi tàu gặp nạn
+- Hàng bị ném khỏi tàu
+- Phương tiện chở hàng mất tích khiến hàng hoá thất thoát
+*- Điều kiện bảo hiểm B:* 11 đk
+Động đất, núi lửa phun trào hay sét đánh 
+Hàng bị nước cuốn khỏi tàu hay bị ném khỏi tàu
+Nơi để hàng bị nước tràn vào
+Hàng hoá tổn thất do dỡ hàng qua lan can tàu tại cảng
+*- Điều kiện bảo hiểm A*: 15 đk
+Mất cắp mất trộm
+Thiếu nguyên kiện
+	Hen rỉ, gãy trong quá trình vận chuyển 
+	Rách, vớ, 
