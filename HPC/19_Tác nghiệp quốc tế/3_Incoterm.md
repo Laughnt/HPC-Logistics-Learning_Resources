@@ -97,9 +97,36 @@ Chi phí bảo hiểm sẽ thương lượng giữa 2 bên và nên ghi rõ hợ
 Theo Incoterm 2020, người bán không phải dỡ hàng tại điểm đến trừ khi được quy định trong hợp đồng. Tuy nhiên, nếu hợp đồng vận chuyện của người bán bao gồm việc dỡ hàng tại địa điểm giao hàng thì khôgn được đòi lại cchi phí từ người mua trừ khi được người bán đồng ý.
 
 Để khi chúng ta có trường hợp xảy ra, bản thân không nhầm lẫn được. Chúng ta đặc biệt lưu ý: **Hợp đồng > Incoterm.**
-Ví dụ: Ký một hợp đồng với nước ngoài, mua thuốc nổ. Đây là mặt hàng nhà nước quản lý = hợp đồng vô hiệu. Nếu có tranh chấp xảy ra, lôi nhau ra toà VN tuyên hợp đồng vô hiệu. Người bán và người mua không có giá trị ràng buộc nhau gì. 
+Ví dụ: Ký một hợp đồng với nước ngoài, mua thuốc nổ. Đây là mặt hàng nhà nước quản lý => hợp đồng vô hiệu. Nếu có tranh chấp xảy ra, lôi nhau ra toà VN tuyên hợp đồng vô hiệu, người bán và người mua không có giá trị ràng buộc nhau gì. 
 
- Cô chuyên đi làm hợp đồng ngoại, chỉ cần mình mô tả hàng hoá mơ hồng, sau này mình ăn đủ. Kiện theo luật Singapo.
+ Cô chuyên đi làm hợp đồng ngoại, chỉ cần mình mô tả hàng hoá mơ hồng, sau này mình ăn đủ. Kiện theo luật Singapo -> tiền kiện lớn hơn tiền hàng. 
  // Môn Thanh toán quốc tế.
-## So sấnh DAP & CPT
-- *-Giống nhau*: Điểm chuyển giao rủi ro
+## So sánh DAP & CPT
+- *Giống nhau*: Điểm chuyển giao rủi ro
+Người bán thuê vận tải đến địa điểm tại nước người mua.
+
+# DPU
+
+- Người bán:
+Ký hợp đồng chuyên chở và trả cước đến tận điểm đến quy định 
+Lấy giấy phép xuất khẩu, chịu chi phí và làm thủ tục thông quan 
+Giao hàng cho người vận tải đầu tiên đã ký HĐ
+Cung cấp bộ chứng từ giai hàng bao gồm chứng từ vận tải cho người mua. 
+Chịu chi phí và tổn thất đến khi hàng giao cho người mua, gồm cả chi phí dỡ hàng tại điểm đến
+- Người mua:
+Nhận hàng tại điểm đến quy định 
+Làm thủ tục và chịu chi phí thông quan tại nơi NK
+# DDP 
+Ngược EXW. 
+- Người bán
+Ký HĐ chuyên chở và trả cước đến tận điểm đến quy định 
+Lấy giấy phép XK và NK chịu chi phí và làm thủ tục thông quan XNK
+Giao hàng cho người vận tải đầu tiên đã ký HĐ
+Cung cấp bọ chứng từ giao hàng bao gồm chứng từ vận tải cho người Mua
+Chịu chi phí và tổn thất đến khi hàng giao được cho người mua
+- Người mua: 
+Nhận hàng tại nơi điểm đến quy định.
+Chịu chi phí dỡ hàng tại điểm đến.
+[[Incoterm - IFCD]]
+
+# Điệu kiện giao hàng liên quan đến đường thuỷ 
