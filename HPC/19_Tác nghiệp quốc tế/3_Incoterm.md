@@ -70,12 +70,36 @@ Nhập hàng sau khi hàng đã được giao cho người vận tải đầu ti
 - Hàng bị ném khỏi tàu
 - Phương tiện chở hàng mất tích khiến hàng hoá thất thoát
 *- Điều kiện bảo hiểm B:* 11 đk
-Động đất, núi lửa phun trào hay sét đánh 
-Hàng bị nước cuốn khỏi tàu hay bị ném khỏi tàu
-Nơi để hàng bị nước tràn vào
-Hàng hoá tổn thất do dỡ hàng qua lan can tàu tại cảng
+- Động đất, núi lửa phun trào hay sét đánh 
+- Hàng bị nước cuốn khỏi tàu hay bị ném khỏi tàu
+- Nơi để hàng bị nước tràn vào
+- Hàng hoá tổn thất do dỡ hàng qua lan can tàu tại cảng
 *- Điều kiện bảo hiểm A*: 15 đk
-Mất cắp mất trộm
-Thiếu nguyên kiện
-	Hen rỉ, gãy trong quá trình vận chuyển 
-	Rách, vớ, 
+- Mất cắp mất trộm
+- Thiếu nguyên kiện
+- Hen rỉ, gãy trong quá trình vận chuyển 
+- Rách, vỡ, bị ướt hay làm bẩn
+# DAP
+- Người bán: 
+  Ký hợp đồng chuyên chở, trả cước đến tận điểm điếm quy định.
+  Lấy giấy phép XK, chịu chi phí và làm thủ tục thông quan
+  Giao hàng cho người vận tải đầu tiên đã ký hợp đồng
+  Cung cấp bộ chứng từ giao hàng bao gồm chứng từ vận tải cho người Mua
+  Chịu chi phí và tổn thất đến khi hàng giao cho người mua tại điểm đến
+  Không chịu chi phí dỡ hàng tại điểm đến
+- Người mua: 
+  Nhận hàng tại điểm đến quy định
+  Làm thủ tục và chịu chi phí thông quan tại nơi SX
+  Chịu chi phí dỡ hàng tại điểm đến quy định 
+  
+Chi phí bảo hiểm sẽ thương lượng giữa 2 bên và nên ghi rõ hợp đồng. Trong trường hợp người mua mua bản hiểm, chúng ta áp dụng:
+
+Theo Incoterm 2020, người bán không phải dỡ hàng tại điểm đến trừ khi được quy định trong hợp đồng. Tuy nhiên, nếu hợp đồng vận chuyện của người bán bao gồm việc dỡ hàng tại địa điểm giao hàng thì khôgn được đòi lại cchi phí từ người mua trừ khi được người bán đồng ý.
+
+Để khi chúng ta có trường hợp xảy ra, bản thân không nhầm lẫn được. Chúng ta đặc biệt lưu ý: **Hợp đồng > Incoterm.**
+Ví dụ: Ký một hợp đồng với nước ngoài, mua thuốc nổ. Đây là mặt hàng nhà nước quản lý = hợp đồng vô hiệu. Nếu có tranh chấp xảy ra, lôi nhau ra toà VN tuyên hợp đồng vô hiệu. Người bán và người mua không có giá trị ràng buộc nhau gì. 
+
+ Cô chuyên đi làm hợp đồng ngoại, chỉ cần mình mô tả hàng hoá mơ hồng, sau này mình ăn đủ. Kiện theo luật Singapo.
+ // Môn Thanh toán quốc tế.
+## So sấnh DAP & CPT
+- *-Giống nhau*: Điểm chuyển giao rủi ro
