@@ -28,6 +28,8 @@ Với địa điểm khác, chi phí dỡ/bốc xếp người bán chịu => đ
 >-> Mối quan hệ con người
 
 - Cách thể hiện trên hợp đồng ngoại thương: 
-  **EXW [địa điểm giao hàng] Incoterms 2020**
+  **EXW [địa điểm giao hàng] Incoterms 202
+- 
+- 0**
 Ví dụ:  
 **EXW** _123 Nguyen Van Linh, District 7, Ho Chi Minh, Viet Nam_ **Incoterms 2020**
