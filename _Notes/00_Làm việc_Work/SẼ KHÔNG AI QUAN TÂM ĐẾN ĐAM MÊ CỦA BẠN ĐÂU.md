@@ -15,7 +15,7 @@ Bạn có thể đam mê 3D đến mức không ngủ, không ăn, nhưng điề
 Nhà tuyển dụng không cần nghe bạn ca ngợi bản thân yêu nghề thế nào,mà thứ họ cần thấy kỹ năng và thành quả công việc cụ thể. Nên hãy tính táo,mà cho họ thấy thứ mà họ cần.
 
 2. Hãy Nói Về Kỹ Năng Và Kinh Nghiệm
-Thay vì huyên thuyên về đam mê, hãy tập trung vào những kỹ năng mà bạn có :
+Thay vì huyên thuyên về đam mê, hãy tập trung vào những kỹ năng mà bạn có 
 Bạn thành thạo ZBrush, Maya hay Blender đến đâu?
 Bạn có thể sử dụng Substance Painter để tạo ra những texture như ý nhà sản xuất muốn không?
 Bạn đã làm những dự án nhỏ nào rồi? Kết quả ra sao?
