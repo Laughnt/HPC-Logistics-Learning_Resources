@@ -8,3 +8,4 @@ https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-va-quan-tri-kinh-doanh
 
 QPPL: Quy phạm pháp luật
 
+
