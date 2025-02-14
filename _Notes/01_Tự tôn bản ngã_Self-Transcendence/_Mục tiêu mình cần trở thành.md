@@ -8,3 +8,12 @@ Thường trong tuần sẽ chỉ gặp 1 hoặc 2 lần gì đó. Các ngày tr
 >Mình đặc biệt thích một kiểu người:"Khối lượng kiến thức và độ dày thông tin của họ lớn hơn mình rất nhiều, nhưng họ vẫn sẵn lòng chăm chú lắng nghe những lời vô nghĩa của mình. Mình luôn cảm thấy sự dịu dàng, lãng mạn và uyên bác là tính cách hiếm có nhất ở con người, bất kể đi đến đâu cũng đều trở thành kho báu.
 >Vẻ đẹp tri thức ha.
 
+Lúc anh đến đón mình, anh đã chuẩn bị sẵn 1 bó hoa nhỏ tặng mình và 1 chiếc mũ mới, đội mũ cho mình, xong còn tự lấy tay, gạt chỗ để chân cho mình ngồi lên. Lúc đi anh cũng đi với tốc độ chậm chậm, anh nói là đi chậm cho an toàn, đi nhanh với sợ rồ ga mình mất thăng bằng?
+
+Lúc đến nơi thì phải đi gửi xe, anh dừng lại trước quán xong nói mình xuống trước, chỗ để xe hơi xa anh nói sợ mình đi mỏi chân. Lúc sau anh gửi xe xong thì đi bộ quay trở lại.
+
+Lúc vào nhà hàng thì anh lại đi trước để mở cửa, lúc vào bàn ăn thì anh kéo ghế cho mình ngồi, nhà hàng cũng đã có thìa, dĩa, đũa rất sạch nhưng anh vẫn hỏi là đã khử trùng chưa. Trong lúc ăn thì anh còn cắt thịt bò cho mình từng miếng nhỏ để mình dễ ăn, hỏi mình là gia vị, nước chấm đã vừa chưa, có ngon không…
+
+Lúc về lại đi trước mở cửa, đội mũ, lấy tay gạt chỗ để chân rồi mình mới lên, trên đường về còn cẩn thận hỏi là bữa ăn hôm nay thế nào, ngon hay ko, có vấn đề gì để anh ấy báo nhà hàng. Trên đường về còn ghé qua 1 quán đồ ăn, mua ít đồ ăn vặt nói là vì ăn kiểu nhà hàng nên ăn đc ít, sợ mình ngại ko ăn với đói... Lúc đi đường thì hỏi mình có nóng không, nếu không thì kiếm quán café có điều hòa ngồi cho mát…
+
+Lúc về thì cũng cởi mũ cho mình, cẩn thận treo vào xe, xong bảo mình vào phòng đóng cửa “Em vào phòng khóa cửa rồi anh mới yên tâm, trời cũng tối rồi”. Sau đó mình nghe tiếng xe, ngó qua cửa sổ thì thấy anh mới quay đầu về… à trước đó còn chúc mình ngủ ngon.

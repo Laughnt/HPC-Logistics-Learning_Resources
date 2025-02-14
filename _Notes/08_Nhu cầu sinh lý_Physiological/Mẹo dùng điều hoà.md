@@ -1,4 +1,4 @@
-﻿Mẹo dùng điều hoà cả đêm chỉ tốn 4000đ cho mùa hè
+Mẹo dùng điều hoà cả đêm chỉ tốn 4000đ cho mùa hè
 B1: bật điều hoà 
 B2: chọn chế độ econo
 B3: Cài chế độ cool
