@@ -4,8 +4,8 @@ Pháp luật đại cương.
 
 Tập trung vào văn bản hành chính, không phải quy pham pháp luật. Chương 2. 
 Trắc nghiệm:
+https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/english/dap-an-trac-nghiem-soan-thao-van-ban-hanh-chinh-eg48/47674553
 https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-va-quan-tri-kinh-doanh-dai-hoc-thai-nguyen/giao-trinh-quan-tri-hoc/trac-nghiem-give/42965519
-
 QPPL: Quy phạm pháp luật
 
 
