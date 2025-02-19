@@ -1,4 +1,5 @@
 Giáo trình Quản trị rủi ro.
+Giáo trình Logistics Quốc tế - vận tải và bảo hiểm.
 - Chương 1: Các phương thức giao dịch TMQT
 - **Chương 2:** Các điều kiện giao dịch trong TMQT
 	Đi làm sẽ thực hiện trong 3 năm đầu
