@@ -9,3 +9,12 @@ Giáo trình Logistics Quốc tế - vận tải và bảo hiểm.
 [[Incoterm - IFCD]] 
 
 Làm về hợp đồng quốc tế.
+
+1. Những điều kiện CSGH áp dụng cho VT đường biển và thuỷ nội địa? Trong đó, loại đk nào người bán phải gửi BOL ghi rõ "Clean on Board" cho người mua
+2. (thường xuyên trong đề thi) Tìm các cặp ĐKCSGH tương tự.
+3. (thường xuyên trong đề thi) Phân tích sự giống và khác nhau giữ CIP và CIF
+4. Loại điều kiện nào trách nhiệm của người bán thấp nhất? Loại nào trách nhiệm của người bán cao nhất?
+5. Tại sao phải ghi rõ năm phát hành INCOTERMs trong DK CSGH?
+Khi có tranh chấp xảy ra, chúng ta quy định vào năm phát hành để quy định trách nhiệm. 
+6. Phân tích điểm giống và khác nhau giữa FAS và FOB. 
+
