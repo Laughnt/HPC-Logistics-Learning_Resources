@@ -3,3 +3,4 @@ Nhìn nhận trong chuỗi cung ứng: Kết nối các hoạt động trong doa
 - Khái niệm [[Logistics]] + Lịch sử nhập môn.
 Từ cảng Tân Vũ -> đi đến đâu để ăn? Đặt lịch 06/03. Tuần sau có buổi dự giờ của khoa. 
 
+Quy hoạch của thủ tướng chính phủ - bộ công thương. Quy hoạch 1013 năm 2013.
