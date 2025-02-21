@@ -19,7 +19,7 @@ Việc chủ động hình thành thành một khối lượng hàng hóa, nguy�
 	bán thành phẩm
 	thành phẩm
 	hàng hóa
-tại bất kỳ vị trí nào trong hệ thống [[logistics]] nhằm đáp ứng nhu cầu của sản xuất và phân phối tại DN. 
+tại bất kỳ vị trí nào trong hệ thống [[Logistics]] nhằm đáp ứng nhu cầu của sản xuất và phân phối tại DN. 
 ## 5.1.2. Chức năng dự trữ tại Doanh nghiệp
 - Cho phép đạt được mức **sản lượng kinh tế** trong sản xuất và phân phối
 - Cân bằng cung cầu
