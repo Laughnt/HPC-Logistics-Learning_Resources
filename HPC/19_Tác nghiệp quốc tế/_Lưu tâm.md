@@ -22,3 +22,4 @@ Khi có tranh chấp xảy ra, chúng ta quy định vào năm phát hành để
 Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào. Giá bao bì đã bao gồm trong giá hàng chưa?
 
 Buổi sau làm bài tập, buổi sau nữa kiểm tra. 
+2.1 -> 2.9 phải có. Giảng viên giúp tưởng tượng một hợp đồng TMQT.
