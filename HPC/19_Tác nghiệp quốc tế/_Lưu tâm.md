@@ -1,5 +1,6 @@
 Giáo trình Quản trị rủi ro.
 Giáo trình Logistics Quốc tế - vận tải và bảo hiểm.
+Giáo trình Thanh toán quốc tế.
 - Chương 1: Các phương thức giao dịch TMQT
 - **Chương 2:** Các điều kiện giao dịch trong TMQT
 	Đi làm sẽ thực hiện trong 3 năm đầu
@@ -18,3 +19,5 @@ Làm về hợp đồng quốc tế.
 Khi có tranh chấp xảy ra, chúng ta quy định vào năm phát hành để quy định trách nhiệm. 
 6. Phân tích điểm giống và khác nhau giữa FAS và FOB. 
 
+Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào.
+Giá bao bì đã bao gồm trong giá hàng chưa?
