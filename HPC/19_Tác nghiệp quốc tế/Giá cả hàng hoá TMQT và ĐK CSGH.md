@@ -10,3 +10,5 @@ Chi phí bốc hàng lên phương tiện vận tải nội địa: $100
 Bảo hiểm bốc HH lên phương tiện vận tải nội địa: $50
 Thông quan XK: $300
 > Tính giá FCA cho 1 tấn hàng XK.
+
+= $96.5/tấn
