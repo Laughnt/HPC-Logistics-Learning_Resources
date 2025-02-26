@@ -70,8 +70,36 @@ n. Bảo hiểm vận tải quốc tế = 500 USD
 o. Chi phí thông quan tại nước nhập khẩu: 300 USD 
 p. Chi phí vận tải nội địa nước nhập khẩu + Bảo hiểm vận tải nội địa nước NK = 800USD 
 q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa nước nhập khẩu = 500 USD
-
+**Giá = hình ảnh bên Zalo**
 Các chi phí liên quan: abcdefgkhlmn.
-
-- Chi phí SX:
-- Chi phí cộng thêm:
+___
+Giá CPT: V cpt
+V cpt = V fob + Giá cước chi phí vận tải QUỐC TẾ (giao đến cảng đến)
+V cpt = V fob + Giá cước chi phí vận tải QUỐC TẾ (giao đến cảng đến) + dỡ hàng xuống tàu + BH dỡ hàng + Bốc hàng và BH bốc hàng lên phương tiện VT nội địa + Cước VT và BH VT nội địa nước nhập khẩu + Chi phí tại cảng đến (Nếu điểm đến sâu trong nội địa nước NK)
+___
+Giá DAP: V dap
+V dap = V cpt + bảo hiểm vận tải quốc tế
+___
+Giá DPU: V dpu
+V dpu - V dap + Chi phí dỡ hàng + bảo hiểm dỡ hàng.
+___
+Giá DDP: V ddp
+V ddp = V dap + Chi phí THÔNG QUAN tại nước NK
+___
+Công ty A sản xuất ra 200 tấn hàng xuất khẩu. Chỉ ra các chi phí liên quan, tính tổng chi phí để xuất khẩu toàn bộ lô hàng và giá xuất khẩu 1 tấn hàng với giá CIF (INCOTERMS 2020), biết rằng: (4đ) 
+a. Giá nguyên vật liệu: 10,000USD, 
+b. Nhân công: 2500USD 
+c. Chi phí gián tiếp 3000 USD, 
+d. Lợi nhuận biên dự kiến 15% 
+e. Chi phí bốc hàng + Bảo hiểm bốc hàng lên phương tiện vận tải nội địa: 500 USD 
+f. Chi phí thông quan XK: 600 USD 
+g. Chi phí vận tải nội địa + bảo hiểm vận tải nội địa = 800 USD 
+h. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa = 500USD 
+k. Chi phí bốc hàng lên tàu+ bảo hiểm bốc hàng lên tàu = 600 USD 
+i. Chi phí dỡ hàng + bảo hiểm dỡ hàng xuống tàu= 700 USD 
+l. Chi phí tại cảng đi = 600 USD m. Chi phí vận tải quốc tế = 6000USD 
+n. Bảo hiểm vận tải quốc tế = 500 USD 
+o. Chi phí thông quan tại nước nhập khẩu: 300 USD 
+p. Chi phí vận tải nội địa nước nhập khẩu + Bảo hiểm vận tải nội địa nước NK = 800USD 
+q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa nước nhập khẩu = 500 USD
+DAP
