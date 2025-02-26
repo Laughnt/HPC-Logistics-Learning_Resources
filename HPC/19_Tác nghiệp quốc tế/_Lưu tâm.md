@@ -1,6 +1,7 @@
 Giáo trình Quản trị rủi ro.
-Giáo trình Logistics Quốc tế - vận tải và bảo hiểm.
+Giáo trình Logistics Quốc tế (vận tải và bảo hiểm).
 Giáo trình Thanh toán quốc tế.
+**Nội dung kiểm tra chương 2, 60 phút. Một bài tính + So sánh hai phương pháp với nhau. **
 - Chương 1: Các phương thức giao dịch TMQT
 - **Chương 2:** Các điều kiện giao dịch trong TMQT
 	Đi làm sẽ thực hiện trong 3 năm đầu
@@ -23,3 +24,4 @@ Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào. Giá ba
 
 Buổi sau làm bài tập, buổi sau nữa kiểm tra. 
 2.1 -> 2.9 phải có. Giảng viên giúp tưởng tượng một hợp đồng TMQT.
+
