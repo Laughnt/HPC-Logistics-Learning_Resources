@@ -4,6 +4,8 @@
 - Chi phí gián tiếp: chi phí quản lý, khấu hao, chi phí khác.
 - Giá xuất xưởng: V exm
 ___
+//Tính không đủ -> giá quá cao, không cạnh tranh được hoặc giá quá thấp, không đủ biên lợi nhuận.
+
 VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXM cho 1 tấn hàng.
 
 Chi phí bốc hàng lên phương tiện vận tải nội địa: $100
@@ -12,3 +14,18 @@ Thông quan XK: $300
 > Tính giá FCA cho 1 tấn hàng XK.
 
 = $96.5/tấn
+
+Giá FAS: V fas
+V fas = F fca + giá chi phí vận tải nội địa từ địa điểm FCA đến cảng (nếu 2 địa điểm này khác nhau) + giá bảo hiểm hàng hoá vận tải nội địa trên + Chi phí dỡ hàng khỏi phương tiện vận tải nội địa + BH dỡ hàng khỏi phương tiện nội địa.
+
+VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXM cho 1 tấn hàng.
+
+Chi phí bốc hàng lên phương tiện vận tải nội địa: $100 
+Bảo hiểm bốc hàng hoá lên phương tiện vận tải nội địa: $50 
+Chi phí thông quan XK: $300 
+**Chi phí vận tải nội địa = bảo hiểm vận tải nội địa** $350 
+Chi phí dỡ hàng + BH dỡ hàng $200
+
+Tính giá FAS, cho 1 tấn hàng hoá.
+$105.5/MT
+//Nếu không có FCA
