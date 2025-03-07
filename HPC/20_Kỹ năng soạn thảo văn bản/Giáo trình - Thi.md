@@ -8,4 +8,9 @@ https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/english/dap-an-trac-
 https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-va-quan-tri-kinh-doanh-dai-hoc-thai-nguyen/giao-trinh-quan-tri-hoc/trac-nghiem-give/42965519
 QPPL: Quy phạm pháp luật
 
+Chính xác về mặt nội dung sẽ thấp hơn phần thể thức. 
+Câu hỏi đúng sai, viết một cái thông báo.
+- BTVN:
+Anh hãy giúp nhà trường soạn Thông báo về việc nghỉ tết nguyên đán đầu 2025. thời hạn 07 ngày
+Anh giúp nhà truồng soạn thông báo mời ban cán sự các lớp QTR01 
 

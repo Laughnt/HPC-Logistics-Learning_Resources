@@ -1,1 +1,0 @@
-Chính xác về mặt nội dung sẽ thấp hơn phần thể thức. 
