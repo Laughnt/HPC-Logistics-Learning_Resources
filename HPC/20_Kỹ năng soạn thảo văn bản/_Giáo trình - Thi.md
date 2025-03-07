@@ -12,7 +12,8 @@ Chính xác về mặt nội dung sẽ thấp hơn phần thể thức.
 Câu hỏi đúng sai, viết một cái thông báo.
 - BTVN:
 Anh hãy giúp nhà trường soạn Thông báo về việc nghỉ tết nguyên đán đầu 2025. thời hạn 07 ngày (tìm tệp lịch nghỉ bên Zalo)
-Anh giúp nhà truờng soạn thông báo mời ban cán sự các lớp QTR01 
+Anh giúp nhà truờng soạn thông báo mời ban cán sự các lớp QTR01 đến dự cuộc họp.
+Anh (chị) giúp lớp trưởng viết báo cáo tổng kết học kỳ I năm học 2024-2025
 ___
 1. Dấu được đóng chồng lên 1/3 chữ ký bên trái.
 2. Viết tắt của quyết định là QĐ
