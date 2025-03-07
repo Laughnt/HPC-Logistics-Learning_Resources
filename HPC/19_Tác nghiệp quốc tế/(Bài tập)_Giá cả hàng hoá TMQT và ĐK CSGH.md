@@ -70,8 +70,9 @@ n. Bảo hiểm vận tải quốc tế = 500 USD
 o. Chi phí thông quan tại nước nhập khẩu: 300 USD 
 p. Chi phí vận tải nội địa nước nhập khẩu + Bảo hiểm vận tải nội địa nước NK = 800USD 
 q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa nước nhập khẩu = 500 USD
-**Giá = hình ảnh bên Zalo**
+
 Các chi phí liên quan: abcdefgkhlmn.
+![[14d0a39a6ffbdea587ea.jpg]]
 ___
 Giá CPT: V cpt
 V cpt = V fob + Giá cước chi phí vận tải QUỐC TẾ (giao đến cảng đến)

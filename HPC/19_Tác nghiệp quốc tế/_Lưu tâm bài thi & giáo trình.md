@@ -20,8 +20,8 @@ Làm về hợp đồng quốc tế.
 Khi có tranh chấp xảy ra, chúng ta quy định vào năm phát hành để quy định trách nhiệm. 
 6. Phân tích điểm giống và khác nhau giữa FAS và FOB. 
 
-Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào. Giá bao bì đã bao gồm trong giá hàng chưa?
+//Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào. Giá bao bì đã bao gồm trong giá hàng chưa?//
 
-Buổi sau làm bài tập, buổi sau nữa kiểm tra. 
+**Buổi sau làm bài tập, buổi sau nữa kiểm tra.**
 2.1 -> 2.9 phải có. Giảng viên giúp tưởng tượng một hợp đồng TMQT.
 
