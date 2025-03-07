@@ -11,6 +11,16 @@ QPPL: Quy phạm pháp luật
 Chính xác về mặt nội dung sẽ thấp hơn phần thể thức. 
 Câu hỏi đúng sai, viết một cái thông báo.
 - BTVN:
-Anh hãy giúp nhà trường soạn Thông báo về việc nghỉ tết nguyên đán đầu 2025. thời hạn 07 ngày
-Anh giúp nhà truồng soạn thông báo mời ban cán sự các lớp QTR01 
-
+Anh hãy giúp nhà trường soạn Thông báo về việc nghỉ tết nguyên đán đầu 2025. thời hạn 07 ngày (tìm tệp lịch nghỉ bên Zalo)
+Anh giúp nhà truờng soạn thông báo mời ban cán sự các lớp QTR01 
+___
+1. Dấu được đóng chồng lên 1/3 chữ ký bên trái.
+2. Viết tắt của quyết định là QĐ
+3. Tờ trình là văn bản có tên loại 
+4. Trong văn bản hành chính thông dụng, đường kẻ ngang bên dưới tiêu ngữ có độ dài bằng tiêu ngữ.
+5. Trích yếu nội dung được ghi dưới số và văn bản.
+6. Ngày tháng phát hành văn bản được ghi dựa trên ngày văn bản chính thức được ký và ban hành. 
+7. Viết tắt của tờ trình là TTr.
+8. Số văn bản được đánh theo thứ tự của tất cả cá loại văn bản hành chính trong năm.
+9. Hệ thống văn bản quản lý nhà nước bao gồm 4 loại.
+10. Văn bản hành chính thông dụng còn do các cơ quan tổ chức khác ban hành.
