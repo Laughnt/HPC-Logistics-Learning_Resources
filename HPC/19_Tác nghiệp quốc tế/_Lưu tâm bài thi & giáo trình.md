@@ -1,5 +1,10 @@
-Tác nghiệm thương mại quốc tế: Vấn đáp phần: **3.2.1.4. Một số kỹ thuật và chiến lược đàm phán thương mại quốc tế & 3.2.1.5. Văn hoá với phong cách đàm phán** vào thứ 7 tuần này, ngày 15/03/2025.
-
+Giảng viên môn Tác nghiệm thương mại quốc tế sẽ vấn đáp phần:
+- 3.2.1.4. Một số kỹ thuật và chiến lược đàm phán thương mại quốc tế.
+- 3.2.1.5. Văn hoá với phong cách đàm phán.
+Vào thứ 7 tuần này, ngày 15/03/2025.
+**Buổi sau làm bài tập, buổi sau nữa 12/03/2025 kiểm tra.**
+2.1 -> 2.9 phải có. Giảng viên giúp tưởng tượng một hợp đồng TMQT.
+### - Giáo trình tham khảo: 
 Giáo trình Quản trị rủi ro.
 Giáo trình Logistics Quốc tế (vận tải và bảo hiểm).
 Giáo trình Thanh toán quốc tế.
@@ -25,7 +30,4 @@ Khi có tranh chấp xảy ra, chúng ta quy định vào năm phát hành để
 6. Phân tích điểm giống và khác nhau giữa FAS và FOB. 
 
 //Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào. Giá bao bì đã bao gồm trong giá hàng chưa?//
-
-**Buổi sau làm bài tập, buổi sau nữa kiểm tra.**
-2.1 -> 2.9 phải có. Giảng viên giúp tưởng tượng một hợp đồng TMQT.
 
