@@ -1,4 +1,4 @@
-**3.2.1.4. Một số kỹ thuật và chiến lược đàm phán thương mại quốc tế và 3.2.1.5. Văn hoá với phong cách đàm phán** vấn đáp thứ 7 ngày 15/04/2025
+Tác nghiệm thương mại quốc tế: Vấn đáp phần: **3.2.1.4. Một số kỹ thuật và chiến lược đàm phán thương mại quốc tế & 3.2.1.5. Văn hoá với phong cách đàm phán** vào thứ 7 tuần này, ngày 15/03/2025.
 
 Giáo trình Quản trị rủi ro.
 Giáo trình Logistics Quốc tế (vận tải và bảo hiểm).
