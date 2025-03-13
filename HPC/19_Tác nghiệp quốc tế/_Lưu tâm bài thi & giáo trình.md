@@ -31,3 +31,5 @@ Khi có tranh chấp xảy ra, chúng ta quy định vào năm phát hành để
 
 //Quy định rõ về Khối lượng đặt mua theo tiêu chuẩn nào. Giá bao bì đã bao gồm trong giá hàng chưa?//
 
+
+
