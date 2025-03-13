@@ -71,6 +71,7 @@ o. Chi phí thông quan tại nước nhập khẩu: 300 USD
 p. Chi phí vận tải nội địa nước nhập khẩu + Bảo hiểm vận tải nội địa nước NK = 800USD 
 q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa nước nhập khẩu = 500 USD
 **Giá = hình ảnh bên Zalo**
+![[Scan 26 Th2 25 10·24·38 17405403024941.jpeg]]
 Các chi phí liên quan: abcdefgkhlmn.
 ___
 Giá CPT: V cpt
