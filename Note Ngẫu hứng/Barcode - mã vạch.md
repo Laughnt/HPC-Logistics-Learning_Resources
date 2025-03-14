@@ -1,0 +1,3 @@
+- Công nghệ sử dụng phân loại định danh: Mã vạch
+- Quy trình xử lý 1 gói hàng: dán mã code --> đưa lên BĂNG CHUYỀN CHÍNH --> đi qua MÁY SCAN (cân đo, phân loại, điều tiết theo khu vực và nhân viên chuyển phát) --> BĂNG CHUYỀN NHÁNH --> nhân viên phân loại theo tỉnh thành, phường xã --> chuyển tới HUB (điểm phân phối) ngay trong đêm --> shipper nhận hàng tại HUB
+- Công suất: 1h xử lý được khoảng 6000 đơn
