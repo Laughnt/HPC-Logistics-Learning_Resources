@@ -1,4 +1,4 @@
-Giảng viên môn Tác nghiệm thương mại quốc tế sẽ vấn đáp phần:
+Giảng viên Nguyễn Thị Quỳnh Vân môn Tác nghiệm thương mại quốc tế sẽ vấn đáp phần:
 - 3.2.1.4. Một số kỹ thuật và chiến lược đàm phán thương mại quốc tế.
 - 3.2.1.5. Văn hoá với phong cách đàm phán.
 Vào thứ 7 tuần này, ngày 15/03/2025.
