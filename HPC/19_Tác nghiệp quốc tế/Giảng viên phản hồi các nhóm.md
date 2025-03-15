@@ -21,3 +21,6 @@ Thanh toán từng phần sai lỗi chính tả và từ sử dụng. Thiếu đ
 Bên Mỹ không cần chứng nhận kiểm định của mình.
 Giao hàng từng phần được phép -> tối đa mỗi lần giao hàng cần tối thiểu bao nhiêu container. Trong thanh toán quốc tế chưa có đặt cọc -> bên bán tuyên bố vỡ nợ thì ai lấy tiền? (trung bình 10 năm người ta trả -> mình cũng vỡ nợ).
 > Tiền nong phân minh, ái tính sòng phẳng. Giao hàng lần nào thì đúng tiền sòng phẳng.
+
+## - Nhóm 4
+Phản hồi Ghi âm từ 1 tiếng 18 phút -> 1 tiếng 43 phút. 
