@@ -24,3 +24,7 @@ Giao hàng từng phần được phép -> tối đa mỗi lần giao hàng cầ
 
 ## - Nhóm 4
 Phản hồi Ghi âm từ 1 tiếng 18 phút -> 1 tiếng 43 phút. 
+## - Nhóm 5
+Sửa trực tiếp trên tệp văn bản. 
+## - Nhóm 6
+Mặt hàng công nghiệp khác so với mặt hàng nông sản. Tham khảo nhóm 4.
