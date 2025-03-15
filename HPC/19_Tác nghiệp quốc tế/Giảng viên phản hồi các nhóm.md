@@ -11,3 +11,7 @@ Hạt điều thô, hợp đồng kém chất lượng không cung cấp đủ t
 
 // Có hai nước có thể sử dụng VNĐ là Lào (nhiều người Việt Nam ở đấy) 
 Lấy mẫu của hợp đồng nội.
+## - Nhóm 3 
+Phải có dung sai ở bao bì. Tiêu chuẩn của nhà xuất khẩu. Mùa của Caffee, tháng mấy ra hoa, tháng mấy thu hoạch. Chưa có L/C thì đừng cam kết giao hàng.
+Thanh toán từng phần sai lỗi chính tả và từ sử dụng. Thiếu địa điểm và thông lệ quốc tế sau FOB.
+Bên Mỹ không cần chứng nhận kiểm định của mình.
