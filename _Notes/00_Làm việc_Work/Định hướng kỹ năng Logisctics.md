@@ -36,7 +36,7 @@ https://www.coderschool.vn/blog/8-chung-chi-microsoft-ve-du-lieu-va-ai-mien-phi-
 
 - Kỹ năng làm việc nhóm với nhân sự trình độ thấp hơn.
 
-![[Pasted image 20240504081150.png]]
+![[ĐH_lộ trình 4 năm học.png]]
 
 - Sử dụng thành thạo AI.
 ![[Pasted image 20240517073439.png]]
