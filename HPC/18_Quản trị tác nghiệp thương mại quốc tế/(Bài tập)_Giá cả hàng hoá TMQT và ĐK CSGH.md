@@ -74,7 +74,7 @@ q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội 
 **Giá = hình ảnh bên Zalo**
 
 Các chi phí liên quan: abcdefgkhlmn.
-![[d.jpg]]
+![[Chữa mẫu bài tập.jpg]]
 ___
 Giá CPT: V cpt
 V cpt = V fob + Giá cước chi phí vận tải QUỐC TẾ (giao đến cảng đến)
