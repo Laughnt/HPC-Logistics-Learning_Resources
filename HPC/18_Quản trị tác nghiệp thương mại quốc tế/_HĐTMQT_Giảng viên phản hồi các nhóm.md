@@ -1,9 +1,3 @@
-## - Nhóm 6
-Các điều khoản bồi thường nếu không được thanh toán đầy đủ thì cần phải ký phụ lục hợp đồng.
-
-Trà túi lọc (tinh chất trà trộn với đường/gừng). Bởi vì vận tải bằng đường biển nên cần đóng gói bao bì vận tải quy cách như thế nào?
-
-Giao hàng từng phần, vậy mỗi chuyến giao hàng như thế nào. Và ngày giao hàng chậm nhất là gì?
 ## - Nhóm 1
 Hạt điều thô, hợp đồng kém chất lượng không cung cấp đủ thông tin = phá sản.
 Khối lượng trung bình 1 [[container]] chứa được là bao nhiêu?
@@ -27,4 +21,9 @@ Phản hồi Ghi âm từ 1 tiếng 18 phút -> 1 tiếng 43 phút.
 ## - Nhóm 5
 Sửa trực tiếp trên tệp văn bản. 
 ## - Nhóm 6
-Mặt hàng công nghiệp khác so với mặt hàng nông sản. Tham khảo nhóm 4.
+Mặt hàng công nghiệp khác so với mặt hàng nông sản. Tham khảo nhóm.
+Các điều khoản bồi thường nếu không được thanh toán đầy đủ thì cần phải ký phụ lục hợp đồng.
+
+Trà túi lọc (tinh chất trà trộn với đường/gừng). Bởi vì vận tải bằng đường biển nên cần đóng gói bao bì vận tải quy cách như thế nào?
+
+Giao hàng từng phần, vậy mỗi chuyến giao hàng như thế nào. Và ngày giao hàng chậm nhất là gì?
