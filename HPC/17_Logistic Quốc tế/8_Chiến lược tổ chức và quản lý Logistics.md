@@ -65,6 +65,12 @@ A. Chiến lược Logistics tại các công ty quốc tế
 (2) Chiến lượng năng suất tài sản 
 Tận dung tối đa công suất của tài sản DN sở hữu.
 (3) Chiến lược công nghiệp 
-TQ sử dụng Taxi hệ thống không người lái để vận hành hệ thống kho, khảo sát công viên Logistics ViettetPost tại Lạng Sơn (rộng 153 héc-ta, công ty tư nhân Xuân Cương đối diện đại lý hải quan)
+// TQ sử dụng Taxi hệ thống không người lái để vận hành hệ thống kho, khảo sát công viên Logistics ViettetPost tại Lạng Sơn (rộng 153 héc-ta, công ty tư nhân Xuân Cương đối diện đại lý hải quan). Có kho ngoại quan, trung tâm chia trọn, trung tâm giao dịch nông snả, trung tâm giao dịch nông sản ngươi ta mua hết Slot - Logistics Park trong giai đoạn tời đây sẽ kết nối với ga đường sắt Đồng Đăng (cách cửa khẩu 38km -> Băng Đường, Côn Minh).
 
-Kho ngoại quan
+ViettelPost có hệ thống check-in check-out tự động hoàn toàn.
+(4) Chiến lược dựa vào công nghệ 
+### 5.2.3. Chiến lược Logistics trong GPNs
+(1) Chiến lược Logistics hỗ trợ phân phối toàn cầu 
+Chiến lược của ViettPost, hiện nay TQ rất phát triển về hoạt động TMĐT thêu CEO thue người ta về bán hàng, bán hàng A, B, C hàng hoá có sẵn ở đó rồi. Khác hàng mua là làm ngay lập thức hải quan tới TQ, các nơi khác.  Chia làm các phòng nhỏ -> có sản phẩm nào ra làm luôn làm tất cả cả thủ tục.
+### 5.2.4. 
+## 5.3. Tổ chức và quản lý Logistics quốc tế
