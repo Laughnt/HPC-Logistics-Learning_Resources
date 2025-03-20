@@ -17,9 +17,10 @@ Quan điểm phân loại về Môi trường quốc tế và toàn cầu:
  Khách hàng và thị trường 
  Công ty
  Nhà cung cấp
- Đối thủ cạnh tranh Trung gian thương mại
- Đối thủ cạnh tranh
-### 5.1.3. Môi trường vĩ mô quốc tế
+ Đối thủ cạnh tranh 
+ Trung gian thương mại
+ 
+ ### 5.1.3. Môi trường vĩ mô quốc tế
 P.E.S.L
 S.O.W.T
 Định lý, tự nhiên
