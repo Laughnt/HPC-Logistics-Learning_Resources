@@ -13,7 +13,7 @@
 **- Bài 2:**
 Về thủ tục: đối tượng tiếp nhận phải nghiên cứu, xem xétnhưunxg vấn đề được đề cập trong công văn để vận dụng vào hoạt động.
 **- Bài 3:**
-Dường dẫn Drive_Video
+Video_Đường dẫn Drive
 # Đề 2
 ![[Soạn thảo văn bản_Đề 02.jpg]]
 **- Bài 1:**
@@ -25,4 +25,14 @@ Dường dẫn Drive_Video
 6. S, Tên cơ quan, tổ chức chủ quản đối với uỷ ban nhân dân các cấp ban hành văn bản cần phải ghi đối với văn bản dành cho Uỷ ban nhân dân ban hành
 7. c)
 8. S, chỉ có tờ trình, công văn.
-9. 
+9. Do uỷ ban nhân dân phát hành:
+   TM. UBND
+   KT. CHỦ TỊCH
+   PHÓ CHỦ TÍCH
+10. Nội dung của công văn
+**- Bài 2:** Khái niệm: Biên bản trình bày bên dưới biên bản 
+**- Bài 3:**
+Video_Đường dẫn Drive
+
+# Mẫu về thông báo
+~
