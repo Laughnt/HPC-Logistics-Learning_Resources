@@ -33,6 +33,5 @@ Video_Đường dẫn Drive
 **- Bài 2:** Khái niệm: Biên bản trình bày bên dưới biên bản 
 **- Bài 3:**
 Video_Đường dẫn Drive
-
 # Mẫu về thông báo
-~
+![[Soạn thảo văn bản_Mẫu thông báo.jpg]]
