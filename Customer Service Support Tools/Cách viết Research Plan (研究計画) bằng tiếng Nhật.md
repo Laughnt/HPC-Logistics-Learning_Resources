@@ -1,4 +1,8 @@
-Hiện tại nhu cầu du học cao học tại Nhật Bản đang ngày càng tăng. Và tất nhiên, khi đăng ký cho một chương trình cao học nào đó (ở bậc Thạc Sĩ hoặc Tiến Sĩ) hay trong quá trình xin học bổng, chúng ta đều phải viết Kế hoạch nghiên cứu (Research Plan/Research Proposal (**RP),** trong tiếng Nhật gọi là **研究計画**). Nếu các bạn còn đang mông lung thì hi vọng sau khi đọc bài này xong sẽ sáng tỏ ra được nhiều điều. Bài viết sẽ giúp các bạn trả lời các câu hỏi: Nội dung yêu cầu của một bài RP trong tiếng Nhật là gì? Cấu trúc như thế nào? Cần chú ý những gì và quan trọng nhất là một số tips, tài liệu tham khảo và ví dụ mẫu (mình lấy nguồn từ giáo sư người Nhật và từ bài của bản thân nhưng đã được người Nhật proofread).
+Hiện tại nhu cầu du học cao học tại Nhật Bản đang ngày càng tăng. Và tất nhiên, khi đăng ký cho một chương trình cao học nào đó (ở bậc Thạc Sĩ hoặc Tiến Sĩ) hay trong quá trình xin học bổng, mình đều phải viết Kế hoạch nghiên cứu (Research Plan/Research Proposal (**RP),** trong tiếng Nhật gọi là **研究計画**). Nếu bản thân mình trong tương lai còn đang mông lung thì hi vọng sau khi đọc/thực hành bài này xong sẽ sáng tỏ ra được nhiều điều. Bài viết sẽ giúp bản thân trả lời các câu hỏi: 
+- Nội dung yêu cầu của một bài RP trong tiếng Nhật là gì? 
+- Cấu trúc như thế nào? 
+- Cần chú ý những gì 
+Và quan trọng nhất là một số tips, tài liệu tham khảo và ví dụ mẫu (mình lấy nguồn từ giáo sư người Nhật và từ bài của bản thân nhưng đã được người Nhật proofread).
 
 ### **Về những nội dung thiết yếu (要件) trong một bài 研究計画**
 

@@ -2,6 +2,7 @@ Tố Uyên (2019) [Giáo trình kỹ năng soạn thảo văn bản](https://www
 Thu Hương (2016) [Kỹ năng soạn thảo văn thư](https://www.studocu.vn/vn/document/dai-hoc-mo-dia-chat/trac-dia-co-so-1-btl/giao-trinh-soan-thao-van-ban-hanh-chinh-chinh-thuc/30461500)
 Pháp luật đại cương.
 
+Giảng viên Đại học Phương Đông.
 Tập trung vào văn bản hành chính, không phải quy pham pháp luật. Chương 2. 
 Trắc nghiệm:
 https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/english/dap-an-trac-nghiem-soan-thao-van-ban-hanh-chinh-eg48/47674553
@@ -25,3 +26,4 @@ ___
 8. Số văn bản được đánh theo thứ tự của tất cả cá loại văn bản hành chính trong năm.
 9. Hệ thống văn bản quản lý nhà nước bao gồm 4 loại.
 10. Văn bản hành chính thông dụng còn do các cơ quan tổ chức khác ban hành.
+> Côngvăn, thông báo, biên bản, giấy mời.

@@ -72,12 +72,9 @@ p. Chi phí vận tải nội địa nước nhập khẩu + Bảo hiểm vận 
 q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa nước nhập khẩu = 500 USD
 <<<<<<<< HEAD:HPC/19_Tác nghiệp quốc tế/_Giá cả hàng hoá TMQT và ĐK CSGH.md
 **Giá = hình ảnh bên Zalo**
-![[Scan 26 Th2 25 10·24·38 17405403024941.jpeg]]
-========
 
->>>>>>>> origin/main:HPC/19_Tác nghiệp quốc tế/(Bài tập)_Giá cả hàng hoá TMQT và ĐK CSGH.md
 Các chi phí liên quan: abcdefgkhlmn.
-![[14d0a39a6ffbdea587ea.jpg]]
+![[Chữa mẫu bài tập.jpg]]
 ___
 Giá CPT: V cpt
 V cpt = V fob + Giá cước chi phí vận tải QUỐC TẾ (giao đến cảng đến)

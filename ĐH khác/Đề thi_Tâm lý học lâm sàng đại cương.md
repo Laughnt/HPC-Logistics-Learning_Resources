@@ -85,5 +85,5 @@ Tìm cách giúp Sương có được cảm giác đau đớn, có được sự
 Cải thiện khả năng học tập, thích ứng xã hội (nếu có vấn đề phát hiện bởi trắc nghiệm hoặc thang đo).
 Có thể gần gũi với bố mẹ của mình (can thiệp hành vi).
 Tạo lập môi trường sống lành mạnh trong gia đình thì cần phải làm cho mẹ hết nghiện rượu, cư xử hòa nhã, bố thì nói nhiều lên chút,... (trị liệu gia đình trong trường hợp này là đúng).
-__
+___
 [VNPSY Community - Cộng đồng Tâm lý học Việt Nam](https://www.facebook.com/groups/vnpsy/)
