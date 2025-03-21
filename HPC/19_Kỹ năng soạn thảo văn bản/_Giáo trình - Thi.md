@@ -26,3 +26,4 @@ ___
 8. Số văn bản được đánh theo thứ tự của tất cả cá loại văn bản hành chính trong năm.
 9. Hệ thống văn bản quản lý nhà nước bao gồm 4 loại.
 10. Văn bản hành chính thông dụng còn do các cơ quan tổ chức khác ban hành.
+> Côngvăn, thông báo, biên bản, giấy mời.
