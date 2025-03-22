@@ -27,3 +27,9 @@ ___
 10. Văn bản hành chính thông dụng còn do các cơ quan tổ chức khác ban hành.
 
 Chính xác về mặt nội dung sẽ thấp hơn phần thể thức.  Câu hỏi đúng sai, viết một cái thông báo, công văn, biên bản, giấy mời.
+
+# Ôn tập
+1. Khái niệm và phân loại văn bản quản lý nhà ước
+2. Học thuộc cách trình bày thể thứuc, kỹ thuật trình văn bản theo nghị định 30/2020/NĐ-CP về công tác văn thư gồm các điều 2->9. Cho ví dụ minh hoạ
+3. Luyện tập đúng-sai.
+4. Nêu khái niệm, đặc điểm và soạn thảo một số văn bản, công văn, biên bản, thông báo, giấy mời.
