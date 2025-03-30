@@ -5,12 +5,11 @@ Pháp luật đại cương.
 Giảng viên Đại học Phương Đông.
 Tập trung vào văn bản hành chính, không phải quy pham pháp luật. Chương 2. 
 Trắc nghiệm:
-https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/english/dap-an-trac-nghiem-soan-thao-van-ban-hanh-chinh-eg48/47674553
-https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-va-quan-tri-kinh-doanh-dai-hoc-thai-nguyen/giao-trinh-quan-tri-hoc/trac-nghiem-give/42965519
+- https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/english/dap-an-trac-nghiem-soan-thao-van-ban-hanh-chinh-eg48/47674553
+- https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-va-quan-tri-kinh-doanh-dai-hoc-thai-nguyen/giao-trinh-quan-tri-hoc/trac-nghiem-give/42965519
 QPPL: Quy phạm pháp luật
 
-Chính xác về mặt nội dung sẽ thấp hơn phần thể thức. 
-Câu hỏi đúng sai, viết một cái thông báo.
+Chính xác về mặt nội dung sẽ thấp hơn phần thể thức. Câu hỏi đúng sai, viết một cái thông báo.
 - BTVN:
 Anh hãy giúp nhà trường soạn Thông báo về việc nghỉ tết nguyên đán đầu 2025. thời hạn 07 ngày (tìm tệp lịch nghỉ bên Zalo)
 Anh giúp nhà truờng soạn thông báo mời ban cán sự các lớp QTR01 đến dự cuộc họp.
@@ -26,4 +25,4 @@ ___
 8. Số văn bản được đánh theo thứ tự của tất cả cá loại văn bản hành chính trong năm.
 9. Hệ thống văn bản quản lý nhà nước bao gồm 4 loại.
 10. Văn bản hành chính thông dụng còn do các cơ quan tổ chức khác ban hành.
-> Côngvăn, thông báo, biên bản, giấy mời.
+> Công văn, thông báo, biên bản, giấy mời. 
