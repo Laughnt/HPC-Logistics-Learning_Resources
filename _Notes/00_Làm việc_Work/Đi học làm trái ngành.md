@@ -1,4 +1,4 @@
-Mình sẽ chỉ nói về khía cạnh thực tế nhất. Mục đích cơ bản nhất để chúng ta vào đại học là tìm được một công việc tốt. Hầu hết các công ty hiện nay khi tuyển dụng đều yêu cầu về trình độ học vấn tối thiểu là phải có bằng đại học. Vậy nếu bạn không có bằng đại học, thì ngay cả vòng ứng tuyển ngoài cũng không vào nổi, chứ chưa nói đến các vòng sau.
+Mình sẽ chỉ nói về khía cạnh thực tế nhất. Mục đích cơ bản nhất để chúng ta vào đại học là tìm được một công việc tốt. Hầu hết các công ty hiện nay khi tuyển dụng đều yêu cầu về trình độ học vấn tối thiểu là phải có bằng đại học. Vậy nếu bản thân mình không có bằng đại học, thì ngay cả vòng ứng tuyển ngoài cũng không vào nổi, chứ chưa nói đến các vòng sau.
 
 Ngoài việc tiếp thu kiến thức trên trường, học đại học còn là để mở mang tầm mắt, phát triển tư duy, nâng cao năng lực tự học của mỗi người.
 

@@ -10,15 +10,15 @@ Trước hết cần phải nói rằng, bài viết này dành để nói về 
 
 **Vấn đề phải được nêu ra một cách rõ ràng**
 
-- **（何）**Vấn đề hay sự việc mà chúng ta quan tâm nghiên cứu là gì? Định nghĩa, Định nghĩa này của ai, nếu là các sự kiện thì cần có data chứng minh, nguồn là gì, có thể vẽ biểu đồ nếu muốn.
-- **（なぜ）**Tại sao bạn lại quan tâm đến vấn đề đó? Tại sao cần phải giải quyết hay tìm hiểu nguyên nhân của vấn đề đó?
-- **（貢献）**Nghiên cứu của bạn có thể đóng góp được những gì? giúp ích gì cho xã hội?
+- **（何）Vấn đề hay sự việc mà chúng ta quan tâm nghiên cứu là gì? Định nghĩa, Định nghĩa này của ai, nếu là các sự kiện thì cần có data chứng minh, nguồn là gì, có thể vẽ biểu đồ nếu muốn.
+- **（なぜ）Tại sao bạn lại quan tâm đến vấn đề đó? Tại sao cần phải giải quyết hay tìm hiểu nguyên nhân của vấn đề đó?
+- **（貢献）Nghiên cứu của bạn có thể đóng góp được những gì? giúp ích gì cho xã hội?
 
 **Các nghiên cứu đi trước**
 
-- **（何）**Các nghiên cứu đi trước **(先行研究）** là gì? (Các bạn cần chú ý xem là nghiên cứu đó được in ở tạp chí nào? có nổi tiếng không? nghiên cứu đó có được nhiều người biết đến không?) Nghiên cứu về trước thì phải liên quan đến lĩnh vực của bạn (**研究分野に関わる先行研究**）  
+- **（何）Các nghiên cứu đi trước (先行研究）** là gì? (Các bạn cần chú ý xem là nghiên cứu đó được in ở tạp chí nào? có nổi tiếng không? nghiên cứu đó có được nhiều người biết đến không?) Nghiên cứu về trước thì phải liên quan đến lĩnh vực của bạn (**研究分野に関わる先行研究**）  
     **Nếu không có thì phải xem xem là có nghiên cứu khác về mặt đối tượng nhưng mình có thể áp dụng phương pháp của họ được không?**
-- **（結果）**Họ đã làm những gì? Đã làm sáng tỏ được những gì (**明らかにしたこと**）? Tôi có vận dụng phương pháp luận hay thí nghiệm nào của họ hay không? Những điểm mạnh và điểm yếu（**未解決の問題**） trong bài nghiên cứu của họ là gì? Tôi sẽ khắc phục, bổ sung (**改善、追加する**） vào đó những gì? (đây có thể là phần đóng góp của bài nghiên cứu của chúng ta). Nếu trích（**引用**） thì phải trích trong văn bản gốc, trong bài báo gốc **(原典)** chứ không đươc phép “trích” của “trích” (còn gọi là _**secondhand quote**_ **孫引き**).
+- **（結果）Họ đã làm những gì? Đã làm sáng tỏ được những gì (明らかにしたこと**）? Tôi có vận dụng phương pháp luận hay thí nghiệm nào của họ hay không? Những điểm mạnh và điểm yếu（**未解決の問題**） trong bài nghiên cứu của họ là gì? Tôi sẽ khắc phục, bổ sung (**改善、追加する**） vào đó những gì? (đây có thể là phần đóng góp của bài nghiên cứu của chúng ta). Nếu trích（**引用**） thì phải trích trong văn bản gốc, trong bài báo gốc **(原典)** chứ không đươc phép “trích” của “trích” (còn gọi là _**secondhand quote**_ **孫引き**).
 
 **Phương pháp nghiên cứu**
 

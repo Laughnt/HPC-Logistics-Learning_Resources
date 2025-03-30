@@ -1,4 +1,6 @@
-Tiếng Việt của tụi mình cũng Dirty Talk được mà không hề sến, đụt như dịch thô từ tiếng Anh. Kết hợp Dirty Talk cùng tông giọng, biểu cảm, và ngôn ngữ cơ thể sẽ khiến partner phát điên lên vì bạn
+![[Pasted image 20250314182903.png]]
+Tiếng Việt của tụi mình cũng Dirty Talk được mà không hề sến, đụt như dịch thô từ tiếng Anh. Kết hợp Dirty Talk cùng tông giọng, biểu cảm, và ngôn ngữ cơ thể sẽ khiến partner phát điên lên vì bạn, đừng như người dưới này nhé:
+![[Pasted image 20250314183253.png]]
 # Món khai vị
 Dạo đầu chính là thời điểm vàng để sử dụng Dirty Talk. Một số câu thêm thắt, dẫn dắt đúng chỗ sẽ khiến partner nắng cực và rên rỉ cầu xin mình vào món chính. Nhưng gượm đã nào, cuộc vui chỉ mới bắt đầu thôi ;)
 
