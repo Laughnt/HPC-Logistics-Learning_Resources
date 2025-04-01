@@ -3,7 +3,7 @@ Lan và Nam cùng được nhận vào làm việc tại công ty TNHH Minh Long
 
 Cái này sai, căn cứ vào điều 26 (cả 3 khoản trong đó) Hiến pháp 2013.
 - 
-- Phụ nữ cần được tạo điều kiện để phát triển: Dù có nghỉ con ốm đi chăng nữa. \
+- Phụ nữ cần được tạo điều kiện để phát triển: Dù có nghỉ con ốm đi chăng nữa. 
 - Nghiêm cấm phân biệt đối xử về giới.
 Áp dụng từ những căn cứ pháp lý trên và phân tích theo bài đó.
 
