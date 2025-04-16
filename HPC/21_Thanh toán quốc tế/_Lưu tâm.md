@@ -12,6 +12,7 @@ GS, TS Đinh Xuân Trình, NXB Lao động 2018
 8. Thị trường thương phiếu ở Việt Nam, GS. Đinh Xuân Trình & TS. Đặng Thị Nhàn, NXB LĐ-XH, 2006.
 9. Tập quán quốc tế về L/C, ICC.
 10. Các điều kiện thương mại quốc tế, [[Incoterm - IFCD]], ICC 
+11. Case-study. Phòng thương mại công nghiệp Việt Nam VCCI
 
 WEBSITE:
 1. www.vietcombank.com.vn
