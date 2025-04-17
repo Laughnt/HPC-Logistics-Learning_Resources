@@ -43,9 +43,22 @@ Các cơ quan quản lý Nhà nước có thẩm quyền trong quản lý lĩnh 
 // Ngân hàng - thống đốc ngân hàng, bộ quốc phòng, bộ quản lý và đầu tư, sở kế hoạch và đầu tư, chính phủ. 
 # 3. Quản lý nhà nước đối với hoạt động kinh doanh
 ## 3.1. Nội dung quản lý nhà nước về kinh tế
-Xây dựng và ban hành hệ thống páp luật về kinh tế,
+Xây dựng và ban hành hệ thống pháp luật về kinh tế,
 Triển khai thực thi pháp luật về kinh tế. 
-Xử lý các vi phạm pahsp luật về kinh tế,
+Xử lý các vi phạm pháp luật về kinh tế,
 GIải quyết các xung đột, tranh chấp kinh tế
 Giải quyết các khuyết tật của kih tế thị trường //Trợ cấp lạm phát -> nhà nước mở gói tác động hỗ trợ.
-Đảm bảo hội nhập kinh tế quốc tê,s thúc đẩy kinh tế đối ngoại.
+Đảm bảo hội nhập kinh tế quốc tế thúc đẩy kinh tế đối ngoại.
+## 3.2. Các phương pháp quản lý nhà nước về kinh tế
+- Phương pháp hành chính
+- Phương pháp kinh tế
+- Phương pháp giáo dục
+# 4. Nguồn luật và các văn bản điều chỉnh hoạt động kinh doanh 
+- Khái niệm nguồn của LKT
+Nguồn của luật kinh tế là các văn bản do cơ quan nhà nước có thẩm quyền ban hành theothủ tục, trình tự luật định trong đó có các quy tắc xử sự chung, được nhà nước bảo đảm thực hiện nhằm điều chỉnh các quan hệ xã hội theo định hướng xã hội chủ nghĩa.
+- Nguồn:
+Hiến pháp 2013 
+Luật 
+Nghị quyết của Quốc hội về kinh tế
+Pháp lệnh của Uỷ ban thường vụ Quốc hội.
+Nghị quyết,, nghị định của Chính phủ, quyết định của thủ tước chính phủ về kinh tế
