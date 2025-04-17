@@ -61,4 +61,16 @@ Hiến pháp 2013
 Luật 
 Nghị quyết của Quốc hội về kinh tế
 Pháp lệnh của Uỷ ban thường vụ Quốc hội.
-Nghị quyết,, nghị định của Chính phủ, quyết định của thủ tước chính phủ về kinh tế
+Nghị quyết, nghị định của Chính phủ, quyết định của thủ tước chính phủ về kinh tế. 
+// Tiền lệ pháp -> Bản án từng được xử lý do thiếu sót\ về luật -> Toà án nhân dân tối cao đưa vào luật.
+Tập quán pháp -> Các chủ thể nước ngoài làm việc liên tục với nhau hình thành tập quán.
+Cơ sở dữ liệu quốc gia về văn bản pháp luật thuvienphapluat vbpl.vn
+
+# Chương 2. Quy chế pháp lý về doanh nghiệp
+Không chỉ đưa vào văn phòng luật, công chứng.
+# 1. Quy chế, pháp luật chung về odanh nghiệp 
+## 1.1. Khái niệm, đặc điểm và phân loại doanh nghiệp
+Doanh nghiệp là **tổ chức có tên riêng, có tài sản, có trụ sở giao dịch, được đăng ký thành lập theo quy định của pháp luật nhằm mục đích kinh doanh.** Phân tích đặc điểm của doanh nghiệp.
+- DN là một tổ chức kinh tế thực hiện hành vi kinh doanh tìm kiếm lợi nhuận.
+- Doanh nghiệp phải là tổ chức có đủ điều kiện do phá luật quy định
+Tên riêng là dấu hiện nhận biết của doanh nghiệp, đặt theo quy định của pháp luật. 
