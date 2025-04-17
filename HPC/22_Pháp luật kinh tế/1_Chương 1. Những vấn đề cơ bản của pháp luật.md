@@ -18,9 +18,27 @@ Cơ sở phát sinh: hợp đồng kinh tế.
 - Nhóm quan hệ kinh tế phát sinh trong nột bộ một đơn vị kinh doanh.
 //Doanh nghiệp tư nhân nhiều thành viên -> Nội bộ phát sinh do chuyển nhượng cổ phần. 
 Phát sinh trực tiếp trong nội bộ đơn vị kinh doanh như tổ chức thành lập, tổ chức hoạt động sản xuất kih doanh, tổ chức lại doanh nghiệp.
-Được điều hcỉnh hcủ yếu bằng quy định của đoinư vị kinh doanh sao cho phù hợp  với quy định của pháp lật như nội quy, điều lệ, quy chế.
+Được điều chỉnh hcủ yếu bằng quy định của đơn vị kinh doanh sao cho phù hợp  với quy định của pháp lật như nội quy, điều lệ, quy chế.
 VD: VinGroup bán VinMart -> Masan.
 
 ## 1.3. Phương pháp điều chỉnh
 - Phương pháp mệnh lệnh
+Điều chỉnh nhóm quan hệ quản lý kinh tế giữa cơ quan quản lý kinh tế với các chủ thể kinh doanh .
+VD: Yêu cầu tạm dừng XK gạo từ 23/03 thì những hoạt động ký hợp đồng từ 20/03 không cần thực hiện, được miễn hợp đồng.
 - Phương pháp bình đẳng - thoả thuận
+Điều chỉnh các quan hệ kinh tế phát sinh trong quá trình kinh doanh giữa các chủ thể bình đẳng với nhau.
+# 2. Chủ thể của luật kinh tế
+## 2.1. Khái niệm chủ thể luật KT.
+Là các tổ chức, cá nhân có những quyền và nghĩa vụ pháp lý khi tham gia vào các quan hệ kinh tế do luật KT điều chỉnh. 
+// Người bán có quyền cơ bản nhất là nhận tiềnm, người mua có quyền cơ bản là nhận hàng.
+**Đặc điểm:**
+	Phái được (tổ chức) thành lập một cách hợp pháp (cá nhân được tồn tại một cách hợp pháp -> quan hệ dân sự thông thường)
+	Phải có tài sản riêng (doanh nghiệp kinh doanh đến thuê đất -> bán đất giai đoạn 1 và chuẩn bj cho giai đoạn 2)
+	Phái có thẩm quyền kinh tế (khả năng giao kết hợp đồng)
+VD: Kinh doanh lữ hành nội địa -> chỉ được phép nhận các tour du lịch trong nước. Công ty hữu hạn -> Tăng vốn góp -> Kêu gọi các nhà đầu tư, bán trái phiếu/chứng khoán ra bên ngoài.
+- Phân loại:
+Doanh nghiệp
+Các chủ thể kinh doanh khác // Hàng rong có thẩm quyền kinh tế, nhưng ít.
+Các cơ quan quản lý Nhà nước có thẩm quyền trong quản lý lĩnh vực kinh tế.
+// Ngân hàng - thống đốc ngân hàng, bộ quốc phòng, bộ quản lý và đầu tư, sở kế hoạch và đầu tư, chính phủ. 
+# 3. Quản lý nhà nước dôi
