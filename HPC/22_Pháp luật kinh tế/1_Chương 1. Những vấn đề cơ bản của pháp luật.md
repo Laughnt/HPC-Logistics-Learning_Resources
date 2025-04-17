@@ -41,4 +41,11 @@ Doanh nghiệp
 Các chủ thể kinh doanh khác // Hàng rong có thẩm quyền kinh tế, nhưng ít.
 Các cơ quan quản lý Nhà nước có thẩm quyền trong quản lý lĩnh vực kinh tế.
 // Ngân hàng - thống đốc ngân hàng, bộ quốc phòng, bộ quản lý và đầu tư, sở kế hoạch và đầu tư, chính phủ. 
-# 3. Quản lý nhà nước dôi
+# 3. Quản lý nhà nước đối với hoạt động kinh doanh
+## 3.1. Nội dung quản lý nhà nước về kinh tế
+Xây dựng và ban hành hệ thống páp luật về kinh tế,
+Triển khai thực thi pháp luật về kinh tế. 
+Xử lý các vi phạm pahsp luật về kinh tế,
+GIải quyết các xung đột, tranh chấp kinh tế
+Giải quyết các khuyết tật của kih tế thị trường //Trợ cấp lạm phát -> nhà nước mở gói tác động hỗ trợ.
+Đảm bảo hội nhập kinh tế quốc tê,s thúc đẩy kinh tế đối ngoại.
