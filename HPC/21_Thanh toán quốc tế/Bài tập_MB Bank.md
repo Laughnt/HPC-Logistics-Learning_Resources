@@ -7,3 +7,11 @@ Xác định chi phí, lợi nhuận khi thực hiện các nghiệp vụ mua b�
 
 Tìm tỷ giá ngân hàng.
 Đi tìm biểu phí, thẻ tín dụng, thanh toán TiT. 
+
+## Bài 1: 
+Mua 150.000 USD tại MB Bank cần [Tiền cần mua] * [Giá Bán vào (Chuyển khoản)] = 150.000 * 25,640.00 = 3.901.500.000 VNĐ
+___
+Cty A có 15.000 EUR trong TK, nhưng cần thanh toán 25.000USD cho một HĐ.
+Tìm tỷ giá ngân hàng [Mua vào (Chuyển khoản)] = 15.000 * 28,820.00 = 432.000.000 VNĐ
+Tính số tiền VNĐ mà A sau khi bán EUR phải chuẩn bị thêm để mua được đủ số USD
+
