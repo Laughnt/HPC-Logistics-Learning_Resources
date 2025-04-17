@@ -74,3 +74,25 @@ Doanh nghiệp là **tổ chức có tên riêng, có tài sản, có trụ sở
 - DN là một tổ chức kinh tế thực hiện hành vi kinh doanh tìm kiếm lợi nhuận.
 - Doanh nghiệp phải là tổ chức có đủ điều kiện do phá luật quy định
 Tên riêng là dấu hiện nhận biết của doanh nghiệp, đặt theo quy định của pháp luật. 
+
+## 1.2. Phân loại
+- Loại hình: 
+**Doanh nghiệp tư nhân, Công ty trách nhiệm hữu hạn một thành viên, Công ty trách nhiệm hữu hạn từ hai thành viên trở lên, Công ty cổ phần, Công ty hợp danh**.
+Căn cứ theo chế độ chịu trách nhiệm:
+Phân loại doanh nghiệp 2 nhóm: 
+	Nhóm 1: DN có chế độ chịu trách nhiệm vô hạn (DN tư nhân)
+		Là doanh nghiệp mà chủ sở hữu phải chịu trách nhiệm về các khoản nợ và nghĩa vụ tài sản trên toàn bộ tài sản của mình (DN tư nhân)
+	Nhóm 2: DN có chế độ chịu trách nhiệm hữu hạn (DN nhà nước, công ty TNHH, Công ty Cổ phần, Hợp tác xã)
+		Là doanh nghiệp mà các thành viên phải chịu trách nhiệm về các khoản nợ và khoản vay và nghĩa vụ tài sản của doanh nghiệp trên phạm vi số vốn đã góp vào doanh nghiệp
+> Tài sản và quan hệ nhân thân.
+
+Công ty hợp doanh, bắt buộc phải thành lập thì mới thành lập -> ít.
+## 1.2. Quy chế pháp lý thành lập Doanh nghiệp.
+a) điều kiện thành lập doanh nghiệp 
+- Điều kiện về chủ thể thành lập doanh nghiệp. 
+  Khoảng 2 điều 7 luật Doanh nghiệp 2020.
+
+
+
+
+
