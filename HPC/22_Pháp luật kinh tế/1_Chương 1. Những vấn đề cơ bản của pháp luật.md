@@ -90,9 +90,13 @@ Công ty hợp doanh, bắt buộc phải thành lập thì mới thành lập -
 ## 1.2. Quy chế pháp lý thành lập Doanh nghiệp.
 a) điều kiện thành lập doanh nghiệp 
 - Điều kiện về chủ thể thành lập doanh nghiệp. 
-  Khoảng 2 điều 7 luật Doanh nghiệp 2020.
+Khoản 2 điều 17 luật Doanh nghiệp 2020.
 
+Điều kiện về tài sản thành lập doanh nghiệp -> Tài sản của bản thân (được uỷ quyền, sang nhượng, mua bán -> tồn tại một cách hợp pháp). Định giá tái sản -> quy về tài sản thông dụng.
 
-
-
-
+- Điều kiện về tài sản thành lập doanh nghiệp
+**Vốn đầu tư:** Là số vốn mà kih doanh bỏ ra để thành lập doah nghiệp (chỉ áp dụng với DN tư nhân).
+**Vốn điều lệ:** là số vốn các thành viên góp vào và được ghi vào trong điều lệ của doanh nghiệp.
+**Vốn pháp định:** là số vốn tối thiểu phải có theo quy định của pháp luật để thành lập doanh nghiệp.
+VD: Ngân hàng thương mại ->thành lập cần số tiền.
+// Vốn của chủ sở hữu là vốn của công ty TNHH 1 thành viên. 
