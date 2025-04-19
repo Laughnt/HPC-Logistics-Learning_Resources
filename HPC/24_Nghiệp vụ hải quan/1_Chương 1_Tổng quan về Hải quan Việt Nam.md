@@ -20,3 +20,6 @@ Theo điều 11 Luật hải quan.
 
 // Hàng xách tay sau khi nhét ma tuý vào xà phòng. 
 Master Bill -> hàng nhỏ tại Shopee trong một [[container]] to.
+## 1.4. Mô hình hoạt động của hải quan.
+### 1.4.1. Mô hình tổ chức theo ngành dọc - tập trung thống nhất. 
+Trong lĩnh vực hải quan là mô hình quản lý tập trung từ Trung ương -> địa phương. 
