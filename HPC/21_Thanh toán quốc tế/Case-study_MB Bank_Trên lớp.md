@@ -31,18 +31,16 @@ ____
 Quy đổi ngoại tệ số tiền công ty đang có sang VNĐ:
 100.000 AUD * [AUSTRALIAN DOLLAR Buying Rates (Transfer)] = 100000 * 16,334.50 = 1.633.450.000 VNĐ
 50.000 EUR * [EURO Buying Rates (Transfer)] = 50000 * 29104.46 = 1.455.223.000 VNĐ
-- Phí nhận tiền mặt tại Vietcombank, nhận bằng USD nguồn từ ngân hàng khác chuyển về trong vòng 30 ngày: **0,2%; Tối thiểu: 5 USD; Tối đa: 200 USD.**
+- Thanh toán nhờ thu gửi đi trong nước (thu phí ngay khi gửi bộ chứng từ đi nhờ thu) 0,15%/trị giá nhờ thu. Tối thiểu 200.000 VND. **Tối đa 4.000.000 VND**
 - Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và thu thuế VAT theo quy định của pháp luật hiện hành.
-- Chuyển đi bằng ngoại tệ khác : **20 USD/ giao dịch**
-
-Số USD công ty cần thanh toán và trả phí cho ngân hàng là:
-$200.000 + ($300 + 10% VAT + $30 giao dịch bằng ngoại tệ khác) = $200.360
+- Phí ký hậu vận đơn: $15 = 386.715 VNĐ
+- Phí chuyển bằng USD: $20 = 515.620 VNĐ
+- Ngân hàng quản lý hồ sơ = $20 = 515.620 VNĐ
 
 Số tiền VNĐ công ty cần chuẩn bị để thanh toán mua USD và trả phí cho ngân hàng là:
+$200.000 * [US DOLLAR Selling Rates] = $200.000 * 26,141.00 = 5.228.200.000 VNĐ
 
-$200.360 * [US DOLLAR Selling Rates] = $200.360 * 26,141.00 = 5.237.610.760 VNĐ
-
-Vậy số tiền VNĐ mà công ty cần chuẩn bị **thêm** để mua USD đủ thanh toán và trả phí ngân hàng là: 5.237.610.760 - 1.633.450.000 - 1.633.450.000 = 1.970.710.760 VNĐ
+Vậy số tiền VNĐ mà công ty cần chuẩn bị **thêm** để mua USD đủ thanh toán và trả phí ngân hàng là: 5.228.200.000 - 1.633.450.000 - 1.633.450.000 + ((4.000.000 + 386.715 + 515.620 * 2) + 10% VAT) = 1.967.259.750,5 VNĐ
 
 >Chụp ảnh cả biểu phí nhờ thu chứng từ và tỷ giá, gửi cho lớp trưởng.
 https://portal.vietcombank.com.vn/en-Us/Corporate/TG/Pages/exchange-rate.aspx
