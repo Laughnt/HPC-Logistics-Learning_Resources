@@ -38,4 +38,11 @@ Quản lý tồn kho nguyên vật liệu.
 Định mức tiêu hao và máy móc thiết bị cùng diện tích và định mức sử dụng nguyên liệu. 
 Thanh khoản hợp đồng và báo cáo quyết toán - DN phải thống kê và báo cáo lại. 
 ### 1.4.4.
-DN chế xuất là một koại hình doanh nghiệp hoạt động trong khu vực phi thuế quan 
+DN chế xuất là một koại hình doanh nghiệp hoạt động trong khu vực phi thuế quan, chỉ dành cho người xuất khẩu nhưng không ở trong nội địa. 
+> Đảm bảo DN hoạt động đúng mục đích
+> Tránh bị xuất khẩu và bán nội địa. 
+> Đảm bảo chính xác và giám sát thông suốt.
+> Khai định mức tiêu hao. 
+
+DN phải đăng ký với hải quan để mục tiêu giống như với loại hình để khai báo A12 và A21 -> E24 và A42
+Kê khai nội địa và báo cáo quyết toán. 
