@@ -45,19 +45,22 @@ Từ đề bài, ta có:
 - Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và **thu thuế VAT** theo quy định của pháp luật hiện hành.
 - Phí ký hậu vận đơn: $15
 - Phí chuyển bằng USD: $20 
-- Ngân hàng quản lý hồ sơ trong 90 ngày: $20
+- Ngân hàng Vietcombank quản lý hồ sơ trong 90 ngày: $20
 
 >Do vậy:
 - ==Tổng số tiền USD công ty đang có== để thanh toán mua 200.000 USD và trả phí cho ngân hàng là:
 = Số USD mua được từ số AUD đang có + Số USD mua được từ số EUR đang có 
 = 62798.5922497 + 55921.5791286 = $118720.171378
-- Số tiền USD công ty cần chuẩn bị thêm để thanh toán mua USD và trả phí cho ngân hàng là:
+- Số tiền USD công ty **cần chuẩn bị thêm** để thanh toán mua USD và trả phí cho ngân hàng là:
 = Số USD cần thanh toán + (Thanh toán nhờ thu gửi đi nước ngoài + Phí ký hậu vận đơn + Phí chuyển bằng USD + Ngân hàng quản lý hồ sơ trong 90 ngày) * 10% VAT - Tổng số tiền USD công ty đang có
 = 200.000 + ((300 + 15 + 20 + 20) + 10%) - 118720.171378 
 = $ 81670.328622 
 = VNĐ * ==US DOLLAR Selling Rates== 
 
-Vậy số tiền VNĐ mà công ty cần chuẩn bị **thêm** để mua USD đủ thanh toán và trả phí ngân hàng là: 5.228.200.000 - 1.633.450.000 - 1.633.450.000 + ((4.000.000 + 386.715 + 515.620 * 2) + 10% VAT) = 1.967.259.750,5 VNĐ
+- Vậy số tiền VNĐ mà công ty cần chuẩn bị **thêm** để mua USD đủ thanh toán và trả phí ngân hàng là: 
+	= $ 81670.328622 * ==US DOLLAR Selling Rates==
+	= 81670.328622 * 26.141,00
+	= 2.134.935.470,51 VNĐ
 
 >Chụp ảnh cả biểu phí nhờ thu chứng từ và tỷ giá, gửi cho lớp trưởng.
 https://portal.vietcombank.com.vn/en-Us/Corporate/TG/Pages/exchange-rate.aspx
