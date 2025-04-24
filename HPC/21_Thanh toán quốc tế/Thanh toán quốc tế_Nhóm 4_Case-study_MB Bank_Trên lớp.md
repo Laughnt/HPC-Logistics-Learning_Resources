@@ -17,6 +17,16 @@ Tìm tỷ giá ngân hàng.
 | HPC_Phan Trung Nguyên   |            |
 | HPC_Nguyễn Xuân Hiệp    |            |
 
+# Bài 1: 
+Mua 150.000 USD tại MB Bank cần [Tiền cần mua] * [Giá Bán ra (Chuyển khoản)] = 150.000 * 25,640.00 = 3.901.500.000 VNĐ
+___
+Cty A có 15.000 EUR trong TK, nhưng cần thanh toán 25.000USD cho một HĐ.
+Tìm tỷ giá ngân hàng [Mua vào (Chuyển khoản)] = 15.000 * 28,820.00 = 432.000.000 VNĐ
+
+Tính số tiền VNĐ mà A sau khi bán EUR phải chuẩn bị thêm để mua được đủ số USD
+[Tiền cần mua] * [Giá Bán ra (Chuyển khoản)] = 25.000USD * 26,135.00= 653.375.000
+
+VNĐ còn thiếu: 653.375.000 - 432.000.000 = 221.375.000 VNĐ
 # Bài 2:
 Công ty TNHH ký HĐ nhập hàng trị giá $200.000 yêu cầu thanh toán bằng nhờ thu D/P. Tài khoản công ty có 100.000 AUD và 50.000 EUR. Ngày 24.04.2025 Công ty thanh toán **nhờ thu qua ngân hàng**. 
 Thời gian ngân hàng quản lý hồ sơ là 90 ngày kể từ ngày thông báo. NH đã **ký hậu vận đơn** cho công ty đi lấy hàng. Công ty sẽ bán AUD và EUR mua USD để thanh toán. ==Ngân hàng thu phí bằng VNĐ.==
