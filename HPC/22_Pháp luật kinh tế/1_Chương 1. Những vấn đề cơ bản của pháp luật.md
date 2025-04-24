@@ -104,4 +104,28 @@ VD: Ngân hàng thương mại ->thành lập cần số tiền.
 - Điều kiện về ngành nghề kinh doanh - luật đầu tư 2020 
  Một số ngành nghề bị cấm: 
  // Ngân hàng cho vay mà không trả được thì vẫn phải đòi nợ, trước đây người ta bán cho các bên doanh nghiệp tài chính. Và các doanh nghiệp tài chính ấy bán nợ xấu cho bên khác. 
-	- Vốn pháp định: vốn để chủ thể có số vón góp đầu tư. 
+	- Vốn pháp định: vốn để chủ thể có số vón góp đầu tư.
+	- Chứng chỉ hành nghề - người quan lý doanh nghiệp phải có văn bằng chứng chỉ của văn bằng đó.
+	- Điều kiện kinh doanh nhất định.
+- Điều kiện về tên doanh nghiệp 
+
+> Tên loại hình - Tên riêng của doanh nghiệp Tiếng Việt.
+	Không đặt tên gây nhầm lẫn. 
+	Không được sử dụng tên gọi của các cơ quan đơn vị nhnước (đơn vị thuộc lực lượng vũ trang)
+	Dùng ký hiệu, từ ngữ vị phạm truyền thông, đạo đức, thuần phong. 
+
+> Tên riêng - Tên loại hình 
+> Giữ nguyên hay dịch sang tiếng nước ngoài hệ chữ la tinh theo nghĩa tương tự. VD: Hoa hồng - Rose
+> Tên loại hình: Dịch theo chữ la tinh.
+
+>Tên viết tắt - Viết tắt từ tiếng Việt hoặc tiếng nước ngoài. Đều được đăng ký trong hồ sơ doanh nghiệp và chúng ta sẽ sử dụng trong ký kế hợp đồng. 
+
+>[!note] Phải kê khai và dăng ký tên nước ngoài và tên viết tắt. Chỉ được bảo hộ trong phạm vi Việt Nam - không đăng ký bản quyền là bên khác sử dụng. 
+
+- Điều kiện về Trụ sở của doanh nghiệp,,
+Mỗi một doan hgnhiệp khi thành lập buộc phải dăng ký một trụ sở chính trên lãnh thổ Việt Nam, có địa chỉ xác định 
+Doanh  nghiệp phải thông báo thời gian mở cửa tại trụ sở chính với cơ quan ddăng ký kinh doanh trong thời gian 15 ngày kể từ ngày nhận được Giấy phép kinh doanh 
+Ngoài trụ sở chính, doanh nghiệp có quyền dược đăng ký thêm một số địa chỉ khác như địa điểm kinh doanh, chi nhánh, văn phòng đại diện.
+	Văn phòng đại diện
+	Chi nhánh 
+	Địa điểm kinh doanh 
