@@ -95,8 +95,13 @@ Khoản 2 điều 17 luật Doanh nghiệp 2020.
 Điều kiện về tài sản thành lập doanh nghiệp -> Tài sản của bản thân (được uỷ quyền, sang nhượng, mua bán -> tồn tại một cách hợp pháp). Định giá tái sản -> quy về tài sản thông dụng.
 
 - Điều kiện về tài sản thành lập doanh nghiệp
-**Vốn đầu tư:** Là số vốn mà kih doanh bỏ ra để thành lập doah nghiệp (chỉ áp dụng với DN tư nhân).
+**Vốn đầu tư:** Là số vốn mà kinh doanh bỏ ra để thành lập doah nghiệp (chỉ áp dụng với DN tư nhân).
 **Vốn điều lệ:** là số vốn các thành viên góp vào và được ghi vào trong điều lệ của doanh nghiệp.
 **Vốn pháp định:** là số vốn tối thiểu phải có theo quy định của pháp luật để thành lập doanh nghiệp.
 VD: Ngân hàng thương mại ->thành lập cần số tiền.
 // Vốn của chủ sở hữu là vốn của công ty TNHH 1 thành viên. 
+
+- Điều kiện về ngành nghề kinh doanh - luật đầu tư 2020 
+ Một số ngành nghề bị cấm: 
+ // Ngân hàng cho vay mà không trả được thì vẫn phải đòi nợ, trước đây người ta bán cho các bên doanh nghiệp tài chính. Và các doanh nghiệp tài chính ấy bán nợ xấu cho bên khác. 
+	- Vốn pháp định: vốn để chủ thể có số vón góp đầu tư. 
