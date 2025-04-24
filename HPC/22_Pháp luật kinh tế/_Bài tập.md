@@ -29,3 +29,12 @@ Theo quy định b điều 17 liên quan đến những trường hợp bị c�
 	Tổ chức không có tư cách pháp nhân (Doanh nghiệp tư nhân)
 	Tổ chức lực lượng vũ trang
 - Điều 46, điều 111 quy định cty THNNN và công ty có tư cách pháp nhân kể từ ngày được cấp GCNKDDN
+# Câu 6:
+Công ty TNHH ABC có vốn điều lệ là 5 tỷ đồng. Ngày 1/1/2021 các thành viên ra quyết định chia Cty TNHH ABC thành 2 công ty là Cty TNHH A có vốn điều lệ là 2 tỷ; Cty TNHH B có vốn điều lệ là 3 tỷ. Trước khi chia Cty TNHH ABC có số nợ 2 tỷ.
+
+Chia theo tỷ lệ phần trăm vốn được nhận.
+A 2 tỷ = 40% -> nợ 2 tỷ * 40% 
+B 3 tỷ = 60% -> nợ 2 tỷ * 60% 
+# Câu 7:
+Anh A là chủ của cty TNHH A có vốn điều lệ là 3 tỷ. Nếu còn phát sinh khoản nợ 3 tỷ 500tr.
+-> Không được giải thể cho đến khi trả xong khoản nợ.
