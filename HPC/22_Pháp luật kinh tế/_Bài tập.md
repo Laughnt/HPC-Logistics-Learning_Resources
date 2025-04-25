@@ -38,3 +38,17 @@ B 3 tỷ = 60% -> nợ 2 tỷ * 60%
 # Câu 7:
 Anh A là chủ của cty TNHH A có vốn điều lệ là 3 tỷ. Nếu còn phát sinh khoản nợ 3 tỷ 500tr.
 -> Không được giải thể cho đến khi trả xong khoản nợ.
+# Câu 8:
+Ông A là chủ DNTN Minh hợp, đăng ký tại sở KH và ĐT TP Hà Nội. Vốn điều lệ ccủa công ty là 1 tỷ đồng, ngành nghề kinh doanh chủ yếu là bán buôn bán lẻ linh kiện và máy văn phòng, Do không có nhiều kiến thức và kinh nghiệm về các loại hình thiết bị. Thuê anh B về làm giám đốc với mức lương 3tr. 
+Hỏi: Ai là người chịu trách nhiệm pháp lý?
+
+DNTN, người chịu trách nhiệm là chủ sở hữu -> ông A. Chúng ta chuyền giao quyền sử dụng và quyền chiếm hữu.
+
+# Câu 9:
+A là chủ sở hữu. A cho B thuê. B ngu làm thiệt hại 700 tỷ. Hỏi ai phải chịu trách nhiệm/
+
+Căn cứ [Điều 191 Luật Doanh nghiệp 2020](https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-so-59-2020-QH14-427301.aspx?anchor=dieu_191) quy định về cho thuê doanh nghiệp tư nhân thì A liên đới với B chịu trách nhiệm. 
+Còn lại, trong thoả thuận bằng hợp đồng, với điều khoản cho thuê, mọi chi phí phát sinh và trách nhiệm tài chính xảy ra đều do B hưởng -> B sẽ chịu toàn bộ.
+
+# Câu 10:
+A là chủ sở hữu. A bán lại cho B.
