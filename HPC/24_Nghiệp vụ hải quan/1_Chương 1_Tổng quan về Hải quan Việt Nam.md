@@ -26,7 +26,9 @@ Master Bill -> hàng nhỏ tại Shopee trong một [[container]] to.
 Trong lĩnh vực hải quan là mô hình quản lý tập trung từ Trung ương -> địa phương. 
 //Thông tin được lưu trong 5 năm. Doanh nghiệp tự công bố. Các thông tin này cần phải đông bộ với nhau. Doanh nghiệp của em, bán về máy tính - phân phối văn phòng phẩm cho DN thuộc khu chế xuất (khu công nghiệp Quang Minh gần Nội Bài) thông thường là hoá đơn đỏ - ghi nhận thuế. Nếu bán cho doanh nghiệp chế xuất phải mở tở khai hải quan.  Thuế bằng không, nêu nếu bản thân ký chũ kỹ số. DN người bên kia nhận hàng. 
 > DN mở một tài khai nhập *việc mà DN đó ghi nhận bằng tờ khai nhập khẩu thì những chứng từ này mới hợp lệ* - thông quan hợp lệ.
-## 1.4.3. Mô hình quản lý hàng gia công, SXXK
+
+### 1.4.2. Mo
+### 1.4.3. Mô hình quản lý hàng gia công, SXXK (tập trung)
 > Để đảm báo đúng chế độ miễn thuế cho nguyên vật liệu nhập khẩu.
 > Kiểm soát chặt chẽ nguyên vật liệu đầu vài và đầu ra 
 > Phòng chống gian lận thương mại và trốn thuế. 
@@ -37,8 +39,8 @@ Quản lý tồn kho nguyên vật liệu.
 // May mặc đến cúc áo, may mặc, chỉ cũng nhập.
 Định mức tiêu hao và máy móc thiết bị cùng diện tích và định mức sử dụng nguyên liệu. 
 Thanh khoản hợp đồng và báo cáo quyết toán - DN phải thống kê và báo cáo lại. 
-### 1.4.4.
-DN chế xuất là một koại hình doanh nghiệp hoạt động trong khu vực phi thuế quan, chỉ dành cho người xuất khẩu nhưng không ở trong nội địa. 
+### 1.4.4. Mô hình quản lý hàng chế xuất
+DN chế xuất là một loại hình doanh nghiệp hoạt động trong khu vực phi thuế quan, chỉ dành cho người xuất khẩu nhưng không ở trong nội địa. 
 > Đảm bảo DN hoạt động đúng mục đích
 > Tránh bị xuất khẩu và bán nội địa. 
 > Đảm bảo chính xác và giám sát thông suốt.
