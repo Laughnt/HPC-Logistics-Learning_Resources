@@ -6,10 +6,9 @@ Customs Co-operation Council => [World Customs Organization](https://www.wcoomd.
 
 - Điều ước quốc tế về hải quan
 Công ước Kyôto
-Công ước HS
-
-Hiệp định Hải quan ASEAN
-Hiệp định định giá hải quan CVA
+Công ước HS Code (Harmonized System Codes)
+Hiệp định Hải quan ASEAN 
+Hiệp định định giá hải quan ACV (Agreement of Customs Valuation) 1994 https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-dai-hoc-quoc-gia-ha-noi/lich-su-van-minh-the-gioi/hiep-dinh-acv-1994-hiep-dinh/71708189
 Hiệp định GATT 1994 - [Hiệp định chung về thuế quan và thương mại - GATT](https://thuvienphapluat.vn/van-ban/Thuong-mai/Hiep-dinh-chung-ve-thue-quan-va-thuong-mai-GATT-13898.aspx)
 Hiệp định TBT - [Hiệp định 211/WTO/VB hàng rào kỹ thuật trong thương mại](https://thuvienphapluat.vn/van-ban/Thuong-mai/Hiep-dinh-211-WTO-VB-hang-rao-ky-thuat-trong-thuong-mai-14952.aspx)
 
@@ -27,7 +26,7 @@ Trong lĩnh vực hải quan là mô hình quản lý tập trung từ Trung ư�
 //Thông tin được lưu trong 5 năm. Doanh nghiệp tự công bố. Các thông tin này cần phải đông bộ với nhau. Doanh nghiệp của em, bán về máy tính - phân phối văn phòng phẩm cho DN thuộc khu chế xuất (khu công nghiệp Quang Minh gần Nội Bài) thông thường là hoá đơn đỏ - ghi nhận thuế. Nếu bán cho doanh nghiệp chế xuất phải mở tở khai hải quan.  Thuế bằng không, nêu nếu bản thân ký chũ kỹ số. DN người bên kia nhận hàng. 
 > DN mở một tài khai nhập *việc mà DN đó ghi nhận bằng tờ khai nhập khẩu thì những chứng từ này mới hợp lệ* - thông quan hợp lệ.
 
-### 1.4.2. Mo
+### 1.4.2. Mô hình 
 ### 1.4.3. Mô hình quản lý hàng gia công, SXXK (tập trung)
 > Để đảm báo đúng chế độ miễn thuế cho nguyên vật liệu nhập khẩu.
 > Kiểm soát chặt chẽ nguyên vật liệu đầu vài và đầu ra 
