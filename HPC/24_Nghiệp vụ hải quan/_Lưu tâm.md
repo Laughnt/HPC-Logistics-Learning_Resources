@@ -5,5 +5,7 @@ Chương 4: Thuế hải quan
 Chương 5: Hoạt động kiểm tra giám sát hải quan
  
 [Luật Hải quan 2014 số 54/2014/QH13 áp dụng 2025](https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Hai-quan-2014-238637.aspx)
-
 Giáo trình Nghiệp vụ Logistics
+___
+10 câu trắc nghiệm
+1 câu liên hệ thực tiễn

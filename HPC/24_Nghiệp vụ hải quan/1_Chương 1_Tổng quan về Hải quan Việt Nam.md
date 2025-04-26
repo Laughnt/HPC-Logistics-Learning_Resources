@@ -31,7 +31,7 @@ Trong lĩnh vực hải quan là mô hình quản lý tập trung từ Trung ư�
 //Thông tin được lưu trong 5 năm. Doanh nghiệp tự công bố. Các thông tin này cần phải đông bộ với nhau. Doanh nghiệp của em, bán về máy tính - phân phối văn phòng phẩm cho DN thuộc khu chế xuất (khu công nghiệp Quang Minh gần Nội Bài) thông thường là hoá đơn đỏ - ghi nhận thuế. Nếu bán cho doanh nghiệp chế xuất phải mở tở khai hải quan.  Thuế bằng không, nêu nếu bản thân ký chũ kỹ số. DN người bên kia nhận hàng. 
 > DN mở một tài khai nhập *việc mà DN đó ghi nhận bằng tờ khai nhập khẩu thì những chứng từ này mới hợp lệ* - thông quan hợp lệ.
 
-### 1.4.2. Mô hình (không sử dụng)
+### 1.4.2. Mô hình 2 (không sử dụng)
 ### 1.4.3. Mô hình quản lý hàng gia công, SXXK (tập trung)
 > Để đảm báo đúng chế độ miễn thuế cho nguyên vật liệu nhập khẩu.
 > Kiểm soát chặt chẽ nguyên vật liệu đầu vài và đầu ra 
