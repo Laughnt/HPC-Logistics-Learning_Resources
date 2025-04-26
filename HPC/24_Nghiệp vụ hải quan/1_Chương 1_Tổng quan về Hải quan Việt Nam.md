@@ -38,7 +38,7 @@ Trong lĩnh vực hải quan là mô hình quản lý tập trung từ Trung ư�
 > Phòng chống gian lận thương mại và trốn thuế. 
 > Đảm bảo thống kê và báo cáo chính xác cho nhà nước.
 
-[CỔNG THÔNG TIN MỘT CỬA QUỐC GIA](https://vnsw.gov.vn)
+Thông qua[CỔNG THÔNG TIN MỘT CỬA QUỐC GIA](https://vnsw.gov.vn)
 Quản lý tồn kho nguyên vật liệu (May mặc đến cúc áo, may mặc, chỉ cũng nhập).
 Định mức tiêu hao và máy móc thiết bị cùng diện tích và định mức sử dụng nguyên liệu. 
 Thanh khoản hợp đồng và báo cáo quyết toán -> DN phải thống kê và báo cáo lại. 
