@@ -40,6 +40,8 @@ Tính số tiền Việt mà công ty cần chuẩn bị thêm để mua USD đ�
 >[!note] Không đề cập đến VAT = Phí không có VAT. Sử dụng tạm của [Biểu phí nhờ thu chứng từ của Vietcombank](https://www.vietcombank.com.vn/corp/Documents/Fee/Bieu-phi-nho-thu-chung-tu.pdf)
 
 ____
+Phí nhờ thu điện Swift - E023
+Phí nhờ thu CAD.
 - Quy đổi ngoại tệ số tiền AUD công ty đang có, sang USD:
 = Số tiền AUD đang có * ==AUSTRALIAN DOLLAR Buying Rates Transfer==
 = 100.000 * 16,416.18 = 1.641.618.000 VNĐ 
@@ -58,7 +60,7 @@ Từ đề bài, ta có:
 - Thanh toán nhờ thu gửi đi nước ngoài (thu phí ngay khi gửi bộ chứng từ đi nhờ thu) 0,2%/trị giá nhờ thu. Tối thiểu $20. **Tối đa $300**
 - Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và **thu thuế VAT** theo quy định của pháp luật hiện hành.
 - Phí ký hậu vận đơn: $15
-- Phí chuyển bằng USD: $20 
+- Phí chuyển bằng USD: $20 - ngân hàng cho nước XK và NK ohí chịu.
 - Ngân hàng Vietcombank quản lý hồ sơ trong 90 ngày: $20
 
 >Do vậy:
