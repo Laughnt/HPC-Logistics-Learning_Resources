@@ -41,16 +41,16 @@ Tính số tiền Việt mà công ty cần chuẩn bị thêm để mua USD đ�
 
 ____
 - Quy đổi ngoại tệ số tiền AUD công ty đang có, sang USD:
-= Số tiền AUD đang có✖️ ==AUSTRALIAN DOLLAR Buying Rates Transfer==
-= 100.000 ✖️ 16,416.18 = 1.641.618.000 VNĐ 
-= Số USD mua được ✖️ ==US DOLLAR Selling Rates==
+= Số tiền AUD đang có * ==AUSTRALIAN DOLLAR Buying Rates Transfer==
+= 100.000 * 16,416.18 = 1.641.618.000 VNĐ 
+= Số USD mua được * ==US DOLLAR Selling Rates==
 >Số USD mua được từ số AUD đang có là: 1.641.618.000 / 26,141.00 
 	= $ 62798.5922497 
 
 - Quy đổi ngoại tệ số tiền EUR công ty đang có, sang USD:
-= Số tiền EUR đang có ✖️ ==EURO Buying Rates Transfer==
-= 50000 ✖️ 29,236.92 = 1.461.846.000 VNĐ 
-= Số USD mua được ✖️ ==US DOLLAR Selling Rates==
+= Số tiền EUR đang có * ==EURO Buying Rates Transfer==
+= 50000 * 29,236.92 = 1.461.846.000 VNĐ 
+= Số USD mua được * ==US DOLLAR Selling Rates==
 > Số USD mua được từ số EUR đang có là: 1.461.846.000 / 26,141.00 
 	= $ 55921.5791286
 
@@ -69,11 +69,11 @@ Từ đề bài, ta có:
 = Số USD cần thanh toán + (Thanh toán nhờ thu gửi đi nước ngoài + Phí ký hậu vận đơn + Phí chuyển bằng USD + Ngân hàng quản lý hồ sơ trong 90 ngày) * 10% VAT - Tổng số tiền USD công ty đang có
 = 200.000 + ((300 + 15 + 20 + 20) + 10%) - 118720.171378 
 = $ 81670.328622 
-= VNĐ ✖️ ==US DOLLAR Selling Rates== 
+= VNĐ * ==US DOLLAR Selling Rates== 
 ___
 - Vậy số tiền VNĐ mà công ty cần chuẩn bị **thêm** để mua USD đủ thanh toán và trả phí ngân hàng là: 
-	= $ 81670.328622 ✖️ ==US DOLLAR Selling Rates==
-	= 81670.328622 ✖️ 26.141,00
+	= $ 81670.328622 * ==US DOLLAR Selling Rates==
+	= 81670.328622 * 26.141,00
 	= 2.134.935.470,51 VNĐ
 
 >[!note] Chụp ảnh cả biểu phí nhờ thu chứng từ và tỷ giá, gửi cho lớp trưởng.
