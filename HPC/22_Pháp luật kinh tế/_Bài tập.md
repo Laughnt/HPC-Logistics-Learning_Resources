@@ -52,3 +52,11 @@ Còn lại, trong thoả thuận bằng hợp đồng, với điều khoản cho
 
 # Câu 10:
 A là chủ sở hữu. A bán lại cho B.
+# Câu 11:
+Cty CP điện máy T&T  có trụ sở tại HN được cấp giấy chứng nhận đăng ký năm 2019, gồm An giữ 2000 cổ phần, Bình giữ 2500 cổ phần, Cảnh giữ 3000 cổ phần, Dũng giữ 1500 CP, Hùng giữ 1000 CP. ==Hội đồng quản trị bao gồm An, Bình, Cảnh==. Điều lệ hoàn toàn phù hợp với luật Doanh nghiệp 2020. Ngày 18/01/202, Bình với tư cách là chủ tịch Hội đồng quản trị đã triệu tập phiên hợp Đại hội đồng cổ đông để quyết định về việc ***Sửa đổi điều lệ công ty***. Phiên hợp được triệp tập nhưng chỉ có An, Bình, Dũng, Hùng tham dự. An, Bình, Hùng đã biểu quyết nhất trí sửa đổi điều lệ.
+
+Có đủ số người tham gia hay không? Có đủ (>50%)
+Việc thông qua nghị quyết có được hay không? (>= 65%)
+
+Theo Điều 148 [Luật Doanh nghiệp 2020](https://thuvienphapluat.vn/documents/law.aspx?id=g=RJM016QXTk&mode=c9dsbGRWOHhORGWk), cuộc họp diễn ra hợp lệ: (3000+2500+1500)/(tổng số cp) > 50%
+Thay đổi điều lệ -> Nghị quyết thông qua > 65%

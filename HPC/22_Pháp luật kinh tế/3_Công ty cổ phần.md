@@ -28,7 +28,11 @@ Công ty cổ phần tự chịu trách nhiệm một cách độc lập về c�
 - Tư cách pháp lý
 Công ty cổ phần là chủ thể kinh doanh chịu trách nhiệm kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp.
 >[!note] Báo cáo thực tập
->Chúng ta mô tả được cơ cấu của doanh nghiệp. Khi DN đó thuộc loại hình doanh nghiệp, phòng ban nào.
+>Chúng ta mô tả được cơ cấu của doanh nghiệp. Khi DN đó thuộc loại hình doanh nghiệp, phòng ban nào.  Ban kiểm soát & ban kiểm toán 
+Lựa chọn ai làm người quản lý trong điều lệ của công ty -> không có trong điều lệ -> Chủ tịch hội đồng chịu trách nhiệm cho pháp luật.
 
->
-Đại hội đồng cổ đông gòm tất cả
+Đại hội đồng cổ đông gồm tất cả cổ đông có quyền biểu quyết, là cơ quan quyết định cao nhất của Cty CP. Đại hồi đồng cổ đông họp thường niên mỗi năm một lần & họp đột xuất (sau khi quyết toán và thuế)
+	Cuộc họp đầu tiên được tiến hành với ít nhất **50%** tổng số phiếu biểu quyết.
+	Triệu tập họp lần 2 trong thời hạn 30 ngày, kể từ khi ngày dự định hợp lần thứ nhất, được tiến hành khi có ít nhất **33%** tổng số biểu quyết.
+	Triệu tập họp lần 3, trong thời hạn 20 ngày, kể từ ngày dự định hợp lần 2, được tiến hành không phụ thuộc vào phiếu.
+Nghị quyết về ND sau đây được thông qua >65% tổng số phiếu: CP, Thay đổi cơ cấu, đầu tư, bán tài sản trên tổng 35% tổng giá trị tài sản, tổ chức lại, giải thể.
