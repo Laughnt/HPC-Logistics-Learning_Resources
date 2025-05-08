@@ -60,3 +60,24 @@ Việc thông qua nghị quyết có được hay không? (>= 65%)
 
 Theo Điều 148 [Luật Doanh nghiệp 2020](https://thuvienphapluat.vn/documents/law.aspx?id=g=RJM016QXTk&mode=c9dsbGRWOHhORGWk), cuộc họp diễn ra hợp lệ: (3000+2500+1500)/(tổng số cp) > 50%
 Thay đổi điều lệ -> Nghị quyết thông qua > 65%
+
+# Câu 12:
+Cty TNHH 1 thành viên, A có 100 CP, B có 200CP, C có 300CP.
+
+Ở đây mỗi thành viên có một phiếu biểu quyết có giá trị như nhau.
+# Câu 13: 
+Cty CP Hải Minh góp 10 tỷ để thành lập cty TNHH X và cử A (5 tỷ), B92,5 tỷ), C (2tỷ), D(0.5 tỷ) làm đại diện cho phầnvốn góp trên để quản lý cty TNHH A.
+Điều lệ công ty quy định B là chủ tịch HĐTV, D yêu cầu triệu tập cuộc họp HĐTV. Trong cuộc hợp chỉ có B, C, D tham dự và biểu quyết, HĐTV thông qua Nghị quyết về việc giải thể công ty với sự đồng ý của C và D.
+Hỏi: Quyết định giải thể công ty được thông qua đã hợp lệ chưa?
+
+Căn cứ theo quy định tại Điều 115 [Luật Doanh nghiệp 2020](https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-so-59-2020-QH14-427301.aspx?anchor=dieu_115), cổ đông nắm giữa >10% vốn cổ đông mới được triệu tập HĐTV -> D không hợp pháp -> Quyết định giải thể là không hợp pháp.
+
+# Câu 14: Phân biệt công ty TNHH 1 thành viên và DN tư nhân
+https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/phan-biet-su-giong-nhau-va-khac-nhau-giua-doanh-nghiep-tu-nhan-va-cong-ty-trach-nhiem-huu-han-mot-t-371253-106653.html
+
+Chủ sở hữu
+Góp vốn
+Trách nhiệm tài sản của chủ sở hữu
+Thay đổi vốn điều lệ
+Cơ cấu tổ chức
+-> Căn cứ pháp lý: [Luật Doanh nghiệp 2020](https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-so-59-2020-QH14-427301.aspx)

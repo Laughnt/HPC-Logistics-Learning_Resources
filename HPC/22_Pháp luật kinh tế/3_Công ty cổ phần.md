@@ -36,3 +36,7 @@ Lựa chọn ai làm người quản lý trong điều lệ của công ty -> kh
 	Triệu tập họp lần 2 trong thời hạn 30 ngày, kể từ khi ngày dự định hợp lần thứ nhất, được tiến hành khi có ít nhất **33%** tổng số biểu quyết.
 	Triệu tập họp lần 3, trong thời hạn 20 ngày, kể từ ngày dự định hợp lần 2, được tiến hành không phụ thuộc vào phiếu.
 Nghị quyết về ND sau đây được thông qua >65% tổng số phiếu: CP, Thay đổi cơ cấu, đầu tư, bán tài sản trên tổng 35% tổng giá trị tài sản, tổ chức lại, giải thể.
+
+# Công ty TNHH 1 thành viên
+Thành viên hội đồng thành viên do chủ sở hữu công ty bổ nhiệm, miễn nhiệm.
+Số lượng 03 -> 07, nhiệm kỳ không quá 5 năm.
