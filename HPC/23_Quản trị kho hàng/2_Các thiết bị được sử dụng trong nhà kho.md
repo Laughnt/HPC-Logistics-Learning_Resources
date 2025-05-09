@@ -67,7 +67,7 @@ https://www.investopedia.com/terms/r/rateofreturn.asp
 ## Tỷ lệ đơn hàng đặt kho 
 Là một KPI quan trọng trong quản lý kho, giúp bạn đánh giá chính xác của dự báo doanh số bán hàng.
 
-$\text{Order Backlog Ratio} = \frac{\text{Backlog}}{\text{Sales}} * 100$
+$\text{Order Backlog Ratio} = \frac{\text{Backlog}}{\text{Sales}} \times 100$
 
 >[!question] Công ty Liên Việt có có doanh thu năm 2024 từ các nguồn như sau trong năm: 
 Doanh thu từ sản phẩm Đồ gia dụng: 500.000 USD 
@@ -79,6 +79,7 @@ Tính vòng quay hàng tồn kho của công ty trong năm 2024?
 $\text{Average inventory value} = \frac{\text{Opening inventory value} + \text{Closing inventory value}}{2} = \frac{180,000 + 120,000}{2} = 150,000$ 
 
 $\text{Inventory Turnover} = \frac{\text{COGS}}{\text{Average Value of Inventory}} = \frac{500.000 + 300.000 + 400.000}{150,000} = 8$
+
 Vậy vòng quay tồn kho của công ty trong năm 2024 là 8
 
 >[!question] Công ty ABC bán ba loại sản phẩm với thông tin sau: 
@@ -104,6 +105,7 @@ Vậy vòng quay tồn kho của công ty là 6.26666666667
 >
 >Tỷ lệ hàng bị trả lại là 25% tổng số hàng bán ra. Tính tỷ lệ % hàng hoàn
 
-$\text{Rate of return} = \left( \frac{\text{Current value} - \text{Initial value}}{\text{Initial value}} \right) \times 100 = \frac{(5,000 + 8,000 + 10,000) \times 25\%}{5,000 + 8,000 + 10,000} \times 100 = 25\%$ 
+$\text{Rate of return} = \left( \frac{\text{Current value} - \text{Initial value}}{\text{Initial value}} \right) \times 100 = \frac{(5,000 + 8,000 + 10,000) - (5,000 + 8,000 + 10,000) \times 25\%}{5,000 + 8,000 + 10,000} \times 100 = 25\%$ 
 
 Vậy tỷ lệ hàng bị hoàn trả là 25%
+
