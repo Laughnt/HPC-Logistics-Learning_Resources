@@ -53,4 +53,16 @@ Giải thích cho người mua hàng của mình hiểu.
 Là tần suất mà hàng tồn kho của DN dược bán đi trong một khoảng thời gian nhất định. Hệ số vòng quay hàng tồn kho cao cho thấy doanh số bán hàng tốt, trong khi hệ số thấp cho thấy doanh số bán hàng yếu và hàng tồn kho bị lưu trữ lâu trong kho.
 https://amis.misa.vn/67710/vong-quay-hang-ton-kho/
 
+$\text{Inventory Turnover} = \frac{\text{COGS}}{\text{Average Value of Inventory}}$
+
 https://www.researchgate.net/publication/336637861_Analysis_of_Inventory_Turnover_as_a_Performance_Measure_in_Manufacturing_Industry
+## Rate of return - Tỷ lê hoàn vốn
+Tỷ lệ hoàn vốn à một KPI (Chỉ số hiệu suất chính) quan trọng trong quản lý kho, giúp đánh giá mức độ hài lòng của khách hàng thông qua tần suất hàng hoá bị trả lại.
+
+$\text{Rate of return} = \left( \frac{\text{Current value} - \text{Initial value}}{\text{Initial value}} \right) \times 100$
+
+https://www.investopedia.com/terms/r/rateofreturn.asp 
+## Tỷ lệ đơn hàng đặt kho 
+Là một KPI quan trọng trong quản lý kho, giúp bạn đánh giá chính xác của dự báo doanh số bán hàng.
+
+$\text{Order Backlog Ratio} = \frac{\text{Backlog}}{\text{Sales}} * 100$
