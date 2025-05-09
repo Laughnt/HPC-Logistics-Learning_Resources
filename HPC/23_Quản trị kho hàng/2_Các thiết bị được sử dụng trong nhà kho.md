@@ -21,3 +21,36 @@ Pallet live storage: hệ thống con lăn riêng sắp xếp thành các tầng
 High way warehouse
 Gravity Conveyors
 Combustion & Battery Forklift
+___
+# Bài 4: Tự động hoá, các chỉ số đánh giá và an toàn trong kho hàng 
+
+Phần 1: Các thiết bị tự động hoá trong kho hàng 
+Barcode - công nghệ mã vạch.
+RFID
+WMS
+- chỉ số KPI trong kho hàng
+Đưa hàng vào vị trí chính xác 100%
+
+Tổ chức và sắp xếp kho hàng một cách hợp lý.
+Sử dụng hệ thống lấy hàng phù hợp cho hoạt động của bạn.
+Đầu tư vào việc giảm thiểu tỷ lệ thay thế lao động để giữ lại những nhân viên lấy hàng có kinh nghiệm lâu hơn.
+Áp dụng dụng hệ thống lấy và đóng gói kỹ thuật số đối với việc sử dụng mã vạch.
+>Giới thiệu ít nơi làm việc.
+
+- Chi phí vận chuyển (Carry Cost)
+Chi phí vốn: CP DN phải bỏ ra để đầu tư vào hàng tồn kho.
+CP lưu trữ: CP thuê kho, bảo trì, và các chi phí liên quan.
+CP thiết bị: Bảo trì và khấu hao các thiết bị trong kho 
+CP phần mềm:  CP sử dụng hệ thống quản lý kho hàng WMS
+CP vật liệu: bao bì, nhãn mác và các vật liệu cần thiết khác 
+Thuế.
+- Tác động hàng hoá tồn kho lâu dài:
+Hàng hoá chiếm không gian trong kho quá lâu làm tăng chi phí -> SP hỏng. 
+- Chiến lược:
+Giải thích cho người mua hàng của mình hiểu.
+
+## Inventory turnover - Vòng quay hàng tồn kho 
+Là tần suất mà hàng tồn kho của DN dược bán đi trong một khoảng thời gian nhất định. Hệ số vòng quay hàng tồn kho cao cho thấy doanh số bán hàng tốt, trong khi hệ số thấp cho thấy doanh số bán hàng yếu và hàng tồn kho bị lưu trữ lâu trong kho.
+https://amis.misa.vn/67710/vong-quay-hang-ton-kho/
+
+https://www.researchgate.net/publication/336637861_Analysis_of_Inventory_Turnover_as_a_Performance_Measure_in_Manufacturing_Industry
