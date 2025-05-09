@@ -56,6 +56,8 @@ https://amis.misa.vn/67710/vong-quay-hang-ton-kho/
 $\text{Inventory Turnover} = \frac{\text{COGS}}{\text{Average Value of Inventory}}$
 
 https://www.researchgate.net/publication/336637861_Analysis_of_Inventory_Turnover_as_a_Performance_Measure_in_Manufacturing_Industry
+
+$\text{Average inventory value} = \frac{\text{Opening inventory value} + \text{Closing inventory value}}{2}$
 ## Rate of return - Tỷ lê hoàn vốn
 Tỷ lệ hoàn vốn à một KPI (Chỉ số hiệu suất chính) quan trọng trong quản lý kho, giúp đánh giá mức độ hài lòng của khách hàng thông qua tần suất hàng hoá bị trả lại.
 
@@ -66,3 +68,42 @@ https://www.investopedia.com/terms/r/rateofreturn.asp
 Là một KPI quan trọng trong quản lý kho, giúp bạn đánh giá chính xác của dự báo doanh số bán hàng.
 
 $\text{Order Backlog Ratio} = \frac{\text{Backlog}}{\text{Sales}} * 100$
+
+>[!question] Công ty Liên Việt có có doanh thu năm 2024 từ các nguồn như sau trong năm: 
+Doanh thu từ sản phẩm Đồ gia dụng: 500.000 USD 
+Doanh thu từ sản phẩm Đồ Điện tử: 300.000 USD 
+Doanh thu từ sản phẩm Đồ thời trang: 400.000 USD 
+Giá trị hàng tồn kho vào đầu năm là 120.000 USD và vào cuối năm là 180.000 USD. 
+Tính vòng quay hàng tồn kho của công ty trong năm 2024?
+
+$\text{Average inventory value} = \frac{\text{Opening inventory value} + \text{Closing inventory value}}{2} = \frac{180,000 + 120,000}{2} = 150,000$ 
+
+$\text{Inventory Turnover} = \frac{\text{COGS}}{\text{Average Value of Inventory}} = \frac{500.000 + 300.000 + 400.000}{150,000} = 8$
+Vậy vòng quay tồn kho của công ty trong năm 2024 là 8
+
+>[!question] Công ty ABC bán ba loại sản phẩm với thông tin sau: 
+>Sản phẩm A: Giá bán: 50 USD 
+>Số lượng bán ra: 8.000 đơn vị 
+>Sản phẩm B: Giá bán: 30 USD 
+>Số lượng bán ra: 10.000 đơn vị 
+>Sản phẩm C: Giá bán: 20 USD 
+>Số lượng bán ra: 12.000 đơn vị 
+>Giá trị hàng tồn kho vào đầu năm là 100.000 USD và vào cuối năm là 200.000 USD. Tính vòng quay hàng tồn kho của công ty?
+
+$\text{Average inventory value} = \frac{\text{Opening inventory value} + \text{Closing inventory value}}{2} = \frac{100.000 + 200.000}{2} = 150.000$ 
+$\text{Inventory Turnover} = \frac{\text{COGS}}{\text{Average Value of Inventory}} = \frac{8.000 \times 50 + 10.000 \times 30 + 12.000 \times 20}{150,000} = 6.26666666667$
+
+Vậy vòng quay tồn kho của công ty là 6.26666666667
+>[!question] Công ty ABC bán ba loại sản phẩm với thông tin như sau: 
+>Sản phẩm A: Giá bán: 50 USD 
+>Số lượng bán ra: 5.000 đơn vị 
+>Sản phẩm B: Giá bán: 30 USD 
+>Số lượng bán ra: 8.000 đơn vị 
+>Sản phẩm C: Giá bán: 20 USD 
+>Số lượng bán ra: 10.000 đơn vị 
+>
+>Tỷ lệ hàng bị trả lại là 25% tổng số hàng bán ra. Tính tỷ lệ % hàng hoàn
+
+$\text{Rate of return} = \left( \frac{\text{Current value} - \text{Initial value}}{\text{Initial value}} \right) \times 100 = \frac{(5,000 + 8,000 + 10,000) \times 25\%}{5,000 + 8,000 + 10,000} \times 100 = 25\%$ 
+
+Vậy tỷ lệ hàng bị hoàn trả là 25%
