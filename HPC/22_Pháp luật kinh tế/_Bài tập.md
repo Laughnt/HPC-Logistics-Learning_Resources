@@ -81,3 +81,19 @@ Trách nhiệm tài sản của chủ sở hữu
 Thay đổi vốn điều lệ
 Cơ cấu tổ chức
 -> Căn cứ pháp lý: [Luật Doanh nghiệp 2020](https://thuvienphapluat.vn/van-ban/Doanh-nghiep/Luat-Doanh-nghiep-so-59-2020-QH14-427301.aspx)
+
+# Câu 15:
+Tháng 01/2021, A, B và C thành lập công ty TNHH ABC. VỐn điều lệ của công ty là 2 tỷ đồng, trong đó: A cam kết góp 1 tỷ đồng tiền mặt, B góp một số máy móc, thiết bị với giá trị là 600tr; C góp 400tr là số tiền cho thuê ngôi nhà tại phố N thành phố H làm trụ sở giao dịch trong thời hạn 5 năm.
+
+Theo điều lệ công ty thì A là giám đốc, B là chủ tịch HĐTV, C là kế toán trưởng. Sau khi cấp GCNĐKDN, Các thành viên góp tiền vào vốn điều lệ của công ty. ==Kết thúc năm tài chính 2021==, lợi nhuận sau thuế = 800tr VNĐ. Chia cho các thành viên thống nhất như thế nào?
+
+Lãi -> vốn thực góp. Lỗ -> vốn cam kết. Vốn điều lệ của công ty: 2 tỷ đồng.
+A 1tỷ = x % vốn điều lệ
+B 
+C => trụ sở cho thuê 5 năm với giá 400tr -> ==Kết thúc năm tài chính 2021== -> mới là thuê 1 năm = 80tr.
+-> Vốn thực góp = 1 + 0.6 + 0.08 = 1.68
+-> Tỷ lệ vốn góp là: 
+A 1/1.68
+B 
+C
+> Lợi nhuận sẽ chia theo tỷ lệ vốn góp.
