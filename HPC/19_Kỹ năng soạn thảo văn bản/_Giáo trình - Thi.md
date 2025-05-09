@@ -1,13 +1,15 @@
-Tố Uyên (2019) [Giáo trình kỹ năng soạn thảo văn bản](https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam/giao-trinh-ki-nang-soan-thao-van-ban/63928099)
-Thu Hương (2016) [Kỹ năng soạn thảo văn thư](https://www.studocu.vn/vn/document/dai-hoc-mo-dia-chat/trac-dia-co-so-1-btl/giao-trinh-soan-thao-van-ban-hanh-chinh-chinh-thuc/30461500)
-Pháp luật đại cương.
-
+Tố Uyên (2019) Giáo trình kỹ năng soạn thảo văn bản https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam/giao-trinh-ki-nang-soan-thao-van-ban/63928099)
+Thu Hương (2016) Kỹ năng soạn thảo văn thư https://www.studocu.vn/vn/document/dai-hoc-mo-dia-chat/trac-dia-co-so-1-btl/giao-trinh-soan-thao-van-ban-hanh-chinh-chinh-thuc/30461500
+Giáo trình môn Pháp luật đại cương.
+Nghị định 30/2020/NĐ-CP công tác văn thư https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Nghi-dinh-30-2020-ND-CP-cong-tac-van-thu-436532.aspx
+___
 Giảng viên Đại học Phương Đông.
 Tập trung vào văn bản hành chính, không phải quy pham pháp luật. Chương 2. 
 Trắc nghiệm:
 - https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/english/dap-an-trac-nghiem-soan-thao-van-ban-hanh-chinh-eg48/47674553
 - https://www.studocu.vn/vn/document/truong-dai-hoc-kinh-te-va-quan-tri-kinh-doanh-dai-hoc-thai-nguyen/giao-trinh-quan-tri-hoc/trac-nghiem-give/42965519
 QPPL: Quy phạm pháp luật
+Chính xác về mặt nội dung sẽ thấp hơn phần thể thức. Câu hỏi đúng sai, viết một cái thông báo.
 
 - BTVN:
 Anh hãy giúp nhà trường soạn Thông báo về việc nghỉ tết nguyên đán đầu 2025. thời hạn 07 ngày (tìm tệp lịch nghỉ bên Zalo)
@@ -26,6 +28,8 @@ ___
 9. Hệ thống văn bản quản lý nhà nước bao gồm 4 loại.
 10. Văn bản hành chính thông dụng còn do các cơ quan tổ chức khác ban hành.
 
+> Công văn, thông báo, biên bản, giấy mời. 
+
 Chính xác về mặt nội dung sẽ thấp hơn phần thể thức.  Câu hỏi đúng sai, viết một cái thông báo, công văn, biên bản, giấy mời.
 
 # Ôn tập
@@ -33,3 +37,4 @@ Chính xác về mặt nội dung sẽ thấp hơn phần thể thức.  Câu h�
 2. Học thuộc cách trình bày thể thứuc, kỹ thuật trình văn bản theo nghị định 30/2020/NĐ-CP về công tác văn thư gồm các điều 2->9. Cho ví dụ minh hoạ
 3. Luyện tập đúng-sai.
 4. Nêu khái niệm, đặc điểm và soạn thảo một số văn bản, công văn, biên bản, thông báo, giấy mời.
+

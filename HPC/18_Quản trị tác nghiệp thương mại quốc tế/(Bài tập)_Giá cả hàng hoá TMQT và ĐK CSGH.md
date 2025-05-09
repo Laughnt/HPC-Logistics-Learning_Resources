@@ -1,25 +1,25 @@
 ĐKCSGH liên quan chặt chẽ tới giá cả hàng hoá. USD tính làm tròn đến cent .00, VNĐ làm tròn đến đồng.
 - Các ĐK CSGH khác nhau dẫn tới giá hàng hoá khác nhau
->V exm = giá nvl + giá nhân công + giá chi phí gián tiếp + lợi nhuận biên
+>V exw = giá nvl + giá nhân công + giá chi phí gián tiếp + lợi nhuận biên
 - Chi phí gián tiếp: chi phí quản lý, khấu hao, chi phí khác.
-- Giá xuất xưởng: V exm
+- Giá xuất xưởng: V exw
 ___
 //Tính không đủ -> giá quá cao, không cạnh tranh được hoặc giá quá thấp, không đủ biên lợi nhuận.
+Giá FCA = ![[80d2de4163c6d3988ad7.jpg]]
 
-VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXM cho 1 tấn hàng.
+VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXW cho 1 tấn hàng.
 
 Chi phí bốc hàng lên phương tiện vận tải nội địa: $100
 Bảo hiểm bốc HH lên phương tiện vận tải nội địa: $50
 Thông quan XK: $300
 > Tính giá FCA cho 1 tấn hàng XK.
-
 = $96.5/tấn
 
 Giá FAS: V fas
 V fas = F fca + giá chi phí vận tải nội địa từ địa điểm FCA đến cảng (nếu 2 địa điểm này khác nhau) + giá bảo hiểm hàng hoá vận tải nội địa trên + Chi phí dỡ hàng khỏi phương tiện vận tải nội địa + BH dỡ hàng khỏi phương tiện nội địa.
 
 ___
-VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXM cho 1 tấn hàng.
+VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXW cho 1 tấn hàng.
 
 Chi phí bốc hàng lên phương tiện vận tải nội địa: $100 
 Bảo hiểm bốc hàng hoá lên phương tiện vận tải nội địa: $50 
@@ -32,7 +32,7 @@ $105.5/MT
 
 ___
 FOB 
-VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXM cho 1 tấn hàng.
+VD: Giá Nguyên vật liệu $5000, nhân công $1000, chi phí gián tiếp $2000, lợi nhuận biên 15% sản xuất ra 100 tấn hàng hoá. Tính giá dự kiến EXW cho 1 tấn hàng.
 
 Chi phí bốc hàng lên phương tiện vận tải nội địa: $100 
 Bảo hiểm bốc hàng hoá lên phương tiện vận tải nội địa: $50 
@@ -70,8 +70,8 @@ n. Bảo hiểm vận tải quốc tế = 500 USD
 o. Chi phí thông quan tại nước nhập khẩu: 300 USD 
 p. Chi phí vận tải nội địa nước nhập khẩu + Bảo hiểm vận tải nội địa nước NK = 800USD 
 q. Chi phí dỡ hàng+ bảo hiểm dỡ hàng khỏi phương tiện vt nội địa nước nhập khẩu = 500 USD
-<<<<<<<< HEAD:HPC/19_Tác nghiệp quốc tế/_Giá cả hàng hoá TMQT và ĐK CSGH.md
-**Giá = hình ảnh bên Zalo**
+
+**Giá = hình ảnh bên Zalo ở dưới**
 
 Các chi phí liên quan: abcdefgkhlmn.
 ![[Chữa mẫu bài tập.jpg]]

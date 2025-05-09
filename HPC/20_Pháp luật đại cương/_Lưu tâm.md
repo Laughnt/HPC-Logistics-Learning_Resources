@@ -3,4 +3,4 @@ Luật giấy, nếu chúng ta có nhu cầu học tập thì chúng mình sử 
 
 2 bài kiểm tra + Thuyết trình
 
-Những quan hệ tài snả và quan hệ nhân thân => Luật dân sự 2015
+Những quan hệ tài sản và quan hệ nhân thân => Luật dân sự 2015
