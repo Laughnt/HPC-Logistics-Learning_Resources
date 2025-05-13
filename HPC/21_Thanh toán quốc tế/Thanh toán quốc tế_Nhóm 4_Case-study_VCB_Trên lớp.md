@@ -7,18 +7,18 @@
 Tìm tỷ giá ngân hàng. 
 Đi tìm biểu phí, thẻ tín dụng, thanh toán TT: https://www.mbbank.com.vn/ExchangeRate
 
-| Nhóm 4                   | Thành viên |
-| ------------------------ | ---------- |
-| HPC_Hà Xuân Nguyên       |            |
-| HPC_Nguyễn Duy Khánh     |            |
-| HPC_Nguyễn Thị Huyền Vy  |            |
-| HPC_Phạm Văn Tiến        |            |
-| HPC_Trần Nhật Minh       |            |
-| HPC_Phan Trung Nguyên    |            |
-| HPC_Nguyễn Xuân Hiệp     |            |
-| HPC_Trần Thị Khánh Huyền |            |
-| HPC_Nguyễn Thị Hà Vi     |            |
-| HPC_Nguyễn Tiến Dũng     |            |
+| Nhóm 4                   | Thanh |
+| ------------------------ | ----- |
+| HPC_Hà Xuân Nguyên       |       |
+| HPC_Nguyễn Duy Khánh     |       |
+| HPC_Nguyễn Thị Huyền Vy  |       |
+| HPC_Phạm Văn Tiến        |       |
+| HPC_Trần Nhật Minh       |       |
+| HPC_Phan Trung Nguyên    |       |
+| HPC_Nguyễn Xuân Hiệp     |       |
+| HPC_Trần Thị Khánh Huyền |       |
+| HPC_Nguyễn Thị Hà Vi     |       |
+| HPC_Nguyễn Tiến Dũng     |       |
 
 # Bài 1: 
 Mua 150.000 USD tại MB Bank cần [Tiền cần mua] * [Giá Bán ra (Chuyển khoản)] = 150.000 * 25,640.00 = 3.901.500.000 VNĐ
