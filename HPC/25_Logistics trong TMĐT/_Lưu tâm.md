@@ -5,3 +5,5 @@ Lắp mô hình lý thuyết trung tâm phục vụ là việc mua hàng và bá
 - Giáo trình: 
 Logistics in e-Commerce Business: Backbone for e-Commerce business
 [E-logistics : managing your digital supply chains for competitive advantage](https://archive.org/details/elogisticsmanagi0000unse/page/n5/mode/2up)
+Giáo trình Kinh tế lượng.
+Giáo trình Logistics Kinh doanh.
