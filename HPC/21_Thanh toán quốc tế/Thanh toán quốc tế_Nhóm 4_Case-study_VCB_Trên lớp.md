@@ -87,3 +87,9 @@ https://portal.vietcombank.com.vn/en-Us/Corporate/TG/Pages/exchange-rate.aspx
 ![[Pasted image 20250424001547.png]]
 https://portal.vietcombank.com.vn/content/Corporate/BieuPhi/Khách%20hàng%20Doanh%20nghiệp/Biểu%20phí%20Thanh%20toán%20quốc%20tế%20-%20Tài%20trợ%20thương%20mại/Bieu%20phi%20nho%20thu%20chung%20tu.pdf
 ![[Pasted image 20250507100815.png]]
+# Bài 3: 
+https://www.vietcombank.com.vn/Corp/Documents/Bieu%20phi%20thu%20tin%20dung.pdf
+Công ty TNHH A ký HĐ nhập hàng trị giá $350.000. Yêu cầu thanh toán bằng LC nhập khẩu trả ngay, giao hàng 1 lần mở qua ngân hàng VCB. Ký quỹ $20.000 tại TK ký quỹ và phần còn lại bằng chứng chỉ tiền gửi có kỳ hạn. LC có phần sửa đổi 1 lần về ngày giao hàng chậm nhất.
+Tài khoản công ty có 80.000 Euro và $20.000. Cong ty có yêu cầu ngân hàng ký hậu vận đơn để lấy hàng trước khi bộ chứng từ thanh toán xuất trình tại ngân hàng. Thời gian cầm giữ hồ sơ của ngân hàng là 15 ngày. Ngân hàng thu phí bằng VNĐ.
+
+Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng. 
