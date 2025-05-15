@@ -88,10 +88,10 @@ https://portal.vietcombank.com.vn/en-Us/Corporate/TG/Pages/exchange-rate.aspx
 https://portal.vietcombank.com.vn/content/Corporate/BieuPhi/Khách%20hàng%20Doanh%20nghiệp/Biểu%20phí%20Thanh%20toán%20quốc%20tế%20-%20Tài%20trợ%20thương%20mại/Bieu%20phi%20nho%20thu%20chung%20tu.pdf
 ![[Pasted image 20250507100815.png]]
 # Bài 3: 
-> Biểu phí: https://www.vietcombank.com.vn/Corp/Documents/Bieu%20phi%20thu%20tin%20dung.pdf
+> Thanh toán L/C -> Biểu phí nhờ thu tín dụng: https://www.vietcombank.com.vn/Corp/Documents/Bieu%20phi%20thu%20tin%20dung.pdf
 > Tỷ giá: ![[Pasted image 20250514105322.png]]
 
-Công ty TNHH A ký HĐ nhập hàng trị giá $350.000. Yêu cầu thanh toán bằng LC ==nhập khẩu trả ngay==, giao hàng 1 lần mở qua ngân hàng **VCB**. Ký quỹ $20.000 tại TK ký quỹ và phần còn lại bằng chứng chỉ **tiền gửi có kỳ hạn**, L/C có phần ==sửa đổi 1 lần== về ngày giao hàng chậm nhất.
+Công ty TNHH A ký HĐ nhập hàng trị giá $350.000. Yêu cầu thanh toán bằng L/C ==nhập khẩu trả ngay==, giao hàng 1 lần mở qua ngân hàng **VCB**. Ký quỹ $20.000 tại TK ký quỹ và phần còn lại bằng chứng chỉ **tiền gửi có kỳ hạn**, L/C có phần ==sửa đổi 1 lần== về ngày giao hàng chậm nhất.
 Tài khoản công ty có 80.000 Euro và $20.000. Công ty có yêu cầu ngân hàng ==ký hậu vận đơn== để lấy hàng trước khi bộ chứng từ thanh toán xuất trình tại ngân hàng. Thời gian cầm giữ hồ sơ của ngân hàng là **15 ngày**. Ngân hàng thu phí bằng VNĐ.
 
 Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng. 
@@ -107,18 +107,17 @@ Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh
 $\$87,518.1943382 + \$20,000 = \$107,518.1943382$
 
 - Từ đề bài, ta sử dụng các loại biểu phí:
-	F001 - Phần trị giá L/C ký quỹ bằng tiền (VNĐ/ngoại tệ) trên Tài khoản tiền gửi không kỳ hạn/Tài khoản ký quỹ tại VCB hoặc L/C đối ứng (trong trường hợp L/C quy định chỉ phải trả tiền L/C nhập khẩu sau khi nhận được tiền thanh toán của L/C xuất khẩu) = $500 
-	F006 - Sửa đổi 1 lần = Chi phí sửa đổi khác = $20/lần
+	F006 - Sửa đổi 1 lần -> Chi phí sửa đổi khác = $20/lần
 	F020 - Ký hậu vận đơn (trước khi chứng từ về ngân hàng) = $15/hậu vận đơn.
-	F015 - Ngân hàng cầm giữ hồ sơ trong 15 ngày - Phí cầm giữ hồ sơ: $5/bộ/tháng.
-	F009 - Thanh toán thư tín dụng (1 bộ chứng từ) - Tối đa $500
-	F002 - Chứng chỉ tiền gửi có kỳ hạn - Phần trị giá L/C được bảo đảm bằng Tài khoản có Kỳ Hạn hoặc Chứng chỉ tiền gửi, Kỳ phiếu và các GTCG khác do VCB phát hành - $500
-	F041 - Điện SWIFT: $50/điện
+	F015 - Ngân hàng cầm giữ hồ sơ trong 15 ngày -> Phí cầm giữ hồ sơ = $5/bộ/tháng.
+	F009 - Thanh toán thư tín dụng (1 bộ chứng từ) = Tối đa $500
+	F002 - Chứng chỉ tiền gửi có kỳ hạn -> Phần trị giá L/C được bảo đảm bằng Tài khoản có Kỳ Hạn hoặc Chứng chỉ tiền gửi, Kỳ phiếu và các GTCG khác do VCB phát hành - $500
+	F041 - Điện SWIFT (phát hành thư tín dụng): $50/điện + Điện SWIFT cho việc sửa đổi lần 1 = $15
 
 - Tổng số tiền biểu phí và thuế VAT là:
-$(\$500 + \$20 + \$15 + \$5 + \$500 + \$500 + \$50) + 10\% = \$1,749$
+$(\$500 + \$15 + \$20 + \$15 + \$5 + \$500 + \$50) + 10\% = \$1.215,5$
 
 - Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng là:
-$\$350,000 + \$1,749 - \$107,518.1943382 = \$242,483.5556618 = 6,338,520,127.7\ \text{VNĐ}$
+$\$350.000 + \$1.249 - \$107.518,1943382 = \$241,983.5556618 = 6,338,520,127.7\ \text{VNĐ}$
 
 
