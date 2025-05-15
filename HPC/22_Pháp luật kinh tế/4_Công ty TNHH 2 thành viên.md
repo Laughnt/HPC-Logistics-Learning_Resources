@@ -16,3 +16,14 @@ Sửa đổi vốn điều lệ công ty.
 
 - Theo khoản 11 Điều 4 Luật Doanh nghiệp 2020, doanh nghiệp nhà nước **bao gồm các doanh nghiệp do Nhà nước nắm giữ trên 50% vốn điều lệ, tổng số cổ phần có quyền biểu quyết theo quy định tại Điều 88 Luật Doanh nghiệp 2020** -> Cty cổ phần.
 - DN do nhà nước nắm giữ 100% vđl -> cty TNHH 1 thành viên.
+>[!note]
+>Nhà nước 50%: 45% CP có quyền biểu quyết và 5% CP ưu đãi -> không phải cty nhà nước.
+>Agribank muốn giảm vốn điều lệ - họp tất cả những thành viên cho phép giảm vốn -> vốn được trả về ngân sách nhà nước.
+
+Về tư cách pháp lý:
+DN là tổ chức có tư cách pháp nhân, DN nhà nước phải có một văn bản là quyết định thành lập cơ quan nhà nước có thẩm quyền => thành lập.
+Về chế độ chịu trách nhiệm:
+Tài sản riêng (chiu jtrách nhiệm hữu hạn)
+## 6.3. Cơ cấu tổ chức
+- Công ty cổ phần.
+- Công ty TNHH 1 thành viên.
