@@ -97,3 +97,14 @@ A 1/1.68
 B 
 C
 > Lợi nhuận sẽ chia theo tỷ lệ vốn góp.
+
+# Câu 16:
+Tháng 08/2015, Bà Lan đừng ra kêu gọi đầu tư thành lập công ty TNHH Phương Dung có trụ sở tại đường bao gồm 4 thành viên: Bà Lan góp 35% vđl, Bà Phương góp 20% vđl, ông Hưng góp 15% vđl. bà Thương góp 30% vđl. Điều lệ công ty hoàn toàn phù hợp với luật doanh nghiệp 2020. 
+Sở kế hoạch và đầu tư đã cấp giấy chứng nhận ĐKDN. Theo thoả thuận, bà Lan là chủ tịch hội đồng thành viên, ông Hưng là giám đốc và là người đại diện pháp luật của công ty.
+
+Để thay đổi vđl của công ty, bà lan triệu tập hội đồng thành viên vào ngày 10/10/2020 theo đúng trình tự, tuy nhiên phiên họp chỉ có **Bà Lan, bà Phương, ông Hưng** tham dự. Quyết định được **Bà Lan, ông Hưng biểu quyết thông qua**.
+___
+Quyết định vđl được thông qua đã hợp lệ chưa, vì sao?
+Quyết định thông qua hợp lệ, **căn cứ vào điều 3 khoản 57 luật Doanh nghiệp 2020**
+35%+20% +15% = 70% > 65% -> hợp lệ.
+Quyết định sửa đổi vđl không hợp lệ: <70% căn cứ vào khoản b) điều 3 khoản 59 luật Doanh nghiệp 2020.
