@@ -27,3 +27,16 @@ Tài sản riêng (chiu jtrách nhiệm hữu hạn)
 ## 6.3. Cơ cấu tổ chức
 - Công ty cổ phần.
 - Công ty TNHH 1 thành viên.
+# 7. Công ty hợp danh 
+Có >= 2 thành viên là chủ sở hữu chung (không hạn chế thành viên góp vón), cùng kinh doanh trong cái tên chung.
+- Về vốn: vđl do các thành viên góp, thành viên hợp doanh và thành viên góp vốn phải góp đủ và đúng hạn số vốn đã cam kết -> không được phsat hành chứng khoán,
+- Về chế độ chịu trách nhiệm: Thành viên hợp danh phải chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty (chỉ chịu trách nhiệm về các khoản nợ của công ty trong phạm vi số vốn đã cam kết).
+- Về tư cách pháp lý: Có tư cách pháp nhân.
+>[!question] A = chủ doanh nghiệp chuyên kinh doanh nông sản
+>Anh A muốn thành lập DN tư nhân A có được không?
+>A muốn góp vốn để trở thành thành viên hợp danh và được các thành viên hợp danh khác của công ty này đồng ý.
+>A mua phần vốn góp trong công ty TNHH M cũng kinh doanh nông sản. 
+
+## III. Chế độ pháp lý về các chủ thể kinh doanh khác 
+## 3.1. Hợp tác xã, liên hiệp HTX.
+### 3.1.1. Hpợ tác xã. 
