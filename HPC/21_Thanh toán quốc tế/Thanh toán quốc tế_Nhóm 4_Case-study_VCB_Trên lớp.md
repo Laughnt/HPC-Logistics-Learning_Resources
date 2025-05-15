@@ -7,27 +7,27 @@
 Tìm tỷ giá ngân hàng. 
 Đi tìm biểu phí, thẻ tín dụng, thanh toán TT: https://www.mbbank.com.vn/ExchangeRate
 
-| Nhóm 4                   | Thanh |
-| ------------------------ | ----- |
-| HPC_Hà Xuân Nguyên       |       |
-| HPC_Nguyễn Duy Khánh     |       |
-| HPC_Nguyễn Thị Huyền Vy  |       |
-| HPC_Phạm Văn Tiến        |       |
-| HPC_Trần Nhật Minh       |       |
-| HPC_Phan Trung Nguyên    |       |
-| HPC_Nguyễn Xuân Hiệp     |       |
-| HPC_Trần Thị Khánh Huyền |       |
-| HPC_Nguyễn Thị Hà Vi     |       |
-| HPC_Nguyễn Tiến Dũng     |       |
+| Nhóm 4                   | Thành viên |
+| ------------------------ | ---------- |
+| HPC_Hà Xuân Nguyên       |            |
+| HPC_Nguyễn Duy Khánh     |            |
+| HPC_Nguyễn Thị Huyền Vy  |            |
+| HPC_Phạm Văn Tiến        |            |
+| HPC_Trần Nhật Minh       |            |
+| HPC_Phan Trung Nguyên    |            |
+| HPC_Nguyễn Xuân Hiệp     |            |
+| HPC_Trần Thị Khánh Huyền |            |
+| HPC_Nguyễn Thị Hà Vi     |            |
+| HPC_Nguyễn Tiến Dũng     |            |
 
 # Bài 1: 
 Mua 150.000 USD tại MB Bank cần [Tiền cần mua] * [Giá Bán ra (Chuyển khoản)] = 150.000 * 25,640.00 = 3.901.500.000 VNĐ
 ___
 Cty A có 15.000 EUR trong TK, nhưng cần thanh toán 25.000USD cho một HĐ.
-Tìm tỷ giá ngân hàng [Mua vào (Chuyển khoản)] = 15.000 ༝ 28,820.00 = 432.000.000 VNĐ
+Tìm tỷ giá ngân hàng [Mua vào (Chuyển khoản)] = 15.000 ༝ 28.820,00 = 432.000.000 VNĐ
 
 Tính số tiền VNĐ mà A sau khi bán EUR phải chuẩn bị thêm để mua được đủ số USD
-[Tiền cần mua] ༝ [Giá Bán ra (Chuyển khoản)] = 25.000USD ༝ 26,135.00= 653.375.000
+[Tiền cần mua] ༝ [Giá Bán ra (Chuyển khoản)] = 25.000USD ༝ 26.135,00= 653.375.000
 
 VNĐ còn thiếu: 653.375.000 - 432.000.000 = 221.375.000 VNĐ
 # Bài 2:
@@ -60,19 +60,19 @@ ____
 	= $ 55.921,5791286
 
 Từ đề bài, ta có:
-- Thanh toán nhờ thu chứng từ nhập khẩu gửi đi nước ngoài: **Tối đa $300**
-- Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và **thu thuế VAT** theo quy định của pháp luật hiện hành.
-- Phí ký hậu vận đơn: $15
-- Phí thông báo nhờ thu chứng từ nhập khẩu: $10
-- Ngân hàng Vietcombank quản lý hồ sơ trong 90 ngày (tính $ từ ngày thứ 60 trở đi): $5 ༝ **2 tháng** = $10
-- Phí điện SWIFT (ngoài nước): $15
+- E003 - Phí thông báo nhờ thu chứng từ nhập khẩu: $10
+- E007 - Thanh toán nhờ thu chứng từ nhập khẩu gửi đi nước ngoài: **Tối đa $300**
+- E012 - Ngân hàng Vietcombank quản lý hồ sơ trong 90 ngày (tính $ từ ngày thứ 60 trở đi) - Quản lý bộ chứng từ nhờ thu (trong trường hợp hồ sơ thanh toán nhiều lần hoặc quản lý quá 60 ngày kể từ ngày thông báo): $5 ༝ **2 tháng** = $10
+- E013 - Phí ký hậu vận đơn: $15
+- E023 - Phí điện SWIFT (ngoài nước): $15/điện
+Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và **thu thuế VAT** theo quy định của pháp luật hiện hành.
 
 >Do vậy:
 - ==Tổng số tiền USD công ty đang có== để thanh toán mua 200.000 USD và trả phí cho ngân hàng là:
 = Số USD mua được từ số AUD đang có + Số USD mua được từ số EUR đang có 
 = 62.798,5922497 + 55.921,5791286 = $118.720,171378
 - Số tiền USD công ty **cần chuẩn bị thêm** để thanh toán mua USD và trả phí cho ngân hàng là:
-= Số USD cần thanh toán + (Thanh toán nhờ thu gửi đi nước ngoài + Phí ký hậu vận đơn + Phí chuyển bằng USD + Ngân hàng quản lý hồ sơ trong 90 ngày) ༝ 10% VAT - Tổng số tiền USD công ty đang có
+= Số USD cần thanh toán + (Thanh toán nhờ thu gửi đi nước ngoài + Phí ký hậu vận đơn + Phí chuyển bằng USD + Ngân hàng quản lý hồ sơ trong 90 ngày) ༝ 10% VAT - Tổng số tiền USD công ty đang có:
 = 200.000 + ((300 + 15 + 10 + 15 + 10) + 10%) - 118.720,171378 
 = $ 81.664,828622
 = VNĐ ༝ ==US DOLLAR Selling Rates== 
@@ -98,26 +98,25 @@ Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh
 
 - Quy đổi ngoại tệ số tiền Euro công ty đang có, sang USD:
 = Số tiền Euro đang có ༝ ==EURO Buying Rates Transfer==
-= $80.000 \times 28,596.57 = 2.287.725.600\ \text{VNĐ}$
+= $80.000 \times 28.596,57 = 2.287.725.600\ \text{VNĐ}$
 = Số USD mua được ༝ ==US DOLLAR Selling Rates==
 
->Số USD mua được từ số Euro đang có là: $\frac{2.287.725.600}{26,140.00} = \$87,518.1943382$
+>Số USD mua được từ số Euro đang có là: $\frac{2.287.725.600}{26.140,00} = \$87.518,1943382$
 
 - Tổng số tiền USD công ty có là:
-$\$87,518.1943382 + \$20,000 = \$107,518.1943382$
+$\$87.518,1943382 + \$20.000 = \$107.518,1943382$
 
 - Từ đề bài, ta sử dụng các loại biểu phí:
-	F006 - Sửa đổi 1 lần -> Chi phí sửa đổi khác = $20/lần
-	F020 - Ký hậu vận đơn (trước khi chứng từ về ngân hàng) = $15/hậu vận đơn.
-	F015 - Ngân hàng cầm giữ hồ sơ trong 15 ngày -> Phí cầm giữ hồ sơ = $5/bộ/tháng.
-	F009 - Thanh toán thư tín dụng (1 bộ chứng từ) = Tối đa $500
 	F002 - Chứng chỉ tiền gửi có kỳ hạn -> Phần trị giá L/C được bảo đảm bằng Tài khoản có Kỳ Hạn hoặc Chứng chỉ tiền gửi, Kỳ phiếu và các GTCG khác do VCB phát hành - $500
-	F041 - Điện SWIFT (phát hành thư tín dụng): $50/điện + Điện SWIFT cho việc sửa đổi lần 1 = $15
+	F006 - Sửa đổi 1 lần -> Chi phí sửa đổi khác = $20/lần
+	F009 - Thanh toán thư tín dụng (1 bộ chứng từ) = Tối đa $500
+	F015 - Ngân hàng cầm giữ hồ sơ trong 15 ngày -> Phí cầm giữ hồ sơ = $5/bộ/tháng.
+	F020 - Ký hậu vận đơn (trước khi chứng từ về ngân hàng) = $15/hậu vận đơn.
+	F041 - **Điện SWIFT (phát hành thư tín dụng) & Điện SWIFT cho việc sửa đổi lần 1** = 2 lần $50/điện = $100
+Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và **thu thuế VAT** theo quy định của pháp luật hiện hành.
 
 - Tổng số tiền biểu phí và thuế VAT là:
-$(\$500 + \$15 + \$20 + \$15 + \$5 + \$500 + \$50) + 10\% = \$1.215,5$
-
+$(\$500 + \$20 + \$500 + \$5 + \$15 + \$100) + 10\% = \$1.254$
+___
 - Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng là:
-$\$350.000 + \$1.249 - \$107.518,1943382 = \$241,983.5556618 = 6,338,520,127.7\ \text{VNĐ}$
-
-
+$\$350.000 + \$1.254 - \$107.518,1943382 = \$243.735,805662 = 6.371.253.960\ \text{VNĐ}$
