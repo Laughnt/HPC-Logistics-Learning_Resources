@@ -39,4 +39,17 @@ Có >= 2 thành viên là chủ sở hữu chung (không hạn chế thành viê
 
 ## III. Chế độ pháp lý về các chủ thể kinh doanh khác 
 ## 3.1. Hợp tác xã, liên hiệp HTX.
-### 3.1.1. Hpợ tác xã. 
+### 3.1.1. Hợp tác xã. 
+
+Đặc điểm: Luật Hợp tác xã 2023
+- Có tư cách pháp nhân
+- Hoạt đông như doanh nghiệp 
+- Tổ chức kinh tế nhưng mang tính xã hội -> mang tính hợp tác -> không hướng tới lợi nhuận.
+- Vốn + Sức. 
+Cơ cấu tổ chức của hợp tác xã:
+![](https://bocauvietnam.com.vn/wp-content/uploads/2017/12/sodo-627x400.png)
+## 3.2. Hộ kinh doanh
+NĐ 01/2021/NĐ-CP về đăng ký doanh nghiệp.
+
+Chúng ta chỉ được chọn 1 tron 3 loại hình: hộ kinh doanh, công ty tư nhân, công ty hợp danh bởi vì chế độ chịu trách nhiệm khác nhau.
+## 3.3. Tổ hợp tác

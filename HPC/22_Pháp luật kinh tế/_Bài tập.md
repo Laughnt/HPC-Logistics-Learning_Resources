@@ -108,3 +108,8 @@ Quyết định vđl được thông qua đã hợp lệ chưa, vì sao?
 Quyết định thông qua hợp lệ, **căn cứ vào điều 3 khoản 57 luật Doanh nghiệp 2020**
 35%+20% +15% = 70% > 65% -> hợp lệ.
 Quyết định sửa đổi vđl không hợp lệ: <70% căn cứ vào khoản b) điều 3 khoản 59 luật Doanh nghiệp 2020.
+# Câu 17:
+Tháng 02/2024, A,B,C và công ty TNHH D cùng nhau góp vốn thành lập công ty TNHH X có trụ sở tại quận 2, HCM với tổng số vốn điều lệ là 18 tỷ, A (sinh viên vừa ra trường) góp 5 tỷ đồng, B (cán bộ tư pháp đã nghỉ hưu) góp 3 tỷ đồng bằng séc, C (người nước ngoài sinh sống ở Việt Nam) góp quyền sở hữu đối với nghiên cữu về giống cây trồng mới trị giá 2 tỷ đồng. Công ty TNHH D góp mảnh đất trị giá 8 tỷ đồng. Công ty dự định kinh doanh trong lĩnh vực chế biến nông sản.
+____
+a. Việc thành lập DN của các chủ thể trên có thể được thực hiện hay không? Vì sao?
+b. Giả sử vào 02/20
