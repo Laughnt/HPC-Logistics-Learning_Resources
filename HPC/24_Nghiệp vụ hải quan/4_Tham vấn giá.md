@@ -14,4 +14,10 @@ Hải Phòng phòng Thuế - Xuất nhập khẩu --> gửi giấy mời đại 
 >DN khai báo $25.000 theo nhà mua bán và cung cấp tại TQ, Tiếp nhận -> mức giá khai báo -> yêu cầu tham vấn giá -> giá tham chiếu $35.000.  Do hàng mua thanh lý do (nhà máy sửa đổi) nhưng DN chưa đưa được bằng chứng.
 - Phân tích tính huống: Vì sao yêu cầu tham vấn/DN có trách nhiệm gì trong buổi tham vấn?
 - Công ty đưa ra bằng chứng/tài liệu gì & cách thức phản biện để khai báo.
+Diễn dịch + Quy nạp. Phỏng vấn nên bám vào câu hỏi.
+Tìm thêm chứng từ L/C để chứng minh.
 - Nếu không chứng minh được, hậu quả gì?
+Không chấp nhận -> đóng thêm thuế & một tick đỏ trên hệ thống -> 10 lô lần sau đều vào luồng đỏ. 
+// Đại lý trung gian rất nhiều nơi nên mình có thể mua trực tiếp từ Singapoor 
+>[!question] Cty Đức Tín NK 1 lô máy nén khí công nghiệp từ Đức = 5 máy. 
+>Đóng trong 5 cont 20feet qua một cty trung gian tại Singapoor. Trị giá khai báo $40.000 theo hóa đơn của cty trung gian. Sau khi tiếp nhận hồ sơ -> tham vấn phát hiện tại nhà máy sản xuất tại Đức theo một hồ sơ chỉ là $28.000. Cty thông qua bên thứ 3 để tăng giá -> sai lệch
