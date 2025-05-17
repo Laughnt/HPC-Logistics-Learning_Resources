@@ -112,6 +112,6 @@ Quyết định sửa đổi vđl không hợp lệ: <70% căn cứ vào khoản
 Tháng 02/2024, A,B,C và công ty TNHH D cùng nhau góp vốn thành lập công ty TNHH X có trụ sở tại quận 2, HCM với tổng số vốn điều lệ là 18 tỷ, A (sinh viên vừa ra trường) góp 5 tỷ đồng, B (cán bộ tư pháp đã nghỉ hưu) góp 3 tỷ đồng bằng séc, C (người nước ngoài sinh sống ở Việt Nam) góp quyền sở hữu đối với nghiên cữu về giống cây trồng mới trị giá 2 tỷ đồng. Công ty TNHH D góp mảnh đất trị giá 8 tỷ đồng. Công ty dự định kinh doanh trong lĩnh vực chế biến nông sản.
 ____
 a. Việc thành lập DN của các chủ thể trên có thể được thực hiện hay không? Vì sao?
-b. Giả sử vào 02/2024, công ty TNHH X được sở kế hoạch đầu tư đã cấp giấy chứng nhận ĐKKD. Điều lệ hợp lệ, theo thủa thuận, B là chủ tị hội đồng thành viên/A llà giám đốc và là đại diện pháp luật của công ty. Đến ngày 05/05/2025, do mâu thuẫn với các thành viên khác trong công ty, C muốn tách ra để kinh doanh riêng. C đã triệu tập hội đồng thành viên. Tuy nhiên, chỉ có B,C,D tham dự/ Quyết định được D thông qua. 
+b. Giả sử vào 02/2024, công ty TNHH X được sở kế hoạch đầu tư đã cấp giấy chứng nhận ĐKKD. Điều lệ hợp lệ, theo thoả thuận, B là chủ tịch hội đồng thành viên/A là giám đốc và là đại diện pháp luật của công ty. Đến ngày 05/05/2025, do mâu thuẫn với các thành viên khác trong công ty, C muốn tách ra để kinh doanh riêng. C đã triệu tập hội đồng thành viên. Tuy nhiên, chỉ có B,C,D tham dự/ Quyết định được D thông qua. 
 
 Hỏi quyết định tách công ty được thông qua đã hợp lệ hay chưa? Vì sao?
