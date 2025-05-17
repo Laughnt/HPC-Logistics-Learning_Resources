@@ -34,3 +34,20 @@ Lý do: 2 chứng từ (nhập khẩu qua trung gian và mua trực tiếp từ 
 - Không có mối quan hệ nào đặc biệt giữa công ty gốc và nhà máy.
 - Cung cấp tài liệu/chứng từ chứng mình bản thân DN là công ty gốc.
 Chất lượng, thương hiệu, cung cầu thị trường, cấp độ thương mại, chính sách phân phối, phương thức vận tải, cách thức, bao bì đóng gói, vị thế đàm phán, mùa vụ tiêu dùng, kỹ thuật đàm phán.
+
+Hải quan bác bỏ trị giá hải quan -> làm công văn xin phép hoàn thuế. 
+
+- HQ đồng ý theo mức giá -> HQ thông báo giá trị hàng hóa -> khai bổ sung trong 5 ngày -> Thông quan hàng hóa theo quy định.
+- HQ không đồng ý -> HQ chưa đủ cơ sở bác bỏ trị giá -> HQ đưa lên cấp cao hơn để xử lý tham vấn để bổ sung theo luật quản lý thuế và thông tư hải quan (==Tham vấn nhiều lần==) -> người khai không đồng ý/DN mua của trung gian bị đắt. \
+- ==Tham vấn một lần== Thông tin dữ liệu để kiểm tra, xác định trị giá hải quan của hàng hóa xuất khẩu, nhập khẩu so với hàng hóa tương tự/giống hệ đã có kết quả tham vấn không thay đổi.
+# Chương 3: Thủ tục hải quan đối với một số loại hình kinh doanh đặc biệt
+## 3.1. Thủ tục hải quan đối với hàng hóa gia công dành cho thương nhân nước ngoài 
+- Chứng từ
+Hợp đồng gia công 
+Hợp đồng thuê kho, xưởng để thực hiện gia công.
+- Quy trình khai báo hàng hóa
+Khai báo tờ khai trên hệ thống theo bộ chứng từ 
+Tiến hành làm thủ tục thông quan hàng hóa theo phân luồng 
+- Thời gian xử lý hàng hóa 
+Thời gian nộp hồ sơ 15 ngày kể từ ngày đăng ký 
+Thời gian kiểm tra hồ sơL  chậm nhất 2 tiếng sau khi tiếp nhận
