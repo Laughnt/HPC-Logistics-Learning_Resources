@@ -20,4 +20,15 @@ Tìm thêm chứng từ L/C để chứng minh.
 Không chấp nhận -> đóng thêm thuế & một tick đỏ trên hệ thống -> 10 lô lần sau đều vào luồng đỏ. 
 // Đại lý trung gian rất nhiều nơi nên mình có thể mua trực tiếp từ Singapoor 
 >[!question] Cty Đức Tín NK 1 lô máy nén khí công nghiệp từ Đức = 5 máy. 
->Đóng trong 5 cont 20feet qua một cty trung gian tại Singapoor. Trị giá khai báo $40.000 theo hóa đơn của cty trung gian. Sau khi tiếp nhận hồ sơ -> tham vấn phát hiện tại nhà máy sản xuất tại Đức theo một hồ sơ chỉ là $28.000. Cty thông qua bên thứ 3 để tăng giá -> sai lệch
+>Đóng trong 5 cont 20feet qua một cty trung gian tại Singapore. Trị giá khai báo $40.000 theo hóa đơn của cty trung gian. Sau khi tiếp nhận hồ sơ -> tham vấn phát hiện tại nhà máy sản xuất tại Đức theo một hồ sơ chỉ là $28.000. Cty thông qua bên thứ 3 để tăng giá -> sai lệch bản chất giao dịch, ảnh hưởng trị giá tính thuế.
+>
+Phân tích -> vấn đề pháp lý -> trị giá khai báo có thể bị bác bỏ hay không.
+Nếu bản thân là DN, mình cần chuẩn bị gì để chứng minh giao dịch hợp pháp, khai báo là đúng, 
+
+**Vấn đề pháp lý: Trị giá khai báo có hợp pháp hay không.**
+Hàng vận chuyển từ Đức -> Singapore -> Hải Phòng.
+Lý do: 2 chứng từ (nhập khẩu qua trung gian và mua trực tiếp từ nhà máy) -> Nhập nhầm/Đính kèm sai tệp. 
+
+Rửa tiền; Che giấu mối quan hệ khác bên; Thuế thu nhập
+ 
+Chất lượng, thương hiệu, cung cầu thị trường, cấp độ thương mại, chính sách phân phối, phương thức vận tải, cách thức, bao bì đóng gói, vị thế đàm phán, mùa vụ tiêu dùng, kỹ thuật đàm phán.
