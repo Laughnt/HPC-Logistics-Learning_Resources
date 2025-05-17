@@ -28,7 +28,9 @@ Nếu bản thân là DN, mình cần chuẩn bị gì để chứng minh giao d
 **Vấn đề pháp lý: Trị giá khai báo có hợp pháp hay không.**
 Hàng vận chuyển từ Đức -> Singapore -> Hải Phòng.
 Lý do: 2 chứng từ (nhập khẩu qua trung gian và mua trực tiếp từ nhà máy) -> Nhập nhầm/Đính kèm sai tệp. 
-
-Rửa tiền; Che giấu mối quan hệ khác bên; Thuế thu nhập
- 
+>Rửa tiền; Che giấu mối quan hệ khác bên; Thuế thu nhập
+- Đây là hợp đồng mua bán của 2 bên, đây là giao dịch ==**độc lập** và có giá trị pháp lý==.
+- Bên trung gian thực sự có vai trò thương mại (SWIFT code)
+- Không có mối quan hệ nào đặc biệt giữa công ty gốc và nhà máy.
+- Cung cấp tài liệu/chứng từ chứng mình bản thân DN là công ty gốc.
 Chất lượng, thương hiệu, cung cầu thị trường, cấp độ thương mại, chính sách phân phối, phương thức vận tải, cách thức, bao bì đóng gói, vị thế đàm phán, mùa vụ tiêu dùng, kỹ thuật đàm phán.
