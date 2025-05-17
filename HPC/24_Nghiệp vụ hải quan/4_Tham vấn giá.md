@@ -13,6 +13,5 @@ Hải Phòng phòng Thuế - Xuất nhập khẩu --> gửi giấy mời đại 
 >[!question] Công ty Sao việt nhập khẩu thiết bị điện tử là lô hàng lẻ 85437090. 
 >DN khai báo $25.000 theo nhà mua bán và cung cấp tại TQ, Tiếp nhận -> mức giá khai báo -> yêu cầu tham vấn giá -> giá tham chiếu $35.000.  Do hàng mua thanh lý do (nhà máy sửa đổi) nhưng DN chưa đưa được bằng chứng.
 - Phân tích tính huống: Vì sao yêu cầu tham vấn/DN có trách nhiệm gì trong buổi tham vấn?
-
 - Công ty đưa ra bằng chứng/tài liệu gì & cách thức phản biện để khai báo.
 - Nếu không chứng minh được, hậu quả gì?
