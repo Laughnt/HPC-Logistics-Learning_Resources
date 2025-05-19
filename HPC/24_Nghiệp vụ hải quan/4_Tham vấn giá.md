@@ -48,6 +48,8 @@ Hợp đồng thuê kho, xưởng để thực hiện gia công.
 - Quy trình khai báo hàng hóa
 Khai báo tờ khai trên hệ thống theo bộ chứng từ 
 Tiến hành làm thủ tục thông quan hàng hóa theo phân luồng 
+>[!note] Nhập khẩu tại chỗ
+>Nhập khẩu hàng vào khu công nghiệp Quang Minh cần phải có tờ khai #&NKTC hoặc #XNKTC
 - Thời gian xử lý hàng hóa 
-Thời gian nộp hồ sơ 15 ngày kể từ ngày đăng ký 
-Thời gian kiểm tra hồ sơL  chậm nhất 2 tiếng sau khi tiếp nhận
+Thời gian nộp hồ sơ 15 ngày kể từ ngày đăng ký phụ thuộc theo kế hoạch của Hải quan
+Thời gian kiểm tra hồ sơ: chậm nhất 2 tiếng sau khi tiếp nhận
