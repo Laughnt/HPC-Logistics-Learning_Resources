@@ -107,16 +107,18 @@ Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh
 $\$87.518,1943382 + \$20.000 = \$107.518,1943382$
 
 - Từ đề bài, ta sử dụng các loại biểu phí:
+	F001 - Phần trị giá tình bằng tiền mặt: $10
 	F002 - Chứng chỉ tiền gửi có kỳ hạn -> Phần trị giá L/C được bảo đảm bằng Tài khoản có Kỳ Hạn hoặc Chứng chỉ tiền gửi, Kỳ phiếu và các GTCG khác do VCB phát hành - $500
 	F006 - Sửa đổi 1 lần -> Chi phí sửa đổi khác = $20/lần
-	F009 - Thanh toán thư tín dụng (1 bộ chứng từ) = Tối đa $500
+	F009 - Thanh toán thư tín dụng (1 bộ chứng từ) = $350.000 x 0.05% = $700 -> Tối đa $500
 	F015 - Ngân hàng cầm giữ hồ sơ trong 15 ngày -> Phí cầm giữ hồ sơ = $5/bộ/tháng.
 	F020 - Ký hậu vận đơn (trước khi chứng từ về ngân hàng) = $15/hậu vận đơn.
-	F041 - **Điện SWIFT (phát hành thư tín dụng) & Điện SWIFT cho việc sửa đổi lần 1** = 2 lần $50/điện = $100
+	F041 - **Điện SWIFT (phát hành thư tín dụng)**  = $50
+	F042 - Điện SWIFT cho việc sửa đổi lần 1 & Điện thanh toán = 2 lần $15/điện = $30
 Các mức phí quy định tại biểu phí chưa bao gồm thuế giá trị gia tăng (VAT). Khi thu phí dịch vụ, Vietcombank sẽ tính và **thu thuế VAT** theo quy định của pháp luật hiện hành.
 
 - Tổng số tiền biểu phí và thuế VAT là:
-$(\$500 + \$20 + \$500 + \$5 + \$15 + \$100) + 10\% = \$1.254$
-___
+$(\$10 + \$500 + \$20 + \$500 + \$5 + \$15 + \$50 + \$30) + 10\% = \$910,8$
+___ 
 - Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng là:
-$\$350.000 + \$1.254 - \$107.518,1943382 = \$243.735,805662 = 6.371.253.960\ \text{VNĐ}$
+$\$350.000 + \$910,8 - \$107.518,1943382 = \$243.735,805662 = 6.371.253.960\ \text{VNĐ}$
