@@ -28,3 +28,10 @@ Từ chối nhận hàng nếu bên bán giao hàng trước thời hạn đã t
 Kiểm tra hàng trước khi nhận 
 Trách nhiệm thuộc về người vận chuyển.
 Nghĩa vụ thanh toán tiền mua hàng và nhận hàng theo thỏa thuận. 
+### 2.2.3. Mua bán qua Sở giao dịch hàng hóa
+
+Một số nguồn luật nước ngoài là **Tập quán thương mại**.
+### 2.2.4. Hợp đồng mua bán hàng hóa quốc tế
+Là một dạng cụ thể của hợp đồng mua bán tài sản, là sự thỏa thuận giữa các trụ sở thương mại nằm trên lãnh thổ của nước ngoài, dưới các hình thức:
+	Xuất khẩu, nhập khẩu, tạm nhận, tái xuất, tạm xuất, tái nhập và chuyển khoản,
+> Phải thực hiện trên cơ sở hoặc văn bản có hình thức khác có giá trị pháp lý tương đương.
