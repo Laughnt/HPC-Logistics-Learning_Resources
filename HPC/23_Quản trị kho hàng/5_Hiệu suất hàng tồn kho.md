@@ -1,0 +1,2 @@
+Chỉ số  đo lường hiệu quả -> phát hiện ra xu hướng thay đổi của hoạt động kho
+EOQ (Economic Order Quantity) - số lượng hàng hóa cần đặt để tối đa hóa kinh tế trong kho, bao gồm chi phí lưu kho và chi phí đặt hàng).
