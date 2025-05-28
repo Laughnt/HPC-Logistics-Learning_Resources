@@ -122,4 +122,29 @@ $(\$10 + \$500 + \$20 + \$500 + \$5 + \$15 + \$50 + \$30) + 10\% = \$910,8$
 ___ 
 - Tính số tiền VNĐ mà công ty cần chuẩn bị để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng là:
 $\$350.000 + \$910,8 - \$107.518,1943382 - \$20.000 = \$219.735,805662 = 5.818.253.960\ \text{VNĐ}$
+# Câu 4:
+Ngân hàng Vietcombank ngày 21.05.2025 có mua bán ngoại tệ như sau:
+~~Mua 20.000 USD tiền mặt~~
+~~Mua 255.000 USD chuyển khoản~~
+~~Mua  60.000 GBP chuyển khoản~~
+Bán 20.000 USD tiền mặt
+Bán 200.000 USD chuyển khoản
+Bán 30.000GBP chuyển khoản
+
+Tính tổng số tiền ngân hàng đã bỏ ra mua ngoại tệ
+Tính tổng số tiền ngân hàng lãi trên ==số ngoại tệ đã bán==
+___
+Tiền chưa tiêu -> trong kho/quỹ ngân hàng. 
+Tồn đầu = 0 với lượng mua > lượng bán.
+- Tổng số tiền bỏ ra để mua NT:
+- Lãi trên số ngoại tệ đã bán:
+20.000 * (Selling Rates - Buying Rates) + 200.000 * (Selling Rates - Buying Rates) + 30.000 * (Selling Rates - Buying Rates)
+# Câu 5:
+
+ Công ty TNHH A  ký HĐ nhập hàng trị giá 280,000.00USD. Yêu cầu thanh toán bằng LC nhập khẩu trả ngay, giao hàng 1 lần  mở qua ngân hàng TMCP Vietcombank. KÝ QUỸ 70.000USD tại TK ký quỹ và phần còn lại bằng giấy tờ nhà đất. LC có sửa đổi 1 lần về ngày giao hàng chậm nhất.  Công ty đã có ký quỹ 70.000USD tại tài khoản ký quỹ.  Tài khoản công ty có 120.000AUD và 20.000EUR. Công ty có yêu cầu ngân hàng ký hậu vận đơn để lấy hàng trước khi bộ chứng từ thanh toán xuất trình tại ngân hàng. Thời gian cầm giữ hồ sơ của ngân hàng là 20 ngày. Bộ chứng từ có 1 lỗi sai sót, công ty A đã chấp nhận thanh toán và chấp nhận trả tiền phí sai sót bộ chứng từ, không thu của phí của bên nước ngoài. Ngân hàng thu phí bằng VNĐ. ngày 21/05/2025 phải thanh toán với nước ngoài. Thời gian từ lúc mở đến lúc thanh toán LC là 60 ngày
+
+> Tính tổng số tiền phí USD phải trả ngân hàng
+> Tính số tiền Việt mà Công ty cần chuẩn bị  để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng. Cty sẽ bán EUR và AUD mua USD đồng thời  dùng USD ký quỹ để thanh toán. Nếu biểu phí có 2 mức phí, lấy mức cao nhất.
+____
+
 Ký quỹ bằng tài sản nhà đất.
