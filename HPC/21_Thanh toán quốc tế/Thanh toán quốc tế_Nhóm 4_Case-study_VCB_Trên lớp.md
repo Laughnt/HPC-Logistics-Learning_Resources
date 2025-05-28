@@ -147,4 +147,13 @@ Tồn đầu = 0 với lượng mua > lượng bán.
 > Tính số tiền Việt mà Công ty cần chuẩn bị  để mua USD đủ thanh toán và trả phí, thuế cho ngân hàng. Cty sẽ bán EUR và AUD mua USD đồng thời  dùng USD ký quỹ để thanh toán. Nếu biểu phí có 2 mức phí, lấy mức cao nhất.
 ____
 
-Ký quỹ bằng tài sản nhà đất.
+
+| Các khoản biểu phí tín dụng                                                                                                                                                    |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| Ký quỹ bằng tài sản nhà đất $70.000<br>Giấy tờ thế chấp<br>Sửa đổi L/C<br>Sai sót L/C<br>Thanh toán L/C<br>Ký hậu B/L<br>Điện phí mở L/C<br>Điện phí khác<br>Phí quản lý hồ sơ |     |
+Tổng phí 
+Thuế
+> Tổng số tiền phải trả ngân hàng
+> Số tiền DN bán ngoại tệ
+> Số tiền USD phải mua 
+> Tổng số tiền VNĐ cần thêm
