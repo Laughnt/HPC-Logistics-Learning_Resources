@@ -35,3 +35,10 @@ Một số nguồn luật nước ngoài là **Tập quán thương mại**.
 Là một dạng cụ thể của hợp đồng mua bán tài sản, là sự thỏa thuận giữa các trụ sở thương mại nằm trên lãnh thổ của nước ngoài, dưới các hình thức:
 	Xuất khẩu, nhập khẩu, tạm nhận, tái xuất, tạm xuất, tái nhập và chuyển khoản,
 > Phải thực hiện trên cơ sở hoặc văn bản có hình thức khác có giá trị pháp lý tương đương.
+# 3. Hợp đồng dịch vụ
+## 3.1. Khái niệm hợp đồng dịch vụ
+Là sự thỏa thuận của các bên trong hoạt động thương mại gồm bên cung ứng DV và sử dụng DV. Căn cứ vào đố, bên cung ứng có nghĩa vụ thực hiện DV cho bên sử dụng dịch vụ và nhận thanh toán cho bên sử dụng dịch vụ có nghĩa vụ thanh toán cho bên cung ứng dịch vụ theo thỏa thuận.
+## 3.3. Quyền và  nghĩa vụ của các bên trong hợp đồng dịch vụ
+### 3.3.1. Nghĩa vụ
+- Bên cung ứng dịch vụ
+- Bên sử dụng dịch vụ
