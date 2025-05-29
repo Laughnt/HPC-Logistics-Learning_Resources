@@ -115,3 +115,14 @@ a. Việc thành lập DN của các chủ thể trên có thể được thực
 b. Giả sử vào 02/2024, công ty TNHH X được sở kế hoạch đầu tư đã cấp giấy chứng nhận ĐKKD. Điều lệ hợp lệ, theo thoả thuận, B là chủ tịch hội đồng thành viên/A là giám đốc và là đại diện pháp luật của công ty. Đến ngày 05/05/2025, do mâu thuẫn với các thành viên khác trong công ty, C muốn tách ra để kinh doanh riêng. C đã triệu tập hội đồng thành viên. Tuy nhiên, chỉ có B,C,D tham dự/ Quyết định được D thông qua. 
 
 Hỏi quyết định tách công ty được thông qua đã hợp lệ hay chưa? Vì sao?
+
+# Câu 18:
+Cty X b án cho DNTN A 100c với giá 4 tỷ. Thời hạn giao hàng 1/1/2021. 
+	Không giao đủ số lượng: thực hiện không đủ (bên bán)
+	Giao trễ ngày: thực hiện không đú (bên bán)
+	Không trả tiền: không thực hiện (bên mua)
+____
+Bên A yêu cầu B thực hiện đúng HĐ.
+Bên A tìm nhà cung cấp khác:
+	Nếu hàng chưa đủ, yêu cầu bên B thêm.
+	Nếu hàng đội giá, yêu cầu bên B thêm.

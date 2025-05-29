@@ -39,6 +39,21 @@ Là một dạng cụ thể của hợp đồng mua bán tài sản, là sự th
 ## 3.1. Khái niệm hợp đồng dịch vụ
 Là sự thỏa thuận của các bên trong hoạt động thương mại gồm bên cung ứng DV và sử dụng DV. Căn cứ vào đố, bên cung ứng có nghĩa vụ thực hiện DV cho bên sử dụng dịch vụ và nhận thanh toán cho bên sử dụng dịch vụ có nghĩa vụ thanh toán cho bên cung ứng dịch vụ theo thỏa thuận.
 ## 3.3. Quyền và  nghĩa vụ của các bên trong hợp đồng dịch vụ
-### 3.3.1. Nghĩa vụ
+### 3.3.1. 
+Nghĩa vụ
 - Bên cung ứng dịch vụ
 - Bên sử dụng dịch vụ
+Quyền:
+> Hợp đồng thương mại mang tính chất của hợp đồng dân sự.
+
+# 4. Vi phạm hợp đồng, các hình thức trách nhiệm pháp lý
+## 4.1 Khái niệm 
+Căn cứ theo khoản 12 Điều 3 [Luật Thương mại 2005](https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Thuong-mai-2005-36-2005-QH11-2633.aspx?anchor=dieu_3)
+	Thực hiện không đúng **nghĩa vụ**
+	Thực hiện không đầy đủ
+	Không thực hiện
+Căn cứ:
+	Hành vi
+	Có lỗi
+
+Trách nhiệm pháp lý:
