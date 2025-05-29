@@ -59,3 +59,7 @@ Căn cứ:
 - Trách nhiệm pháp lý:
 Căn cứ vào Điều 303 [Luật Thương mại 2005](https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Thuong-mai-2005-36-2005-QH11-2633.aspx?anchor=dieu_303)), Điều 294 [Luật Thương mại 2005](https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Thuong-mai-2005-36-2005-QH11-2633.aspx?anchor=dieu_294), 
 Chỉ cần chứng minh là có thiệt hại thực tế xảy ra là được xử lý.
+### 4.2.3. Phạt vi phạm
+Căn cứ áp dụng:
+	Có hành vi vi phạm hợp đồng
+	Thỏa thuận trước trong hợp đồng, không quá **8%** của hợp đồng.
