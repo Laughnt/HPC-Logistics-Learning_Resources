@@ -17,3 +17,13 @@ Lấy thông tin của các phòng ban -> Phân tích thị trường có nhữn
 e-RFI (Request For Information) yêu cầu NCC điền mẫu cung cấp thông tin. 
 # 3.3. Quản trị dự trữ trong TMĐT
 Dự trữ chu kỳ nhập xuất hàng và lựa hàng hóa & tính khó trong dự báo trong nhu cầu của dự trữ.
+
+- Sự cân bằng về mặt cung - cầu: Ở một số nước, mùa vụ rau củ cố định - yêu cầu nhu cầu tiêu thụ quanh năm, bắp cải ngon chỉ ở mùa đông.
+- Để làm giảm thiểu chi phí SX -> cần chuyên môn hóa. Làm một việc yêu cầu Multi Task, phân công mỗi người tập trung thực hiện công việc của mình => lợi ích như vậy làm phát sinh vấn đề chênh lệch giữa tiêu dùng và sản xuất. Trong TMĐT, mỗi một người đặt được một mặt hàng riêng biệt trong thời gian riêng biệt.
+- Biến động về nhu cầu của người tiêu dùng, tiếng nói công chúng, khôn ngoan hơn & sống trong thế giới hiện đại => quyền lực của khách hàng gia tăng -> vô hạn yêu cầu. 
+- Mùa vụ: Sales mạnh để kích cầu một đợt tiêu dùng mạnh trong năm, Black Friday /
+  1-1 Lazada.
+### 3.3.2. Phân loại & các chiến lược DT trong TMĐT
+### Các loại hàng dự trữ trong TMĐT
+- Hàng dự trữ phục vụ cho sản xuất: WIP 
+- Hàng hóa dự trữ giao dịch: 
