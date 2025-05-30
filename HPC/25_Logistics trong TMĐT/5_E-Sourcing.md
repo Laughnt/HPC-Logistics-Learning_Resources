@@ -16,4 +16,4 @@ Lấy thông tin của các phòng ban -> Phân tích thị trường có nhữn
 
 e-RFI (Request For Information) yêu cầu NCC điền mẫu cung cấp thông tin. 
 # 3.3. Quản trị dự trữ trong TMĐT
-2 tuần để chuẩn bị, nội dung.
+Dự trữ chu kỳ nhập xuất hàng và lựa hàng hóa & tính khó trong dự báo trong nhu cầu của dự trữ.
