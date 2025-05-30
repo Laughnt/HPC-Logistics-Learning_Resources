@@ -63,3 +63,22 @@ Chỉ cần chứng minh là có thiệt hại thực tế xảy ra là được
 Căn cứ áp dụng:
 	Có hành vi vi phạm hợp đồng
 	Thỏa thuận trước trong hợp đồng, không quá **8%** của hợp đồng.
+# Chương 4. Pháp luật về giải quyết tran hchấp trong kinh doanh và giải quyết các vụ việc cạnh tranh.
+# 1. Khái niệm và các hình thức giải quyết tranh chấp trong kinh doanh 
+## 1.1. Khái niệm 
+Là những mâu thuẫn bất đồng hay xung đột về quyền và nghĩa vụ giữa các bên trong quá trình thực hiện các hoạt động thương mại.
+- Đặc điểm 
+Tranh chấp kinh doanh là những mâu thuẫn bất đồng về quyền và nghĩa vụ các bên, bất đông phát sinh trong hoạt động thương mại. 
+Chủ thể: Ít nhất một bên là thương nhân. 
+- Các loại tranh chấp
+	Chủ thể kinh doanh -> mục đích lợi nhuận (HĐ TM)
+	Thành viên công ty ><  Người chưa phải thành viên -> chuyển nhượng vốn góp, cổ phần, cổ phiếu.
+	Công ty >< thành viên cty.
+	Quyền sở hữu trí thuệ, chuyển giao công nghệ ==có mục đích lợi nhuận==
+## 1.2. Các hình thức giải quyết tranh chấp
+Thương lượng 
+	Tự ngồi lại bàn bạc mà không cần những bên thứ 3.
+	Không có tính ràng buộc pháp lý -> phụ thuộc vào ý chí của các bên.
+Hòa giải
+Trọng tài thương mại
+Tòa án
